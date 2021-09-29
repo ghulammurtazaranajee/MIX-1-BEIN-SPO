@@ -1,144 +1,367 @@
 #EXTM3U
-#EXTINF:-1,beIN Sports 1 Premium HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/1
-#EXTINF:-1,beIN Sport 1 Premium SD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/2
-#EXTINF:-1,beIN Sport 2 Premium HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/3
-#EXTINF:-1,beIN Sport HD 5
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/9
-#EXTINF:-1,beIN Sport 2 Premium SD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/4
-#EXTINF:-1,beIN Sports 3 Premium HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/5
-#EXTINF:-1,beIN Sport 3 Premium SD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/6
-#EXTINF:-1,beIN Sports 4 HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/7
-#EXTINF:-1,beIN Sport SD 4
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/8
-#EXTINF:-1,beIN Sport SD 5
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/10
-#EXTINF:-1,beIN Sport SD 6
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/12
-#EXTINF:-1,beIN Sport HD 7
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/13
-#EXTINF:-1,beIN Sport SD 7
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/14
-#EXTINF:-1,beIN Sports 1 HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/15
-#EXTINF:-1,beIN Sports 2 HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/16
-#EXTINF:-1,beIN Sports 3 HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/17
-#EXTINF:-1,Bein Sports PR 1 Low
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/18
-#EXTINF:-1,Bein Sports PR 2 Low
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/19
-#EXTINF:-1,Bein Sports PR 3 Low
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/20
-#EXTINF:-1,beINSPORTS NBA
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/21
-#EXTINF:-1,bein sport News
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/22
-#EXTINF:-1,beIN Sports 1 SD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/23
-#EXTINF:-1,beIN Sports 2 SD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/24
-#EXTINF:-1,bein Sport 3 SD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/25
-#EXTINF:-1,beIN SPORTS PREMIUM1 HEVC
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/26
-#EXTINF:-1,beIN SPORTS PREMIUM2 HEVC
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/27
-#EXTINF:-1,beIN SPORTS PREMIUM3 HEVC
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/28
-#EXTINF:-1,beIN SPORTS1 H265
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/29
-#EXTINF:-1,beIN SPORTS2 H265
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/30
-#EXTINF:-1,beIN SPORTS3 H265
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/31
-#EXTINF:-1,beIN SPORTS4 H265
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/32
-#EXTINF:-1,Bein Extra HD1
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/33
-#EXTINF:-1,Bein Sports 2 XTRA
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/34
-#EXTINF:-1,beIN Sport HD 6
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/11
-#EXTINF:-1,beIN OnDemand
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/47
-#EXTINF:-1,beIN Drama
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/48
-#EXTINF:-1,BEIN BOX OFFICE 1
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/49
-#EXTINF:-1,OSN BOX OFFICE 1
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/50
-#EXTINF:-1,OSN BOX OFFICE 2
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/51
-#EXTINF:-1,OSN: Yahala HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/52
-#EXTINF:-1,OSN: Yahala 1 ALOLA HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/53
-#EXTINF:-1,OSN: Action HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/54
-#EXTINF:-1,OSN: ART Cinema HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/55
-#EXTINF:-1,osn Musalsalt 1
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/56
-#EXTINF:-1,OSN: Discovery HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/57
-#EXTINF:-1,OSN: ART Hekayat HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/58
-#EXTINF:-1,OSN: ART Hekayat 2 HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/59
-#EXTINF:-1,OSN: ART Aflam 1
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/60
-#EXTINF:-1,OSN: ART Aflam 2 HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/61
-#EXTINF:-1,BEIN: BEIN MOVIES 1 HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/62
-#EXTINF:-1,BEIN: BEIN MOVIES 2 HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/63
-#EXTINF:-1,BEIN: BEIN MOVIES 3 HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/64
-#EXTINF:-1,BEIN: BEIN MOVIES 4 HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/65
-#EXTINF:-1,SSC HD1
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/39
-#EXTINF:-1,SSC 1
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/40
-#EXTINF:-1,SSC 2
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/41
-#EXTINF:-1,SSC 3
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/42
-#EXTINF:-1,SSC 4
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/43
-#EXTINF:-1,SSC 5
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/44
-#EXTINF:-1,SSC 6 HD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/45
-#EXTINF:-1,SSC 7
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/46
-#EXTINF:-1,MBC 1
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/66
-#EXTINF:-1,MBC 3
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/68
-#EXTINF:-1,MBC 4
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/69
-#EXTINF:-1,MBC 5
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/70
-#EXTINF:-1,MBC + Drama
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/71
-#EXTINF:-1,MBC MASR
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/74
-#EXTINF:-1,MBC MASR2
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/75
-#EXTINF:-1,MBC BOLLYWOOD
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/76
-#EXTINF:-1,MBC IRAQ
-http://mo3ad.xyz:8080/mo3ad08/mo3ad08/77
+#EXTINF:-1,FOOT +24 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1022
+#EXTINF:-1,EQUIDIA LIVE HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/4595
+#EXTINF:-1,INFOSPORT + HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1021
+#EXTINF:-1,Eurosport 1 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/379
+#EXTINF:-1,Eurosport 2 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/378
+#EXTINF:-1,RMC SPORT 1 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1729
+#EXTINF:-1,RMC SPORT 2 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1728
+#EXTINF:-1,RMC SPORT 3 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1739
+#EXTINF:-1,BEINSPORT 1 SD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/7380
+#EXTINF:-1,beIN SPORTS 1 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/115
+#EXTINF:-1,beIN SPORTS 2 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/114
+#EXTINF:-1,beIN SPORTS 3 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/113
+#EXTINF:-1,BEINSPORT 4 MAX HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/2118
+#EXTINF:-1,beIN SPORTS  5 MAX HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/2119
+#EXTINF:-1,BEINSPORT MAX 8 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/7796
+#EXTINF:-1,BEINSPORT MAX 9 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/7797
+#EXTINF:-1,BEINSPORT MAX 10 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/7798
+#EXTINF:-1,EQUIPE 21 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/128717
+#EXTINF:-1,SEASONS HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/4594
+#EXTINF:-1,TREK HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1448
+#EXTINF:-1,HISTOIRE HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/2553
+#EXTINF:-1,ANIMAUX HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/99
+#EXTINF:-1,SCIENCES & VIE HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/27
+#EXTINF:-1,RMC DECOUVERTE HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/292
+#EXTINF:-1,CHASSE & PÊCHE HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/294
+#EXTINF:-1,AB MOTEURS HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/16616
+#EXTINF:-1,Planete + HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/24
+#EXTINF:-1,Planete + CI HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/30
+#EXTINF:-1,Nat Geographic HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/137
+#EXTINF:-1,DISCOVERY CHANNEL HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/231
+#EXTINF:-1,DISCOVERY SCIENCE HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/101
+#EXTINF:-1,DISCOVERY INVESTIGATION HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/16614
+#EXTINF:-1,PIWI HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/302
+#EXTINF:-1,Gulli HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/58
+#EXTINF:-1,BOING HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/4596
+#EXTINF:-1,CANAL J HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/297
+#EXTINF:-1,MANGAS HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/96
+#EXTINF:-1,GAME ONE HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1488
+#EXTINF:-1,BOOMERANG HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/97
+#EXTINF:-1,DISNEY CINEMA HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/57
+#EXTINF:-1,Nickelodeon HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1353
+#EXTINF:-1,Nickelodeon Junior HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/17776
+#EXTINF:-1,DISNEY JUNIOR HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1152
+#EXTINF:-1,DISNEY CHANNEL HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/7298
+#EXTINF:-1,Disney Channel HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/74
+#EXTINF:-1,DISNEY CHANNEL +1 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/7299
+#EXTINF:-1,TELETOON+1 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/128706
+#EXTINF:-1,NICKELODEON FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/128702
+#EXTINF:-1,CANAL + HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/148
+#EXTINF:-1,CANAL + SERIES HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/146
+#EXTINF:-1,CANAL + CINEMA HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/144
+#EXTINF:-1,CANAL + DECALE HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/147
+#EXTINF:-1,CANAL + SPORT HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/143
+#EXTINF:-1,CINE FX HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/4608
+#EXTINF:-1,CINE + POLAR+ FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/7794
+#EXTINF:-1,CINE + CLASSIC HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/138
+#EXTINF:-1,CINE + FRISSON HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/141
+#EXTINF:-1,CINE + PREMIER  HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/142
+#EXTINF:-1,CINE + FAMIZ HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1678
+#EXTINF:-1,CINE + EMOTION  HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1679
+#EXTINF:-1,OCS MAX HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/32
+#EXTINF:-1,OCS CITY HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/23
+#EXTINF:-1,OCS CHOC HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/33
+#EXTINF:-1,OCS GEANTS HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/200
+#EXTINF:-1,beIN OFFICE 1 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/391
+#EXTINF:-1,beIN OFFICE 3 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/393
+#EXTINF:-1,beIN OFFICE 5 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/395
+#EXTINF:-1,A la Carte 9 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/399
+#EXTINF:-1,A la carte 10 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/400
+#EXTINF:-1,OCS MAX FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/128689
+#EXTINF:-1,OCS CHOC FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/128688
+#EXTINF:-1,TCM CINEMA FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/128687
+#EXTINF:-1,13EME RUE FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38767
+#EXTINF:-1,ACTION FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38766
+#EXTINF:-1,ANIMAUX FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38833
+#EXTINF:-1,ARTE FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38771
+#EXTINF:-1,beIN SPORTS 1 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38816
+#EXTINF:-1,beIN SPORTS 10 MAX HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38828
+#EXTINF:-1,beIN SPORTS 2 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38817
+#EXTINF:-1,beIN SPORTS 3 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38818
+#EXTINF:-1,beIN SPORTS 9 MAX HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38827
+#EXTINF:-1,BFM BUSINESS FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38783
+#EXTINF:-1,BFM FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38780
+#EXTINF:-1,BOING FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38849
+#EXTINF:-1,BOOMERANG FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38855
+#EXTINF:-1,CANAL + CINEMA FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38865
+#EXTINF:-1,CANAL + DECALE FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38867
+#EXTINF:-1,CANAL + FAMILY FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38866
+#EXTINF:-1,CANAL + FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38864
+#EXTINF:-1,CANAL + SERIES FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38868
+#EXTINF:-1,CANAL + SPORT FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38869
+#EXTINF:-1,CANAL J FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38851
+#EXTINF:-1,CARTOON NETWORK FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38863
+#EXTINF:-1,CHASSE & PÊCHE FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38837
+#EXTINF:-1,CHERIE 25 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38772
+#EXTINF:-1,CINE + CLASSIC FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38875
+#EXTINF:-1,CINE + CLUB FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38874
+#EXTINF:-1,CINE + EMOTION FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38871
+#EXTINF:-1,CINE + FAMIZ FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38872
+#EXTINF:-1,CINE + FRISSON FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38873
+#EXTINF:-1,CINE + PREMIER FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38870
+#EXTINF:-1,CNEWS FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38773
+#EXTINF:-1,CSTAR FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38774
+#EXTINF:-1,DISCOVERY CHANNEL FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38844
+#EXTINF:-1,DISCOVERY FAMILY FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38845
+#EXTINF:-1,CLIQUE TV FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/128725
+#EXTINF:-1,USHUAIA FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/128699
+#EXTINF:-1,CRIME DISTRICT FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/128698
+#EXTINF:-1,VICELAND FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/128695
+#EXTINF:-1,DISNEY CHANNEL +1 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38862
+#EXTINF:-1,DISNEY JUNIOR FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38860
+#EXTINF:-1,E! ENTERTAINMENT FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38784
+#EXTINF:-1,EUROSPORT 1 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38791
+#EXTINF:-1,EUROSPORT 2 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38792
+#EXTINF:-1,FRANCE 3 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38763
+#EXTINF:-1,FRANCE 4 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38764
+#EXTINF:-1,GAME ONE +1 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38854
+#EXTINF:-1,GAME ONE FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38853
+#EXTINF:-1,GULLI FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38848
+#EXTINF:-1,HISTOIRE FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38831
+#EXTINF:-1,INFOSPORT + FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38790
+#EXTINF:-1,L'EQUIPE 21 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/45475
+#EXTINF:-1,LCP HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/45476
+#EXTINF:-1,MANGAS FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38852
+#EXTINF:-1,MCM FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38786
+#EXTINF:-1,M6 MUSIC FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/128723
+#EXTINF:-1,MTV FRANCE FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/128722
+#EXTINF:-1,NAT GEO WILD FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38841
+#EXTINF:-1,Nat Geographic FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38842
+#EXTINF:-1,NICKELODEON +1 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38857
+#EXTINF:-1,NICKELODEON 4 TEEN FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38858
+#EXTINF:-1,NICKELODEON JUNIOR FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38859
+#EXTINF:-1,NRJ HITS  FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38789
+#EXTINF:-1,OCS CITY FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38878
+#EXTINF:-1,OCS GEANTS FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38877
+#EXTINF:-1,PARAMOUNT CHANNEL FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38778
+#EXTINF:-1,PARAMOUNT DECALE FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38779
+#EXTINF:-1,PIWI+ FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38847
+#EXTINF:-1,PLANETE + A&E FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38839
+#EXTINF:-1,PLANETE + CI FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38840
+#EXTINF:-1,PLANETE + FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38838
+#EXTINF:-1,RMC DECOUVERTE FHD FR.
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38836
+#EXTINF:-1,GOLF+ FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/128720
+#EXTINF:-1,RMC SPORT 4 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38797
+#EXTINF:-1,RMC SPORT 4 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38798
+#EXTINF:-1,RMC SPORT 5 HD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38799
+#EXTINF:-1,RMC SPORT 6 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38802
+#EXTINF:-1,RMC SPORT LIVE 10 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38806
+#EXTINF:-1,RMC SPORT LIVE 5 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38801
+#EXTINF:-1,RMC SPORT LIVE 8 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38804
+#EXTINF:-1,RMC SPORT LIVE 9 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38805
+#EXTINF:-1,RTL9 FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38768
+#EXTINF:-1,SYFY FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38765
+#EXTINF:-1,TOUTE L'HISTOIRE FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38832
+#EXTINF:-1,TREK FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38830
+#EXTINF:-1,TV5 MONDE FHD FR
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/38785
+#EXTINF:-1,Das Erste FHD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/22238
+#EXTINF:-1,Das Erste HD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/7011
+#EXTINF:-1,ZDF FHD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/22237
+#EXTINF:-1,ZDF HD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1122
+#EXTINF:-1,ZDF Info HD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/6998
+#EXTINF:-1,ZDF Neo HD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/6997
+#EXTINF:-1,WDR HD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1123
+#EXTINF:-1,SAT 1 FHD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20666
+#EXTINF:-1,SAT 1 HD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1125
+#EXTINF:-1,SAT 1 Gold HD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/6990
+#EXTINF:-1,VOX FHD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20674
+#EXTINF:-1,VOX HD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1124
+#EXTINF:-1,RTL FHD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20665
+#EXTINF:-1,RTL 2 FHD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20664
+#EXTINF:-1,RTL 2 HD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1127
+#EXTINF:-1,RTL plus HD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/7003
+#EXTINF:-1,RTL Nitro HD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/6987
+#EXTINF:-1,RTL Crime HD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/2627
+#EXTINF:-1,RTL Passion FHD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/22712
+#EXTINF:-1,RTL Passion HD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/2626
+#EXTINF:-1,Super RTL HD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/7002
+#EXTINF:-1,Prosieben FHD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/20663
+#EXTINF:-1,Kabel Eins FHD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/22708
+#EXTINF:-1,Kabel Eins HD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1132
+#EXTINF:-1,Arte HD (DE)
+http://iptv.iptivihd.com:8888/VisionTV352678ZZz@/A8dg4Adf6qxcwA1g6xfsFZEZZZ919/1134
+
 #EXTINF:-1,AL HOKAIR Group TV (576p)
 http://82.212.74.3:8000/live/7513.m3u8
 #EXTINF:-1,Al Quran Al Kareem TV (Mecca) (720p)
