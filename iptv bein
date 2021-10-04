@@ -104,7 +104,6 @@ http://www.magicoiptv.org:8080/hasan/hasan123/13077
 http://www.magicoiptv.org:8080/hasan/hasan123/13067
 #EXTINF:-1,Bein Alkass 2 HD
 http://www.magicoiptv.org:8080/hasan/hasan123/13068
-
 #EXTINF:-1,AL HOKAIR Group TV (576p)
 http://82.212.74.3:8000/live/7513.m3u8
 #EXTINF:-1,Al Quran Al Kareem TV (Mecca) (720p)
@@ -193,8 +192,6 @@ https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1,Zee Alwan (720p)
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
-#EXTINF:-1,PK002:92 News
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31736
 #EXTINF:-1,PK003:8XM HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31735
 #EXTINF:-1,PK008:Aap News
@@ -217,8 +214,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31721
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31720
 #EXTINF:-1,PK019:Ary World
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31719
-#EXTINF:-1,PK022:ATV
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31716
 #EXTINF:-1,PK026:Bol Entertainment HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31712
 #EXTINF:-1,PK027:BOL NEWS HD
@@ -263,22 +258,16 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31668
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31665
 #EXTINF:-1,PK074:KTN NEWS
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31664
-#EXTINF:-1,PK075:KTN TV
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31663
 #EXTINF:-1,PK077:Madni Channel UK
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31661
 #EXTINF:-1,PK082:King
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31656
 #EXTINF:-1,PK088:PEACE TV URDU
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31650
-#EXTINF:-1,PK089:ARY Zaiqa
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31649
 #EXTINF:-1,PK090:Raavi Films
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31648
 #EXTINF:-1,PK093:PTV HOME SD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31645
-#EXTINF:-1,PK094:PTV National
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31644
 #EXTINF:-1,PK095:PTV NEWS
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31643
 #EXTINF:-1,PK096:Stage Drama
@@ -311,8 +300,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31614
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31613
 #EXTINF:-1,PK127:Zindgai TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31611
-#EXTINF:-1,PK129:Z9TV Digital Canda
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/31609
 #EXTINF:-1,|FR| TMC FHD
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/26374
 #EXTINF:-1,|FR| W9 FHD
@@ -327,8 +314,6 @@ http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/26378
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/26381
 #EXTINF:-1,|FR| TV5 MONDE FHD
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/26382
-#EXTINF:-1,|FR| OKLM FHD
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/36195
 #EXTINF:-1,NETFLIX: ACTION
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/35638
 #EXTINF:-1,NETFLIX: DRAMA
@@ -347,8 +332,6 @@ http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/83150
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/83149
 #EXTINF:-1,|DE| RTL 4K ULTRA
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/91415
-#EXTINF:-1,DIGI 4K UHD
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/91414
 #EXTINF:-1,MOVISTAR F1 UHD
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/83155
 #EXTINF:-1,SPORT TV 4K UHD
@@ -359,8 +342,6 @@ http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/83146
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/83154
 #EXTINF:-1,NASA UHD
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/83156
-#EXTINF:-1,|ENF-KIDS| DISNEY JUNIOR HD
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/27014
 #EXTINF:-1,|ENF-KIDS| DISNEY JUNIOR SD
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/26995
 #EXTINF:-1,|ENF-KIDS| DISNEY JUNIOR FHD
@@ -415,8 +396,6 @@ http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/27011
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/27032
 #EXTINF:-1,|ENF-KIDS| CARTOON NETWORK HD
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/27017
-#EXTINF:-1,|ENF-KIDS| CARTOON NETWORK SD
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/26996
 #EXTINF:-1,|ENF-KIDS| CARTOON NETWORK FHD
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/27047
 #EXTINF:-1,|ENF-KIDS| NICKELODEON HD
@@ -451,8 +430,6 @@ http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/27022
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/27029
 #EXTINF:-1,|ENF-KIDS| MANGAS HD
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/27010
-#EXTINF:-1,|ENF-KIDS| MANGAS FHD
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/27036
 #EXTINF:-1,|ENF-KIDS| GAME ONE HD
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/27012
 #EXTINF:-1,|ENF-KIDS| SCIENCES VIE HD
@@ -617,8 +594,6 @@ http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/28151
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/28149
 #EXTINF:-1,TELEMAROC
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/28189
-#EXTINF:-1,CANAL ATLAS
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/28188
 #EXTINF:-1,TUNISIA 1
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/28145
 #EXTINF:-1,TUNISIA 2
@@ -669,8 +644,6 @@ http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/12880
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/12881
 #EXTINF:-1,FIX FOXI
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/12891
-#EXTINF:-1,FIGHT BOX HD
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/12895
 #EXTINF:-1,DISCOVERY CH HD
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/12898
 #EXTINF:-1,NAT GEO KIDS HD
@@ -739,8 +712,6 @@ http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/43342
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/43343
 #EXTINF:-1,beINSport habber HD
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/43345
-#EXTINF:-1,beINSports Max 1 HD
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/43347
 #EXTINF:-1,beINSports Max 2 HD
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/43349
 #EXTINF:-1,A Spor HD
@@ -789,8 +760,6 @@ http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/43383
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/43384
 #EXTINF:-1,TRT Belgesel HD
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/43387
-#EXTINF:-1,TRT World
-http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/43388
 #EXTINF:-1,Animal Planet HD
 http://m3u.rapid-ott.com:8080/3143263594476672/2598854265/43389
 #EXTINF:-1,Discovery Channel
@@ -2193,8 +2162,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50109
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50107
 #EXTINF:-1,IR009:Irib 3
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50106
-#EXTINF:-1,IR010:ITN TV
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50105
 #EXTINF:-1,IR013:Radio Javan
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50102
 #EXTINF:-1,IR017:Ayeneh TV
@@ -2211,8 +2178,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50088
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50081
 #EXTINF:-1,IR038:GEM Food
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50077
-#EXTINF:-1,IR045:Ganje Hozoor
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50070
 #EXTINF:-1,IR048:Radio Farda
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50067
 #EXTINF:-1,IR101:Payame Aramesh
@@ -2225,8 +2190,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50004
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50129
 #EXTINF:-1,PH002:ANC | HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50128
-#EXTINF:-1,PH003:CNN PH | HD
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50127
 #EXTINF:-1,PH004:GMA LIFE | HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50126
 #EXTINF:-1,PH005:GMA NEWS INT | HD
@@ -2237,12 +2200,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50124
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50122
 #EXTINF:-1,PH010:MTV Asia
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50120
-#EXTINF:-1,PH011:Cinema One
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50119
-#EXTINF:-1,PH012:History
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50118
-#EXTINF:-1,PH013:History2
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50117
 #EXTINF:-1,PH015:TV5
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/49969
 #EXTINF:-1,AFG001:1TV AFGHAN
@@ -2263,12 +2220,8 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51597
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51595
 #EXTINF:-1,AFG021:Ariana International
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51594
-#EXTINF:-1,AFG023:OMID TV
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51592
 #EXTINF:-1,AFG024:BAHAR TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51591
-#EXTINF:-1,AFG025:IMAN TV
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51590
 #EXTINF:-1,AFG026:Business TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51589
 #EXTINF:-1,AFG027:Batur TV
@@ -2281,22 +2234,16 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51585
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51584
 #EXTINF:-1,AFG033:Negaah TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51582
-#EXTINF:-1,AFG034:Noor TV
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51581
 #EXTINF:-1,AFG035:PAMIR HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51580
 #EXTINF:-1,AFG036:Jahan Numa
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51579
 #EXTINF:-1,AFG037:SHAMSHAD TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51578
-#EXTINF:-1,AFG039:Tolo News HD
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51576
 #EXTINF:-1,AFG041:KAHYAN TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51574
 #EXTINF:-1,AFG042:Asr TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51573
-#EXTINF:-1,AFG045:Payam e Afghan
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51570
 #EXTINF:-1,AFG046:AFGHAN THEATRE TV HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51569
 #EXTINF:-1,AFG047:Zhwandoon
@@ -2371,8 +2318,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71026
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71029
 #EXTINF:-1,MY052:CHUTTI TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71030
-#EXTINF:-1,MY054:ZEE Tamil HD
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71032
 #EXTINF:-1,MY055:VINMEEN HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71033
 #EXTINF:-1,MY056:STAR VIJAY HD
@@ -2385,8 +2330,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71036
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71039
 #EXTINF:-1,MY072:TVBS ASIA HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71045
-#EXTINF:-1,MY073:CCM
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71046
 #EXTINF:-1,MY075:CCTV4 HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71047
 #EXTINF:-1,MY076:AOD 352 HD
@@ -2427,10 +2370,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71065
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71066
 #EXTINF:-1,MY095:BLOOMBERG TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71067
-#EXTINF:-1,MY096:ABC AUSTRALIA
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71068
-#EXTINF:-1,MY097:8TV
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71069
 #EXTINF:-1,MY098:NAT GEO HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71070
 #EXTINF:-1,MY099:DISCOVERY HD
@@ -2505,14 +2444,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71111
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71112
 #EXTINF:-1,MY141:FRANCE24 HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71113
-#EXTINF:-1,MY142:FOX Action Movies
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71114
-#EXTINF:-1,MY143:FOX HD
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71115
-#EXTINF:-1,MY144:FOX Family Movies
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71116
-#EXTINF:-1,MY145:Drama Sangat
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71117
 #EXTINF:-1,MY147:BBC Earth HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71119
 #EXTINF:-1,MY148:BBC Lifestyle
@@ -2525,8 +2456,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71123
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71124
 #EXTINF:-1,MY155:Dunia Sinema
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71127
-#EXTINF:-1,MY157:FOX Movies HD
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71129
 #EXTINF:-1,MY158:FX Cinema HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71130
 #EXTINF:-1,MY159:Jaya Max
@@ -2541,8 +2470,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71135
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71136
 #EXTINF:-1,MY166:Salaam HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71137
-#EXTINF:-1,MY168:SCM
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71138
 #EXTINF:-1,MY169:SETi Chinese
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/71139
 #EXTINF:-1,MY170:Sony SAB
@@ -2571,10 +2498,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51848
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51847
 #EXTINF:-1,JP014:関西テレビ
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/51843
-#EXTINF:-1,KOR029:SBS+
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60501
-#EXTINF:-1,KOR030:SBS Star
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60500
 #EXTINF:-1,KOR041:KBS World
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60487
 #EXTINF:-1,BD001:ATN BD
@@ -2587,8 +2510,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57883
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57882
 #EXTINF:-1,BD005:IQRA Bangla TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57881
-#EXTINF:-1,BD006:Digi
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57880
 #EXTINF:-1,BD007:NTV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/57879
 #EXTINF:-1,BD008:Somoy news
@@ -2635,8 +2556,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50056
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50055
 #EXTINF:-1,BD031:Gaan
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50054
-#EXTINF:-1,BD032:Gazi TV
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50053
 #EXTINF:-1,BD033:Jalsha Movies
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50052
 #EXTINF:-1,BD034:Jamuna tv
@@ -2651,12 +2570,8 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50048
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50047
 #EXTINF:-1,BD039:MOHONA TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/50046
-#EXTINF:-1,KU007:NRT4 TV
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59309
 #EXTINF:-1,KU008:Kurdistan TV FHD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59308
-#EXTINF:-1,KU009:WAAR TV
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59307
 #EXTINF:-1,KU010:NET TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59306
 #EXTINF:-1,KU012:IRAQ KUD
@@ -2665,8 +2580,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59304
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59303
 #EXTINF:-1,KU014:Kurdmax TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59302
-#EXTINF:-1,KU015:Kurdmax Show TV
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59301
 #EXTINF:-1,KU018:agros TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59298
 #EXTINF:-1,KU020:Ezidxan HD
@@ -2675,8 +2588,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59296
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59295
 #EXTINF:-1,KU026:TRT KUdi
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59290
-#EXTINF:-1,KU029:Zagros TV
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59287
 #EXTINF:-1,KU030:BASK
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59286
 #EXTINF:-1,KU032:KOG TV
@@ -2685,8 +2596,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59284
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59283
 #EXTINF:-1,KU035:Kurdistan Tv
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59281
-#EXTINF:-1,KU036:MMN Documentary
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59280
 #EXTINF:-1,KU037:KURDSAT HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59279
 #EXTINF:-1,KU038:Med Müzik
@@ -2699,8 +2608,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59276
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59273
 #EXTINF:-1,KU044:TV10
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/59272
-#EXTINF:-1,AU001:ABC Perth
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61063
 #EXTINF:-1,AU002:9 Rush Brisbane
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61064
 #EXTINF:-1,AU003:ABC Comedy Perth
@@ -2737,8 +2644,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61087
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61088
 #EXTINF:-1,AU027:Australia Channel
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61089
-#EXTINF:-1,AU028:ABC Comedy Melbourne
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61090
 #EXTINF:-1,AU029:ABC Melbourne
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61091
 #EXTINF:-1,AU030:10 Melbourne
@@ -2841,8 +2746,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61149
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61151
 #EXTINF:-1,AU090:Sky Racing 1
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61152
-#EXTINF:-1,AU091:Sky Racing 2
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61153
 #EXTINF:-1,AU092:Sky Thoroughbred Central
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61154
 #EXTINF:-1,AU094NITV Brisbane
@@ -2885,8 +2788,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61299
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61301
 #EXTINF:-1,TH030:Amarin TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61303
-#EXTINF:-1,TH037:Fox Sport 3 (EN)
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61308
 #EXTINF:-1,TH048:NBT TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61319
 #EXTINF:-1,TH051:Arirang
@@ -2991,8 +2892,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/52733
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/52720
 #EXTINF:-1,IL021:KAN 11
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/52713
-#EXTINF:-1,IL027:Yes 1 HD
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/52707
 #EXTINF:-1,IL034:Kan 11
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/52700
 #EXTINF:-1,IL036:Channel 13
@@ -3007,8 +2906,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61757
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61785
 #EXTINF:-1,IL085:YES SPORT 2 HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/61791
-#EXTINF:-1,IL011:YES ONE
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/52723
 #EXTINF:-1,IL019:YES Kids
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/52715
 #EXTINF:-1,IL035:YES MOVIES KIDS
@@ -3027,8 +2924,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/52630
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/52631
 #EXTINF:-1,ARM013:Horizon TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/65972
-#EXTINF:-1,HT002:Tele Hirondelle
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60274
 #EXTINF:-1,HT003:West Indies Live
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60273
 #EXTINF:-1,HT004:Tele Louange
@@ -3077,8 +2972,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60472
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60483
 #EXTINF:-1,ID031:HBO Signature
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60456
-#EXTINF:-1,ID032:Hits Movies
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60457
 #EXTINF:-1,ID033:MNC Entertainment
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60466
 #EXTINF:-1,ID034:iNews
@@ -3097,8 +2990,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60350
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60348
 #EXTINF:-1,ID043:Metro TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60347
-#EXTINF:-1,ID044:MTV Live
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60342
 #EXTINF:-1,ID046:NatGeo People
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60346
 #EXTINF:-1,ID047:NatGeo Wild
@@ -3137,8 +3028,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60284
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60478
 #EXTINF:-1,AT003:AUSTRIA 24 TV
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60469
-#EXTINF:-1,AT004:KABEL 1
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60468
 #EXTINF:-1,AT006:ORF 1
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/60460
 #EXTINF:-1,AT007:ORF 2
@@ -3181,16 +3070,12 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30987
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30981
 #EXTINF:-1,CZ010:CS FILM
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30979
-#EXTINF:-1,CZ011:ANIMAL PLANET
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30978
 #EXTINF:-1,CZ013:JOJ
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30975
 #EXTINF:-1,CZ019:Ocko Expres HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30969
 #EXTINF:-1,CZ020:Ocko Gold HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30967
-#EXTINF:-1,CZ021:AXN
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30966
 #EXTINF:-1,CZ024:Nova 2
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30962
 #EXTINF:-1,CZ026:Wau HD
@@ -3209,8 +3094,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30944
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30940
 #EXTINF:-1,CZ038:Spectrum HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30938
-#EXTINF:-1,CZ039:HBO 2 HD
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30934
 #EXTINF:-1,CZ040:HBO HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30932
 #EXTINF:-1,CZ041:CT2 HD
@@ -3221,8 +3104,6 @@ http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30929
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30927
 #EXTINF:-1,CZ046:NAT GEO HD
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30923
-#EXTINF:-1,CZ047:NAT GEO WILD HD
-http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30922
 #EXTINF:-1,CZ048:Šlágr
 http://f7.amarron.club:8880/kg14m3n0333/xcvz24656/30919
 #EXTINF:-1,CZ050:Šlágr 2
