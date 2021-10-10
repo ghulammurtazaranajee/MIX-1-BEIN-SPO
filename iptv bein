@@ -1,6 +1,17 @@
 #EXTM3U#
 
-
+#EXTINF:-1 ,Bein Premium 1 HD
+http://viewplayer.ip1v.com:25461/maan/test/22
+#EXTINF:-1 ,bein sports pr 2 HD
+http://viewplayer.ip1v.com:25461/maan/test/23
+#EXTINF:-1 ,bein sports pr 3 HD
+http://viewplayer.ip1v.com:25461/maan/test/24
+#EXTINF:-1 ,bein sports 1 HD
+http://viewplayer.ip1v.com:25461/maan/test/25
+#EXTINF:-1 ,bein sports 2 HD
+http://viewplayer.ip1v.com:25461/maan/test/26
+#EXTINF:-1 ,bein sports 3 HD
+http://viewplayer.ip1v.com:25461/maan/test/27
 #EXTINF:-1 ,4K-Sport PREMIUM 1
 http://www.magicoiptv.org:8080/hasan/hasan123/73125
 #EXTINF:-1 ,+4K-Sport PREMIUM 1
