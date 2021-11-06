@@ -2,14 +2,18 @@
 
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png",Makkah TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://aimages.willow.tv/newuiimgs/WillowHDLogo_Black_250x43.png",Willow HD
-http://nicefly.xyz:80/h21041003/651032140/246246
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://s4.gifyu.com/images/image300edab54d26e021.png",Sony Ten 1
-https://feed.play.mv/live/10005200/fMLTkj4OJC/master.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg",Sony Ten 2
-https://feed.play.mv/live/10005200/ONheoZY3w4/master.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/e0tD66l.png",Sony Six
-https://feed.play.mv/live/10005200/hr55LTnS53/master.m3u8
+#EXTINF:-1 group-title="sports" tvg-logo="https://1.bp.blogspot.com/-eZASEoCAOvc/YSt3aCXJNpI/AAAAAAAAA-Q/bUDbdeLcfzwEWlmqd8AebdoNfmn-yGn2gCLcBGAsYHQ/s200/images%252823%2529.jpeg",Sony Six
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
+#EXTINF:-1 group-title="sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Ten 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
+#EXTINF:-1 group-title="sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Ten 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
+#EXTINF:-1 group-title="sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
+#EXTINF:-1 group-title="sports" tvg-logo="https://i.imgur.com/3ibgIMV.png",Star Sports 1
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
+#EXTINF:-1 group-title="sports" tvg-logo="https://i.imgur.com/VcSPzlc.png",Star Sports 2
+http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/iMYdQAj.png",beIN Sport
 http://pyramidsiptv.com:8080/mohamed/mohamed1
 
