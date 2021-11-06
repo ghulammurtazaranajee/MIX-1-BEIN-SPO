@@ -1,5 +1,7 @@
-#EXTM3U#
+#EXTM3U
 
+#EXTINF:-1 group-title="MALAYSIA",WWE Network
+http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:-1,[TN]_TUNISIA NAT 1
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62454
 #EXTINF:-1,[TN]_TUNISIA NAT 1 TERRESTRE
