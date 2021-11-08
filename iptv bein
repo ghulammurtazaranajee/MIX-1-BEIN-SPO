@@ -131,6 +131,20 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62512
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62513
 #EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/jeem.png",[AR]_beIN JEEM HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62514
+#EXTINF:-1 group-title="BeIN_sports" tvg-logo="https://www.linkpicture.com/q/Logo_beIN_SPORTS_1_1.png",[AR]_beIN SPORTS 1 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62544
+#EXTINF:-1 group-title="BeIN_sports" tvg-logo="https://www.linkpicture.com/q/Logo_beIN_SPORTS_2.png",[AR]_beIN SPORTS 2 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62545
+#EXTINF:-1 group-title="BeIN_sports" tvg-logo="https://www.linkpicture.com/q/Logo_beIN_SPORTS_3.png",[AR]_beIN SPORTS 3 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62546
+#EXTINF:-1 group-title="BeIN_sports" tvg-logo="https://www.linkpicture.com/q/beINSPORTSHD4.png",[AR]_beIN SPORTS 4 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62547
+#EXTINF:-1 group-title="BeIN_sports" tvg-logo="https://www.linkpicture.com/q/5-HD.png",[AR]_beIN SPORTS 5 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62548
+#EXTINF:-1 group-title="BeIN_sports" tvg-logo="https://www.linkpicture.com/q/bin6.png",[AR]_beIN SPORTS 6 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62549
+#EXTINF:-1 group-title="BeIN_sports" tvg-logo="https://www.linkpicture.com/q/7_112.png",[AR]_beIN SPORTS 7 Hd
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62550
 #EXTINF:-1,[AR]_MBC VARIETY HEVC
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62515
 #EXTINF:-1,[AR]_beIN JUNIOR HD
@@ -188,21 +202,7 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62541
 #EXTINF:-1,[AR]_beIN SPORTS PREMIUM 2 HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62542
 #EXTINF:-1,[AR]_beIN SPORTS PREMIUM 3 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62543
-#EXTINF:-1,[AR]_beIN SPORTS 1 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62544
-#EXTINF:-1,[AR]_beIN SPORTS 2 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62545
-#EXTINF:-1,[AR]_beIN SPORTS 3 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62546
-#EXTINF:-1,[AR]_beIN SPORTS 4 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62547
-#EXTINF:-1,[AR]_beIN SPORTS 5 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62548
-#EXTINF:-1,[AR]_beIN SPORTS 6 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62549
-#EXTINF:-1,[AR]_beIN SPORTS 7 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62550
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/6254
 #EXTINF:-1,[AR]_beIN SPORTS PREMIUM 1 HQ
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62551
 #EXTINF:-1,[AR]_beIN SPORTS PREMIUM 2 HQ
