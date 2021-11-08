@@ -20,7 +20,7 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:-1,beIN Sports 2 HD EN (Sport)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6133/index.m3u8
-#EXTINF:-1,PREMIER SPORTS UK (Sport)
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/2560px-Premier_sports_logo_2018.svg.png",PREMIER SPORTS UK (Sport)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6555/index.m3u8
 #EXTINF:-1,EUROSPORT 2 HD UK (Sport)
 http://tvshare.ottrast.com/iptv/78XG22LZ2KPCEV/6556/index.m3u8
