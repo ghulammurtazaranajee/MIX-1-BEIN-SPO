@@ -86,52 +86,51 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62485
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62486
 #EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/mbc-dramahd.png",[AR]_MBC DRAMA
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62488
-
-#EXTINF:-1,[AR]_MBC DRAMA+ HD
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/Logo_MBC_Drama_1.png",[AR]_MBC DRAMA+ HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62490
-#EXTINF:-1,[AR]_MBC MASR 1 HD
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/MBC_Masr_Logo.png",[AR]_MBC MASR 1 HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62491
-#EXTINF:-1,[AR]_MBC MASR 2 HD
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/MBC_MASR_2.jpg",[AR]_MBC MASR 2 HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62492
-#EXTINF:-1,[AR]_MBC FM PANORAMA
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/Radio_Panorama_FM.jpg",[AR]_MBC FM PANORAMA
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62493
-#EXTINF:-1,[AR]_ROTANA CLIP
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/rotana-clip.png",[AR]_ROTANA CLIP
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62494
-#EXTINF:-1,[AR]_ROTANA CINEMA EGY
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/rotana-cinma.jpg",[AR]_ROTANA CINEMA EGY
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62496
-#EXTINF:-1,[AR]_ROTANA COMEDY
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/Rotana_Comedy_Logo.png",[AR]_ROTANA COMEDY
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62497
-#EXTINF:-1,[AR]_ROTANA DRAMA
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/rtan-drama.jpg",[AR]_ROTANA DRAMA
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62498
-#EXTINF:-1,[AR]_ROTANA CLASSIC
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/rotanaclcik.jpg",[AR]_ROTANA CLASSIC
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62499
-#EXTINF:-1,[AR]_ROTANA KHALIJIA
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/rotan-kajia.png",[AR]_ROTANA KHALIJIA
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62500
-#EXTINF:-1,[AR]_ROTANA KIDS HD
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/Rotana_Kids_Logo.png",[AR]_ROTANA KIDS HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62501
-#EXTINF:-1,[AR]_SIM SIM KIDS
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/simsim-kid.jpg",[AR]_SIM SIM KIDS
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62502
-#EXTINF:-1,[AR]_MIKEY TV
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/miky-tv.jpg",[AR]_MIKEY TV
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62503
-#EXTINF:-1,[AR]_Karameesh
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/karmash.png",[AR]_Karameesh
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62504
-#EXTINF:-1,[AR]_TAHA TV
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/tha-ha.jpg",[AR]_TAHA TV
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62505
-#EXTINF:-1,[AR]_SPACETOON
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/سبيستون.png",[AR]_SPACETOON
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62506
-#EXTINF:-1,[AR]_TOYOR AL JANAH BABY
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/tour-baby.jpg",[AR]_TOYOR AL JANAH BABY
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62508
-#EXTINF:-1,[AR]_TOYOR AL JANAH
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/tour-bajanah.jpg",[AR]_TOYOR AL JANAH
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62509
-#EXTINF:-1,[AR]_beIN_BOOMERANG
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/bin-bom.png",[AR]_beIN_BOOMERANG
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62510
-#EXTINF:-1,[AR]_MY-HD GULLI
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/guli_1.jpg",MY-HD GULLI
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62511
-#EXTINF:-1,[AR]_beIN BARAEM
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/Baraem_new_logo.png",[AR]_beIN BARAEM
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62512
-#EXTINF:-1,[AR]_beIN BARAEM 2
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/bb-2.png",[AR]_beIN BARAEM 2
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62513
-#EXTINF:-1,[AR]_beIN JEEM HD
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/jeem.png",[AR]_beIN JEEM HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62514
 #EXTINF:-1,[AR]_MBC VARIETY HEVC
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62515
