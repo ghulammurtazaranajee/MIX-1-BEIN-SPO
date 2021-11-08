@@ -145,6 +145,37 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62548
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62549
 #EXTINF:-1 group-title="BeIN_sports" tvg-logo="https://www.linkpicture.com/q/7_112.png",[AR]_beIN SPORTS 7 Hd
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62550
+
+
+#EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/PTV-HOME-Pakistan.png",PTV HOME
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65865
+#EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/hum-stary-png.png",Hum Sitaray
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65867
+#EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/92-news-png_1.png",92 News PK
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65868
+#EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/6mXVHY3X_1.png",Roze News
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65869
+#EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/BOL_News_logo.png",Bol News
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65875
+#EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/logo_65.png",Madani Channel
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65878
+#EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",Ptv Sport
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65879
+#EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/PTV-News-Logo.png",PTV News
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65880
+#EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/Masala_TV.png",HUM Masala
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65881
+#EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/News_One_Old.png",News One
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65882
+#EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/ARY_Qtv_logo.png",ARY QTV
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65883
+#EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/ary-news-logo-F2E62D53D8-seeklogo.com.png",ARY NEW
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65884
+#EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/pakistan-geo-news-ary-news-geo-tv-television-png-favpng-HRwYEucHPauAnFcveZ8cae191.jpg",Geo News
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65885
+#EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/png-clipart-geo-tv-geo-kahani-television-channel-geo-news-others-miscellaneous-television.png",Geo Kohani
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65886
+
 #EXTINF:-1,[AR]_MBC VARIETY HEVC
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62515
 #EXTINF:-1,[AR]_beIN JUNIOR HD
