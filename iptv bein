@@ -18,78 +18,75 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 
 #EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/images_88.png",WWE NETWORK
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
-#EXTINF:-1,[TN]_TUNISIA NAT 1
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/t1_1.png",TUNISIA NAT 1
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62454
-#EXTINF:-1,[TN]_TUNISIA NAT 1 TERRESTRE
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/tstr.png",TUNISIA NAT 1 TERRESTRE
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62455
-#EXTINF:-1,[TN]_TUNISIA NAT 2
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/download_200.jpg",TUNISIA NAT 2
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62456
-#EXTINF:-1,[TN]_EL HIWAR ETTOUNSI
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/ElhiwarEttounsiTV.png",EL HIWAR ETTOUNSI
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62457
-#EXTINF:-1,[TN]_EL HIWAR ETTOUNSI HD
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/ElhiwarEttounsiTV.png",EL HIWAR ETTOUNSI HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62458
-#EXTINF:-1,[TN]_ATTESSIA TV
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/download-1_90.jpg",ATTESSIA TV
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62459
-#EXTINF:-1,[TN]_NESSMA TV
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/download-2_47.jpg",NESSMA TV
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62460
-#EXTINF:-1,[TN]_HANNIBAL TV
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/HannibalTV.png",HANNIBAL TV
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62461
-#EXTINF:-1,[TN]_CARTHAGE+TV
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/download-3_36.jpg",CARTHAGE+TV
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62462
-#EXTINF:-1,[TN]_AL JANOUBIA
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/download_141.png",AL JANOUBIA
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62463
-#EXTINF:-1,[TN]_TELVZA TV
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/unnamed_62.png",TELVZA TV
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62464
-#EXTINF:-1,[TN]_M TUNISIA
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/download-1_7.png",M TUNISIA
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62465
-#EXTINF:-1,[TN]_TOUNESNA TV
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/download-4_4.jpg",TOUNESNA TV
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62466
-#EXTINF:-1,[TN]_AL MUSTAKILLAH TV
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/al-mustakillah.png",AL MUSTAKILLAH TV
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62467
-#EXTINF:-1,[TN]_ZAYTOUNA TV
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/download-2_1.png",ZAYTOUNA TV
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62468
-#EXTINF:-1,[TN]_NESSMA TV HD
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/download-2_48.jpg",NESSMA TV HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62469
-#EXTINF:-1,[TN]_AL INSEN TV
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/insan.png",AL INSEN TV
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62470
-#EXTINF:-1,[TN]_EVENT TV (Coronavirus World Map)
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/download-5_23.jpg",EVENT TV
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62471
-#EXTINF:-1,[TN]_SAHEL TV
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/zrxT6nli_400x400.png",SAHEL TV
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62472
-#EXTINF:-1,[AR]_MBC 1
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/MBC_1_Channel_Logo.png",[AR]_MBC 1
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62473
-#EXTINF:-1,[AR]_MBC 1 HD
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/MBC_1_Channel_Logo.png",[AR]_MBC 1 HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62474
-#EXTINF:-1,[AR]_MBC 2
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/mbc-2-logo.png",[AR]_MBC 2
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62475
-#EXTINF:-1,[AR]_MBC 2 HD
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/mbc-2-logo.png",[AR]_MBC 2 HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62476
-#EXTINF:-1,[AR]_MBC 3
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/480px-MBC_3.png",[AR]_MBC 3
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62477
-#EXTINF:-1,[AR]_MBC 3 HD
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/480px-MBC_3.png",[AR]_MBC 3 HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62478
-#EXTINF:-1,[AR]_MBC 4
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/mbc-4.png",[AR]_MBC 4
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62479
-#EXTINF:-1,[AR]_MBC 4 HD
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/mbc-4.png",[AR]_MBC 4 HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62480
-#EXTINF:-1,[AR]_MBC MAX
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/MBC_Max_logo.png",[AR]_MBC MAX
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62481
-#EXTINF:-1,[AR]_MBC MAX HD
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/MBC_Max_logo.png",[AR]_MBC MAX HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62482
-#EXTINF:-1,[AR]_MBC ACTION
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/download-7_4.jpg",[AR]_MBC ACTION
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62483
-#EXTINF:-1,[AR]_MBC ACTION HD
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/download-7_4.jpg",[AR]_MBC ACTION HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62484
-#EXTINF:-1,[AR]_MBC VARIETY HD
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/download_146.png",[AR]_MBC VARIETY HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62485
-#EXTINF:-1,[AR]_MBC BOLLYWOOD
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/bolwod-mbc.jpg",[AR]_MBC BOLLYWOOD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62486
-#EXTINF:-1,[AR]_MBC BOLLYWOOD HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62487
-#EXTINF:-1,[AR]_MBC DRAMA
+#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/mbc-dramahd.png",[AR]_MBC DRAMA
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62488
-#EXTINF:-1,[AR]_MBC DRAMA HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62489
+
 #EXTINF:-1,[AR]_MBC DRAMA+ HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62490
 #EXTINF:-1,[AR]_MBC MASR 1 HD
