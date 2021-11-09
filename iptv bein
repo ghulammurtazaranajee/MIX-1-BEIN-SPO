@@ -16,6 +16,18 @@ http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 #EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/images_88.png",WWE NETWORK
 http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
+#EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/WILO.jpg",Willow HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65688
+#EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/t1.jpg",TEN 1
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/64091
+#EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/Sony_Ten_1_HD.jpg",TEN 1 HD
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/64094
+#EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/stq.jpg",STAR SPORTS 1
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/64104
+#EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/st2.jpg",STAR SPORTS 2
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/64105
+#EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/s6_1.png",SONY SIX
+http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/64098
 
 #EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/t1_1.png",TUNISIA NAT 1
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62454
