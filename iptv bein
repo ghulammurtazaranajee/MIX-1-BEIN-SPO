@@ -704,8 +704,17 @@ http://iptv.tvmalaysia.cc/jalan8/jalan8/9022
 http://iptv.tvmalaysia.cc/jalan8/jalan8/9023
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/1M1Y4L5/resize.png",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-http://ns561850.ip-54-39-158.net:8080/karen123/karen123/16363
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80189
+
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/cQZdGc0.png",FilmRise Action
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/cQZdGc0.png",FilmRise Free Movies
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisefreemovies/CDN/playlist.m3u8?p=roku
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/cQZdGc0.png",FilmRise Sci-Fi
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmrisesci-fi/CDN/master.m3u8?p=roku
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.ibb.co/b3RzPzC/Hallmark-Movies-Mysteries.png",Hallmark movies
+https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/x0NowEh.png",MovieSphere
+https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,[AR]_MBC VARIETY HEVC
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62515
 #EXTINF:-1 ,[AR]_beIN JUNIOR HD
