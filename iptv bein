@@ -690,6 +690,21 @@ http://pyramidsiptv.com:8080/mohamed/mohamed123/80191
 #EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Nick-Toon-HD.jpg",OSN Nick Toon HD
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80190
 #EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Kids-Zone-HD.png",OSN Kids Zone HD
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1 ALT
+http://iptv.tvmalaysia.cc/jalan8/jalan8/9024
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2 ALT
+http://iptv.tvmalaysia.cc/jalan8/jalan8/9025
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3 ALT
+http://iptv.tvmalaysia.cc/jalan8/jalan8/9020
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4 ALT
+http://iptv.tvmalaysia.cc/jalan8/jalan8/9026
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vzCvGJY/premier-league-logo-CA81-C0-DA88-seeklogo-com.png",EPL LIVE 1
+http://iptv.tvmalaysia.cc/jalan8/jalan8/9022
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vzCvGJY/premier-league-logo-CA81-C0-DA88-seeklogo-com.png",EPL LIVE 2
+http://iptv.tvmalaysia.cc/jalan8/jalan8/9023
+#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/1M1Y4L5/resize.png",KBS World
+https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
+http://ns561850.ip-54-39-158.net:8080/karen123/karen123/16363
 http://pyramidsiptv.com:8080/mohamed/mohamed123/80189
 #EXTINF:-1 ,[AR]_MBC VARIETY HEVC
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62515
