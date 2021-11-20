@@ -1,10 +1,9 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png",Makkah TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
-#EXTINF:-1 group-title="sports" tvg-logo="https://1.bp.blogspot.com/-eZASEoCAOvc/YSt3aCXJNpI/AAAAAAAAA-Q/bUDbdeLcfzwEWlmqd8AebdoNfmn-yGn2gCLcBGAsYHQ/s200/images%252823%2529.jpeg",Sony Six
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/3404
 #EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/download_215.jpg",A Sports (pk)
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/png-clipart-logo-ptv-sports-television-channel-pakistan-cricket-television-text.png",Ptv Sport
@@ -27,8 +26,6 @@ http://50.7.161.82:8278/streams/d/wwe_pye/playlist.m3u8
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65688
 #EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/Sony_Ten_1_HD.jpg",TEN 1 HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/64094
-#EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/st2.jpg",STAR SPORTS 2
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/64105
 #EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/s6_1.png",SONY SIX
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/64098
 #EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/t1_1.png",TUNISIA NAT 1
@@ -59,8 +56,6 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62466
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62467
 #EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/download-2_1.png",ZAYTOUNA TV
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62468
-#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/download-2_48.jpg",NESSMA TV HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62469
 #EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/insan.png",AL INSEN TV
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62470
 #EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/download-5_23.jpg",EVENT TV
@@ -171,8 +166,6 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65875
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65878
 #EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/PTV-News-Logo.png",PTV News
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65880
-#EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/Masala_TV.png",HUM Masala
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65881
 #EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/News_One_Old.png",News One
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65882
 #EXTINF:-1 group-title="Pak_Tv" tvg-logo="https://www.linkpicture.com/q/ARY_Qtv_logo.png",ARY QTV
@@ -215,8 +208,6 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65662
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65669
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/Sony_PIX.png",Sony Pix
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65672
-#EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/ZEECFHD.png",Zee CafHD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65673
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/mxs_1.png",Sony Max2
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65679
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/ZEEHDC.png",ZEE CINEMA HD
@@ -225,8 +216,6 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65680
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65682
 #EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/STRP.jpg",Star Plus HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65686
-#EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/Logo_MBC_Drama.png",ZING
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65687
 #EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/Manoranjan_Movies.jpg",MANORANJAN MOVIES
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/65689
 #EXTINF:-1 group-title="Live" tvg-logo="https://www.linkpicture.com/q/B4UM.jpg",B4U movie
@@ -333,8 +322,6 @@ https://live.wmncdn.net/jantatv/live.stream/index.m3u8
 http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/Jonack.png",Jonack TV (360p) [Not 24/7]
 https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/4ZNf4dH3.png",Kanak News (720p) [Not 24/7]
-https://live.kanaknews.com:4443/live/stream/playlist.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/WRaWgBYY.png",Lok Sabha TV (576p) [Not 24/7]
 https://nicls1-lh.akamaihd.net/i/lst_1@26969/master.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/2BSvBGG.png",Manoranjan Grand (480p) [Not 24/7]
@@ -357,10 +344,6 @@ https://dammikartmp.tulix.tv/slrc3/slrc3/playlist.m3u8
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/ttt5.png",News 18 Assam (360p) [Not 24/7]
 https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/ttt5.png",News18 Bangla (360p) [Not 24/7]
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/ApY5STle.png",News 18 Bengali (360p) [Not 24/7]
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8?rebase=on&sd=10
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/ttt5.png",News 18 Chhattisgarh (360p)
 https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_4_av-p.m3u8?rebase=on&sd=10
 #EXTINF:-1 group-title="IN" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/VOLZkULy.png",News 18 Gujarati (360p)
@@ -417,8 +400,6 @@ http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/Zee_TV_logo.png",Zee TV (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
-#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://i.imgur.com/MRULdc8.png",beIN Sports 1
-http://88.barouhn.xyz.global.prod.fastly.net/live/91845457800/index.m3u8
 #EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://i.imgur.com/NDp6TlM.png",beIN Sports 2
 http://88.barouhn.xyz.global.prod.fastly.net/live/69854211/index.m3u8
 #EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://i.imgur.com/Lu26Yho.png",beIN Sports 4
@@ -435,8 +416,6 @@ http://5gtv.online:80/ORDpDdqkJc/xyVPZGeDIS/120401
 http://server.sibfungold.info:8080/live/gaicu84/Vv094Vv094wOlsHwOlsH/2296.ts
 #EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://i.imgur.com/uYcwFSD.png",beIN Sports Xtra 1
 http://88.barouhn.xyz.global.prod.fastly.net/live/9962564400/index.m3u8
-#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://i.imgur.com/Q9ACq0T.png",beIN Sports Xtra 2
-http://88.barouhn.xyz.global.prod.fastly.net/live/880025552/index.m3u8
 #EXTINF:-1 group-title="FRENCH SPORTS" tvg-logo="https://i.imgur.com/MRULdc8.png",beIN Sports 1
 http://88.barouhn.xyz.global.prod.fastly.net/live/33523510/index.m3u8
 #EXTINF:-1 group-title="FRENCH SPORTS" tvg-logo="https://i.imgur.com/NDp6TlM.png",beIN Sports 2
@@ -449,8 +428,6 @@ http://5gtv.online:80/ORDpDdqkJc/xyVPZGeDIS/120415
 http://5gtv.online:80/ORDpDdqkJc/xyVPZGeDIS/120414
 #EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://i.imgur.com/srteRe1.png",beIN Sports French 3
 http://5gtv.online:80/ORDpDdqkJc/xyVPZGeDIS/120413
-#EXTINF:-1 group-title="ARABIC SPORTS" tvg-logo="https://i.imgur.com/CwlNjXQ.png",beIN Sports Premium 1
-http://88.barouhn.xyz.global.prod.fastly.net/live/616165500/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/MRULdc8.png",beIN Sports 1
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6781/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NDp6TlM.png",beIN Sports 2
@@ -461,8 +438,6 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6820/index.m3u8
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6822/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/fBWCN2V.png",beIN Sports Haber
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2323/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/3d8sI1T.png",beIN Sports Max
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/37433
 #EXTINF:-1 group-title="AMERICAN SPORTS" tvg-logo="https://i.imgur.com/x8049OP.png",beIN Sports Xtra
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5df975e2b27cf5000921c102/master.m3u8?advertisingId=&appName=web&appVersion=unknown&appStoreUrl=&architecture=&buildVersion=&clientTime=0&deviceDNT=0&deviceId=1c82b290-7089-11eb-842e-ed7bad763363&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&sid=672c13ed-c11c-4ba2-b749-117f2f0aab45&userId=&serverSideAds=true
 #EXTINF:-1 group-title="AMERICAN SPORTS" tvg-logo="https://i.imgur.com/oGyeYgb.png",beIN Sports Xtra en Español
@@ -479,14 +454,10 @@ http://210.210.155.35/dr9445/h/h10/01.m3u8
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://htvc.vn/uploads/editor/images/logo%20htv%20the%20thao.png",HTV Th? Thao
 https://vips-livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
-#EXTINF:-1 group-title="AMERICAN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/NBA_TV.svg/800px-NBA_TV.svg.png",NBA TV
-https://nonton.site:8443/Athayamanja/SHFTZRKFrF/3099
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://i.imgur.com/JApkfiF.png",Tennis Channel International
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="NATIONAL SPORTS" tvg-logo="https://i.imgur.com/AcB6gDy.png",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
-#EXTINF:-1 group-title="NATIONAL SPORTS" tvg-logo="https://i.imgur.com/qXnQXkl.png",MNC Sports
-https://liveanevia.mncnow.id/live/eds/MNCsports-adaLiga1/sa_dash_vmx/MNCsports-adaLiga1.mpd
 #EXTINF:-1 group-title="NATIONAL SPORTS" tvg-logo="https://i.imgur.com/qXnQXkl.png",MNC Sports 2
 https://liveanevia.mncnow.id/live/eds/MNC-Sports2/sa_dash_vmx/MNC-Sports2.mpd
 #EXTINF:-1 group-title="NATIONAL SPORTS" tvg-logo="https://i.imgur.com/qXnQXkl.png",MNC Sports 3
@@ -497,8 +468,6 @@ https://skuysflix.tech/useess/chunklist.m3u8?id=useesport&bandwidth=default&sync
 https://skuysflix.tech/useess/chunklist.m3u8?id=useesports2&bandwidth=default&sync=0
 #EXTINF:-1 group-title="NATIONAL SPORTS" tvg-logo="https://i.imgur.com/cg1yMfi.png",TVRI Sport HD
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
-#EXTINF:-1 group-title="AMERICAN SPORTS" tvg-logo="https://i.imgur.com/lcpZ5CC.png",WWE Network
-http://iptv.jinggo-zone.ga:8278/streams/d/wwe_pye/playlist.m3u8
 #EXTINF:-1 group-title="BRITISH SPORTS" tvg-logo="https://i.imgur.com/sIIFREX.png",BT Sport 2
 http://93.152.174.144:4000/play/btsport2/index.m3u8
 #EXTINF:-1 group-title="BRITISH SPORTS" tvg-logo="https://i.imgur.com/YcrrywD.png",BT Sport ESPN
@@ -521,8 +490,6 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7324/index.m3u8
 http://s4.nihontv.net:21585/vtvcab3/index.m3u8
 #EXTINF:-1 group-title="AUSTRALIAN SPORTS" tvg-logo="https://i.imgur.com/zeywLXs.png",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
-#EXTINF:-1 group-title="AUSTRALIAN SPORTS" tvg-logo="https://i.imgur.com/IMAeAVz.jpg",Racing.com
-https://racingvic-i.akamaized.net/hls/live/598695/racingvic/1500.m3u8
 #EXTINF:-1 group-title="AUSTRALIAN SPORTS" tvg-logo="https://i.imgur.com/s2wciz8.png",Sky 1
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3u8
 #EXTINF:-1 group-title="AUSTRALIAN SPORTS" tvg-logo="https://i.imgur.com/BwFNwuH.png",Sky 2
@@ -607,89 +574,6 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62603
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62608
 #EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-MTV-LIVE-HD.png",[AR]_OSN MTV LIVE HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62609
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Yahala-HD.png",OSN Yahala HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80233
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Yahala-Oula-HD.jpg",OSN Yahala Oula HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80232
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Yahala-Cinema-HD.png",OSN Yahala Cinema HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80231
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/osn-series_1.png",OSN Series HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80230
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/action-osn.png",OSN Action HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80229
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Movies-HD.png",OSN Movies HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80228
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Movies-First-HD.jpg",OSN Movies First HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80227
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Movies-First-2-HD.png",OSN Movies First +2 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80226
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Movies-Disney-HD.png",OSN Movies Disney HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80225
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Enigma-HD_1.jpg",OSN Enigma HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80224
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/osn-kid.png",OSN Kids HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80223
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Series-First-HD.png",OSN Series First HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80222
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Series-Comedy-HD.png",OSN Series Comedy HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80221
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Star-Movies-HD.png",OSN Star Movies HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80220
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Star-World-HD.png",OSN Star World HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80219
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-TLC-HD.png",OSN TLC HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80218
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/crime-osn.png",OSN Crime HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80217
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Comedy-Central.png",OSN Comedy Central
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80216
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/e-enter.png",OSN E! HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80215
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Living-HD.png",OSN Living HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80214
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Alfa-AlFann-HD.png",OSN Alfa AlFann HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80212
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Alfa-Al-Safwa-HD.jpg",OSN Alfa Al Safwa HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80211
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Alfa-Alyoum-HD.jpg",OSN Alfa Alyoum HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80210
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Alfa-Cinema-1-HD.jpg",OSN Alfa Cinema 1 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80209
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Alfa-Cinema-2-HD.jpg",OSN Alfa Cinema 2 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80208
-#EXTINF:-1 group-title="OSN" tvg-logo="https://i.ibb.co/bsxtFMB/Mosalsalat.png",OSN Alfa Musalsalat HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80207
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/MN_1.jpg",OSN Alfa Music Now HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80205
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-News-HD.png",OSN News HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80204
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-History-HD.jpg",OSN History HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80203
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-H2-HD.jpg",OSN H2 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80202
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Nat-Geo-HD.png",OSN Nat Geo HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80201
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Nat-Geo-Wild-HD.png",OSN Nat Geo Wild HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80199
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Discovery-HD.jpg",OSN Discovery HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80198
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Discovery-ID-HD.jpg",OSN Discovery ID HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80197
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Discovery-SC-HD.png",OSN Discovery SC HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80196
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Disney-HD.jpg",OSN Disney HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80195
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Disney-Junior-HD.png",OSN Disney Junior HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80194
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Baby-HD.jpg",OSN Baby HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80193
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Nickelodeon-HD.png",OSN Nickelodeon HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80192
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Nick-Jr-HD.png",OSN Nick Jr HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80191
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Nick-Toon-HD.jpg",OSN Nick Toon HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80190
-#EXTINF:-1 group-title="OSN" tvg-logo="https://www.linkpicture.com/q/OSN-Kids-Zone-HD.png",OSN Kids Zone HD
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/811.png",SuperSport 1 ALT
 http://iptv.tvmalaysia.cc/jalan8/jalan8/9024
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2 ALT
@@ -698,13 +582,10 @@ http://iptv.tvmalaysia.cc/jalan8/jalan8/9025
 http://iptv.tvmalaysia.cc/jalan8/jalan8/9020
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4 ALT
 http://iptv.tvmalaysia.cc/jalan8/jalan8/9026
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vzCvGJY/premier-league-logo-CA81-C0-DA88-seeklogo-com.png",EPL LIVE 1
-http://iptv.tvmalaysia.cc/jalan8/jalan8/9022
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/vzCvGJY/premier-league-logo-CA81-C0-DA88-seeklogo-com.png",EPL LIVE 2
 http://iptv.tvmalaysia.cc/jalan8/jalan8/9023
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/1M1Y4L5/resize.png",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/cQZdGc0.png",FilmRise Action
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufilmriseaction/CDN/playlist.m3u8?p=roku
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/cQZdGc0.png",FilmRise Free Movies
@@ -849,8 +730,6 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62618
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62619
 #EXTINF:-1 ,[AR]_AD SPORTS 5 HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62620
-#EXTINF:-1 ,[AR]_ALKASS 1 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62621
 #EXTINF:-1 ,[AR]_ALKASS 2 HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62622
 #EXTINF:-1 ,[AR]_ALKASS 4 HD
@@ -1213,420 +1092,6 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62822
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62823
 #EXTINF:-1 ,[ALG]_BERBERE TELEVISION
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/62824
-#EXTINF:-1 ,beIN Sports Premium 01 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80034
-#EXTINF:-1 ,beIN Sports Premium 02 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80033
-#EXTINF:-1 ,beIN Sports Premium 03 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80032
-#EXTINF:-1 ,beIN Sports 01 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80031
-#EXTINF:-1 ,beIN Sports 02 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80030
-#EXTINF:-1 ,beIN Sports 03 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80029
-#EXTINF:-1 ,beIN Sports 04 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80028
-#EXTINF:-1 ,beIN Sports 05 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80027
-#EXTINF:-1 ,beIN Sports 06 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80026
-#EXTINF:-1 ,beIN Sports 07 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80025
-#EXTINF:-1 ,beIN Sports English 01 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80024
-#EXTINF:-1 ,beIN Sports English 02 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80023
-#EXTINF:-1 ,beIN Sports Premium 01 FHD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80020
-#EXTINF:-1 ,beIN Sports Premium 02 FHD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80019
-#EXTINF:-1 ,beIN Sports Premium 03 FHD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80018
-#EXTINF:-1 ,beIN Sports 01 FHD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80017
-#EXTINF:-1 ,beIN Sports 02 FHD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80016
-#EXTINF:-1 ,beIN Sports 03 FHD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80015
-#EXTINF:-1 ,beIN Sports 04 FHD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80014
-#EXTINF:-1 ,beIN Sports 05 FHD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80013
-#EXTINF:-1 ,beIN Sports 06 FHD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80012
-#EXTINF:-1 ,beIN Sports 07 FHD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80011
-#EXTINF:-1 ,beIN Sports English 01 FHD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80010
-#EXTINF:-1 ,beIN Sports English 02 FHD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80009
-#EXTINF:-1 ,beIN Sports Premium 01 HD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80106
-#EXTINF:-1 ,beIN Sports Premium 02 HD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80105
-#EXTINF:-1 ,beIN Sports Premium 03 HD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80104
-#EXTINF:-1 ,beIN Sports 01 HD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80103
-#EXTINF:-1 ,beIN Sports 02 HD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80102
-#EXTINF:-1 ,beIN Sports 03 HD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80101
-#EXTINF:-1 ,beIN Sports 04 HD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80100
-#EXTINF:-1 ,beIN Sports 05 HD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80099
-#EXTINF:-1 ,beIN Sports 06 HD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80098
-#EXTINF:-1 ,beIN Sports 07 HD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80097
-#EXTINF:-1 ,beIN Sports English 01 HD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80095
-#EXTINF:-1 ,beIN Sports English 02 HD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80094
-#EXTINF:-1 ,beIN Sports English 03 HD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80093
-#EXTINF:-1 ,beIN Sports French 01 HD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80092
-#EXTINF:-1 ,beIN Sports French 02 HD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80091
-#EXTINF:-1 ,beIN Sports NBA HD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80090
-#EXTINF:-1 ,beIN Sports Premium 01 4K [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80089
-#EXTINF:-1 ,beIN Sports Premium 02 4K [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80088
-#EXTINF:-1 ,beIN Sports Premium 03 4K [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80087
-#EXTINF:-1 ,beIN Sports 01 4K [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80086
-#EXTINF:-1 ,beIN Sports 02 4K [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80085
-#EXTINF:-1 ,beIN Sports 03 4K [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80084
-#EXTINF:-1 ,beIN Sports 04 4K [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80083
-#EXTINF:-1 ,beIN Sports 05 4K [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80082
-#EXTINF:-1 ,beIN Sports 06 4K [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80081
-#EXTINF:-1 ,beIN Sports 07 4K [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80080
-#EXTINF:-1 ,beIN Sports Premium 01 SD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80079
-#EXTINF:-1 ,beIN Sports 01 SD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80076
-#EXTINF:-1 ,beIN Sports 02 SD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80075
-#EXTINF:-1 ,beIN Sports 03 SD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80074
-#EXTINF:-1 ,beIN PORTS 04 SD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80073
-#EXTINF:-1 ,beIN PORTS 05 SD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80072
-#EXTINF:-1 ,beIN Sports 06 SD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80071
-#EXTINF:-1 ,beIN Sports 07 SD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80070
-#EXTINF:-1 ,beIN Sports English 01 SD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80069
-#EXTINF:-1 ,beIN Sports English 02 SD [VIP]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80068
-#EXTINF:-1 ,beIN Sports Premium 01 FHD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80139
-#EXTINF:-1 ,beIN Sports Premium 02 FHD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80138
-#EXTINF:-1 ,beIN Sports Premium 03 FHD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80137
-#EXTINF:-1 ,beIN Sports 01 FHD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80136
-#EXTINF:-1 ,beIN Sports 02 FHD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80135
-#EXTINF:-1 ,beIN Sports 03 FHD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80134
-#EXTINF:-1 ,beIN Sports 04 FHD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80133
-#EXTINF:-1 ,beIN Sports 05 FHD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80132
-#EXTINF:-1 ,beIN Sports 06 FHD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80131
-#EXTINF:-1 ,beIN Sports 07 FHD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80130
-#EXTINF:-1 ,beIN Sports Premium 01 HD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80129
-#EXTINF:-1 ,beIN Sports Premium 02 HD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80128
-#EXTINF:-1 ,beIN Sports Premium 03 HD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80127
-#EXTINF:-1 ,beIN Sports 01 HD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80126
-#EXTINF:-1 ,beIN Sports 02 HD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80125
-#EXTINF:-1 ,beIN Sports 03 HD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80124
-#EXTINF:-1 ,beIN Sports 04 HD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80123
-#EXTINF:-1 ,beIN Sports 05 HD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80122
-#EXTINF:-1 ,beIN Sports 06 HD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80121
-#EXTINF:-1 ,beIN Sports 07 HD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80120
-#EXTINF:-1 ,beIN Sports English 01 HD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80119
-#EXTINF:-1 ,beIN Sports English 02 HD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80118
-#EXTINF:-1 ,beIN Sports English 03 HD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80117
-#EXTINF:-1 ,beIN Sports Premium 01 SD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80116
-#EXTINF:-1 ,beIN Sports Premium 02 SD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80115
-#EXTINF:-1 ,beIN Sports Premium 03 SD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80114
-#EXTINF:-1 ,beIN Sports 01 SD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80113
-#EXTINF:-1 ,beIN Sports 02 SD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80112
-#EXTINF:-1 ,beIN Sports 03 SD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80111
-#EXTINF:-1 ,beIN Sports 04 SD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80110
-#EXTINF:-1 ,beIN Sports 05 SD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80109
-#EXTINF:-1 ,beIN Sports 06 SD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80108
-#EXTINF:-1 ,beIN Sports 07 SD [Gold]
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80107
-#EXTINF:-1 ,beIN Sports Premium 01 4K
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80051
-#EXTINF:-1 ,beIN Sports Premium 02 4K
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80050
-#EXTINF:-1 ,beIN Sports Premium 03 4K
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80049
-#EXTINF:-1 ,beIN Sports 01 4K
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80048
-#EXTINF:-1 ,beIN Sports 02 4K
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80047
-#EXTINF:-1 ,beIN Sports 03 4K
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80046
-#EXTINF:-1 ,beIN Sports 04 4K
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80045
-#EXTINF:-1 ,beIN Sports 05 4K
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80044
-#EXTINF:-1 ,beIN Sports 06 4K
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80043
-#EXTINF:-1 ,beIN Sports 07 4K
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80042
-#EXTINF:-1 ,beIN Sports English 01 4K
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80040
-#EXTINF:-1 ,beIN Sports English 02 4K
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80039
-#EXTINF:-1 ,beIN Sports English 03 4K
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80038
-#EXTINF:-1 ,beIN Sports French 01 4K
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80037
-#EXTINF:-1 ,beIN Sports French 02 4K
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80036
-#EXTINF:-1 ,beIN Sports NBA 4K
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80035
-#EXTINF:-1 ,beIN Sports Premium 01 HEVC
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80061
-#EXTINF:-1 ,beIN Sports Premium 02 HEVC
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80060
-#EXTINF:-1 ,beIN Sports Premium 03 HEVC
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80059
-#EXTINF:-1 ,beIN Sports 01 HEVC
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80058
-#EXTINF:-1 ,beIN Sports 02 HEVC
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80057
-#EXTINF:-1 ,beIN Sports 04 HEVC
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80055
-#EXTINF:-1 ,beIN Sports 05 HEVC
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80054
-#EXTINF:-1 ,beIN Sports 06 HEVC
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80053
-#EXTINF:-1 ,beIN Sports 07 HEVC
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80052
-#EXTINF:-1 ,Bein Sport Xtra 2 4K
-http://pyramidsiptv.com:8080/mohamed/mohamed123/97374
-#EXTINF:-1 ,Bein Sport Xtra 1 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/97373
-#EXTINF:-1 ,Bein Sport Xtra 2 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/97372
-#EXTINF:-1 ,Bein Sport Xtra 1 SD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/97371
-#EXTINF:-1 ,Bein Sport Xtra 2 SD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/97370
-#EXTINF:-1 ,beIN Sports Premium 01 Low
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80155
-#EXTINF:-1 ,beIN Sports Premium 02 Low
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80154
-#EXTINF:-1 ,beIN Sports Premium 03 Low
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80153
-#EXTINF:-1 ,beIN Sports 01 Low
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80152
-#EXTINF:-1 ,beIN Sports 02 Low
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80151
-#EXTINF:-1 ,beIN Sports 03 Low
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80150
-#EXTINF:-1 ,beIN Sports 04 Low
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80149
-#EXTINF:-1 ,beIN Sports 05 Low
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80148
-#EXTINF:-1 ,beIN Sports 06 Low
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80147
-#EXTINF:-1 ,beIN Sports 07 Low
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80146
-#EXTINF:-1 ,beIN Sports English 01 Low
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80144
-#EXTINF:-1 ,beIN Sports English 02 Low
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80143
-#EXTINF:-1 ,beIN Sports English 03 Low
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80142
-#EXTINF:-1 ,beIN Sports French 01 Low
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80141
-#EXTINF:-1 ,beIN Sports French 02 Low
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80140
-#EXTINF:-1 ,beIN Movies HD1
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80183
-#EXTINF:-1 ,beIN Movies HD2
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80182
-#EXTINF:-1 ,beIN Movies HD3
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80181
-#EXTINF:-1 ,beIN Movies HD4
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80180
-#EXTINF:-1 ,beIN Drama HD1
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80179
-#EXTINF:-1 ,beIN Series HD1
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80178
-#EXTINF:-1 ,beIN Series HD2
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80177
-#EXTINF:-1 ,beIN Fox Life HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80176
-#EXTINF:-1 ,beIN Fox Crime HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80175
-#EXTINF:-1 ,beIN Fox Rewayat HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80174
-#EXTINF:-1 ,beIN Fox Movies HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80173
-#EXTINF:-1 ,beIN Fox Action Movies HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80172
-#EXTINF:-1 ,beIN Star World HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80171
-#EXTINF:-1 ,beIN Star Movies HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80170
-#EXTINF:-1 ,beIN AMC HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80169
-#EXTINF:-1 ,beIN HGTV HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80168
-#EXTINF:-1 ,beIN Gourmet HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80167
-#EXTINF:-1 ,beIN Fatafeat
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80166
-#EXTINF:-1 ,beIN Food Network HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80165
-#EXTINF:-1 ,beIN OutDoor HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80164
-#EXTINF:-1 ,beIN Travel HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80163
-#EXTINF:-1 ,beIN BBC Earth HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80162
-#EXTINF:-1 ,beIN Nat Geo HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80160
-#EXTINF:-1 ,beIN Nat Geo People HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80159
-#EXTINF:-1 ,beIN Nat geo Wild HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80158
-#EXTINF:-1 ,beIN Baraem HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80157
-#EXTINF:-1 ,beIN Baby HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80156
-#EXTINF:-1 ,ART AFLAM 1
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80188
-#EXTINF:-1 ,ART AFLAM 2
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80187
-#EXTINF:-1 ,ART HEKAYAT
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80186
-#EXTINF:-1 ,ART HEKAYAT 2
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80185
-#EXTINF:-1 ,ART CINEMA
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80184
-#EXTINF:-1 ,MBC1 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80275
-#EXTINF:-1 ,MBC2 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80274
-#EXTINF:-1 ,MBC3 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80273
-#EXTINF:-1 ,MBC4 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80272
-#EXTINF:-1 ,MBC Drama HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80271
-#EXTINF:-1 ,MBC Action HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80270
-#EXTINF:-1 ,MBC Bollywood HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80269
-#EXTINF:-1 ,MBC Variety HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80268
-#EXTINF:-1 ,MBC Drama+ HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80266
-#EXTINF:-1 ,MBC Masir2 HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80265
-#EXTINF:-1 ,MBC MAX HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80264
-#EXTINF:-1 ,MBC Iraq HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80263
-#EXTINF:-1 ,MBC 1 SD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80262
-#EXTINF:-1 ,MBC 2 SD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80261
-#EXTINF:-1 ,MBC 3 SD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80260
-#EXTINF:-1 ,MBC 4 SD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80259
-#EXTINF:-1 ,MBC Bollywood SD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80258
-#EXTINF:-1 ,MBC Max SD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80257
-#EXTINF:-1 ,MBC Iraq SD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80256
-#EXTINF:-1 ,MBC Action SD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80255
-#EXTINF:-1 ,MBC Drama SD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80254
-#EXTINF:-1 ,FIGHT NETWORK HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80253
-#EXTINF:-1 ,Horse TV
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80252
-#EXTINF:-1 ,Reel PX Family HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80251
-#EXTINF:-1 ,Reel PX Comedy HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80250
-#EXTINF:-1 ,Reel PX Unlimited HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80249
-#EXTINF:-1 ,Reel PX Action HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80248
-#EXTINF:-1 ,Film Box HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80247
-#EXTINF:-1 ,Docubox HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80246
-#EXTINF:-1 ,Fight Box HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80245
-#EXTINF:-1 ,Reel PX Cinema HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80244
-#EXTINF:-1 ,Fix & Foxi
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80242
-#EXTINF:-1 ,Music always HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80241
-#EXTINF:-1 ,Planet Earth HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80240
-#EXTINF:-1 ,Laab wa Jad HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80239
-#EXTINF:-1 ,Documentary Bil Arabie
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80238
-#EXTINF:-1 ,Gulli Bil Arabie HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/80235
 #EXTINF:-1 ,[IT]_RAI 1 HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63176
 #EXTINF:-1 ,[IT]_RAI 2 HD
@@ -1661,8 +1126,6 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63190
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63191
 #EXTINF:-1 ,[IT]_NAT GEOGRAPHIC HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63192
-#EXTINF:-1 ,[IT]_FOX LIFE HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63193
 #EXTINF:-1 ,[IT]_FOX CRIME HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63194
 #EXTINF:-1 ,[IT]_SUPER!
@@ -1677,8 +1140,6 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63200
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63201
 #EXTINF:-1 ,[IT]_RADIO NORBA TV
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63202
-#EXTINF:-1 ,[IT]_RADIO ITALIA TREND
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63203
 #EXTINF:-1 ,[IT]_REAL TIME
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63204
 #EXTINF:-1 ,[IT]_Radio TV 105
@@ -1701,8 +1162,6 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63213
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63215
 #EXTINF:-1 ,[IT]_DISCOVERY NOVE HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63216
-#EXTINF:-1 ,[IT]_PREMIUM CINEMA 2 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63217
 #EXTINF:-1 ,[IT]_PREMIUM CINEMA 3 HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63218
 #EXTINF:-1 ,[IT]_PREMIUM CINEMA 1 HD
@@ -1711,8 +1170,6 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63219
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63220
 #EXTINF:-1 ,[IT]_FOOD NETWORK HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63222
-#EXTINF:-1 ,[IT]_DISNEY JUNIOR HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63224
 #EXTINF:-1 ,[IT]_RADIO ZETA HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63225
 #EXTINF:-1 ,[IT]_PREMIUM STORIES HD
@@ -1727,8 +1184,6 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63231
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63234
 #EXTINF:-1 ,[IT]_SUPER TENNIS HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63235
-#EXTINF:-1 ,[IT]_INTER CHANNEL HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63236
 #EXTINF:-1 ,[IT]_DISCOVERY CHANNEL HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63237
 #EXTINF:-1 ,[IT]_DISCOVERY FOCUS HD
@@ -1741,8 +1196,6 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63240
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63241
 #EXTINF:-1 ,[IT]_SKY UNO
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63242
-#EXTINF:-1 ,[IT]_CANALE 8
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63243
 #EXTINF:-1 ,[IT]_SKY CINEMA UNO HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63244
 #EXTINF:-1 ,[IT]_HGTV Italy HD
@@ -1773,18 +1226,12 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63259
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63261
 #EXTINF:-1 ,[IT]_SKY SPORT 252 HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63262
-#EXTINF:-1 ,[IT]_SKY SPORT 253 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63263
-#EXTINF:-1 ,[IT]_SKY SPORT 254 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63264
 #EXTINF:-1 ,[IT]_RAI GULP
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63266
 #EXTINF:-1 ,[IT]_DISCOVERY SCIENCE HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63267
 #EXTINF:-1 ,[IT]_RAI SPORT HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63268
-#EXTINF:-1 ,[IT]_SKY PRIMAFILA 1 HD
-http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63269
 #EXTINF:-1 ,[IT]_SKY PRIMAFILA 2 HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63270
 #EXTINF:-1 ,[IT]_SKY PRIMAFILA 6 HD
@@ -1793,16 +1240,6 @@ http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63272
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63273
 #EXTINF:-1 ,[IT]_SKY PRIMAFILA 5 HD
 http://tv.iptvforver.com:25461/BST7pEDqKM/GcvkE4EpaQ/63274
-#EXTINF:-1 ,Once Upon a Time S06 E03
-http://pyramidsiptv.com:8080/series/mohamed/mohamed123/52154.mp4
-#EXTINF:-1 ,USA : WILLOW CRICKET HD
-http://pyramidsiptv.com:8080/mohamed/mohamed123/67825
-#EXTINF:-1 ,SPORTS : WILLOW CRICKET EXTRA ( LIVE ON EVENTS )
-http://pyramidsiptv.com:8080/mohamed/mohamed123/67734
-#EXTINF:-1 ,AR:Waad-TV - وعد
-http://pyramidsiptv.com:8080/mohamed/mohamed123/78447
-#EXTINF:-1 ,Islamic Cartoon Kids
-http://pyramidsiptv.com:8080/mohamed/mohamed123/79110
 #EXTINF:-1 ,AL HOKAIR Group TV (576p)
 http://82.212.74.3:8000/live/7513.m3u8
 #EXTINF:-1 ,Al Quran Al Kareem TV (Mecca) (360p)
@@ -2023,8 +1460,6 @@ https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 ,Bloomberg TV+ (720p)
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
-#EXTINF:-1 ,Bluegrass Music 4U (360p)
-https://59d39900ebfb8.streamlock.net/blugrassmusic/blugrassmusic/playlist.m3u8
 #EXTINF:-1 ,bon app�tit (720p)
 https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Boston 25 News (WFXT) (720p)
@@ -2045,10 +1480,6 @@ https://0813a4e76b5d404a97a4070b8e087bc4.mediatailor.us-east-1.amazonaws.com/v1/
 https://content.uplynk.com/channel/7ad2b600b40b4a89933ab6981757f8b3.m3u8
 #EXTINF:-1 ,BUTV10 (Boston University) (1080p)
 http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 ,Buzzr (1080p)
-https://a.jsrdn.com/broadcast/ds80weh4/c.m3u8
-#EXTINF:-1 ,byu TV (720p)
-https://a.jsrdn.com/broadcast/d5b46/+0000/c.m3u8
 #EXTINF:-1 ,C-SPAN (108p)
 https://skystreams-lh.akamaihd.net/i/SkyC1_1@500806/master.m3u8
 #EXTINF:-1 ,C-SPAN 2 (108p)
@@ -2139,8 +1570,6 @@ https://cheddar-cheddar-3.roku.wurl.com/manifest/playlist.m3u8
 https://rpn1.bozztv.com/36bay2/gusa-chefchampion/mono.m3u8
 #EXTINF:-1 ,Chef Roc Show (720p)
 https://rpn1.bozztv.com/36bay2/gusa-chefrock/mono.m3u8
-#EXTINF:-1 ,Chive TV (720p)
-https://a.jsrdn.com/broadcast/4df1bf71c1/+0000/c.m3u8
 #EXTINF:-1 ,Choppertown (720p) [Not 24/7]
 https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8
 #EXTINF:-1 ,Christian Youth Channel (CYC) (1080p)
@@ -2243,14 +1672,10 @@ https://hncfree-klowdtv.amagi.tv/playlist.m3u8
 https://hncfree-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Holly Wire (720p)
 https://hollywire.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Hometalk (1080p)
-https://playworksdigital-hometalk-1.vizio.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Hope Channel International (1080p)
 https://hcintlinc.mmdlive.lldns.net/hcintlinc/60f14a7fec64454e90712421a46ac6f1/manifest.m3u8
 #EXTINF:-1 ,Hope Channel Norge (360p)
 http://media1.adventist.no:1935/live/hope1/playlist.m3u8
-#EXTINF:-1 ,Horizon Sports (720p)
-https://a.jsrdn.com/broadcast/20dc4269f3/+0000/c.m3u8
 #EXTINF:-1 ,Horror Machine (720p)
 https://linear-82.frequency.stream/dist/localnow/82/hls/master/playlist.m3u8
 #EXTINF:-1 ,Horse and Country (720p)
@@ -2269,8 +1694,6 @@ https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWindows/amagi_hls_data_xumo1212A-redboxhungry/CDN/playlist.m3u8
 #EXTINF:-1 ,IBN TV (360p)
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
-#EXTINF:-1 ,IDG (720p)
-https://a.jsrdn.com/broadcast/529a360c04/+0000/c.m3u8
 #EXTINF:-1 ,iFILM English
 https://live1.presstv.ir/live/ifilmen.m3u8
 #EXTINF:-1 ,iFood.TV (720p)
@@ -2501,12 +1924,8 @@ http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8
 https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
 #EXTINF:-1 ,MLB Network
 https://hlslive-akc-med1.media.mlb.com/ls01/mlbnetwork/NETWORK_LINEAR_1/master_wired.m3u8
-#EXTINF:-1 ,Movie Kingdom (720p)
-https://a.jsrdn.com/broadcast/e9b4093a41/+0000/c.m3u8
 #EXTINF:-1 ,MovieMix (720p)
 https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,MovieSphere (1080p)
-https://moviesphere-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,MSNBC (720p)
 http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
 #EXTINF:-1 ,MST3K (1080p)
@@ -2523,12 +1942,8 @@ https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf901280e3550009139c86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=475&terminate=false&userId=
 #EXTINF:-1 ,Mystery Science Theater 3000 (1080p)
 https://mst3k-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Mythos (720p)
-https://rpn1.bozztv.com/36bay2/gusa-mythos/playlist.m3u8
 #EXTINF:-1 ,MyTime movie network (Brazil) (720p)
 https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,myTV San Antonio TX (KCWX-TV) (240p)
-http://65.36.6.216:1935/live/kcwx.smil/chunklist_w1137540697_b350000_sleng.m3u8
 #EXTINF:-1 ,NACTV (720p)
 http://stream.pivotalelements.com/nactv/stream.m3u8
 #EXTINF:-1 ,NASA TV Media (720p)
@@ -2643,8 +2058,6 @@ http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a4
 http://stream.pardesitv.online/pardesi/index.m3u8
 #EXTINF:-1 ,Party Tyme Karaoke (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
-#EXTINF:-1 ,Pattrn (720p)
-https://csm-e-cetubiausw2live204-01130c4edc259e208.csm.tubi.video/csm/extlive/tubiprd01,Cloudfront-Pattrn.m3u8
 #EXTINF:-1 ,PBS 39 Allentown (WLVT) (720p)
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
 #EXTINF:-1 ,PBS 39 Extra Philadelphia (WPPT) (480p)
@@ -2661,8 +2074,6 @@ https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:-1 ,PCC-TV Pinellas County Florida (480p)
 http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8
-#EXTINF:-1 ,People TV (720p)
-https://csm-e-cetubiausw2live204-0d03c1c1e1332a1c7.csm.tubi.video/csm/live/241832244.m3u8
 #EXTINF:-1 ,People TV (1080p)
 https://d1qaz9zojo1ayt.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,Pinkfong Baby Shark (1080p)
@@ -2913,8 +2324,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f24662bebe0f00007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddbf866b1862a0009a0648e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ddbf866b1862a0009a0648e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=3a2ed1cd-e3a3-4fa3-bdbc-94e7363ca0cf&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Duck Dynasty (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f6b54b9e67cf60007d4cef1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 ,Pluto TV ESR 24/7 (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ca1e0ee50be2571e393ad33/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,Pluto TV ET Live (1080p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc0c78281eddb0009a02d5e/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5dc0c78281eddb0009a02d5e&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=190&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Explore (720p)
@@ -3481,8 +2890,6 @@ https://live.presstv.ir/liveprs/smil:liveprs/playlist.m3u8
 https://live1.presstv.ir/live/presstvfr/index.m3u8
 #EXTINF:-1 ,Prime Asia TV (720p)
 http://primeasia.dyndns.tv:8080/Live_web_250/index.m3u8
-#EXTINF:-1 ,Prime Time Drama (720p)
-https://rpn1.bozztv.com/36bay2/gusa-ptd/playlist.m3u8
 #EXTINF:-1 ,PTL TV Network (720p)
 https://morningside-lh.akamaihd.net/i/jblive_1@303354/master.m3u8
 #EXTINF:-1 ,Pursuit Up (720p)
@@ -3529,8 +2936,6 @@ https://lds-realstories-plex.amagi.tv/playlist.m3u8
 https://lds-realstories-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Real Stories (720p)
 https://realstories-samsung-uk.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Real Vision (720p)
-https://a.jsrdn.com/broadcast/2a755012a8/+0000/c.m3u8
 #EXTINF:-1 ,Red Apple 21 (Fairfax County Public Schools) (480p) [Not 24/7]
 https://cs.ebmcdn.net/eastbay-live-hs-1/fcps/mp4:fcps/playlist.m3u8
 #EXTINF:-1 ,Red Bull TV (1080p)
