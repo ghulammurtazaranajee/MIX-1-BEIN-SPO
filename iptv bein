@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png",Makkah TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
 #EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/download_215.jpg",A Sports (pk)
@@ -10,8 +9,6 @@ http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Ten 1
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
-#EXTINF:-1 group-title="sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten2_HD.png",Sony Ten 2
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/172
 #EXTINF:-1 group-title="sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3
 http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
 #EXTINF:-1 group-title="sports" tvg-logo="https://i.imgur.com/3ibgIMV.png",Star Sports 1
@@ -182,8 +179,6 @@ http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 http://93.152.174.144:4000/play/skysportsnews/index.m3u8
 #EXTINF:-1 group-title="AMERICAN SPORTS" tvg-logo="https://i.imgur.com/1g9mYwr.png",CBS Sports Network
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7324/index.m3u8
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://i.imgur.com/ix8Pm5R.png",On Sports
-http://s4.nihontv.net:21585/vtvcab3/index.m3u8
 #EXTINF:-1 group-title="AUSTRALIAN SPORTS" tvg-logo="https://i.imgur.com/zeywLXs.png",Fox Sports News
 https://austchannel-live.akamaized.net/hls/live/2002736/austchannel-sport/master.m3u8
 #EXTINF:-1 group-title="AUSTRALIAN SPORTS" tvg-logo="https://i.imgur.com/s2wciz8.png",Sky 1
@@ -192,22 +187,14 @@ https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky1_extreme@569780.m3
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/sky2_extreme@569780.m3u8
 #EXTINF:-1 group-title="AUSTRALIAN SPORTS" tvg-logo="https://i.imgur.com/vPoYbHR.png",Sky Thoroughbred Central
 https://skylivesky-i.akamaihd.net/hls/live/569780/skylive/stcsd_extreme@569780.m3u8
-#EXTINF:-1 group-title="POLISH SPORTS" tvg-logo="https://i.imgur.com/p0k54D9.png",Canal+ Sport
-http://207.110.52.61:8080/s/hls/5/293/canal_plus_sport_polska_250/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="POLISH SPORTS" tvg-logo="https://i.imgur.com/Xz33IHR.png",Canal+ Sport 2
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6055/index.m3u8
-#EXTINF:-1 group-title="POLISH SPORTS" tvg-logo="https://i.imgur.com/cSVAkg0.png",Eleven Sports 1
-http://207.110.52.61:8080/s/hls/5/3570/eleven_sports_1_355/1/1/index.m3u8
-#EXTINF:-1 group-title="POLISH SPORTS" tvg-logo="https://i.imgur.com/TlNAO45.png",Eleven Sports 2
-http://207.110.52.61:8080/s/hls/5/9335/eleven_sports_2_303/1/1/index.m3u8
 #EXTINF:-1 group-title="POLISH SPORTS" tvg-logo="https://i.imgur.com/eEQxLTd.png",Polsat Sport Fight
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7311/index.m3u8
 #EXTINF:-1 group-title="POLISH SPORTS" tvg-logo="https://i.imgur.com/IgONH1a.png",Polsat Sport Premium 1
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7304/index.m3u8
 #EXTINF:-1 group-title="POLISH SPORTS" tvg-logo="https://i.imgur.com/xf6o9Go.png",Polsat Sport Premium 2
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7305/index.m3u8
-#EXTINF:-1 group-title="POLISH SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Logo_TVP_Sport.jpg",TVP Sport
-http://207.110.52.61:8080/s/hls/5/872/tvp_sport_254/1/1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="FRENCH SPORTS" tvg-logo="https://i.imgur.com/p0k54D9.png",Canal+ Sport
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2502/index.m3u8
 #EXTINF:-1 group-title="FRENCH SPORTS" tvg-logo="https://i.imgur.com/D1nuT7j.png",Infosport+
@@ -224,12 +211,6 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2538/index.m3u8
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6992/index.m3u8
 #EXTINF:-1 group-title="ROMANIAN SPORTS" tvg-logo="https://i.imgur.com/lTnKDju.png",Eurosport 2
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6993/index.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/812.png",SuperSport 2 ALT
-http://iptv.tvmalaysia.cc/jalan8/jalan8/9025
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/813.png",SuperSport 3 ALT
-http://iptv.tvmalaysia.cc/jalan8/jalan8/9020
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/814.png",SuperSport 4 ALT
-http://iptv.tvmalaysia.cc/jalan8/jalan8/9026
 #EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://i.ibb.co/1M1Y4L5/resize.png",KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="MOVIES" tvg-logo="https://i.imgur.com/cQZdGc0.png",FilmRise Action
@@ -292,34 +273,8 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x43
 http://194.190.78.91:8080/aivaya/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Sakura TV.png",Akudji HD
 http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/1612.png",Amedia 1
-http://46.34.209.244:80/btv/SWM/A1/A1.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/1371.png",Amedia 1 FHD
-http://46.34.209.244:80/btv/SWM/A1/A1_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/2136.png",Amedia 1 HD
-http://212.76.29.26:80/btv/SWM/A1/A1_720p_3500kbps.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/1694.png",Amedia 2
-http://212.76.29.26:80/btv/SWM/A2/A2_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3590.png",Amedia 2 FHD
-http://212.76.29.26:80/btv/SWM/A2/A2.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3645.png",Amedia Hit
-http://212.76.29.26:80/btv/SWM/AmediaHitHD/AmediaHitHD.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3645.png",Amedia Hit FHD
-http://212.76.29.26:80/btv/SWM/AmediaHitHD/AmediaHitHD_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3645.png",Amedia Hit HD
-http://212.76.29.26:80/btv/SWM/AmediaHitHD/AmediaHitHD_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/1372.png",Amedia Premium
 http://2otsfwsh.otttv.pw/iptv/S3YKA4S9YGN99U/555/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3678.png",Amedia Premium FHD
-http://212.76.29.26:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3678.png",Amedia Premium HD
-http://212.76.29.26:80/btv/SWM/Amedia_PremiumHD/Amedia_PremiumHD_720p_3500kbps.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/4027.png",Animal Planet
-http://46.34.209.244:80/btv/SWM/animal_hd/animal_hd_270p_1200kbps.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1184.png",Animal Planet FHD
-http://46.34.209.244:80/btv/SWM/animal_hd/animal_hd_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/365.png",Animal Planet HD
-http://46.34.209.244:80/btv/SWM/animal_hd/animal_hd_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/920.png",aramount Comedy HD
 http://cdntv.online/high/wvj6futh2r/406.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-logo="https://i.imgur.com/Vs55QWR.png",As a Child (720p)
@@ -332,14 +287,8 @@ http://2otsfwsh.otttv.pw/iptv/S3YKA4S9YGN99U/11049/index.m3u8
 http://iptvcinema.online/backus_tv/index.m3u8?token=mic
 #EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Backus tv.png",BACKUSTV Страшное HD
 http://2otsfwsh.otttv.pw/iptv/S3YKA4S9YGN99U/10061/index.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="https://dvb.by/sources/logos/1009.png",BBC World News
-http://212.76.29.26:80/btv/SWM/BBC_World/BBC_World.m3u8
 #EXTINF:-1 group-title="Зарубежный спорт" tvg-logo="../Channel/Logo/Blackbelt TV.png",Bellator MMA
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=730&deviceId=5ebc8688f3697d00072f7cf8&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/2068.png",Bollywood FHD
-http://212.76.29.26:80/btv/SWM/Bollywood_HD/Bollywood_HD_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/2068.png",Bollywood HD
-http://212.76.29.26:80/btv/SWM/Bollywood_HD/Bollywood_HD.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3747.png",Bolt HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLTHD/variant.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3747.png",BOLT SD (UA)
@@ -352,18 +301,12 @@ http://video.vtvplus.com.ua:81/hls/online/index.m3u8
 http://cdntv.online/high/wvj6futh2r/1254.m3u8
 #EXTINF:-1 group-title="Кино Premium" tvg-logo="http://epg.cdntv.online/img/1253.png",Cartoons Short
 http://cdntv.online/high/wvj6futh2r/1253.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/CaspioNet.png",CaspioNews
-http://212.76.29.26:80/btv/SWM/CaspioNews/CaspioNews.m3u8
 #EXTINF:-1 group-title="Грузия" tvg-logo="../Channel/Logo/CBC Sport.png",CBC (720p)
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-logo="https://i.imgur.com/NmnXn2z.jpg",Channel 2 News (720p)
 https://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-logo="https://i.imgur.com/2RC8nh6.jpg",Channel 24 (720p)
 https://keshethlslive-lh.akamaihd.net/i/24live_1@195271/index_2200_av-b.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/1211.png",Cinema
-http://46.34.209.242:80/btv/SWM/CINEMA/CINEMA_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/1211.png",Cinema HD
-http://212.76.29.26:80/btv/SWM/CINEMA/CINEMA.m3u8
 #EXTINF:-1 group-title="Кино Premium" tvg-logo="http://epg.cdntv.online/img/1255.png",CineMan
 http://cdntv.online/high/wvj6futh2r/1255.m3u8
 #EXTINF:-1 group-title="Кино Premium" tvg-logo="http://epg.cdntv.online/img/1257.png",CineMan Action
@@ -390,18 +333,10 @@ http://cdntv.online/high/wvj6futh2r/1261.m3u8
 https://cdn1.mobiletv.bg/T10/citytv/citytv_794613_850k.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Clubbing TV.png",Clubbing TV
 https://clubbingtv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.it999.ru/img/3641.png",CNN
-http://212.76.29.26:80/btv/SWM/CNN/CNN.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="https://dvb.by/sources/logos/1609.png",CNN International
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CNN_INTERNATIONAL/variant.m3u8
 #EXTINF:-1 group-title="Українські" tvg-logo="https://dvb.by/sources/logos/3361.png",CTB HD
 http://iptv.prosto.tv:7000/ch4/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/325.png",Discovery Channel
-http://212.76.29.26:80/btv/SWM/discovery_hd/discovery_hd.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/2183.png",Discovery Channel FHD
-http://212.76.29.26:80/btv/SWM/discovery_hd/discovery_hd_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/325.png",Discovery Channel HD
-http://212.76.29.26:80/btv/SWM/discovery_hd/discovery_hd_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/409.png",Discovery Science
 http://cdntv.online/high/wvj6futh2r/301.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/2305.png",Disney Channel (+4)
@@ -418,22 +353,12 @@ http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/varia
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
 #EXTINF:-1 group-title="Зарубежный спорт",Edge Sport FHD
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.it999.ru/img/2155.png",English Club TV
-http://212.76.29.26:80/btv/SWM/English_Club_TV/English_Club_TV_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Грузия" tvg-logo="../Channel/Logo/Sonnenklar TV.png",Enki Benki
 http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/EUREKA HD.png",Eureka
 http://cdntv.online/high/wvj6futh2r/1062.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://epg.it999.ru/img/2266.png",Euronews Россия
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/2963.png",Eurosport 1
-http://212.76.29.26:80/btv/SWM/Eurosport/Eurosport_576p_2000kbps.m3u8?token=AnonymousTV
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2052.png",Eurosport 1 HD
-http://212.76.29.26:80/btv/SWM/Eurosport/Eurosport.m3u8?token=AnonymousTV
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/3141.png",Eurosport 2
-http://212.76.29.26:80/btv/SWM/Eurosport2/Eurosport2.m3u8?token=AnonymousTV
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/1747.png",Eurosport 2 HD
-http://212.76.29.26:80/btv/SWM/Eurosport2/Eurosport2_576p_2000kbps.m3u8?token=AnonymousTV
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/3508.png",Eurosport 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_EUROSPORT4K_HLS/variant.m3u8?token=AnonymousTV
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2053.png",Extreme Sports
@@ -462,14 +387,6 @@ http://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 https://c4635.cdn.xsg.ge/c4635/TVFormula/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/2517.png",FOX
 https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/1370.png",FOX FHD
-http://212.76.29.26:80/btv/SWM/FOX/FOX_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/1370.png",Fox HD
-http://212.76.29.26:80/btv/SWM/FoxLife/FoxLife_720p_3500kbps.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3575.png",Fox Life
-http://212.76.29.26:80/btv/SWM/FoxLife/FoxLife_270p_1200kbps.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/1371.png",FOX Life FHD
-http://212.76.29.26:80/btv/SWM/FoxLife/FoxLife_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Зарубежный спорт" tvg-logo="../Channel/Logo/Fox Sports 1.png",FOX Sports HD
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="Українські" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Bloomberg TV белый.png",G TV (Одесса)
@@ -484,24 +401,10 @@ http://cdntv.online/high/wvj6futh2r/366.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5417a212ff9fba68282fbf5e/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=736&deviceId=5417a212ff9fba68282fbf5e&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="МОДА" tvg-logo="https://dvb.by/sources/logos/3126.png",HD Fashion & Lifestyle UA
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1154.png",HDL HD
-http://212.76.29.26:80/btv/SWM/HDLife/HDLife_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1154.png",HDLIFE
-http://212.76.29.26:80/btv/SWM/HDLife/HDLife_270p_1200kbps.m3u8
 #EXTINF:-1 group-title="Израиль",Hidabroot
 http://cdntv.online/high/wvj6futh2r/783.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/1394.png",History
-http://212.76.29.26:80/btv/SWM//HistoryHD/HistoryHD.m3u8?token=AnonymousTV
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/2951.png",History 2
-http://212.76.29.26:80/btv/SWM/History2HD/History2HD.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/2356.png",History 2 FHD
 http://cdntv.online/high/wvj6futh2r/367.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/2951.png",History 2 HD
-http://212.76.29.26:80/btv/SWM/History2HD/History2HD_720p_3500kbps.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1770.png",History FHD
-http://212.76.29.26:80/btv/SWM/HistoryHD/HistoryHD_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1770.png",History HD
-http://212.76.29.26:80/btv/SWM/HistoryHD/HistoryHD_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/MTV Hits UK.png",Hits 360 HD
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/3128.png",HITV
@@ -510,10 +413,6 @@ http://rosshow.gcdn.co/streams/1410_290/480n/index.m3u8
 http://rosshow.gcdn.co/streams/1410_290/1080n/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/3128.png",HITV HD
 http://rosshow.gcdn.co/streams/1410_290/720n/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/1022.png",Hollywood
-http://212.76.29.26:80/btv/SWM/Hollywood/Hollywood_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/1440.png",Hollywood HD
-http://212.76.29.26:80/btv/SWM/Hollywood/Hollywood.m3u8
 #EXTINF:-1 group-title="Кино Premium" tvg-logo="http://epg.cdntv.online/img/1085.png",HOT Cinema 1 IL (RU)
 http://cdntv.online/high/wvj6futh2r/1085.m3u8
 #EXTINF:-1 group-title="Кино Premium" tvg-logo="http://epg.cdntv.online/img/1086.png",HOT Cinema 2 IL (RU)
@@ -532,16 +431,12 @@ http://cdntv.online/high/wvj6futh2r/306.m3u8
 http://cdntv.online/high/wvj6futh2r/368.m3u8
 #EXTINF:-1 group-title="Українські",InRating TV
 https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
-#EXTINF:-1 group-title="Общие",Irbis
-http://212.76.29.26:80/btv/SWM/Irbis/Irbis.m3u8
 #EXTINF:-1 group-title="Израиль",Israel Pars TV (540p)
 https://live.pars-israel.com/iptv/stream.m3u8
 #EXTINF:-1 group-title="Українські",IT3 HD
 http://cdn10.live-tv.od.ua:8081/it3od/it3od-abr/playlist.m3u8
 #EXTINF:-1 group-title="Українські" tvg-logo="http://epg.it999.ru/img/2793.png",ITV (Ровно)
 http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
-#EXTINF:-1 group-title="Українські" tvg-logo="http://epg.it999.ru/img/2106.png",Iнтер
-https://edge2.iptv.macc.com.ua/img/inter_3/index.m3u8
 #EXTINF:-1 group-title="Українські",Iнший HD
 http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-logo="http://epg.it999.ru/img2/2673.png",KAN 11
@@ -586,12 +481,8 @@ https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 https://muzzik-live.morescreens.com/mts-a4/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Nano TV.png",Nano TV
 http://nano.teleservice.su:8080/hls/nano.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/223.png",Nat Geo Wild
-http://212.76.29.26:80/btv/SWM/NatGeo_Wild/NatGeo_Wild.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1026.png",Nat Geo Wild FHD
 https://okkotv-live.cdnvideo.ru/channel/NGC_Wild_HD.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1026.png",Nat Geo Wild HD
-http://212.76.29.26:80/btv/SWM/NatGeo_channel/NatGeo_channel_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/102.png",National Geographic
 http://cdntv.online/high/wvj6futh2r/309.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/102.png",National Geographic FHD
@@ -612,8 +503,6 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 http://cdntv.online/high/wvj6futh2r/446.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/2405.png",Paramount Channel
 http://cdntv.online/high/wvj6futh2r/504.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/1408.png",Paramount Comedy
-http://212.76.29.26:80/btv/SWM/Paramount_Comedy/Paramount_Comedy_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Українські" tvg-logo="https://iptvx.one/picons/../Channel/Logo/PLUS.png",Plus
 http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://dvb.by/sources/logos/2768.png",Prosto GAME
@@ -650,12 +539,8 @@ http://cdnhls.goodgame.ru/hls/61358.m3u8
 http://cdntv.online/high/wvj6futh2r/1187.m3u8?token=AnonymousTV
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2364.png",Setanta Sports 1
 https://95-213-224-186.livesports24.online/rusetantaeurasia.m3u8?token=AnonymousTV
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2363.png",Setanta Sports 2
-https://185-106-121-77.livesports24.online/setantaplusru.m3u8?token=AnonymousTV
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2363.png",Setanta Sports 2 HD
 https://95-213-224-182.livesports24.online/setantaplusru.m3u8?token=AnonymousTV
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2370.png",Setanta Sports Ukraine
-https://185-106-121-77.livesports24.online/setantaukraine.m3u8?token=AnonymousTV
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/4630.png",Setanta Sports+
 https://bal.varcdn1.ru/lb/setantaplusukraina/index.m3u8?token=AnonymousTV
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Silence TV.png",Silence TV WORLD HD
@@ -686,8 +571,6 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 http://62.32.67.187:1935/WEB_Ukraine24/Ukraine24.stream/playlist.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/1148.png",Tiji
 http://iptv.prosto.tv:7000/ch73/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/3336.png",TLC HD
-http://212.76.29.26:80/btv/SWM/tlc_hd/tlc_hd_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/3361.png",Trash TV
 http://cdntv.online/high/wvj6futh2r/1098.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/3614.png",Travel Guide TV HD
@@ -788,8 +671,6 @@ http://194.50.51.34/playlist.m3u8
 http://95.46.208.8:26258/belarus4
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2541.png",Беларусь 5
 https://185-106-121-101.livesports24.online/belarusss5.m3u8?token=AnonymousTV
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2541.png",Беларусь 5 HD
-https://185-106-121-77.livesports24.online/belarusss5.m3u8?token=AnonymousTV
 #EXTINF:-1 group-title="Общие" tvg-logo="https://dvb.by/sources/logos/1609.png",БЕЛРОС
 http://uiptv.do.am/1ufc/116316122/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/2026.png",Бобёр
@@ -802,8 +683,6 @@ http://cdntv.online/high/wvj6futh2r/376.m3u8
 http://cdntv.online/high/wvj6futh2r/324.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/2451.png",Вопросы и ответы
 http://cdntv.online/high/wvj6futh2r/996.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="https://dvb.by/sources/logos/3581.png",Время
-http://212.76.29.26:80/btv/SWM/Vremya/Vremya_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Всё ТВ.png",ВСЁ ВКЛЮЧЕНО
 https://v2.catcast.tv/content/39161/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Всё ТВ.png",Всё ТВ HD
@@ -816,8 +695,6 @@ http://iptv.prosto.tv:7000/ch151/video.m3u8
 http://stream-msk-01.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/01/plst.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://epg.it999.ru/img2/2399.png",Дождь (240p)
 https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/2060.png",Дом Кино Премиум HD
-http://212.76.29.26:80/btv/SWM/Dom_kino_Prem/Dom_kino_Prem.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNIY/variant.m3u8?version=2
 #EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Домашний.png",Домашний (+2)
@@ -826,10 +703,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8?ve
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Домашний.png",Домашний (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3377.png",Дорама FHD
-http://212.76.29.26:80/btv/SWM/Dorama/Dorama_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3377.png",Дорама HD
-http://212.76.29.26:80/btv/SWM/Dorama/Dorama_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Українські",Думская TV HD
 http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/352.png",Еврокино
@@ -842,14 +715,10 @@ http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 http://cdntv.online/high/wvj6futh2r/329.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/2495.png",Живая природа
 http://cdntv.online/high/wvj6futh2r/449.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1044.png",Загородная жизнь HD
-http://212.76.29.26:80/btv/SWM/Zagorodnaya_Zhizn/Zagorodnaya_Zhizn_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="INFO",❗️=== ОНОВЛЕНО 07.11.2021 ===❗️
 https://www.dropbox.com/s/i6cfutv4efjv2vo/Anonymous%20TV.mp4?dl=1
-#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда HD
-http://iptv.media-ix.com:11375/17/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1207.png",Здоровье
 http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/2403.png",Иллюзион+
@@ -876,16 +745,10 @@ https://autopilot.catcast.tv/content/39161/index.m3u8
 http://cdntv.online/high/wvj6futh2r/894.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/821.png",Кинокомедия
 http://46.174.83.66/Kinokomedia/mpegts
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/1125.png",Кинокомедия HD
-http://212.76.29.26:80/btv/SWM/Kinokomedija/Kinokomedija_1080p_5000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/644.png",Киномикс
 http://cdntv.online/high/wvj6futh2r/120.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/2834.png",Кинопоказ
 http://cdntv.online/high/wvj6futh2r/904.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3583.png",Киносвидание FHD
-http://212.76.29.26:80/btv/SWM/Kinosvidanie/Kinosvidanie_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/1147.png",Киносерия
-http://212.76.29.26:80/btv/SWM/Kinoserija/Kinoserija_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/2493.png",Киноужас FHD
 http://91.185.3.218:4000/play/259
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/542.png",Кинохит
@@ -976,8 +839,6 @@ http://91.185.3.218:4000/play/420
 http://epg.it999.ru/img2/575.png
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/1584.png",Мужское Кино
 http://cdntv.online/high/wvj6futh2r/128.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/3031.png",Мужской
-http://212.76.29.26:80/btv/SWM/Muzhskoy/Muzhskoy_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-muz-tv.png",Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/6858.png",Мульт Stream
@@ -996,16 +857,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2
 http://95.46.208.8:26259/nashe
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/2018.png",Наше HD
 http://iptv.prosto.tv:7000/ch136/video.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-lyubimoe.jpg",Наше любимое кино
-http://212.76.29.26:80/btv/SWM/Nashe_Lubimoe_Kino/Nashe_Lubimoe_Kino_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-novoe-kino.png",Наше Новое Кино FHD
-http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_1080p_5000kbps.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nashe-novoe-kino.png",Наше Новое Кино HD
-http://46.34.209.243/btv/SWM/Nashe_novoe_kino/Nashe_novoe_kino_720p_3500kbps.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Новое радио (Самара).png",Новое Радио
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-nst.png",НСТ HD
-http://212.76.29.26:80/btv/SWM/HCT/HCT.m3u8
 #EXTINF:-1 group-title="Українські" tvg-logo="https://iptvx.one/picons/../Channel/Logo/НТА (Украина).png",НТА ТВ Львов HD
 http://95.67.106.10/hls/nta_ua_mid/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/НТВ.png",НТВ (+2)
@@ -1046,14 +899,8 @@ http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 group-title="СССР" tvg-logo="../Channel/Logo/Первый Социальный.png",Первый СССР
 http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://dvb.by/sources/logos/3186.png",Перец
-http://212.76.29.26:80/btv/SWM/Perec/Perec_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Українські" tvg-logo="http://epg.it999.ru/img/2147.png",Перший Незалежний
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/2447.png",Победа
-http://212.76.29.26:80/btv/SWM/Pobeda/Pobeda_576p_2000kbps.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/2447.png",Победа HD
-http://212.76.29.26:80/btv/SWM/Pobeda/Pobeda.m3u8
 #EXTINF:-1 group-title="Українські",Поэзия HD
 http://79.98.49.5:8132/pravda
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1318.png",Просвещение
@@ -1178,8 +1025,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_4/bw2000000/variant.m3u8?versio
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_7/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://dvb.by/sources/logos/2241.png",ТНТ4 HD
 https://bl.uma.media/live/317849/HLS/4614144_3,2883584_2,1153024_1/1613027671/d161f37174905bc712e81b60d3411fc1/playlist.m3u8
-#EXTINF:-1 group-title="Развлекательные" tvg-logo="https://dvb.by/sources/logos/3640.png",ТНТ4 International
-http://212.76.29.26:80/btv/SWM/TNT4/TNT4_576p_2000kbps.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/617.png",Точка отрыва
 http://cdntv.online/high/wvj6futh2r/465.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/2129.png",Три Ангела HD
@@ -1196,16 +1041,10 @@ https://autopilot.catcast.tv/content/38801/index.m3u8
 https://okkotv-live.cdnvideo.ru/channel/Phoenix.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2782.png",Футбол
 https://77-247-178-24.livesports24.online/footballrus.m3u8?token=AnonymousTV
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2189.png",Футбол 1
-https://185-106-121-77.livesports24.online/uafootballua1.m3u8?token=AnonymousTV
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2189.png",Футбол 1 HD
 https://bal.varcdn1.ru/lb/ua1/index.m3u8?token=AnonymousTV
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/2115.png",Футбол 2
-https://185-106-121-77.livesports24.online/fooootball2.m3u8?token=AnonymousTV
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/3405.png",Футбол 2 HD
 https://bal.varcdn1.ru/lb/ua2/index.m3u8?token=AnonymousTV
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2669.png",Футбол 3
-https://185-106-121-77.livesports24.online/football3ua.m3u8?token=AnonymousTV
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/2833.png",Хит HD
 http://cdntv.online/high/wvj6futh2r/1025.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="http://epg.it999.ru/img2/1598.png",Че
@@ -1216,8 +1055,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/bw2000000/variant.m3u8?version
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Общие",Че! (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Общие" tvg-logo="http://127.0.0.1/",Че!/Север
-http://tvsever.ru:8080/hls/ach2.m3u8
 #EXTINF:-1 group-title="Українські" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Диалоги о рыбалке(черн).png",Чернівецький Промінь HD
 http://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1 group-title="Українські" tvg-logo="http://epg.it999.ru/img/2215.png",ЧП Инфо 2
@@ -1244,434 +1081,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/bw2000000/variant.m3u8?version=2
 http://cdn1.live-tv.od.ua:8081/wave/wave-abr/playlist.m3u8
 #EXTINF:-1 group-title="Українські" tvg-logo="http://epg.it999.ru/img2/2154.png",Інтер
 https://edge3.iptv.macc.com.ua/img/inter_3/index.m3u8
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/bht-1-ba.png",BHT HD (BiH) -
-http://109.236.93.143:8000/live?channelId=185&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/feherfar_tv_hu.png",FEDERALNA TV (BIH) -
-http://164.132.166.3:8000/live?channelId=187&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/rtrs_tv_ba_plus.png",RTRS Plus (BiH) -
-http://164.132.166.3:8000/live?channelId=189&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/bnt_bg_hd.png",Bn TV (BIH) -
-http://164.132.166.3:8000/live?channelId=191&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/hayat_ba.png",HAYAT TV (BIH) -
-http://109.236.93.143:8000/live?channelId=192&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/hayat_ba_plus.png",HAYAT PLUS (BIH) -
-http://109.236.93.143:8000/live?channelId=193&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/obn_ba.png",OBN (BiH) -
-http://164.132.166.3:8000/live?channelId=194&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/face_tv_ba.png",FACE TV (BIH) -
-http://164.132.166.3:8000/live?channelId=197&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/delta_tv_gr.png",RTV Podrinje - RTV Podrinje
-http://109.236.93.143:8000/live?channelId=198&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/kreator_tv_hr.png",K3 Prnjavor (BiH) -
-http://164.132.166.3:8000/live?channelId=199&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/tv_stara_zagora_bg.png",TV Sarajevo (BiH) -
-http://109.236.93.143:8000/live?channelId=204&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/alfa_tv_bg.png",ALFA TV SARAJEVO (BIH) -
-http://109.236.93.143:8000/live?channelId=205&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/rt_ru_arabic.png",RTV TK TUZLA (BIH) -
-http://5.39.72.165:8000/live?channelId=208&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/rtv_zenica_ba.png",RTV ZENICA (BIH) -
-http://109.236.93.143:8000/live?channelId=209&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/tv-usk-ba.png",TV USK (BIH) -
-http://164.132.166.3:8000/live?channelId=210&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/tv_breizh_fr.png",TV 5 HD islam (BiH) - TV 5 HD islam (BiH)
-http://109.236.93.143:8000/live?channelId=211&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/my_german_tv.png",MTV IGMAN TV (BiH) -
-http://109.236.93.143:8000/live?channelId=213&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/tvmaastricht-nl.png",RTV Mir (BIH) - RTV Mir (BIH)
-http://164.132.166.3:8000/live?channelId=215&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/city_tv_bg.png",CITY TV (BIH) -
-http://109.236.93.143:8000/live?channelId=216&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/tv-glas-drine-ba.png",GLAS DRINE TV (BIH) -
-http://5.39.72.165:8000/live?channelId=217&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/hema_tv.png",HEMA TV (BiH) -
-http://164.132.166.3:8000/live?channelId=218&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/rtv_sm_sport.png",Moja TV Sport -
-http://5.39.72.165:8000/live?channelId=222&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/tv_valentino.png",OTV VALENTINO (BiH) -
-http://164.132.166.3:8000/live?channelId=224&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/prva_rs.png",PRVA -
-http://164.132.166.3:8000/live?channelId=231&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/prva-kick-rs.png",PRVA KICK (RS) -
-http://164.132.166.3:8000/live?channelId=232&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/prva_rs_plus.png",PRVA PLUS (RS) -
-http://164.132.166.3:8000/live?channelId=234&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/prva_rs_world.png",PRVA WORLD (RS) -
-http://51.159.64.111:8000/live?channelId=235&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/rts_rs_hd.png",RTS 1 HD -
-http://5.39.72.165:8000/live?channelId=237&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/rts_rs_2.png",RTS 2 (RS) -
-http://164.132.166.3:8000/live?channelId=238&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/rts_rs.png",RTS 3 (RS) -
-http://164.132.166.3:8000/live?channelId=240&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/rts_rs.png",RTS DRAMA (RS) -
-http://5.39.72.165:8000/live?channelId=241&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/rtv_slo1.png",RTS Kolo -
-http://5.39.72.165:8000/live?channelId=242&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/muzsika_tv_hu.png",RTS Muzika -
-http://5.39.72.165:8000/live?channelId=243&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/rts_rs.png",RTS TREZOR (RS) -
-http://5.39.72.165:8000/live?channelId=244&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/rts_rs.png",RTS ZIVOT (RS) -
-http://195.154.118.195:8000/live?channelId=245&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/nova_cz_international.png",NOVA S HD (RS) - NOVA S HD (RS)
-http://5.39.72.165:8000/live?channelId=246&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/nova_world_hr.png",NOVA RS (RS) -
-http://5.39.72.165:8000/live?channelId=247&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/happy_tv_rs.png",Happy TV (RS) -
-http://5.39.72.165:8000/live?channelId=248&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/tarot_vision_es.png",PAROVI LIVE L1 (RS) -
-http://5.39.72.165:8000/live?channelId=249&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/saratov-24-ru.png",RTV Kraljevo - RTV Kraljevo
-http://51.159.64.24:8000/live?channelId=250&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/rtvbanovina.png",RTV VOJVODINA 1 (RS) -
-http://51.159.64.24:8000/live?channelId=251&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/rtvbanovina.png",RTV VOJVODINA 2 (RS) -
-http://51.15.190.156:8000/live?channelId=252&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/o2tv-rs.png",O2 TV (B92) (RS) -
-http://5.39.72.165:8000/live?channelId=253&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/n1_rs.png",N1 HD (RS) -
-http://5.39.72.165:8000/live?channelId=256&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/tv_novi_pazar.png",NOVI PAZAR TV (RS) -
-http://5.39.72.165:8000/live?channelId=259&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/niska_tv_rs.png",ISTOK TV (RS) -
-http://5.39.72.165:8000/live?channelId=262&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/roma_tv_it.png",ROMA TV -
-http://5.39.72.165:8000/live?channelId=268&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/rtv_mir_rs.png",Palma Plus (RS) - Palma Plus (RS)
-http://5.39.72.165:8000/live?channelId=270&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Hrvatska" tvg-logo="http://195.154.118.195:22333/logo_channels/hrt2.png",HRT 2 (HR) -
-http://195.154.118.192:8000/live?channelId=273&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Hrvatska" tvg-logo="http://195.154.118.195:22333/logo_channels/nova_tv_hr.png",NOVA TV (HR) -
-http://5.39.72.165:8000/live?channelId=277&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Hrvatska" tvg-logo="http://195.154.118.195:22333/logo_channels/doma_tv_hr.png",DOMA TV HD (HR) -
-http://5.39.72.165:8000/live?channelId=281&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Hrvatska" tvg-logo="http://195.154.118.195:22333/logo_channels/rtl2_at.png",RTL 2 (HR) -
-http://109.236.93.143:8000/live?channelId=283&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Hrvatska" tvg-logo="http://195.154.118.195:22333/logo_channels/hntv_hr.png",N1 TV (HR) -
-http://5.39.72.165:8000/live?channelId=285&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Hrvatska" tvg-logo="http://195.154.118.195:22333/logo_channels/omega_tv_gr.png",Mreza TV Zagreb (HR) -
-http://5.39.72.165:8000/live?channelId=292&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Hrvatska" tvg-logo="http://195.154.118.195:22333/logo_channels/kreator_tv_hr.png",Dobra Hrvatska (HR) - Dobra Hrvatska (HR)
-http://5.39.72.165:8000/live?channelId=294&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/zadruga-tv-rs.png",ZADRUGA LIVE -
-http://5.39.72.165:8000/live?channelId=305&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pink1.png",PINK 1 -
-http://5.39.72.165:8000/live?channelId=306&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pink3.png",PINK 3 Info - PINK 3 Info
-http://5.39.72.165:8000/live?channelId=308&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pinkworld.png",PINK World Cinema - PINK World Cinema
-http://5.39.72.165:8000/live?channelId=309&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pink_bh.png",PINK BH -
-http://5.39.72.165:8000/live?channelId=310&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pink_extra.png",PINK EXTRA -
-http://5.39.72.165:8000/live?channelId=311&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pink_comedy_rs.png",PINK COMEDY -
-http://195.154.118.192:8000/live?channelId=313&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pink_rs_crime_mystery.png",Pink Crime & Mystery -
-http://195.154.118.195:8000/live?channelId=314&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pink_family.png",Pink Family -
-http://5.39.72.165:8000/live?channelId=315&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pinkaction.png",PINK ACTION -
-http://5.39.72.165:8000/live?channelId=316&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pinkhorror.png",PINK HOROR -
-http://109.236.93.143:8000/live?channelId=317&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pink_movies.png",Pink Movies -
-http://109.236.93.143:8000/live?channelId=318&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pinkpremium.png",PINK PREMIUM -
-http://5.39.72.165:8000/live?channelId=319&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pinkromance.png",PINK ROMANCE -
-http://5.39.72.165:8000/live?channelId=320&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pinkscifiandfantasy.png",PINK SCI FI / FANTASY -
-http://5.39.72.165:8000/live?channelId=321&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pinksoap.png",Pink Soap -
-http://195.154.118.195:8000/live?channelId=323&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pinkthriller.png",Pink Thriller -
-http://195.154.118.192:8000/live?channelId=324&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pinkfilm.png",Pink Film -
-http://109.236.93.143:8000/live?channelId=327&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pink_folk1.png",PINK FOLK 1 -
-http://195.154.118.195:8000/live?channelId=328&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pink_folk2.png",PINK FOLK 2 -
-http://5.39.72.165:8000/live?channelId=329&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pinkhits2.png",Pink Hits 2 -
-http://51.159.64.26:8000/live?channelId=331&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pinkmusic.png",PINK MUSIC 2 -
-http://5.39.72.165:8000/live?channelId=334&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pinkzabava.png",PINK BRAVO -
-http://109.236.93.143:8000/live?channelId=338&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pinkkuvar-alt.png",PINK KUVAR -
-http://109.236.93.143:8000/live?channelId=339&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pinkpedia.png",PINK PEDIA -
-http://51.159.64.23:8000/live?channelId=341&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pinkplus.png",PINK PLUS -
-http://195.154.118.195:8000/live?channelId=342&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Srbija" tvg-logo="http://195.154.118.195:22333/logo_channels/pinkzabava.png",PINK ZABAVA -
-http://109.236.93.143:8000/live?channelId=347&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/food_network_us.png",Food Network (Ex-Yu) -
-http://5.39.72.165:8000/live?channelId=350&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/zadruga-tv-rs.png",ZDRAVA TV (HR) -
-http://109.236.93.143:8000/live?channelId=352&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/tring_living.png",Fine Living -
-http://109.236.93.143:8000/live?channelId=353&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/discovery_shed.png",TLC Discovery (Ex-Yu) -
-http://109.236.93.143:8000/live?channelId=354&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/travelchannel.png",Travel Channel (Ex-Yu) -
-http://5.39.72.165:8000/live?channelId=355&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/discoverychannel.png",Discovery Channel (Ex-Yu) -
-http://109.236.93.143:8000/live?channelId=357&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/crimeinvestigation.png",Crime Investigation (Ex-Yu) -
-http://109.236.93.143:8000/live?channelId=360&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/discoverychannel.png",History Channel HD (Ex-Yu) -
-http://109.236.93.143:8000/live?channelId=361&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/nationalgeographic-alt.png",National Geographic Channel HD (Ex-Yu) -
-http://109.236.93.143:8000/live?channelId=362&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/nationalgeographic.png",National Geographic Wild HD (Ex-Yu) -
-http://109.236.93.143:8000/live?channelId=363&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/viasat_explore_ru.png",Viasat Explorer (Ex-Yu) -
-http://109.236.93.143:8000/live?channelId=364&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/viasathistory.png",Viasat History (Ex-Yu) -
-http://109.236.93.143:8000/live?channelId=365&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/viasatnature.png",Viasat Nature (Ex-Yu) -
-http://109.236.93.143:8000/live?channelId=366&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/discoverychannel.png",History Channel 2 (Ex-Yu) -
-http://109.236.93.143:8000/live?channelId=368&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/rtl_living_hr.png",RTL LIVING (HR) -
-http://109.236.93.143:8000/live?channelId=369&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/mad_hits.png",MTV HITS -
-http://109.236.93.143:8000/live?channelId=381&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/mtv_rocks_uk.png",MTV Rocks -
-http://109.236.93.143:8000/live?channelId=383&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/vijf_tv.png",IDJ TV -
-http://109.236.93.143:8000/live?channelId=386&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/balkanika.png",BALKANIKA -
-http://109.236.93.143:8000/live?channelId=387&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/bn_music.png",BN MUSIC -
-http://109.236.93.143:8000/live?channelId=388&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/dm_sat_rs.png",DM SAT (RS) -
-http://109.236.93.143:8000/live?channelId=389&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/ibc-music.png",CMC MUSIC -
-http://109.236.93.143:8000/live?channelId=390&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/france2.png",GRAND 2 -
-http://5.39.72.165:8000/live?channelId=391&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/grand_tv_rs.png",GRAND NARODNA TV -
-http://51.159.64.24:8000/live?channelId=392&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="BiH" tvg-logo="http://195.154.118.195:22333/logo_channels/hayat_ba_music.png",HAYAT MUSIC -
-http://109.236.93.143:8000/live?channelId=394&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/jugoton.png",JUGOTON TV -
-http://5.39.72.165:8000/live?channelId=395&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/channel_4_music.png",KCN 2 / KCN Music (RS) -
-http://109.236.93.143:8000/live?channelId=396&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/eda_tv_ru.png",SEVDAH TV -
-http://109.236.93.143:8000/live?channelId=398&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/top-sound-ch.png",TOP Sound -
-http://51.15.190.156:8000/live?channelId=400&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/z1_hr.png",Z1 (HR) -
-http://109.236.93.143:8000/live?channelId=402&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/babytv.png",BABY TV -
-http://109.236.93.143:8000/live?channelId=404&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/disney_channel_ru.png",DISNEY CHANNEL -
-http://109.236.93.143:8000/live?channelId=406&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/disney_junior_us.png",DISNEY JUNIOR -
-http://5.39.72.165:8000/live?channelId=407&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/mini_tv_hr.png",MINI TV -
-http://109.236.93.143:8000/live?channelId=410&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/minimax.png",Minimax -
-http://109.236.93.143:8000/live?channelId=412&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/nickjr.png",Nick Jr -
-http://109.236.93.143:8000/live?channelId=415&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/pinkkids.png",PINK KIDS -
-http://109.236.93.143:8000/live?channelId=416&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/pinksuperkids.png",PINK SUPER KIDS -
-http://109.236.93.143:8000/live?channelId=417&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/pinkkids.png",TNT Kids -
-http://51.159.64.25:8000/live?channelId=419&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/hbo_adria.png",Axn Adria -
-http://5.39.72.165:8000/live?channelId=424&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/axnspin.png",Axn Spin -
-http://195.154.106.145:8000/live?channelId=425&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/mcs_fr.png",AMC (SR) -
-http://195.154.106.145:8000/live?channelId=427&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/cinemax.png",CinemaX TV - CinemaX TV
-http://51.159.64.25:8000/live?channelId=428&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/cinemania.png",Cinemania -
-http://195.154.106.145:8000/live?channelId=429&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/cinemaxhd.png",Cinemax HD -
-http://195.154.106.145:8000/live?channelId=430&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/cinemax2hd.png",Cinemax 2 HD -
-http://51.159.64.111:8000/live?channelId=431&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/cinestartv.png",Cinestar TV (SR) -
-http://195.154.106.145:8000/live?channelId=432&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/cinestaraction.png",Cinestar Action -
-http://164.132.166.3:8000/live?channelId=433&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/cinestarfantasy.png",Cinestar Fantasy -
-http://109.236.93.143:8000/live?channelId=434&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/cinestarpremiere1.png",Cinestar Premiere 1 HD -
-http://164.132.166.3:8000/live?channelId=435&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/cinestarpremiere2.png",Cinestar Premiere 2 HD -
-http://109.236.93.143:8000/live?channelId=436&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/filmboxextrahd.png",Film box extra HD -
-http://195.154.106.145:8000/live?channelId=439&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/filmboxplus.png",Film box plus SR -
-http://5.39.72.165:8000/live?channelId=440&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/fox.png",Fox HD -
-http://164.132.166.3:8000/live?channelId=442&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/foxlife.png",Fox Life (HR) -
-http://164.132.166.3:8000/live?channelId=444&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/foxmovies.png",Fox Movies HD -
-http://51.159.64.111:8000/live?channelId=445&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/filmboxextra.png",Filmbox EXTRA -
-http://109.236.93.143:8000/live?channelId=446&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/filmboxplus.png",Filmbox PLUS -
-http://164.132.166.3:8000/live?channelId=447&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/hbohd.png",Hbo HD -
-http://164.132.166.3:8000/live?channelId=449&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/klasiktv.png",Klasik TV -
-http://109.236.93.143:8000/live?channelId=453&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/m1film.png",M1 Film -
-http://164.132.166.3:8000/live?channelId=454&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/pro_sieben_ch.png",MaxCro Select 1 HD -
-http://164.132.166.3:8000/live?channelId=457&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/pro_sieben_ch.png",MaxCro Select 2 HD -
-http://164.132.166.3:8000/live?channelId=459&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/pro_sieben_ch.png",MaxCro Select 4 HD -
-http://195.154.118.195:8000/live?channelId=461&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/pro_sieben_ch.png",MaxCro Select 5 HD -
-http://51.159.64.111:8000/live?channelId=462&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/pro_sieben_ch.png",MaxCro Select 6 HD -
-http://164.132.166.3:8000/live?channelId=463&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/pro_sieben_ch.png",MaxCro Select 7 HD -
-http://51.159.64.111:8000/live?channelId=464&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/pro_sieben_ch.png",MaxCro Select 8 HD -
-http://164.132.166.3:8000/live?channelId=465&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/pro_sieben_ch.png",MaxCro Select 9 HD -
-http://51.159.64.111:8000/live?channelId=466&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/kinotv.png",Kino TV HD -
-http://164.132.166.3:8000/live?channelId=467&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/rtl_crime_hr.png",RTL CRIME (HR) -
-http://51.159.64.111:8000/live?channelId=471&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/rtl_passion_hr.png",RTL PASSION (HR) -
-http://164.132.166.3:8000/live?channelId=472&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/speranta_tv.png",SUPER STAR TV -
-http://51.159.64.111:8000/live?channelId=473&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/tv1000.png",TV 1000 -
-http://164.132.166.3:8000/live?channelId=474&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/arenasport1.png",Arena Sport 1 (BiH) -
-http://164.132.166.3:8000/live?channelId=477&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/arenasport1.png",Arena Sport 1 HD (HR) -
-http://164.132.166.3:8000/live?channelId=478&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/arenasport2.png",Arena Sport 2 HD (HR) -
-http://164.132.166.3:8000/live?channelId=480&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/arenasport2.png",Arena Sport 2 HD (SR) -
-http://51.159.64.111:8000/live?channelId=481&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/arenasport3.png",Arena Sport 3 (SR) -
-http://164.132.166.3:8000/live?channelId=482&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/arenasport3.png",Arena Sport 3 HD (HR) -
-http://195.154.118.195:8000/live?channelId=483&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/arenasport3.png",Arena Sport 3 HD (SR) -
-http://164.132.166.3:8000/live?channelId=484&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/arenasport4.png",Arena Sport 4 (SR) -
-http://164.132.166.3:8000/live?channelId=485&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/arenasport4.png",Arena Sport 4 HD (HR) -
-http://164.132.166.3:8000/live?channelId=486&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/arenasport5.png",Arena Sport 5 (SR) -
-http://51.159.64.111:8000/live?channelId=488&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/arenasport5.png",Arena Sport 5 HD (HR) -
-http://164.132.166.3:8000/live?channelId=489&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/arenasport6.png",Arena Sport 6 HD (HR) -
-http://195.154.118.195:8000/live?channelId=490&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sport_klub_rs_hd.png",Sport Klub HD (SR) -
-http://164.132.166.3:8000/live?channelId=491&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sport_klub_si_1.png",Sport Klub 1 HD (HR) -
-http://51.159.64.26:8000/live?channelId=492&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sport_klub_rs_1.png",Sport Klub 1 HD (SR) -
-http://164.132.166.3:8000/live?channelId=493&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sport_klub_si_2.png",Sport Klub 2 HD (HR) -
-http://164.132.166.3:8000/live?channelId=494&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sport_klub_rs_2.png",Sport Klub 2 HD (SR) -
-http://164.132.166.3:8000/live?channelId=495&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sport_klub_rs_3.png",Sport Klub 3 HD (HR) -
-http://51.159.64.111:8000/live?channelId=496&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sport_klub_rs_3.png",Sport Klub 3 HD (SR) -
-http://51.159.64.111:8000/live?channelId=497&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sport_klub_pl.png",Sport Klub 4 (SR) -
-http://164.132.166.3:8000/live?channelId=499&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sport_klub_pl.png",Sport Klub 5 (HR) -
-http://51.159.64.23:8000/live?channelId=500&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sport_klub_pl.png",Sport Klub 5 (SR) -
-http://164.132.166.3:8000/live?channelId=501&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sport_klub_rs.png",Sport Klub 6 (SR) -
-http://164.132.166.3:8000/live?channelId=503&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sport_klub_rs.png",Sport Klub 7 (SR) -
-http://109.236.93.143:8000/live?channelId=504&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sport_klub_rs.png",Sport Klub 8 (SR) -
-http://164.132.166.3:8000/live?channelId=505&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sport_klub_rs.png",Sport Klub 9 (SR) -
-http://195.154.106.145:8000/live?channelId=506&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sport_klub_rs_golf.png",Sport Klub Golf HD -
-http://164.132.166.3:8000/live?channelId=507&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/eurosport_fr_1.png",Eurosport 1 (SR) -
-http://109.236.93.143:8000/live?channelId=508&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/eurosport_fr_2.png",Eurosport 2 HD (SR) -
-http://164.132.166.3:8000/live?channelId=511&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/polsat_sport.png",Arena Sport 6 HR - Arena Sport 6 HR
-http://51.159.64.111:8000/live?channelId=512&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/polsat_sport.png",Arena Sport 7 HR - Arena Sport 7 HR
-http://5.39.72.165:8000/live?channelId=513&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/polsat_sport.png",Arena Sport 8 HR - Arena Sport 8 HR
-http://51.159.64.111:8000/live?channelId=514&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/polsat_sport.png",Arena Sport 9 HR - Arena Sport 9 HR
-http://195.154.118.195:8000/live?channelId=515&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/polsat_sport.png",Arena Sport 10 HR - Arena Sport 10 HR
-http://5.39.72.165:8000/live?channelId=516&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sts_ru.png",SOS (SR) -
-http://109.236.93.143:8000/live?channelId=518&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/hntv_hr.png",HNTV (HR) -
-http://164.132.166.3:8000/live?channelId=520&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sportska-tv-hr.png",Sportska TV (HR) -
-http://51.159.64.111:8000/live?channelId=521&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sport1_de.png",Sport TV 1 HD (SLO) -
-http://109.236.93.143:8000/live?channelId=522&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/sport2_hu.png",Sport TV 2 HD (SLO) -
-http://164.132.166.3:8000/live?channelId=523&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Ex-Yu" tvg-logo="http://195.154.118.195:22333/logo_channels/esports_tv_de.png",Sport TV 3 HD (Slo) -
-http://109.236.93.143:8000/live?channelId=524&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia",MK: MRT 1 -
-http://109.236.93.143:8000/live?channelId=828&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia" tvg-logo="https://logos.fandom.com/wiki/MRT_2?file=MRT_2_new_logo.png",MK: MRT 2 -
-http://164.132.166.3:8000/live?channelId=829&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia" tvg-logo="http://195.154.118.195:22333/logo_channels/ok_stendal_de.png",MK: Sitel HD -
-http://5.39.72.165:8000/live?channelId=832&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia" tvg-logo="http://195.154.118.195:22333/logo_channels/muse_al.png",MK: Sitel -
-http://109.236.93.143:8000/live?channelId=833&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia" tvg-logo="http://195.154.118.195:22333/logo_channels/mediaset_italia2.png",MK: Kanal 5 HD - MK: Kanal 5 HD
-http://164.132.166.3:8000/live?channelId=834&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia" tvg-logo="http://195.154.118.195:22333/logo_channels/kanal_5_se.png",MK: Edo TV - MK: Edo TV
-http://164.132.166.3:8000/live?channelId=836&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia" tvg-logo="http://195.154.118.195:22333/logo_channels/canale_8_it_campania.png",MK: Kanal 8 Kocani -
-http://164.132.166.3:8000/live?channelId=837&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia" tvg-logo="http://195.154.118.195:22333/logo_channels/alsat_m.png",MK: Alsat-M -
-http://51.159.64.111:8000/live?channelId=838&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia" tvg-logo="http://195.154.118.195:22333/logo_channels/n24_de_austria.png",MK: 24 Vesti -
-http://164.132.166.3:8000/live?channelId=839&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia" tvg-logo="http://195.154.118.195:22333/logo_channels/tele_mia_it.png",MK: Telma HD - MK: Telma HD
-http://164.132.166.3:8000/live?channelId=840&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia" tvg-logo="http://195.154.118.195:22333/logo_channels/mtv_dance_uk.png",MK: TV Sonce -
-http://51.159.64.111:8000/live?channelId=841&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia" tvg-logo="http://195.154.118.195:22333/logo_channels/roma_tv_bg.png",MK: Roma TV -
-http://164.132.166.3:8000/live?channelId=842&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia" tvg-logo="http://195.154.118.195:22333/logo_channels/muse_al.png",MK: Shutel -
-http://51.159.64.111:8000/live?channelId=843&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia" tvg-logo="http://195.154.118.195:22333/logo_channels/rai_storia.png",MK: Tera Bitola -
-http://164.132.166.3:8000/live?channelId=844&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia" tvg-logo="http://195.154.118.195:22333/logo_channels/rtvbanovina.png",MK: TV+ Kumanovo -
-http://164.132.166.3:8000/live?channelId=845&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia" tvg-logo="http://195.154.118.195:22333/logo_channels/alfa_tv_bg.png",MK: Alfa TV -
-http://51.159.64.111:8000/live?channelId=846&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia" tvg-logo="http://195.154.118.195:22333/logo_channels/fox.png",MK: FOX - MK: FOX
-http://164.132.166.3:8000/live?channelId=847&uid=78&deviceMac=00:1A:79:2A:5A:CF
-#EXTINF:-1 group-title="Macedonia" tvg-logo="http://195.154.118.195:22333/logo_channels/nasa_tv_us.png",MK: Nasa TV  - MK: Nasa TV
-http://164.132.166.3:8000/live?channelId=848&uid=78&deviceMac=00:1A:79:2A:5A:CF
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/5PsRkPd.png",ATN Bangla (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbd-8-org.stream/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.ebox.live/assets/images/108.jpg",ATN News (BDIX0)
@@ -1684,16 +1093,10 @@ http://103.106.2.149:13456/btv_ctg.m3u8
 http://103.106.2.149:13456/btv.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/RR0Iv6V.png",BTV World (BDIX6)
 http://103.106.2.149:13456/btv_world.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kDmkexe.png",Bijoy TV  (BDIX0)
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/live-orgin/bijoy00.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.channelionline.com/wp-content/uploads/2019/07/channel-i-logo-1.png",Channel I (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channeli-8-org.stream/live-orgin/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/MmhxR5E.png",Channel 24 (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://amrbd.com/assets/images/deeptotv.jpg",Deepto TV (BDIX0)
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deeptotv.stream/live-orgin/deeptotv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png",DESH TV (BDIX0)
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshtv.stream/live-orgin/deshtv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://dl.dropbox.com/s/61c0osd7bkne5cd/desh_tv.png",DESH TV (gCDN)
 https://last.gcdn.co/IND443/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/PK9Gm5g.png",Duronto TV
@@ -1704,8 +1107,6 @@ https://last.gcdn.co/IND429/index.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.ebox.live/assets/images/etv.jpg",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://gaanbangla.tv/img/gb_big.png",Gaan Bangla (BDIX0)
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/gaanbangla-8-orgd.stream/live-orgin/gaanbangla-8-orgd.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kviJN1i.png",independent TV (gCDN)
 https://last.gcdn.co/IND430/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://amrbd.com/assets/images/jamunatv.jpg",Jamuna TV (BDIX0)
@@ -1806,8 +1207,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_sunnah/hls1/saudi_
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 ,Asharq (1080p)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/index.m3u8
-#EXTINF:-1 ,Asharq (Portrait) (1280p)
-https://bcliveunivsecure-lh.akamaihd.net/i/VERTICAL_1@301860/master.m3u8
 #EXTINF:-1 ,Atfal Wa Mawaheb (1080p)
 https://5d658d7e9f562.streamlock.net/atfal1.com/atfal2/playlist.m3u8
 #EXTINF:-1 ,BBC Arabic (720p)
@@ -1858,8 +1257,6 @@ https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 ,AFV (720p)
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
-#EXTINF:-1 ,AFV Family (720p)
-https://futuretoday-afv-family-1-be.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Akaal TV (396p)
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/akaal_tv/hls1_smart_akaal/akaal_tv.m3u8
 #EXTINF:-1 ,Akaku 53 (Hawaii) (720p)
@@ -2184,14 +1581,10 @@ https://t07113a-lh.akamaihd.net/i/t07113a_1@756729/master.m3u8
 https://gustotv-samsung-au.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Gusto TV (720p)
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Gusto TV (720p)
-https://gustotv-samsung-in.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,HA! That's Funny (720p)
 https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
 #EXTINF:-1 ,Hallmark Movies & More (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
-#EXTINF:-1 ,HappyKids (1080p)
-https://futuretoday-happykids-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,HappyKids (720p)
 https://happykids-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,HappyKids Junior (720p)
@@ -2312,8 +1705,6 @@ http://media4.tripsmarter.com:1935/LiveTV/KTVHD/chunklist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokukidgenius/CDN/playlist.m3u8
 #EXTINF:-1 ,KidsFlix (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
-#EXTINF:-1 ,Kool TV (1080p)
-http://209.182.219.50:1935/roku/roku/playlist.m3u8
 #EXTINF:-1 ,KVVB-TV 33 Victor Valley (1080p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 #EXTINF:-1 ,Lagos Television (180p) [Not 24/7]
@@ -2444,8 +1835,6 @@ http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8
 https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
 #EXTINF:-1 ,MovieMix (720p)
 https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,MSNBC (720p)
-http://1111296894.rsc.cdn77.org/LS-ATL-54548-10/playlist.m3u8
 #EXTINF:-1 ,MST3K (1080p)
 https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8
 #EXTINF:-1 ,MTA 1 English (1080p)
@@ -3374,8 +2763,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8df4bc16e3470007
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d48678d34ceb37d3c458a55/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d48678d34ceb37d3c458a55&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=480&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Wings (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7792f6e093980007e02945/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 ,Pluto TV Wipeout (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ab3e1242be690697279c75d/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ab3e1242be690697279c75d&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=305&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Wipeout (480p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea190ae85a26900075a80e9/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,Pluto TV World Poker Tour (720p)
@@ -3546,8 +2933,6 @@ https://live.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.jamuna.tv/wp-content/themes/jtv-news/img/logo.png",Jamuna TV (720p)
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/CMUHtv3.png",GaanBangla TV (1080p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/canbanglatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://atnbanglauk.tv/wp-content/uploads/2015/04/sized1.png",ATN Bangla UK (576p) [Geo-blocked]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/atnbanglauk-off.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.deshebideshe.tv/assets/importent_images/footer-logo.png",DesheBideshe TV (720p)
@@ -3716,8 +3101,6 @@ http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/157px-Independent_Television_Logo.svg.png",Independent TV (1080p)
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/independent-8-org.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/63/BIJOY_TV_Logo_BD.png",Bijoy TV (720p)
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/bijoy00.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://www.boishakhionline.com/frontend_source/assets/images/logo.png",Boishakhi TV (1080p)
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/boishakhitv-org.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/1Chamk9.png",BTV World (720p)
@@ -3730,7 +3113,6 @@ http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="News",cnn
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-
 #EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 1/20
 https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E01/The_Innocent_Man_E01_720p.m3u8
 #EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 2/20
