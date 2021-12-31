@@ -8,14 +8,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_q
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://r7.pngwing.com/path/238/54/383/indian-premier-league-dd-sports-television-dd-national-cricket-39ee3fc39c581d7670adc32a6a400f2e.png",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 group-title="sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten_HD.png",Sony Ten 1
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/175
-#EXTINF:-1 group-title="sports" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/Ten3_HD.png",Sony Ten 3
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/173
-#EXTINF:-1 group-title="sports" tvg-logo="https://i.imgur.com/3ibgIMV.png",Star Sports 1
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/179
-#EXTINF:-1 group-title="sports" tvg-logo="https://i.imgur.com/VcSPzlc.png",Star Sports 2
-http://basic-iptvesun.com:8080/carter/GUV1bMq2VK/178
 #EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/fD7wLka.jpg",9XM (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg",ABP Ananda (720p)
@@ -30,8 +22,6 @@ http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
 http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/unnamed_75.png",Assam Talks (240p)
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/PWzvp0B.png",Ayush TV (720p) [Not 24/7]
-https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/Boogle_Bollywood.jpg",Boogle Bollywood (400p) [Not 24/7]
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/download_149.png",Channel Win (360p) [Not 24/7]
@@ -184,8 +174,6 @@ http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32012
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9138
 #EXTINF:-1 group-title="ARABIC BEIN SPORTS" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png",|.AR.| BEIN SPORTS 5 SD
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32011
-#EXTINF:-1 group-title="ARABIC BEIN SPORTS" tvg-logo="http://one-iptv.com/imageslogo/beINSports5.us.png",|.AR.| BEIN SPORTS 5 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9140
 #EXTINF:-1 group-title="ARABIC BEIN SPORTS" tvg-logo="http://one-iptv.com/imageslogo/beINSports6.us.png",|.AR.| BEIN SPORTS 6 HD
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9142
 #EXTINF:-1 group-title="ARABIC BEIN SPORTS" tvg-logo="http://one-iptv.com/imageslogo/beINSports7.us.png",|.AR.| BEIN SPORTS 7 SD
@@ -194,14 +182,10 @@ http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/32009
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9154
 #EXTINF:-1 group-title="ARABIC SPORT" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_70B_12_800_DCA0000_0_0_0.png",|.AR.| DUBAI SPORTS 1 HEVC
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92491
-#EXTINF:-1 group-title="ARABIC SPORT",|.SA.| SSC 7 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/130444
 #EXTINF:-1 group-title="ARABIC OSN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTKADBh8dSove6OS2bIEFzNV79rED8VbChNpsn7NS9FcTT3D5kOV6ji_jV0",---??| OSN |??---
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/22461
 #EXTINF:-1 group-title="ARABIC OSN" tvg-logo="http://one-iptv.com/imageslogo/pu_osnyahalacinema.png",|.AR.| YAHALA HD
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/67242
-#EXTINF:-1 group-title="ARABIC OSN",|.AR.| YAHALA CINEMA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/67244
 #EXTINF:-1 group-title="ARABIC OSN" tvg-logo="http://one-iptv.com/imageslogo/pu_osnalfamosalsalat.png",|.AR.| ALFA MUSALSALAT
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/67246
 #EXTINF:-1 group-title="ARABIC OSN",|.AR.| ENGIMA
@@ -366,26 +350,8 @@ http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/48029
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/48028
 #EXTINF:-1 group-title="ARABIC BEIN ENTERTAINMENT" tvg-logo="http://one-iptv.com/imageslogo/beINMovies3.qa.png",|.AR.| DRAMA HD
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/48039
-#EXTINF:-1 group-title="ARABIC BEIN ENTERTAINMENT" tvg-logo="http://one-iptv.com/imageslogo/FXHD.qa.png",|.AR.| FX HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/48003
 #EXTINF:-1 group-title="ARABIC BEIN ENTERTAINMENT" tvg-logo="http://one-iptv.com/imageslogo/FoxLife.pt.png",|.AR.| FOX LIFE HD
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/48036
-#EXTINF:-1 group-title="ARABIC BEIN ENTERTAINMENT" tvg-logo="http://one-iptv.com/imageslogo/FOXMoviesFamily.qa.png",|.AR.| FOX MOVIES FAMILY HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/48019
-#EXTINF:-1 group-title="ARABIC BEIN ENTERTAINMENT" tvg-logo="http://one-iptv.com/imageslogo/Gourmet.qa.png",|.AR.| GOURMET
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/48012
-#EXTINF:-1 group-title="ARABIC BEIN ENTERTAINMENT" tvg-logo="http://one-iptv.com/imageslogo/beJunior.qa.png",|.AR.| BEJUNIOR HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/48013
-#EXTINF:-1 group-title="ARABIC BEIN ENTERTAINMENT" tvg-logo="http://one-iptv.com/imageslogo/JeemTV.qa.png",|.AR.| JEEM
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/48014
-#EXTINF:-1 group-title="ARABIC BEIN ENTERTAINMENT" tvg-logo="http://one-iptv.com/imageslogo/Baraem.qa.png",|.AR.| BARAEM HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/48041
-#EXTINF:-1 group-title="ARABIC BEIN ENTERTAINMENT" tvg-logo="http://one-iptv.com/imageslogo/JeemTV.qa.png",|.AR.| JEEM TV HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/48033
-#EXTINF:-1 group-title="ARABIC BEIN ENTERTAINMENT" tvg-logo="http://one-iptv.com/imageslogo/DisneyChannel.de.png",|.AR.| DISNEZ CHANNEL HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/48032
-#EXTINF:-1 group-title="ARABIC BEIN ENTERTAINMENT" tvg-logo="http://one-iptv.com/imageslogo/Boomerang.de.png",|.AR.| BOOMERANG HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/48040
 #EXTINF:-1 group-title="ARABIC BEIN ENTERTAINMENT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZH6ovtFfMtU04qcr5aj2YH2zoodhuNxo2JK_UiFk1unCrYsOO1bTh-AQ&s",|.AR.| DTX HD
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/48037
 #EXTINF:-1 group-title="ARABIC BEIN ENTERTAINMENT" tvg-logo="http://one-iptv.com/imageslogo/Gourmet.qa.png",|.AR.| GOURMET HD
@@ -398,610 +364,6 @@ http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60917
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15821
 #EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTSDN2AT1xCU8R0gifU14reiCxDnDr23p5Od4VAgMqz40Gh3RfKq63MrxSL&s",|.AR.| ROTANA AFLAM HEVC
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60918
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="http://one-iptv.com/imageslogo/RotanaAflam.eg.png",|.AR.| ROTANA CINEMA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15733
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="http://one-iptv.com/imageslogo/RotanaAflam.eg.png",|.AR.| ROTANA CINEMA HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15820
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="http://one-iptv.com/imageslogo/RotanaAflam.eg.png",|.AR.| ROTANA CINEMA HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60919
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="http://one-iptv.com/imageslogo/RotanaAflam.eg.png",|.AR.| ROTANA CINEMA EGY
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60920
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="http://one-iptv.com/imageslogo/RotanaAflam.eg.png",|.AR.| ROTANA CINEMA KSA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60921
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjASbbh2QcnGMt4IOIpo92tMHM5ImhIb5mcjuBbmSYgOzHEyVb1AnOxj0&s",|.AR.| ROTANA DRAMA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60922
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjASbbh2QcnGMt4IOIpo92tMHM5ImhIb5mcjuBbmSYgOzHEyVb1AnOxj0&s",|.AR.| ROTANA DRAMA HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60923
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="http://one-iptv.com/imageslogo/RotanaClassic.eg.png",|.AR.| ROTANA CLASSIC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15732
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="http://one-iptv.com/imageslogo/RotanaClassic.eg.png",|.AR.| ROTANA CLASSIC HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15819
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="http://one-iptv.com/imageslogo/RotanaClassic.eg.png",|.AR.| ROTANA CLASSIC HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60927
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="http://one-iptv.com/imageslogo/RotanaKhalijiah.eg.png",|.AR.| ROTANA KHALIJEYA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60924
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="http://one-iptv.com/imageslogo/RotanaKhalijiah.eg.png",|.AR.| ROTANA KHALIJEYA HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60925
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="http://one-iptv.com/imageslogo/RotanaKhalijiah.eg.png",|.AR.| ROTANA KHALIJEYA HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60926
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="http://one-iptv.com/imageslogo/RotanaMusic.eg.png",|.AR.| ROTANA MUSIC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15729
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="http://one-iptv.com/imageslogo/RotanaMusic.eg.png",|.AR.| ROTANA MUSIC HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60928
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAkVIb0U_a3byMBAupjS_gPoujnODzkPdKnPMlD7MRamUZ8WzdF_209eI",|.AR.| ROTANA CLIP
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15731
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="http://one-iptv.com/imageslogo/pu_osnkids.png",|.AR.| ROTANA KIDS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16006
-#EXTINF:-1 group-title="ARABIC ROTANA" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_15E7_38_800_DCA0000_0_0_0.png",|.AR.| ROTANA MASRIYA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16005
-#EXTINF:-1 group-title="ARABIC ISLAMIC" tvg-logo="http://one-iptv.com/imageslogo/IqraaTV.sa.png",|.AR.| IQRAA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15832
-#EXTINF:-1 group-title="ARABIC ISLAMIC" tvg-logo="http://one-iptv.com/imageslogo/SaudiQuran.sa.png",|.AR.| MECCA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16173
-#EXTINF:-1 group-title="ARABIC ISLAMIC" tvg-logo="http://one-iptv.com/imageslogo/SaudiQuran.sa.png",|.AR.| BAHRAIN QURAN
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16248
-#EXTINF:-1 group-title="ARABIC ISLAMIC" tvg-logo="http://one-iptv.com/imageslogo/SaudiQuran.sa.png",|.AR.| SAFA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16130
-#EXTINF:-1 group-title="ARABIC ISLAMIC" tvg-logo="http://one-iptv.com/imageslogo/SaudiQuran.sa.png",|.AR.| SUNNA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15853
-#EXTINF:-1 group-title="ARABIC ISLAMIC" tvg-logo="http://one-iptv.com/imageslogo/SaudiQuran.sa.png",|.AR.| AL RESALAH
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16246
-#EXTINF:-1 group-title="ARABIC ISLAMIC" tvg-logo="http://one-iptv.com/imageslogo/SaudiQuran.sa.png",|.AR.| ALNAS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16249
-#EXTINF:-1 group-title="ARABIC ISLAMIC" tvg-logo="http://one-iptv.com/imageslogo/SaudiQuran.sa.png",|.AR.| QURAN TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15848
-#EXTINF:-1 group-title="ARABIC ISLAMIC" tvg-logo="http://one-iptv.com/imageslogo/SaudiQuran.sa.png",|.AR.| AHL AL QURAN
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16285
-#EXTINF:-1 group-title="ARABIC ISLAMIC" tvg-logo="http://one-iptv.com/imageslogo/SaudiQuran.sa.png",|.AR.| SAUDI QURAN TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16122
-#EXTINF:-1 group-title="ARABIC ISLAMIC" tvg-logo="http://one-iptv.com/imageslogo/SaudiQuran.sa.png",|.AR.| AZHARI
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15940
-#EXTINF:-1 group-title="ARABIC ISLAMIC" tvg-logo="http://one-iptv.com/imageslogo/SaudiQuran.sa.png",|.AR.| AL RESALAH
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16293
-#EXTINF:-1 group-title="ARABIC ISLAMIC" tvg-logo="http://one-iptv.com/imageslogo/SaudiQuran.sa.png",|.AR.| SHARQIA KARBALA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16118
-#EXTINF:-1 group-title="ARABIC ISLAMIC" tvg-logo="http://one-iptv.com/imageslogo/SaudiQuran.sa.png",|.AR.| MAKKAH TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16176
-#EXTINF:-1 group-title="ARABIC ISLAMIC" tvg-logo="http://one-iptv.com/imageslogo/SaudiQuran.sa.png",|.AR.| SAUDI QURAN
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16175
-#EXTINF:-1 group-title="ARABIC ISLAMIC" tvg-logo="http://one-iptv.com/imageslogo/SaudiQuran.sa.png",|.AR.| SAUDI SUNNH
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15963
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="http://one-iptv.com/imageslogo/AlJazeeraEnglish.nl.png",|.AR.| Al JAZEERA NEWS FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16268
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS18zsZ3cyiLZxQ5xnZXL3BsK-phIeXYeekkslsFmNCLOwJa6xtt9QiZA&s",|.AR.| AL JAZEERA MUBASHER
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62165
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="http://one-iptv.com/imageslogo/AlJazeeraMubasher.qa.png",|.AR.| AL JAZEERA MUBASHER FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15975
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="http://one-iptv.com/imageslogo/AlJazeeraDocumentary.qa.png",|.AR.| AL JAZEERA DOCUMENTARY
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62164
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="http://one-iptv.com/imageslogo/AlJazeeraDocumentary.qa.png",|.AR.| AL JAZEERA DOCUMENTARY FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16269
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="http://one-iptv.com/imageslogo/AlJazeeraMubasher.qa.png",|.AR.| AL JAZEERA ENGLISH FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16142
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_853_15_800_DCA0000_0_0_0.png",|.AR.| AD NAT GEO
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62166
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_17DE_3D_800_DCA0000_0_0_0.png",|.AR.| AL ARABIYA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62167
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQn3H_EkZPR8HFa-go4y7fIjoukzT3KCPbYlwaz71_TIGFuyAz3oIpigWmiFQ&s",|.AR.| AL ARABY TV HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62168
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_BB9_1E_800_DCA0000_0_0_0.png",|.AR.| AL HADATH
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62169
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_BB9_1E_800_DCA0000_0_0_0.png",|.AR.| AL ARABIYA ALHADATH
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62170
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRueKr5LzdoqHG0EArJlI2Ny0g6TVl56SasgJdPymA4zwSjdAqZuvKAn73H&s",|.AR.| ALHURRA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62171
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="http://one-iptv.com/imageslogo/BBCArabic.sa.png",|.AR.| BBC ARABIC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62172
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQnVWligfehqllaD8t3TfpLfe2qk6tfzcJddgKpNNDM4uwyMPMgi-yKRQ2S&s",|.AR.| CNBC ARABIYA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62173
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalmgeUg4lpphTRTXCyy_aXgmY29X-WRwpLV6CjLxAnW773Za0ze36czn3&s",|.AR.| DW ARABIA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62174
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjbjyeaPAiqL4oPdSFEQMg-1NF0hdVhhsGlz4WqBkyL3afqJrnACv4p3yJZg&s",|.AR.| El Mehwar TV HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62176
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNrx4LovfLVwwpT95VSxXxUuL1II_mWXIUWwxFg0kv25XHDiuQTB5mzJjk&s",|.AR.| Mekameleen TV HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62177
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDZ7VAZSpyxg0tdu4UMMDKDDuhZ6yt4Mno-3QoO43cDAwnDmkvYVwPvJA&s",|.AR.| RT ARAB
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62179
-#EXTINF:-1 group-title="ARABIC ATFAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQeafV7JQso7hpEcD0h1AVigOD0Bv4YbLGjtzxtca4XB4-gEoGpnpKARCE&s",|.AR.| BARAEEM
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60774
-#EXTINF:-1 group-title="ARABIC ATFAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQN2KPc7t5iC4wGfeL-jcHl88UVB3A2akap3PIKK_wXkfE9e9VGkwyQ4A&s",|.AR.| FIX FOXI
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60775
-#EXTINF:-1 group-title="ARABIC ATFAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRQVR8E6RANTCEs3wjDKVeQSEeUuAl6XNZIiywPt2PCG2caA7CoOr5ZWwA&s",|.AR.| GULLI
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60776
-#EXTINF:-1 group-title="ARABIC ATFAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRUra493xBkP0sfGOeuch5TlkizJBMKDFdFEE5WlTSI7luuE2doVeASg&s",|.AR.| BABY CHANNEL
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60779
-#EXTINF:-1 group-title="ARABIC ATFAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpvfQ4xg4olgUP4-LKwgrpvu92NjryQFqcItcMMj22TqVOdwaeFQAE0ND2&s",|.AR.| CARTOON NETWORK ARABIC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60780
-#EXTINF:-1 group-title="ARABIC ATFAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDyNJx2skhP6bxGG8aTUwQvIyqu2dTmDHPoziav2OS7YaPRyWcBXWSmw&s",|.AR.| HODHOD TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60782
-#EXTINF:-1 group-title="ARABIC ATFAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR5mNa107K1BZvVV9pstPP4kpNnNKTW9MnKcBfk7IhA35srnB-xFXXOrQ&s",|.AR.| MAJID KIDS TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60784
-#EXTINF:-1 group-title="ARABIC ATFAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT7BsodMAAzorQ9I_RcSwvNpxdHViL6lq1ELJQGAixFtOZpXQhzx3x6T4c&s",|.AR.|D MODY KIDS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60786
-#EXTINF:-1 group-title="ARABIC ATFAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT-xfETrOxgrprjaRINKM4xdGyEFr-bYnZLdEuGzf1VsDeXE-jZt-iW85c&s",|.AR.| SPACETOON ARABIC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60788
-#EXTINF:-1 group-title="ARABIC ATFAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1-yKiShKsYlBYNFtFpr-CemBfDV-_ZrvdV8efBd-EQ--a56zjpvuZPxITow",|.AR.| TOYOR AL JANNAH
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15789
-#EXTINF:-1 group-title="ARABIC ATFAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRHRmw4IxQKD_wc8scTBQeHeornSV-vOVaakwgSXPCUv8q1nkNhqDxUEceb",|.AR.| TOTOR BABY
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15788
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/imageslogo/AlAoula.ma.png",|.AR.| AL AOULA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16070
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/imageslogo/AlAoula.ma.png",|.AR.| AL AOULA HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15772
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/imageslogo/AlAoula.ma.png",|.AR.| AL AOULA HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92464
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/logoX/CHAINEARABIC/2M.png",|.AR.| 2M
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15773
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/imageslogo/2M.ma.png",|.AR.| 2M HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30524
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/logoX/CHAINEARABIC/2M.png",|.AR.| 2M MONDE
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15997
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/logoX/CHAINEARABIC/mdi1.png",|.AR.| MEDI 1
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15765
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/logoX/CHAINEARABIC/mdi1.png",|.AR.| MEDI 1 HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/63155
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/logoX/CHAINEARABIC/mdi1.png",|.AR.| MEDI 1 HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92462
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/logoX/CHAINEARABIC/arridia.png",|.AR.| ARRIADIA HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30520
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/logoX/CHAINEARABIC/arridia.png",|.AR.| ARRIADIA FHD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15769
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/logoX/CHAINEARABIC/arabia.png",|.AR.| ARRABIA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15770
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/logoX/CHAINEARABIC/arabia.png",|.AR.| ARRABIA HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92458
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/logoX/CHAINEARABIC/almaghribiaTT.png",|.AR.| AL MAGHRIBIA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15771
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/logoX/CHAINEARABIC/almaghribiaTT.png",|.AR.| AL MAGHRIBIA HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15949
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/logoX/CHAINEARABIC/almaghribiaTT.png",|.AR.| AL MAGHRIBIA HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92457
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/logoX/CHAINEARABIC/sadissa.png",|.AR.| ASSADISSA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15768
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/logoX/CHAINEARABIC/sadissa.png",|.AR.| ASSADISSA HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92460
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/logoX/CHAINEARABIC/tamazight.png",|.AR.| TAMAZIGHT
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15767
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/logoX/CHAINEARABIC/tamazight.png",|.AR.| TAMAZIGHT HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30522
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/logoX/CHAINEARABIC/tamazight.png",|.AR.| TAMAZIGHT HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92463
-#EXTINF:-1 group-title="ARABIC MAROC" tvg-logo="http://one-iptv.com/imageslogo/pu_telemaroc.png",|.AR.| LAAYOUN HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92461
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR-UYRdZwoHKc8x23DJEa-dqUtqPoRV7swWmBgT7wsDTWvGZn7zDmAPGw3y",|.AR.| AWRAS TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30543
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/logoX/chainealgerien/ALLEGERIETV4.png",|.AR.| ALGERIE TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30542
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/logoX/chainealgerien/ALLEGERIETV4.png",|.AR.| ALGERIE 4
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16315
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/logoX/chainealgerien/BAHIATV.png",|.AR.| BAHIA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30539
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/logoX/chainealgerien/BEURTV.png",|.AR.| BEUR TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30526
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/logoX/chainealgerien/CNA.png",|.AR.| CNA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30525
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/logoX/chainealgerien/DZAIR24.png",|.AR.| DZAIR TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30527
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/logoX/chainealgerien/DZAIR24.png",|.AR.| DZAIR NEWS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30528
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/imageslogo/pu_echourouktv.png",|.AR.| ECHOROUK
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30534
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/imageslogo/pu_echourouknews.png",|.AR.| ECHOROUK NEWS HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30532
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/imageslogo/pu_elheddaftv.png",|.AR.| EL HEDDAF
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30535
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/logoX/chainealgerien/enahar.png",|.AR.| ENNAHAR
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30536
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/logoX/chainealgerien/entv.png",|.AR.| NUMEDIA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30537
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/logoX/chainealgerien/entv.png",|.AR.| NUMIDIA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30541
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/imageslogo/SamiraTV.dz.png",|.AR.| SAMIRA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15753
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/imageslogo/pu_entv1.png",|.AR.| PROGRAMME NATIONAL
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/68623
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/imageslogo/pu_berberetv.png",|.AR.| BERBERE TELEVISION
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16224
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/imageslogo/pu_entv1.png",|.AR.| ENTV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/112508
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/imageslogo/pu_entv1.png",|.AR.| EL HAYAT
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/114784
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/El_Fadjer_TV.png/799px-El_Fadjer_TV.png",|.AR.| ALFAJER
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124108
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTH4PpobGmz41iYTKc6WTBIwt8uE5nbMaYD_A&usqp=CAU",|.AR.| EL WATANIA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/124145
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/logoX/chainealgerien/ALLEGERIETV4.png",|.AR.|D ALGERIE 3
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16316
-#EXTINF:-1 group-title="ARABIC ALGERIE" tvg-logo="http://one-iptv.com/logoX/chainealgerien/ALLEGERIETV4.png",|.AR.| ALGERIE 5
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16314
-#EXTINF:-1 group-title="ARABIC TUNISIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUZekDYpI83knvNueiZfqVLDphZ3BJ73zkmhAjh06e0TeFCAu_LkUA_GM",|.AR.| ATTASIA TV HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/93789
-#EXTINF:-1 group-title="ARABIC TUNISIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUZekDYpI83knvNueiZfqVLDphZ3BJ73zkmhAjh06e0TeFCAu_LkUA_GM",|.AR.| ATTASIA TV G
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/93791
-#EXTINF:-1 group-title="ARABIC TUNISIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcREnYAWbkGgOrjs4qV_cnxCbFqoc_KBs4IKIM5w8qa5L9IijjQYTuFkzrj3mA",|.AR.| WATANYA 1
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30555
-#EXTINF:-1 group-title="ARABIC TUNISIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTj4eTO3o77ZP4Nf_PbcUcR9BvUUGz3cYUYSOpNup8f4GofxNw0p_TtEJE",|.AR.| EL HIWAR ETTOUNSI TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30552
-#EXTINF:-1 group-title="ARABIC TUNISIE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQUZekDYpI83knvNueiZfqVLDphZ3BJ73zkmhAjh06e0TeFCAu_LkUA_GM",|.AR.| ATTASIA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15744
-#EXTINF:-1 group-title="ARABIC TUNISIE" tvg-logo="http://one-iptv.com/imageslogo/pu_alinsentv.png",|.AR.| AL INSEN
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15746
-#EXTINF:-1 group-title="ARABIC TUNISIE" tvg-logo="http://one-iptv.com/imageslogo/pu_telvzatv.png",|.AR.| TELVZA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40884
-#EXTINF:-1 group-title="ARABIC TUNISIE" tvg-logo="http://one-iptv.com/logoX/chainetubnisie/aljanoubia.png",|.AR.| AL JANOUBIA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30550
-#EXTINF:-1 group-title="ARABIC TUNISIE" tvg-logo="http://one-iptv.com/imageslogo/pu_telvzatv.png",|.AR.| M TUNISIA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/30548
-#EXTINF:-1 group-title="ARABIC TUNISIE" tvg-logo="http://one-iptv.com/logoX/chainetubnisie/almustakulah.png",|.AR.| AL MUSTAKILLAH
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15745
-#EXTINF:-1 group-title="ARABIC TUNISIE" tvg-logo="http://one-iptv.com/logoX/chainetubnisie/tounssena.png",|.AR.| TUNISNA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15748
-#EXTINF:-1 group-title="ARABIC TUNISIE" tvg-logo="http://one-iptv.com/logoX/chainetubnisie/zaytoona.png",|.AR.| ZAYTOUNA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15747
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/logoX/maser/nillecinema.png",|.AR.| NILE CINEMA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15824
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/logoX/maser/nillecomedy.png",|.AR.| NILE COMEDY
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15866
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/logoX/maser/nilleculture.png",|.AR.| NILE CULTURE
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15865
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/logoX/maser/nilledrama.png",|.AR.| NILE DRAMA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15864
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/logoX/maser/nillelife.png",|.AR.| NILE LIFE
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15863
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD9RCQqyT_lm8ubxDByiy1XvPxn6GVvA8l1NR7oaYj_Hj0uGZAQoimFgQg",|.AR.| NILE NEWS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15862
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/logoX/maser/nillesport.png",|.AR.| NILE SPORT
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15861
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/logoX/maser/nilletv.png",|.AR.| NILE TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15860
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/imageslogo/NileFamily.eg.png",|.AR.| NILE FAMILY
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15859
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/logoX/maser/bluenile.png",|.AR.| BLUE NILE
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15934
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/logoX/maser/panoramadrama.png",|.AR.| PANORAMA DRAMA 1
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16137
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/logoX/maser/panoramadrama2.png",|.AR.| PANORAMA DRAMA 2
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16136
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/logoX/maser/pannoramafood.png",|.AR.| PANORAMA FOOD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16134
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/logoX/maser/cbcsofra.png",|.AR.| CBC SOFRA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15932
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRUVt-wxfp94XCPLd1NbPt7p1Tt-MK44HYWYWAkqxlqXAC1N5iB1J-DnVk",|.AR.| DMC NEWS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16218
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/logoX/maser/dmcdrama.png",|.AR.| DMC DRAMA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15930
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/logoX/maser/maserahiyat.png",|.AR.| DMC MASRAHEYAT
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16219
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgK2kwpJ_0J5xO5xd3JUyARBhWbsmCLSAF_ti3KSWIYvk4pAqW0k1_gl1t",|.AR.| DREAM
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16216
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYh6Bd2GQp5P7hy9r81KuTtC26YuJCPVWUDADZ_7INPeqHg_PYgtd-RueEGg",|.AR.| DMC KIDS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16034
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTpywi6d2tiyp3RluwnCLjbmTg3f6jn8BlZYITS_iaJCYdQjKgCJLrRe-0o",|.AR.| ON E
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16144
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/logoX/maser/onlive.png",|.AR.| ON LIVE
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16145
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/imageslogo/pu_ondrama_ati.png",|.AR.| ON DRAMA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16217
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSwedeofCYg7QXYHqX-OglNupLHPnIOJxL-Zd_1JdySGJPxn4es-esePG0qDw",|.AR.| ON SPORT
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16097
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/logoX/maser/alhayat2.png",|.AR.| AL HAYAT 2
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16273
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/imageslogo/AlHayatMusalsalat.eg.png",|.AR.| AL HAYAT DRAMA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16033
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/imageslogo/AlHayat2.eg.png",|.AR.| AL HAYAT WA AL NAS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16032
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRj9epsQ_rN6k3K2-p2s2s-x8-IgmGoEqoAR8_kMon--A_uQMsr5Ym4zw",|.AR.| OSCAR TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16221
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_D01_21_800_DCA0000_0_0_0.png",|.AR.| AGHANI TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64270
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| AL AHLY TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64271
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| AL BAIT BAITAK CINEMA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64272
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| AL BASIRA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64273
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| AL KAHERA WAL NAS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64275
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| AL KAHERA WAL NAS  2
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64276
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| AL MASRAWIA AFLAM
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64277
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_1FA_5_800_DCA0000_0_0_0.png",|.AR.| AL MASRIYA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64278
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| AL SA3A MASRA7
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64280
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| AL SHASHA CINEMA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64282
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| AL NAHAR DRAMA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64283
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| AL NAHAR ONE
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64284
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| ALASKANDRIA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64285
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| ALHADATH ALYOUM
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64286
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| ALKAHERA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64287
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| ALQANAT 9
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64289
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| ALTHANIA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64291
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| WATAN TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64292
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_D02_21_800_DCA0000_0_0_0.png",|.AR.| ARABICA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64293
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| CIMA ALIBABA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64301
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| CINEMA PRO
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64305
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_13F6_33_800_DCA0000_0_0_0.png",|.AR.| EXTRA NEWS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64308
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/imageslogo/pu_family_drama.png",|.AR.| FAMILY DRAMA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64309
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| FUNOON
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64310
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| HAWACOM
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64311
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_AF7_1C_800_DCA0000_0_0_0.png",|.AR.| HAWAS TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64312
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| IMAGINE MOVIES
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64314
-#EXTINF:-1 group-title="ARABIC EGYPTE" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_267_6_800_DCA0000_0_0_0.png",|.AR.| MASPERO ZAMAN
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64317
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| MASR ALHAYAH
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64318
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| MAZAZIKH TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64319
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| MAZZIKA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64320
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| MELODY CLASSIC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64322
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| MISR AL ZERA3EYA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64323
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| NOGOUM FM TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64325
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| SADA El BELAD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64327
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| SADA ELBALAD DRAMA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64328
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| SAT 7 ARABIC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64329
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| SCARE TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64330
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| STAR CINEMA 1
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64332
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| STAR CINEMA 2
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64333
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| TEBA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64334
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| TEN TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64335
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| WANASSAH
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64339
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| AL OULA HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92475
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.|D AL HAYAT HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92476
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| AL ARABY HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92477
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.|D ON LIVE HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92478
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.|D ON SPORTS HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92479
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| ALKASS ONE HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92481
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| ALKASS 2 HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92482
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| ALKASS FOUR HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92483
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| DMC HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92484
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| ONE E HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92485
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| ON TIME SPORTS HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92486
-#EXTINF:-1 group-title="ARABIC EGYPTE",|.AR.| ON TIME SPORTS 2 HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92487
-#EXTINF:-1 group-title="ARABIC UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwHdaAEpPDS3kYbQVAi-k0indqB73wFpQAoFDfQmJu5uLyusvvfyhkVyoc",|.AR.| SHARJAH SPORTS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15805
-#EXTINF:-1 group-title="ARABIC UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRThw2A8flTrYzNjRUgidmAoxFRZJTNgwDK4gwXWJob2MFjWeLw0dX1sRPS",|.AR.| ABU DHABI SPORTS 1
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15840
-#EXTINF:-1 group-title="ARABIC UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGO1EoOKYXgyesU_fjpPt4XWgIk_tIFiksfSwrbcoYQHxEafCcEp4DdM",|.AR.| ABU DHABI SPORTS 3
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16288
-#EXTINF:-1 group-title="ARABIC UAE" tvg-logo="http://one-iptv.com/logoX/franceculture/natgeo.png",|.AR.|  NATIONAL GEOGRAPHIC ABU DHABI HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92465
-#EXTINF:-1 group-title="ARABIC UAE" tvg-logo="http://one-iptv.com/imageslogo/RotanaKhalijiah.eg.png",|.AR.| ROTANA KHALIJEYA HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92466
-#EXTINF:-1 group-title="ARABIC UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRThw2A8flTrYzNjRUgidmAoxFRZJTNgwDK4gwXWJob2MFjWeLw0dX1sRPS",|.AR.|D AD SPORTS 1 HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92467
-#EXTINF:-1 group-title="ARABIC UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ8_7dIpRTXf1HRasoyMU7jEezytyG5U7DZ4uKImWABryNIJjApilG-BeUY",|.AR.|D AD SPORTS 2 HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92468
-#EXTINF:-1 group-title="ARABIC UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqGO1EoOKYXgyesU_fjpPt4XWgIk_tIFiksfSwrbcoYQHxEafCcEp4DdM",|.AR.| AD SPORT 3 HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92469
-#EXTINF:-1 group-title="ARABIC UAE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTZ8iWLencTyFlsi1Csq53qgAKyECidlA-ylJckLsCbpMDd8Xjg01P96NTD",|.AR.| AD SPORT 4 HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92470
-#EXTINF:-1 group-title="ARABIC UAE" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_8AA_16_800_DCA0000_0_0_0.png",|.AR.|D MAJD KIDS HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92472
-#EXTINF:-1 group-title="ARABIC UAE",|.AR.| YAS SPORT HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92474
-#EXTINF:-1 group-title="ARABIC UAE",|.AR.| DUBAI TV HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92488
-#EXTINF:-1 group-title="ARABIC UAE",|.AR.| SAMA DUBAI HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92489
-#EXTINF:-1 group-title="ARABIC UAE",|.AR.| FUJAIRA TV HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92490
-#EXTINF:-1 group-title="ARABIC UAE",|.AR.| DUBAI RACING HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92492
-#EXTINF:-1 group-title="ARABIC UAE",|.AR.| DHAFRA HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92493
-#EXTINF:-1 group-title="ARABIC UAE",|.AR.| DUBAI ONE HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92494
-#EXTINF:-1 group-title="ARABIC UAE",|.AR.| ABU DHABI DRAMA HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92495
-#EXTINF:-1 group-title="ARABIC UAE",|.AR.| ABU DHABI TV HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92496
-#EXTINF:-1 group-title="ARABIC UAE",|.AR.| DUBAI TV HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92497
-#EXTINF:-1 group-title="ARABIC UAE",|.AR.| FUAJIRAH HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92498
-#EXTINF:-1 group-title="ARABIC UAE",|.AR.| BAYNOUNAH HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92499
-#EXTINF:-1 group-title="ARABIC UAE",|.AR.| AL EMARAT HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92500
-#EXTINF:-1 group-title="ARABIC KSA" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_A2A_1A_800_DCA0000_0_0_0.png",|.AR.| SAUDI 2 TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15842
-#EXTINF:-1 group-title="ARABIC KSA" tvg-logo="http://one-iptv.com/imageslogo/AlMajd.sa.png",|.AR.| AL MAJD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62748
-#EXTINF:-1 group-title="ARABIC KSA" tvg-logo="http://one-iptv.com/imageslogo/AlMajd.sa.png",|.AR.| AL MAJD AL ALAMEYA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62749
-#EXTINF:-1 group-title="ARABIC KSA" tvg-logo="http://one-iptv.com/imageslogo/AlMajd.sa.png",|.AR.| AL MAJD AL HADITH AL NABAWI
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62750
-#EXTINF:-1 group-title="ARABIC KSA" tvg-logo="http://one-iptv.com/imageslogo/AlMajd.sa.png",|.AR.| AL MAJD AL TABILIYA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62752
-#EXTINF:-1 group-title="ARABIC KSA" tvg-logo="http://one-iptv.com/imageslogo/AlMajd.sa.png",|.AR.| AL MAJD AL WATHAIKIYA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62753
-#EXTINF:-1 group-title="ARABIC KSA" tvg-logo="http://one-iptv.com/imageslogo/AlMajd.sa.png",|.AR.| AL MAJD KIDS BESMA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62755
-#EXTINF:-1 group-title="ARABIC KSA" tvg-logo="http://one-iptv.com/imageslogo/AlMajd.sa.png",|.AR.| AL MAJD KIDS RAWDHA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62756
-#EXTINF:-1 group-title="ARABIC KSA" tvg-logo="http://one-iptv.com/imageslogo/AlMajd.sa.png",|.AR.| AL MAJD QURAN
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/62757
-#EXTINF:-1 group-title="ARABIC KSA" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_A29_1A_800_DCA0000_0_0_0.png",|.AR.| SAUDI CHANNEL QURAN HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92513
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/MTVLebanon.lb.png",|.AR.| LEBANON MTV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64724
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0awL925WZ_xkAKeMflCE6TtaYr_Ax4LejUuRbc7t3kde09dkMM0CSXA&s",|.AR.| ALAAN TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60887
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStRhybfPe-gLwXe0QkiMKDLmr0qre9Rk7efBZ4hA6o0lj9pgFChojGDA&s",|.AR.| TELE LIBAN TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60888
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2OVB7VU08tn1WrEjdPrlz6yZgi4Vro8Y3aw3rkMiLVhEsmpVneffltGc&s",|.AR.| ETIHAD TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60889
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/LBC.lb.png",|.AR.| LBC HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60891
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/FutureTVEn.lb.png",|.AR.| FUTURE TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40934
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGzEMHQNJwhDNM-l2t4GvAmixW82Y8EPce4dEEoXwhVMX7p_8U4QG3_Ts",|.AR.| AL JADEED
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15976
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/AlManar.lb.png",|.AR.| AL MANAR HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64721
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/CBC.eg.png",|.AR.| CBC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15831
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/CBCDrama.eg.png",|.AR.| CBC DRAMA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16182
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/MTVLebanon.lb.png",|.AR.| MTV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64723
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/MTVLebanon.lb.png",|.AR.| MTV HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/40933
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_13F6_33_800_DCA0000_0_0_0.png",|.AR.| CBC SOFRA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15823
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/FutureTVEn.lb.png",|.AR.| FUTURE
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64722
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/FutureTVEn.lb.png",|.AR.| FUTURE HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64726
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/LBC.lb.png",|.AR.| LBC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/66225
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/OTVLebanon.lb.png",|.AR.| OTV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/66227
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/OTVLebanon.lb.png",|.AR.| OTV HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/66228
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_70D_12_800_DCA0000_0_0_0.png",|.AR.| NOUR EL SHAM
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/66230
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_70D_12_800_DCA0000_0_0_0.png",|.AR.| NOOR DUBAI TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/66231
-#EXTINF:-1 group-title="ARABIC LIBAN",|.AR.| NOURSAT
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/66232
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/FutureTVEn.lb.png",|.AR.| FUTURE LEBANON
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/66233
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/pu_gulli.png",|.AR.| GULLI ARABIC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/66234
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/AlHurra.iq.png",|.AR.| AL HURRA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/66235
-#EXTINF:-1 group-title="ARABIC LIBAN",|.AR.| TAHA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/66236
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_6FFF_436_1_C00000_0_0_0.png",|.AR.| MAZZIKA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/66237
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_D02_21_800_DCA0000_0_0_0.png",|.AR.| ARABICA TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/66238
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_D01_21_800_DCA0000_0_0_0.png",|.AR.| AGHANI
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/66239
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/MTVMusic24.nl.png",|.AR.| MUSIC NOGOUM FM TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/66240
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_70D_12_800_DCA0000_0_0_0.png",|.AR.| AL MAYADEEN TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/66242
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/OTVLebanon.lb.png",|.AR.| OTV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/64725
-#EXTINF:-1 group-title="ARABIC LIBAN" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_70D_12_800_DCA0000_0_0_0.png",|.AR.| TV LIBAN
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/66229
-#EXTINF:-1 group-title="ARABIC IRAQ" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ4qlkHPOt4eILUhiAbE5RjxaP7FQTV4Hb72WWyoeb1C6aUNgLhwX5HJg&s",|.AR.| AL BAEENAH IRAQ
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60903
-#EXTINF:-1 group-title="ARABIC IRAQ" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_2E2_7_800_DCA0000_0_0_0.png",|.AR.| CHARQUIA NEWS HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92501
-#EXTINF:-1 group-title="ARABIC IRAQ" tvg-logo="http://one-iptv.com/imageslogo/AlHurra.iq.png",|.AR.| ALHURRA HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92502
-#EXTINF:-1 group-title="ARABIC IRAQ" tvg-logo="http://one-iptv.com/imageslogo/pu_i24news.png",|.AR.| INEWS HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92503
-#EXTINF:-1 group-title="ARABIC IRAQ" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_2E2_7_800_DCA0000_0_0_0.png",|.AR.| KARBALA TV HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92504
-#EXTINF:-1 group-title="ARABIC IRAQ" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_2E2_7_800_DCA0000_0_0_0.png",|.AR.| ZAGROS TV HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92505
-#EXTINF:-1 group-title="ARABIC IRAQ" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_2E2_7_800_DCA0000_0_0_0.png",|.AR.| ALTAHIER TV HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92507
-#EXTINF:-1 group-title="ARABIC IRAQ" tvg-logo="http://one-iptv.com/imageslogo/MBCIraq.iq.png",|.AR.| MBC IRAQ HEVC
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92509
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="http://one-iptv.com/imageslogo/pu_libya218tv_ly.png",|.AR.| LIBYA ONE
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15895
-#EXTINF:-1 group-title="ARABIC LIBYA" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_89C_16_800_DCA0000_0_0_0.png",|.AR.| LIBYA SPORT
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15894
-#EXTINF:-1 group-title="ARABIC PALESTINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhR5R7JRlSIw5UMEp-guepYRw4xHD4ricCO4qQhJbBQjrFeSKN3qvbg&s",|.AR.| PALESTINE
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60929
-#EXTINF:-1 group-title="ARABIC PALESTINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR7Ddr5Zte32pDJw6klSwgoWVPYStspGxIAJTvHZycyUhhoLfD6ZMrN5uc&s",|.AR.| PALESTINE LIVE
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60930
-#EXTINF:-1 group-title="ARABIC PALESTINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRjsPwY3tK4mRqoDuj9oe4Ggz5Et531k6Xw74W1a9ZFNnekurxD_m_iShc&s",|.AR.| PALESTINE TODAY
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60931
-#EXTINF:-1 group-title="ARABIC PALESTINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLzJTYnA7clYA0g4FQDJE7EwSbGp7PfXsGsKbTj_W5UZ0DJ01x1ajqQ0Uq_Q&s",|.AR.| WATAN
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60932
-#EXTINF:-1 group-title="ARABIC PALESTINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRbEemdzZ69cdNrp1TCLm_Uf2aWXP5-q5rdMHyFsFh3LeONH6NhbdtRrg&s",|.AR.| ALHAQIQA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60934
-#EXTINF:-1 group-title="ARABIC PALESTINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAkCP9lgpxCLSz1pirJFBuBD8tT7NE1KudFnXW-cHGIUl9_xWydqN13kk&s",|.AR.| SALAM
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60935
-#EXTINF:-1 group-title="ARABIC PALESTINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQwF_v4XxJ0f7JGndveytNas_HYbPX6Iu2jhHOZNrQQy5vQWa4V4Ok-DRFStQ&s",|.AR.| MUSAWA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60936
-#EXTINF:-1 group-title="ARABIC PALESTINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZJOm1qtJWLbcH0eH5pN_wvzuNQn4ahdZsuYNJsz9Mw4ur_oQrCGwx8Hx6&s",|.AR.| NEWS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60937
-#EXTINF:-1 group-title="ARABIC PALESTINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQu6V-BGWT4zCt2sy7ImSCp_tcXWxvSHkFp2Q_0rJESISAcCqX1xNCjtL0g&s",|.AR.| AWDEH
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60938
-#EXTINF:-1 group-title="ARABIC PALESTINE" tvg-logo="http://one-iptv.com/imageslogo/pu_jo.png",|.AR.| JORDAN
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60939
-#EXTINF:-1 group-title="ARABIC PALESTINE" tvg-logo="http://one-iptv.com/imageslogo/pu_jo.png",|.AR.| NABLUS TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/60940
-#EXTINF:-1 group-title="ARABIC PALESTINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhR5R7JRlSIw5UMEp-guepYRw4xHD4ricCO4qQhJbBQjrFeSKN3qvbg&s",|.AR.| AJYAL TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/103762
-#EXTINF:-1 group-title="ARABIC PALESTINE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYhR5R7JRlSIw5UMEp-guepYRw4xHD4ricCO4qQhJbBQjrFeSKN3qvbg&s",|.AR.| HOLY QURAN
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/103763
-#EXTINF:-1 group-title="ARABIC +PLUS+" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_1267_2F_800_DCA0000_0_0_0.png",|.AR.| ZEE ALWAN
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15849
-#EXTINF:-1 group-title="ARABIC +PLUS+" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_1_1267_2F_800_DCA0000_0_0_0.png",|.AR.| ZEE ALWAN HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/70198
-#EXTINF:-1 group-title="ARABIC +PLUS+" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_19_44F_7594_77E_DC00000_0_0_0.png",---??| KUWAIT |??---
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16225
-#EXTINF:-1 group-title="ARABIC +PLUS+" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_19_44F_7594_77E_DC00000_0_0_0.png",|.AR.| KTV ETHRAA HD
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/94391
-#EXTINF:-1 group-title="ARABIC +PLUS+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQybeeZWsXuIm_KMPpVjZOaQZkWFpnUTqOpIb61ivSVFLu82Xv1GKAmp7Q",|.AR.| KUWAIT TV2
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16183
-#EXTINF:-1 group-title="ARABIC +PLUS+" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbMVbJx6mMMJc5CnYmH50p_rzI4xmRJhsr2kin5FbGOYcm5Y1T_b98",|.AR.| KUWAIT ETHRAA
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16188
-#EXTINF:-1 group-title="ARABIC +PLUS+" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_19_44F_7594_77E_DC00000_0_0_0.png",|.AR.| KUWAIT PLUS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16187
-#EXTINF:-1 group-title="ARABIC +PLUS+" tvg-logo="http://one-iptv.com/imageslogo/pu_sudantv.gif",|.AR.| SUDAN TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16113
-#EXTINF:-1 group-title="ARABIC +PLUS+" tvg-logo="http://one-iptv.com/imageslogo/SyriaSatelliteChannel.sy.png",|.AR.| SYRIA MEDICAL TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15798
-#EXTINF:-1 group-title="ARABIC NEWS" tvg-logo="http://one-iptv.com/imageslogo/SyriaSatelliteChannel.sy.png",|.AR.| SYRIA NEWS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15797
-#EXTINF:-1 group-title="ARABIC +PLUS+" tvg-logo="http://one-iptv.com/imageslogo/SyriaSatelliteChannel.sy.png",|.AR.| ALMOURABITOUNE
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/105189
-#EXTINF:-1 group-title="ARABIC +PLUS+" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.lyngsat.com%2Ftvchannels%2Fsd%2FAl-Hilal-TV.html&psig=AOvVaw2I9otwheqHmTBARzG33Yyr&ust=1619990800654000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMDF6Zm2qfACFQAAAAAdAAAAABAJ",|.AR.| AL HILAL TV
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/123022
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/MRULdc8.png",beIN Sports 1
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6781/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NDp6TlM.png",beIN Sports 2
@@ -1232,8 +594,6 @@ http://cdntv.online/high/wvj6futh2r/41.m3u8?token=AnonymousTV
 https://hls.goodgame.ru/manifest/157239_master.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3546.png",FANTASTIKA SCI-FI
 http://v2.catcast.tv/content/38801/index.m3u8
-#EXTINF:-1 group-title="МОДА" tvg-logo="https://dvb.by/sources/logos/1178.png",Fashion TV Czech&Slovak
-http://lb.streaming.sk/fashiontv/stream/playlist.m3u8
 #EXTINF:-1 group-title="МОДА" tvg-logo="https://dvb.by/sources/logos/1178.png",Fashion TV FHD
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_paris_pg_4dg_27027_paris_pg18_188_hls.smil/chunklist_b4700000_t64MTA4MHA=.m3u8
 #EXTINF:-1 group-title="МОДА" tvg-logo="https://dvb.by/sources/logos/1178.png",Fashion TV Midnite Secrets
@@ -1504,8 +864,6 @@ http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.stream/chunklist.m3u8
 #EXTINF:-1 group-title="Израиль",Ynet Live (720p)
 https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
-#EXTINF:-1 group-title="Українські" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Starz (UK).png",Z (Запорожье)
-https://stream.ztv.zp.ua/hls/live.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/1210.png",ZEE TV
 http://194.213.23.7:3304
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Zero.png",Zerouno TV
@@ -1718,8 +1076,6 @@ http://cdn1.live-tv.od.ua:8081/a1od/gtvod-720p/playlist.m3u8
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-720p/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/1588.png",Остросюжетное HD
 http://cdntv.online/high/wvj6futh2r/902.m3u8
-#EXTINF:-1 group-title="Українські" tvg-logo="https://iptvx.one/picons/../Channel/Logo/ОТВ.png",ОТВ
-http://91.193.128.233:1935/live//otv.stream_576p/playlist.m3u8
 #EXTINF:-1 group-title="Кино",ПАМЯТЬ
 https://v2.catcast.tv/content/38821/index.m3u8
 #EXTINF:-1 group-title="СССР",Память ТВ
@@ -2078,8 +1434,6 @@ https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
 #EXTINF:-1 ,AfricaNews English (720p)
 https://rakuten-africanews-1-dk.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 ,Afrobeats (720p)
-https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 ,AFV (720p)
 https://dai.google.com/linear/hls/event/18_lZXPySFa5_GRVEbOX_A/master.m3u8
 #EXTINF:-1 ,Akaal TV (396p)
@@ -2496,8 +1850,6 @@ https://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/playlist.m3u8
 https://johnnycarson-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Johnny Carson TV (432p)
 https://johnnycarson-zype.amagi.tv/playlistR432p.m3u8
-#EXTINF:-1 ,Journy (1080p)
-http://d3lzjtrf5mvf3p.cloudfront.net/playlist.m3u8
 #EXTINF:-1 ,Journy (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8
 #EXTINF:-1 ,Judge Karen's Court (720p)
@@ -2522,8 +1874,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokukidgenius/CDN/playlist.m3u8
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 ,KVVB-TV 33 Victor Valley (1080p)
 https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
-#EXTINF:-1 ,Lagos Television (180p) [Not 24/7]
-http://185.105.4.193:1935/ltv/myStream/playlist.m3u8
 #EXTINF:-1 ,Lake Havasu City 4 (240p)
 https://granicusliveus3-a.akamaihd.net/lakehavasucity/G0643_002/playlist.m3u8
 #EXTINF:-1 ,Lao Champa TV 1 (720p)
@@ -2676,8 +2026,6 @@ https://pac12-samsungus.amagi.tv/playlist.m3u8
 https://pac12-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Paramount Movie Channel (684p)
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 ,Pardesi TV (720p) [Not 24/7]
-http://stream.pardesitv.online/pardesi/index.m3u8
 #EXTINF:-1 ,Party Tyme Karaoke (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
 #EXTINF:-1 ,PBS 39 Allentown (WLVT) (720p)
@@ -2710,8 +2058,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumo-playerstv/CDN/master.m3u8
 https://playerstv-samsungca.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Players TV (1080p)
 https://playerstv-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Pluto TV 21 Jump Street (720p) [Not 24/7]
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4af00df345adb154b7a1f4/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,Pluto TV 70s Cinema (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d878d3d19b30007d2e782/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,Pluto TV 80s Rewind (684p)
@@ -2884,8 +2230,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f8eb91bb
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,Pluto TV Conspiracy (England) (480p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d4ae94ef1a1bbb350ca41bb/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d4ae94ef1a1bbb350ca41bb&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=202&terminate=false&userId=
-#EXTINF:-1 ,Pluto TV Cookalong (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5dbc297672961b0009f12e5b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,Pluto TV Cops (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e1f7e089f23700009d66303/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e1f7e089f23700009d66303&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=367&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Crime Investigation 360 (720p)
@@ -3026,8 +2370,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c47f36
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f7794162a4559000781fc12/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,Pluto TV Health (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5c5c2d7ae59bf23c192c411c/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 ,Pluto TV Hell's Kitchen (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e6f38792075160007d85823/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,Pluto TV HER (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e4bf0db50560a000948ce52/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,Pluto TV Hillsong Channel (720p)
@@ -3106,8 +2448,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d51ddf0369acdb278
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5f15e181520cfa000771ce79/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5f15e181520cfa000771ce79&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=147&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV MADE In Britain (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e14486590ba3e0009d912ff/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 ,Pluto TV Mario vs Sonic (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5dc02ece31f6050009de4b39/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5dc02ece31f6050009de4b39&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=7ecc4d45-0714-11eb-9b92-0242ac110002&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV McLeod's Daughters (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea18e5df6dd1d0007cf7bad/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,Pluto TV Midsomer Murders (720p)
@@ -3334,8 +2674,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4d863b9
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5637d31f319573e26b64040b/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5637d31f319573e26b64040b&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=468&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Star Trek (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5efbd39f8c4ce900075d7698&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=150&terminate=false&userId=
-#EXTINF:-1 ,Pluto TV Storage Wars (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ede464e7be0030007c58b73/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5ede464e7be0030007c58b73&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=5922d945-0586-11eb-a59f-0242ac110002&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Stories by AMC (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8254118601b80007b4b7ae/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5e8254118601b80007b4b7ae&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=135&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Strongman (720p)
@@ -3510,8 +2848,6 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/deshebideshe.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://www.doyeltv.com/wp-content/uploads/2020/12/LOGO-BUG-without-Slogan.png",Doyel TV (720p)
 http://ipm.oncast.me:1934/iplived/ip-doyeltv.stream/playlist.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://www.jonmobhumi.tv/wp-content/uploads/2017/11/Final-Red-Logo.png",JonmoBhumi TV (720p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jonmobhumitv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png",NTV Europe (720p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/41/Rtv_bangladesh.PNG",RTV (1080p)
