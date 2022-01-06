@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 group-title="RELIGION" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a2/Makkah_logo.png",Makkah TV
 https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/saudi_quran/hls1/saudi_quran.m3u8?checkedby:hlscat.com
 #EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/download_215.jpg",A Sports (pk)
@@ -124,8 +123,6 @@ http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/22460
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9152
 #EXTINF:-1 group-title="ARABIC BEIN SPORTS" tvg-logo="http://one-iptv.com/imageslogo/pu_beinsportsnews.png",|.AR.| BEIN SPORTS NEWS HEVC
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92512
-#EXTINF:-1 group-title="ARABIC BEIN SPORTS" tvg-logo="http://one-iptv.com/imageslogo/beINSportsGlobal.qa.png",|.AR.| BEIN SPORTS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/9156
 #EXTINF:-1 group-title="ARABIC BEIN SPORTS" tvg-logo="http://one-iptv.com/imageslogo/beINSportsGlobal.qa.png",|.AR.| BEIN SPORTS HEVC
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/92511
 #EXTINF:-1 group-title="ARABIC BEIN SPORTS" tvg-logo="http://mxcccam.com/picons/beINSport.ca.png",|.AR.| BEIN SPORTS PREMIUM 1 SD
@@ -330,8 +327,6 @@ http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15878
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15876
 #EXTINF:-1 group-title="ARABIC MBC" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTveBNT6DMFE3nXHhPMjsSUeN-p2Shezn7lvajkVsWEZSpq4AbXATijZdh6uA&s",|.AR.| MBC IRAQ
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/49969
-#EXTINF:-1 group-title="ARABIC ART" tvg-logo="http://one-iptv.com/imageslogo/ARTCinemaEn.sa.png",---??| ARABIC ART |??---
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/22477
 #EXTINF:-1 group-title="ARABIC ART" tvg-logo="http://one-iptv.com/logoX/art/artaflam1.png",|.AR.| ART AFLAM 1
 http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/15728
 #EXTINF:-1 group-title="ARABIC ART" tvg-logo="http://one-iptv.com/logoX/art/artaflam2.png",|.AR.| ART AFLAM 2
@@ -386,8 +381,6 @@ https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 http://210.210.155.35/dr9445/h/h10/01.m3u8
 #EXTINF:-1 group-title="NATIONAL SPORTS" tvg-logo="https://i.imgur.com/0g1cseU.png",eGG Network
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://htvc.vn/uploads/editor/images/logo%20htv%20the%20thao.png",HTV Th? Thao
-https://vips-livecdn.fptplay.net/sdb/htvcthethao_hls.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://i.imgur.com/JApkfiF.png",Tennis Channel International
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="NATIONAL SPORTS" tvg-logo="https://i.imgur.com/AcB6gDy.png",Soccer Channel
@@ -512,8 +505,6 @@ https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
 https://avers.pp.ua/hls/efir.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Backus tv.png",BACKUS TV HD
 http://2otsfwsh.otttv.pw/iptv/S3YKA4S9YGN99U/11049/index.m3u8
-#EXTINF:-1 group-title="Кино Premium" tvg-logo="https://iptvcinema.ru/channels/backustv.png",Backus TV HD
-http://iptvcinema.online/backus_tv/index.m3u8?token=mic
 #EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Backus tv.png",BACKUSTV Страшное HD
 http://2otsfwsh.otttv.pw/iptv/S3YKA4S9YGN99U/10061/index.m3u8
 #EXTINF:-1 group-title="Зарубежный спорт" tvg-logo="../Channel/Logo/Blackbelt TV.png",Bellator MMA
@@ -616,8 +607,6 @@ https://okkotv-live.cdnvideo.ru/channel/Fox_HD.m3u8
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5a74b8e1e22a61737979c6bf/master.m3u8?terminate=false&deviceType=web&deviceMake=web&deviceModel=web&sid=705&deviceId=5a74b8e1e22a61737979c6bf&deviceVersion=DNT&appVersion=DNT&deviceDNT=0&userId=&advertisingId=&deviceLat=&deviceLon=&app_name=&appName=web&buildVersion=&appStoreUrl=&architecture=&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false
 #EXTINF:-1 group-title="Українські" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Bloomberg TV белый.png",G TV (Одесса)
 http://cdn1.live-tv.od.ua:8081/a1od/gtvod-abr/a1od/gtvod-480p/playlist.m3u8
-#EXTINF:-1 group-title="Музыка",Gakku
-http://92.46.127.146:8080/gakku/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/2418.png",Galaxy
 http://cdntv.online/high/wvj6futh2r/304.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/2418.png",Galaxy HD
@@ -680,8 +669,6 @@ http://190.2.155.162:8080/m6music/mpegts
 https://v2.catcast.tv/content/33816/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Canal+ Family 2.png",Millenium TV HD
 http://tv1.mmg.ooo/live/hd.stream/playlist.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/3143.png",Most Video TV HD
-http://w4.mostvideo.tv/tv/ch1.m3u8?token=AnonymousTV
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Motors TV.png",Motors TV
 https://digicom.hls.iptvdc.com/motorstv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/1131.png",MTV Block Party HD
@@ -728,8 +715,6 @@ http://iptv.prosto.tv:7000/ch322/video.m3u8
 http://cdnhls.goodgame.ru/hls/180960.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/../Channel/Logo/PZN HD.png",PZN TV
 http://hls.goodgame.ru/hls/180960.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/2577.png",Qazsport
-http://92.46.127.146:8080/qazsport/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Radio 105 TV.png",Radiom 20
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Radionorba TV.png",Radionorba TV
@@ -798,8 +783,6 @@ http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d1
 http://cdntv.online/high/wvj6futh2r/103.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/2168.png",TV 1000 Action FHD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_Action_HD.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/125.png",TV 1000 Action HD
-http://195.245.97.133:8800/play/TVAction_HLS/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/1016.png",TV 1000 FHD
 https://okkotv-live.cdnvideo.ru/channel/TV1000_HD.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/127.png",TV 1000 HD
@@ -818,8 +801,6 @@ http://95.67.106.242/hls/ua-tv_ua_mid/index.m3u8
 http://ua-tv-hls2.cosmonova.net.ua/hls/ua-tv_ua_mid/index.m3u8
 #EXTINF:-1 group-title="Українські" tvg-logo="http://epg.it999.ru/img/2147.png",UA Перший
 http://iptv.prosto.tv:7000/ch153/video.m3u8
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2480.png",UFC FHD
-http://91.185.3.218:4000/play/401?token=AnonymousTV
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2480.png",UFC HD
 http://cdntv.online/high/wvj6futh2r/381.m3u8?token=AnonymousTV
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3483.png",Ultra HD Cinema
@@ -948,8 +929,6 @@ http://cdntv.online/high/wvj6futh2r/894.m3u8
 http://cdntv.online/high/wvj6futh2r/120.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/2834.png",Кинопоказ
 http://cdntv.online/high/wvj6futh2r/904.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/2493.png",Киноужас FHD
-http://91.185.3.218:4000/play/259
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/542.png",Кинохит
 http://109.239.128.126:8080/kinohit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="../Channel/Logo/Ключ.png",Ключ
@@ -996,10 +975,6 @@ http://cdntv.online/high/wvj6futh2r/48.m3u8?token=AnonymousTV
 http://cdntv.online/high/wvj6futh2r/50.m3u8?token=AnonymousTV
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2050.png",Матч! Игра FHD
 http://cdntv.online/high/wvj6futh2r/383.m3u8?token=AnonymousTV
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2043.png",Матч! Планета
-http://91.185.3.218:4000/play/617?token=AnonymousTV
-#EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2043.png",Матч! Планета HD
-http://91.185.3.218:4000/play/619?token=AnonymousTV
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2250.png",Матч! Премьер HD
 http://cdntv.online/high/wvj6futh2r/53.m3u8?token=AnonymousTV
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2042.png",МАТЧ! СТРАНА
@@ -1028,8 +1003,6 @@ http://cdntv.online/high/wvj6futh2r/127.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRSERIALA/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/2028.png",Морской
 http://cdntv.online/high/wvj6futh2r/377.m3u8
-#EXTINF:-1 group-title="СССР" tvg-logo="http://epg.it999.ru/img2/3357.png",Мосфильм. Золотая коллекция
-http://91.185.3.218:4000/play/420
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/675.png",Моя Планета
 http://epg.it999.ru/img2/575.png
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/1584.png",Мужское Кино
@@ -1086,8 +1059,6 @@ http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
 http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="https://dvb.by/sources/logos/2443.png",Первый канал HD
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
-#EXTINF:-1 group-title="Общие" tvg-logo="https://dvb.by/sources/logos/1575.png",Первый канал Евразия
-http://stream.euroasia.lfstrm.tv/perviy_evrasia/1/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Первый российский национальный канал.png",Первый российский национальный канал hd
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 group-title="СССР" tvg-logo="../Channel/Logo/Первый Социальный.png",Первый СССР
@@ -1356,8 +1327,6 @@ https://timesnow-lh.akamaihd.net/i/TNHD_1@129288/master.m3u8
 https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_4_av-p.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.ndtvimg.com/i/2014-12/ndtv24x7_640x480_71419357330.jpg",NDTV 24x7 (akamai)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 group-title="Cartoon" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg",Cartoon Network
-http://htv-drm-live-cdn.fptplay.net/CDN-FPT02/CARTOON-SD-720p/chunks.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg",Cartoon Network RU
 http://iptv.prosto.tv:7000/ch207/video.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://1000logos.net/wp-content/uploads/2016/10/Cartoon-Network-logo.jpg",Cartoon Network Hindi (jio)
@@ -1780,8 +1749,6 @@ https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8
 https://hncfree-klowdtv.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,HNC Free (1080p)
 https://hncfree-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Holly Wire (720p)
-https://hollywire.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,Hope Channel Norge (360p)
 http://media1.adventist.no:1935/live/hope1/playlist.m3u8
 #EXTINF:-1 ,Horror Machine (720p)
@@ -1990,8 +1957,6 @@ https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8
 #EXTINF:-1 ,Mission TV (1080p)
 https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
-#EXTINF:-1 ,MovieMix (720p)
-https://moviemix.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,MST3K (1080p)
 https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8
 #EXTINF:-1 ,MTA 1 English (1080p)
@@ -2590,8 +2555,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5b36abcddfb1f0729a3a7dab/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5b36abcddfb1f0729a3a7dab&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=899&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Pro Wrestling (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5fac431fc1ffbc0007e6b6a7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 ,Pluto TV Pursuit UP (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d486bed428fe37d8cadba45/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d486bed428fe37d8cadba45&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=756&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Reality (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d8bf0b06d2d855ee15115e3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d8bf0b06d2d855ee15115e3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=275&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Rescue 911 (720p)
@@ -2920,8 +2883,6 @@ https://b83608fe932143099bb8b25a66857730.mediatailor.us-east-1.amazonaws.com/v1/
 http://39.134.39.39/PLTV/88888888/224/3221226226/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/XAQpMY6.png",Crackle (XUMO) (1080p)
 http://crackle-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FxYhME9.png",Dust (720p)
-https://dust-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://cdn-images-1.medium.com/max/280/1*7zB_9kQDvR3fa_IIk8fhQg@2x.png",Film Hub (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfilmhub/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/X7U7ikq.png",FilmRise Free Movies (720p)
@@ -3006,46 +2967,6 @@ https://s02.diazol.hu:10192/hls/stream.m3u8
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
 #EXTINF:-1 group-title="News",cnn
 https://cnn-cnninternational-1-eu.rakuten.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 1/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E01/The_Innocent_Man_E01_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 2/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E02/The_Innocent_Man_E02_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 3/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E03/The_Innocent_Man_E03_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 4/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E04/The_Innocent_Man_E04_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 5/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E05/The_Innocent_Man_E05_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 6/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E06/The_Innocent_Man_E06_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 7/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E07/The_Innocent_Man_E07_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 8/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E08/The_Innocent_Man_E08_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 9/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E09/The_Innocent_Man_E09_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 10/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E10/The_Innocent_Man_E10_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 11/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E11/The_Innocent_Man_E11_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 12/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E12/The_Innocent_Man_E12_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 13/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E13/The_Innocent_Man_E13_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 14/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E14/The_Innocent_Man_E14_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 15/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E15/The_Innocent_Man_E15_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 16/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E16/The_Innocent_Man_E16_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 17/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E17/The_Innocent_Man_E17_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 18/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E18/The_Innocent_Man_E18_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 19/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E19/The_Innocent_Man_E19_720p.m3u8
-#EXTINF:-1 group-title="Cuộc Tình Bị Đánh Cắp" tvg-logo="https://images.danet.vn/images/src/81b/cca/5a38103190437f7ffd3232d22529c009.jpg",Tập 20/20
-https://bhd-vod.fptplay.net/hls/AVOD/The_Innocent_Man/The_Innocent_Man_E20/The_Innocent_Man_E20_720p.m3u8
 #EXTINF:-1 group-title="Cuộc Chiến Thượng Lưu" tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2021/04/14/vzr7cgf1_1920x1080-cuocchienthuongluu-docquyen_1920_1080.jpg",Phần 1 - Tập 1A
 https://vod02-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20210723/penthouseseason1_2020_kr_001_logo/2f5801132ce324dc62dce3e3f5249b3a_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="Cuộc Chiến Thượng Lưu" tvg-logo="https://static2.vieon.vn/vieplay-image/carousel_web_v4/2021/04/14/vzr7cgf1_1920x1080-cuocchienthuongluu-docquyen_1920_1080.jpg",Phần 1 - Tập 1B
@@ -4764,3 +4685,5 @@ https://vod03-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201121/hdkdub1080_38/
 https://vod06-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201121/hdkdub1080_39/3a5913b59bf87a2fbb224c491e54643c_1080p.mp4/chunklist.m3u8
 #EXTINF:-1 group-title="Hoa Du Ký" tvg-logo="https://afamilycdn.com/2018/3/5/photo-1-1520220736205935445624.jpg",Tập 40
 https://vod01-cdn.fptplay.net/ovod/_definst_/mp4/encoded/20201121/hdkdub1080-40/76529c3fa7cd6bd400b5af532b458191-1080p.mp4/chunklist.m3u8
+
+
