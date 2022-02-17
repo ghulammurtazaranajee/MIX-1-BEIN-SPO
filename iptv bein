@@ -1,7 +1,12 @@
 #EXTM3U
 
 
-
+#EXTINF:-1 ,قناة ماهر المعقلي
+http://speeder.live:8080/starmahdy79/0941416146DHZ/58993
+#EXTINF:-1 ,قناة احمد العجمي
+http://speeder.live:8080/starmahdy79/0941416146DHZ/58994
+#EXTINF:-1 ,قناة سعد الغامدي
+http://speeder.live:8080/starmahdy79/0941416146DHZ/58995
 #EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/download_215.jpg",A Sports (pk)
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://r7.pngwing.com/path/238/54/383/indian-premier-league-dd-sports-television-dd-national-cricket-39ee3fc39c581d7670adc32a6a400f2e.png",DD Sports
