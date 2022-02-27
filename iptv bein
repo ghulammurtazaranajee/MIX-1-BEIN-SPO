@@ -2,6 +2,7 @@
 
 
 
+
 #EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/download_215.jpg",A Sports (pk)
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://r7.pngwing.com/path/238/54/383/indian-premier-league-dd-sports-television-dd-national-cricket-39ee3fc39c581d7670adc32a6a400f2e.png",DD Sports
@@ -18,8 +19,6 @@ https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/punab_1.jpg",Apna Punjab (720p)
 http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/download_148.png",Ashrafi Channel [Not 24/7]
-http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/unnamed_75.png",Assam Talks (240p)
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/Boogle_Bollywood.jpg",Boogle Bollywood (400p) [Not 24/7]
@@ -106,10 +105,6 @@ http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/4PA2adF.png",Swaraj Express (576p) [Not 24/7]
 https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/4PA2adF.png",TAG TV (1080p) [Not 24/7]
-http://cdn11.live247stream.com/tag/tv/playlist.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/9vosZt4.jpg",TAG TV (1080p) [Not 24/7]
-https://cdn30.liveonlineservices.com/hls/tagtv.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/zzz_6.jpg",Xplore Channel (720p)
 http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/CdXieB6.png",Zee Bioskop (360p) [Geo-blocked]
@@ -140,8 +135,6 @@ https://liveanevia.mncnow.id/live/eds/BeIN2s/sa_dash_vmx/BeIN2s.mpd
 https://liveanevia.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 group-title="NATIONAL SPORTS" tvg-logo="https://i.imgur.com/0g1cseU.png",eGG Network
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
-#EXTINF:-1 group-title="WORLD SPORTS" tvg-logo="https://i.imgur.com/JApkfiF.png",Tennis Channel International
-https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="NATIONAL SPORTS" tvg-logo="https://i.imgur.com/AcB6gDy.png",Soccer Channel
 https://liveanevia.mncnow.id/live/eds/soccerchannel-HD/sa_dash_vmx/soccerchannel-HD.mpd
 #EXTINF:-1 group-title="NATIONAL SPORTS" tvg-logo="https://i.imgur.com/qXnQXkl.png",MNC Sports 3
@@ -222,8 +215,6 @@ http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 http://68.235.48.51:1935/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",88 Stereo TV
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 group-title="Українські",A1(Одесса)
-http://cdn1.live-tv.od.ua:8081/a1od/a1od-abr/a1od/a1od-720p/playlist.m3u8
 #EXTINF:-1 group-title="Зарубежный спорт" tvg-logo="../Channel/Logo/Travel + Adventure HD.png",Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Sakura TV.png",Akudji HD
@@ -308,12 +299,8 @@ http://1111296894.rsc.cdn77.org/LS-ATL-56868-1/tracks-v1a1/index.m3u8
 https://inrating-tv.cdn-04.cosmonova.net.ua/hls/inrating-tv_ua_hi/index.m3u8
 #EXTINF:-1 group-title="Израиль",Israel Pars TV (540p)
 https://live.pars-israel.com/iptv/stream.m3u8
-#EXTINF:-1 group-title="Українські",IT3 HD
-http://cdn10.live-tv.od.ua:8081/it3od/it3od-abr/playlist.m3u8
 #EXTINF:-1 group-title="Українські" tvg-logo="http://epg.it999.ru/img/2793.png",ITV (Ровно)
 http://cdn10.live-tv.od.ua:8081/itvrv/abr-lq/playlist.m3u8
-#EXTINF:-1 group-title="Українські",Iнший HD
-http://cdn1.live-tv.od.ua:8081/ktkod/ktkod-abr/ktkod/ktkod/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Kids Co.png",Kids FM
 https://cqw2lystveu.a.trbcdn.net/livemaster/7ak8t_live-hv25n82a0l8.smil/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Ale Kino+.png",Kinoklub
@@ -508,10 +495,6 @@ http://hls-rossp.cdnvideo.ru/hls/5ace6814e563f22e4ddc1f44/480p.m3u8
 http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78899/480p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/6845.png",Любимый HD
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8
-#EXTINF:-1 group-title="Українські" tvg-logo="http://epg.it999.ru/img/3335.png",М1
-http://live.m2.tv/hls2/stream.m3u8
-#EXTINF:-1 group-title="Українські" tvg-logo="http://epg.it999.ru/img/3336.png",М2
-http://live.m2.tv/hls3/stream.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/1615.png",Малятко ТВ
 http://iptv.prosto.tv:7000/ch76/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2051.png",Матч!
@@ -526,18 +509,12 @@ http://46.174.83.66/MirBasketbola/mpegts?token=AnonymousTV
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRSERIALA/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/675.png",Моя Планета
 http://epg.it999.ru/img2/575.png
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/1584.png",Мужское Кино
-http://cdntv.online/high/wvj6futh2r/128.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://toplogos.ru/images/thumbs/preview-logo-muz-tv.png",Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/6858.png",Мульт Stream
 http://iptv.prosto.tv:7000/ch320/video.m3u8
 #EXTINF:-1 ,НАШ
 http://iptv.prosto.tv:7000/ch27/video.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/2831.png",Наш Кинопоказ HD
-http://cdntv.online/high/wvj6futh2r/1026.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/2019.png",Наш кинороман
-http://cdntv.online/high/wvj6futh2r/903.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/3453.png",Наша Сибирь 4K
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/2018.png",Наше HD
@@ -690,8 +667,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_2/bw2000000/variant.m3u8?version
 https://zabava-htlive.cdn.ngenix.net/hls/CH_CHE_4/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Общие",Че! (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_PERETZ_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Українські" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Диалоги о рыбалке(черн).png",Чернівецький Промінь HD
-http://langate.tv/promin/live_720/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Шансон ТВ.png",Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img/4619.png",Шахтар HD
@@ -724,8 +699,6 @@ https://last.gcdn.co/IND429/index.m3u8
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.ebox.live/assets/images/etv.jpg",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/kviJN1i.png",independent TV (gCDN)
-https://last.gcdn.co/IND430/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://amrbd.com/assets/images/jamunatv.jpg",Jamuna TV (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/eP45j9z.jpg",MOHONA TV   (BDIX0)
@@ -944,8 +917,6 @@ https://biglife.sinclair.wurl.com/manifest/playlist.m3u8
 http://gideommd.mmdlive.lldns.net/gideommd/46c072b287224782a4d4ce93c3646589/manifest.m3u8
 #EXTINF:-1 ,Black News Channel (1080p)
 http://redbox-blacknewschannel-xumo.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,Black News Channel (720p)
-https://blacknewschannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Black News Channel (720p) [Not 24/7]
 https://linear-130.frequency.stream/dist/localnow/130/bpk-tv/BNC-OTT/default/index.m3u8
 #EXTINF:-1 ,Blaze TV (720p)
@@ -972,16 +943,12 @@ https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
 https://liveprodusphoenixeast.akamaized.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-02-81ykIWnsMsg_live.m3u8
 #EXTINF:-1 ,Bloomberg TV+ (720p)
 https://liveprodusphoenixeast.global.ssl.fastly.net/USPhx-HD/Channel-TX-USPhx-AWS-virginia-1/Source-USPhx-16k-1-s6lk2-BP-07-03-0Yn1cQZHOtP_live.m3u8
-#EXTINF:-1 ,bon app�tit (720p)
-https://condenast-bonappetit-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Boston 25 News (WFXT) (720p)
 https://d2dy6pkj44n6e7.cloudfront.net/v1/master/77872db67918a151b697b5fbc23151e5765767dc/cmg_PROD_cmg-tv-10020_27d61a9c-67b2-4d7c-9486-626a6a071467_LE/in/cmg-wftxtv-hls-v3/live.m3u8
 #EXTINF:-1 ,Box Hits (576p)
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=http://boxtv-origin-elb.cds1.yospace.com/uploads/boxhits/
 #EXTINF:-1 ,Box Hits (576p) [Geo-blocked]
 https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,boxhits-alldev.m3u8?yo.up=https://boxtv.secure.footprint.net/boxhits/
-#EXTINF:-1 ,Brat TV (1080p)
-https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Bumblebee Nature Live Waterfalls Live (1080p)
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
 #EXTINF:-1 ,Bumblebee Short Channel (540p)
@@ -1342,8 +1309,6 @@ https://2fb88e730c2647d69629c6f90b0b98b9.mediatailor.us-west-2.amazonaws.com/v1/
 https://480e67fe68b64c35ae48b77192cb1fdf.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/friday_feels_littlstar/master.m3u8
 #EXTINF:-1 ,Love and Hip Hop (720p)
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d51ddf0369acdb278dfb05e/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
-#EXTINF:-1 ,Love Nature (1080p)
-http://bamus-eng-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,LoveWorld USA (1080p)
 https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
 #EXTINF:-1 ,Mad Dog and Merrill (540p)
@@ -1362,8 +1327,6 @@ https://mbnowweb-lh.akamaihd.net/i/MRN_1@346545/master.m3u8
 http://stream.missiontv.com:1935/live/missiontv_720p/playlist.m3u8
 #EXTINF:-1 ,Mission TV (1080p)
 https://6096a9cf11ae5.streamlock.net:1943/live/missiontv/playlist.m3u8
-#EXTINF:-1 ,MST3K (1080p)
-https://mst3k-redbox.amagi.tv/hls/amagi_hls_data_redboxAAA-mst3k/CDN/playlist.m3u8
 #EXTINF:-1 ,MTA 1 English (1080p)
 https://ooyalahd2-f.akamaihd.net/i/mtaeng_delivery@345736/master.m3u8
 #EXTINF:-1 ,MTA 1 Original (1080p)
@@ -1374,10 +1337,6 @@ https://ooyalahd2-f.akamaihd.net/i/mtach7audio_delivery@65519/master.m3u8
 https://ooyalahd2-f.akamaihd.net/i/mtaengaudio_delivery@138280/master.m3u8
 #EXTINF:-1 ,My5 Documentaries Pluto TV (England) (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ddf901280e3550009139c86/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5ddf901280e3550009139c86&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=475&terminate=false&userId=
-#EXTINF:-1 ,Mystery Science Theater 3000 (1080p)
-https://mst3k-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 ,MyTime movie network (Brazil) (720p)
-https://appletree-mytime-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,NACTV (720p)
 http://stream.pivotalelements.com/nactv/stream.m3u8
 #EXTINF:-1 ,NASA TV Media (720p)
@@ -2180,8 +2139,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b0d10e186bf0007
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,pocket.watch (1080p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxpocketwatch/CDN/playlist.m3u8?device_id=&is_lat=&p=redbox&subp=&subp=RedboxdesktopWebWindows
-#EXTINF:-1 ,pocket.watch (720p)
-https://pocketwatch-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,Pop (1080p)
 https://live-poptv-fastly-prod.global.ssl.fastly.net/pop/master.m3u8
 #EXTINF:-1 ,Press TV French (720p)
@@ -2216,8 +2173,6 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/playlist.m3u8
 #EXTINF:-1 group-title="Channels",Batter Life ANimal
 https://uni5rtmp.tulix.tv/betternature/betternature/playlist.m3u8
-#EXTINF:-1 group-title="Movies",Crackle (720p)
-https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Channels",DUSTx (720p)
 https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Fashion",Fashion TV (-10080p)
@@ -2240,8 +2195,6 @@ https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://www.timetvusa.com/images/ttv200.png",Time Television (720p) [Not 24/7]
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/timetvusa.stream/playlist.m3u8
-#EXTINF:-1 group-title="Hindi",SOfy TV movie
-https://sofytv-samsunges.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.jawharafm.net/ar/static/fr/image/png/logo-jfm.png",Jawhara FM (720p)
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/6ttWNu0.jpg",Nojoum TV (720p)
@@ -2292,10 +2245,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/JBEqPZP.png",Mythos (720p)
 https://rpn1.bozztv.com/36bay2/gusa-mythos/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png",MyTime movie network Mexico (720p)
-https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://od.lk/s/MF8yMjU5ODE1MzJf/MyTime_260x260.png",MyTime movie network Spain (1080p)
-https://appletree-mytimespain-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/IYDllP5.jpg",NETV Toronto (720p) [Not 24/7]
 https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Persian Film (720p) [Not 24/7]
@@ -2316,8 +2265,6 @@ http://51.210.199.14/hls/stream.m3u8
 http://51.210.199.21/hls/stream.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus 3 (720p)
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/_definst_/retroplussenal3/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/kKFfLMd.jpg",Santhora Short Flim (720p)
-http://rtmp.santhoratv.zecast.net/santhora/santhorashortfilm/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Telecine_Action_2.png/320px-Telecine_Action_2.png",TELE CINE ACTION (720p)
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/RhKSIGQ.jpg",TVS Drive In Movie (360p)
@@ -3318,3 +3265,74 @@ http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125493.mp4
 http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125494.mp4
 #EXTINF:-1 ,Zubaan (2016) IN
 http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125495.mp4
+
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/t16RjZq.jpg",Altered Carbon: Resleeved (2020)
+https://lh3.googleusercontent.com/7OLP6M9nxhHH94oZF0Lli45nYDntGTmvmHqb9OnTeTvdb1jSPnjBcDxP1CJ89Dr8aw-IZdYuG9UGJUymew=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/6doKB2T.jpg",Abominable (2019)
+https://lh3.googleusercontent.com/DBEpUjAT0ysRq-iJ2CLdJr07Y0bB1SusTr3FoL2ukNiymfYndRmWvIeq3H12dilQw6wXG4RFVj6vt_yUQw=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/nQBOzqA.jpg",Big Hero 6 (2014)
+https://lh3.googleusercontent.com/mV11TdGvhSdWZ75efJTwtthswHvj_Pr_425CFgjciLVfW5-WoXNP_zq0tZ6OBKPu5cvQmC7EtBYmS7XeHA=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/u32zdt2.jpg",Cars (2006)
+https://lh3.googleusercontent.com/NTaQ7QK6M-pvb2TCZBpua6lgVR7AMHfzS5L5X_BsXPDGGlx1GLenSlvc4ZRtQo0ZHWBdRM2KA-np-lQ7Uw=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/VwlgFRB.jpg",Cars 2 (2011)
+https://lh3.googleusercontent.com/ZoZmtDYUPUUzVm9ZkF7HbM2uxF80e5aNOEWOX-ks7hMEmIkmLHMlIz4nbZCsGoVT0EIDej-dW5wLtw_eZA=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/4MJTuMD.jpg",Cars 3 (2017)
+https://lh3.googleusercontent.com/DsFO0So_8Ks63rpRM3lFR-gavagVOhH38tMQFvJ5yDDGvrwTq8jG7onwEbzCl15Hg9b1vcjtV7-4extntA=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/t7BAd65.jpg",Inc. (2001)
+https://lh3.googleusercontent.com/JbOTHuFXyXkuBa9JBm_xsc3xJgujsoiPlr3fuxpXSHTvp2I3CT3alBlW9F63IWRoyXBJokoaEi0yiCSwWg=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/saOpM2X.jpg",Frozen (2013)
+https://lh3.googleusercontent.com/8OLNPmNiqm3XgItbuPTbq2ythbAsHoP8aWDYM9G7Gxy8-7nFzVFdXUSwd0qeRPYe_8XvyAw_ExSgRbMH_g=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/fmh7eFl.jpg",BoBoiBoy: The Movie (2016)
+https://lh3.googleusercontent.com/K2Lyu64Zhsc-c3aAL5tKhs_hZUmS7hg34jAb8REJR8kicf7sxeJCRC7q-qGe1SkMke9dDIqYtlRgHk0KbQ=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/YAuVdml.jpg",Klaus (2019)
+https://lh3.googleusercontent.com/bZksVRtlxJYkorO8Nv5vhIdEeQmgzLQMcLB0D5VJREvnt70WbJVsl9ZdQo6SzXbSkLMKB0V6Jm4XZWsKYw=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/LZh9Ujz.jpg",Kung Fu Panda (2008)
+https://lh3.googleusercontent.com/-p78whiwcwyIIVLMyyAv8YEGzBOBqP74QRsprLSdf0hc_mXRkvtp5OB3BWdzt4kT28ujMnjJ1NJGUJ8agw=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/7HytloH.jpg",Kung Fu Panda 2 (2011)
+https://lh3.googleusercontent.com/gSfq9VdV9U8LRF5Cj27gel2507QXEzUhHdljNA9YoLxH4fQMba8rxENXLw8kRSzhifl3QHLonXimSWkSeQ=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/NQL23Gd.jpg",Kung Fu Panda 3 (2016)
+https://lh3.googleusercontent.com/vf_QmvXXYq6uJQF8FVzUln20qss9OaFmfmVvPIiUV8yFr44b_SYJ5VhJsQxBnlTjsjPWAwkO7HBoglpUAg=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/lTiqWPc.jpg",The Incredibles (2004)
+https://lh3.googleusercontent.com/-8QwFnowpt_T1S2-TUnVmD6fq-X16KgrRIPzL81DBT7uDR1R85KFP2O8dIWBvzVeMfRTsz6sVi9TwBIRVQ=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/Kvq6iCM.jpg",Rio (2011)
+https://lh3.googleusercontent.com/YXp1lzZCyBQzdw7y9WQzHxlkRHbLc9zR6aEILB-5DAaYXjwSNrlRXvah-s99e_nSkl2unwrO1DXIVUCSrg=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/eQKudie.jpg",Rio 2 (2014)
+https://lh3.googleusercontent.com/NbHteL5xENkDC_r3q8csnsvnh6RlDrJBM0NYq2JNM8rhPFvirafLJ4FdRMDEI1RRe7Nuozc0WTegZX9EJQ=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/HhuFjaO.jpg",Wreck-It Ralph (2012)
+https://lh3.googleusercontent.com/HAmlehJxV5ht9uXTBJpZNQjsfarvDE1bB6p43Zdx_9W8B_WjJD23GUkbqABx89SVknBk-LNRyo1nT-c8-A=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/2QVE7JU.jpg",Aladin (1993)
+https://lh3.googleusercontent.com/xN2hsc2kYYCcXqb2szP2k53DyBzjvReIUtk-NJ_qPCI6ieLWQPdBQWV1pmTwoUUGr8--AEaA6QZEMkKQwQ=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/xUmHVVm.jpg",Onward (2020)
+https://lh3.googleusercontent.com/fF8HWTTEyxQ47-aS0eX_bgduZKpSz7nQMWvNFZHITRQuzFfDsIEEUnHJLafBEFD5G2YVWzCFvQHondQrww=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/BgYDlV3.jpg",Ne Zha (2019)
+https://lh3.googleusercontent.com/c0U7OGUBnkPTdncJ2Ok8ZCZryJ3P6dK82BsWpZX5eNM7Ue4roUSmGdczGLn0yhc6FKnpuHiijTN-apqJ6g=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/5Yjmr0C.jpg",Hotel Transylvania (2012)
+https://lh3.googleusercontent.com/FUX6gE6s-TXiQEXywhaEfjM_rPaDR4-BT4aIvFgA609Urp6rA0Na9z835rCPCp2j46jZISj8xaxx6N1h8A=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/slalaPk.jpg",Spies in Disguise (2019)
+https://lh3.googleusercontent.com/OoBO6eHYVDaqQGVTbi_V7B6k9gex4sBQghhHRnSTMrv5Z9h4AlICZX5NKjLB0shdHz7QNL3lwNMv2Mqk-w=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/UVOZbW5.jpg",Hotel Transylvania 2 (2015)
+https://lh3.googleusercontent.com/9ZY3rYtARr5sdcwAGPrRLe8Z-Hp_U_TLDHyzv8VwYmpscPHtsPlrbQ3CzVT5llUxk-QfFuM9BvXvjurBfg=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/s3zlJkN.jpg",Hotel Transylvania 3: Summer Vacation (2018)
+https://lh3.googleusercontent.com/Nz2pKxXfynzKFV7BnvBOMsRGSEzBWJQdb-_KNdR-pD5mAOkPL8IH5pS_NmgKhw7xvtnkbNx0HWUW4ih11w=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/YQpHmRN.jpg",How to Train Your Dragon (2010)
+https://lh3.googleusercontent.com/ZczAPLnQ2Hk4d7nogkxJUZ3J2BV9k-17ZSaVTkPvbHbt5jDj8VG1d6eJ1TOK041LriA6FXsOBC2KhWSAxw=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/dtnZfvd.jpg",How to Train Your Dragon 2 (2014)
+https://lh3.googleusercontent.com/kiTH7DMcBsfNkxTn80W-dzGRkRVZQEJ47j6bDH6l7nBbO3y0lfNJiY8S_2h1j_oov_QPJ5xwTaYbdRkuqQ=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/9JFIgMm.jpg",How to Train Your Dragon: The Hidden World (2019)
+https://lh3.googleusercontent.com/Nc_n2B03yXvXzXXQ2dc_BQlT0-enZtAB4cfzfiUIpdOFDVaUIbhsTxuP5aXovI_DPmI1rOtQhgzUagH0Lg=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8wxLpgP.jpg",Moana (2016)
+https://lh3.googleusercontent.com/ITnmgKbhDUWbrD29kZvDCcXdtic-NFEZ5nzhy0Xw_P2_Fn0RfYL5dhmaCKXSi1EYHaNimQK25mfWWPvI2A=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/E7sPvZ2.jpg",Spider-Man: Into the Spider-Verse (2018)
+https://lh3.googleusercontent.com/hvynYOx9j_qy7ulK_56btmYgPSMa-sQTS4B9MxxEjq3UBuBP1l_dI0Wfo4awELBdULJWVjj3vR1EJvM49A=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/xgMF6vM.jpg",Incredibles 2 (2018)
+https://lh3.googleusercontent.com/EDaMhGVn3QugVibWwjW6YosIAw6MiuHVGYG-e0jMWC7_-zlzIqX7eEY3GMBrAmXV8dCnQhqkKDA75VjE8w=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/PWoYCT6.jpg",Coco (2017)
+https://lh3.googleusercontent.com/GBTJcqGzVbS7NtC7s2ZtMjutY6-q79IklurElMHHsHyge5HOEcteZjlPhsk6Lsw5APJl5nBe_E0zKdRm5A=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/8gmHuxi.jpg",Early Man (2018)
+https://lh3.googleusercontent.com/s3umJBZYY8x6Q19-5gu9IesDlTo7kpR3pT_qGeIinD6zw7L_EQ7VsyoMa9fMFCrmh_sz3QE0PgPoIYP1Rw=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/1dne2NK.jpg",Ferdinand (2017)
+https://lh3.googleusercontent.com/fJk_Mh-R2jB0v4sQjM00qn7tEHBBgmurEleOHh9Wzg_kEgv7IWKxex53kan_eHOVmkmE8Fy6-YmYBbDimQ=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/KgEZwRW.jpg",The Boss Baby (2017)
+https://lh3.googleusercontent.com/qM-0IPEMej1OcTvnCWLO6A4cFlW8FM4vxugM1HLB8aQSptB8yMeHXv_iQS8x26FCXEpOyUiffTP5Z6zRCw=m22
+#EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iPBjM6y.jpg",The Emoji Movie (2017)
+https://lh3.googleusercontent.com/nKlDG1P-4y8L-1GOwSs7cqO6Mjq68l4qv-5xIzOYJ07Jj5Prdzqgz96u3IPGlce38tL5I0RXRRjFUOzu7w=m22
