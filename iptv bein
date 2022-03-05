@@ -7,8 +7,6 @@
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://r7.pngwing.com/path/238/54/383/indian-premier-league-dd-sports-television-dd-national-cricket-39ee3fc39c581d7670adc32a6a400f2e.png",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-#EXTINF:-1 group-title="ARABIC +PLUS+" tvg-logo="http://one-iptv.com/imageslogo/pu_1_0_19_44F_7594_77E_DC00000_0_0_0.png",|.AR.| KUWAIT PLUS
-http://vpro.viptvclub.com:25443/V59Ssbxk605P/S8r5cjP9Ym/16187
 #EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/fD7wLka.jpg",9XM (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://tv.releasemyad.com/images/logo/20160108044853abp-ananada.jpg",ABP Ananda (720p)
@@ -221,8 +219,6 @@ http://2otsfwsh.otttv.pw/iptv/S3YKA4S9YGN99U/10061/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLTHD/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/3630.png",Bricks TV
 http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Українські",BTB+ HD
-http://video.vtvplus.com.ua:81/hls/online/index.m3u8
 #EXTINF:-1 group-title="Грузия" tvg-logo="../Channel/Logo/CBC Sport.png",CBC (720p)
 http://cbctvlive.flashmediacast.com:1935/CBCTVLive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-logo="https://i.imgur.com/NmnXn2z.jpg",Channel 2 News (720p)
@@ -337,8 +333,6 @@ http://ocko-live.ssl.cdn.cra.cz/channels/ocko/playlist/cze/live_hq.m3u8
 http://85.238.112.69:8811/hls_sec/239.0.14.15-.m3u8
 #EXTINF:-1 group-title="Развлекательные" tvg-logo="https://dvb.by/sources/logos/2768.png",Prosto GAME
 http://iptv.prosto.tv:7000/ch322/video.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/../Channel/Logo/PZN HD.png",PZN FHD(World Vision)
-http://cdnhls.goodgame.ru/hls/180960.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/../Channel/Logo/PZN HD.png",PZN TV
 http://hls.goodgame.ru/hls/180960.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Radio 105 TV.png",Radiom 20
@@ -357,8 +351,6 @@ http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/variant.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Russian Music Box.png",Russian JahrMarkt
 https://api.alpaca.t62a.com/hls/9104/stream0.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/../Channel/Logo/SCT.png",SCTV
-http://cdnhls.goodgame.ru/hls/61358.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/Silence TV.png",Silence TV WORLD HD
 http://93.190.140.42:8081/SilenceTV/live/playlist.m3u8
 #EXTINF:-1 group-title="Зарубежный спорт" tvg-logo="../Channel/Logo/Smash! Hits TV.png",Smash Sport
@@ -369,8 +361,6 @@ http://serv30.vintera.tv:8081/sochi/sochi_stream/playlist.m3u8
 http://ocko-live.ssl.cdn.cra.cz/channels/ocko_gold/playlist/cze/live_hq.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/1148.png",Tiji
 http://iptv.prosto.tv:7000/ch73/video.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/3614.png",Travel Guide TV HD
-http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/3614.png",Travel HD
 http://iptv.prosto.tv:7000/ch100/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img/127.png",TV 1000 HD
@@ -601,8 +591,6 @@ http://stariptv.org:8080/wael2021/123456/112594
 http://stariptv.org:8080/wael2021/123456/112595
 #EXTINF:-1 ,AR: Hona Baghdad
 http://stariptv.org:8080/wael2021/123456/112596
-#EXTINF:-1 ,AR: Imam Reda HD
-http://stariptv.org:8080/wael2021/123456/112600
 #EXTINF:-1 ,AR: AL MUSTAKILA
 http://stariptv.org:8080/wael2021/123456/112601
 #EXTINF:-1 ,IQ- AL Anbar TV
@@ -639,8 +627,6 @@ http://stariptv.org:8080/wael2021/123456/112621
 http://stariptv.org:8080/wael2021/123456/112622
 #EXTINF:-1 ,AR: Karbala TV
 http://stariptv.org:8080/wael2021/123456/112623
-#EXTINF:-1 ,AR: AL-SALAM TV
-http://stariptv.org:8080/wael2021/123456/112626
 #EXTINF:-1 ,AR: ALSALAM
 http://stariptv.org:8080/wael2021/123456/112627
 #EXTINF:-1 ,AR: Taleaa TV
@@ -1149,10 +1135,6 @@ http://stariptv.org:8080/wael2021/123456/107036
 http://stariptv.org:8080/wael2021/123456/107039
 #EXTINF:-1 ,IRQ.Al Sumaria TV
 http://stariptv.org:8080/wael2021/123456/107043
-#EXTINF:-1 ,IRQ.Al Sharqiya News
-http://stariptv.org:8080/wael2021/123456/107059
-#EXTINF:-1 ,IRQ.Iraq Medical
-http://stariptv.org:8080/wael2021/123456/112679
 #EXTINF:-1 ,IRQ.Iraq 24 HD
 http://stariptv.org:8080/wael2021/123456/112680
 #EXTINF:-1 ,IRQ.AL Ahd Iraq TV
@@ -1331,8 +1313,6 @@ http://stariptv.org:8080/wael2021/123456/14966
 http://stariptv.org:8080/wael2021/123456/14965
 #EXTINF:-1 ,SYR.EDUCATION
 http://stariptv.org:8080/wael2021/123456/14862
-#EXTINF:-1 ,SYR.HALAB Al YAOUM
-http://stariptv.org:8080/wael2021/123456/14967
 #EXTINF:-1 ,SYR.Noor Al Sham TV
 http://stariptv.org:8080/wael2021/123456/14968
 #EXTINF:-1 ,PSE.PNN TV
@@ -1619,8 +1599,6 @@ http://stariptv.org:8080/wael2021/123456/97944
 http://stariptv.org:8080/wael2021/123456/66346
 #EXTINF:-1 ,EGY.AL SA3AA CLASSIC
 http://stariptv.org:8080/wael2021/123456/97938
-#EXTINF:-1 ,EGY.AL SA3AA CINEMA
-http://stariptv.org:8080/wael2021/123456/97937
 #EXTINF:-1 ,EGY.AL RAHMA
 http://stariptv.org:8080/wael2021/123456/14975
 #EXTINF:-1 ,EGY.AL QAHERA WA AL NAS 2
@@ -1733,8 +1711,6 @@ http://stariptv.org:8080/wael2021/123456/97834
 http://stariptv.org:8080/wael2021/123456/97836
 #EXTINF:-1 ,Music.Mazzika TV
 http://stariptv.org:8080/wael2021/123456/97839
-#EXTINF:-1 ,Music.Nogoum FM TV
-http://stariptv.org:8080/wael2021/123456/97842
 #EXTINF:-1 ,Music.Hawacom TV
 http://stariptv.org:8080/wael2021/123456/97843
 #EXTINF:-1 ,Music.Free TV
@@ -1967,8 +1943,6 @@ http://stariptv.org:8080/wael2021/123456/141569
 http://stariptv.org:8080/wael2021/123456/141571
 #EXTINF:-1 ,beIN Sports HD7 FHD
 http://stariptv.org:8080/wael2021/123456/141572
-#EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Кинозал VHS HD.png",VHS 90s
-http://v2.catcast.me/content/37925/index.m3u8
 #EXTINF:-1 group-title="МОДА" tvg-logo="https://dvb.by/sources/logos/1226.png",WFC TV International HD
 http://wfcint.mediacdn.ru/cdn/wfcint/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/KBS World HD.png",World HD
@@ -2049,8 +2023,6 @@ http://hls-rossp.cdnvideo.ru/hls/5ace6814e563f22e4ddc1f44/480p.m3u8
 http://hls-rossp.cdnvideo.ru/hls/5aac88ffdc96bf05a7f78899/480p.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/6845.png",Любимый HD
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/1615.png",Малятко ТВ
-http://iptv.prosto.tv:7000/ch76/video.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2051.png",Матч!
 https://bl.uma.media/live/133529/HLS/4614144_3,2883584_2,1153024_1/1613109268/2fb2de98a984b4b86bc2cdd980da3430/playlist.m3u8?token=AnonymousTV
 #EXTINF:-1 group-title="Спорт" tvg-logo="http://epg.it999.ru/img2/2042.png",Матч! Страна HD
@@ -2109,8 +2081,6 @@ http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 group-title="Українські" tvg-logo="http://epg.it999.ru/img/2147.png",Перший Незалежний
 http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
-#EXTINF:-1 group-title="Українські",Поэзия HD
-http://79.98.49.5:8132/pravda
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1318.png",Просвещение
 https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Українські" tvg-logo="https://dvb.by/sources/logos/1631.png",Прямий HD
@@ -2335,8 +2305,6 @@ https://static.france24.com/live/F24_AR_HI_HLS/live_tv.m3u8
 https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 #EXTINF:-1 ,Kaif TV (576p)
 http://82.212.74.2:8000/live/hls/7311.m3u8
-#EXTINF:-1 ,RT Arabic (1080p)
-https://rt-arb.gcdn.co/live/rtarab/playlist.m3u8
 #EXTINF:-1 ,Asharq (1080p)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/master.m3u8
 #EXTINF:-1 ,Khyber Middle East TV (414p) [Not 24/7]
@@ -2641,8 +2609,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:-1 ,Greek Voice Live 48 Tampa Bay FL (WZRA-CD1) (480p)
 http://wpso.com:1936/hls/wzra.m3u8
-#EXTINF:-1 ,Greenbelt TV (480p)
-https://t07113a-lh.akamaihd.net/i/t07113a_1@756729/master.m3u8
 #EXTINF:-1 ,Gusto TV (720p)
 https://gustotv-samsung-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 ,HA! That's Funny (720p)
@@ -2679,8 +2645,6 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 #EXTINF:-1 ,Imam Hussein TV 3 English (720p)
 https://live.imamhossaintv.com/live/ih3.m3u8
-#EXTINF:-1 ,IMPACT! Wrestling (1080p)
-https://d2p372oxiwmcn1.cloudfront.net/hls/main.m3u8
 #EXTINF:-1 ,Ind TV USA (720p)
 https://t06858-lh.akamaihd.net/i/t06858a_1@719164/master.m3u8
 #EXTINF:-1 ,InfoWars (720p)
@@ -3341,8 +3305,6 @@ https://fashiontv-fashiontv-4-de.samsung.wurl.com/manifest/playlist.m3u8
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Fashion",Fashion TV L'Original (-10080p)
 https://fashiontv-fashiontv-loriginal-fr.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Fashion",FTV (720p)
-https://str2.yodacdn.net/publive/ftv/video.m3u8
 #EXTINF:-1 group-title="Channels",iFILM Arabic (720p)
 https://live.presstv.ir/ifilmlive/smil:ifilmar.smil/playlist.m3u8
 #EXTINF:-1 group-title="Channels",India Today (720p)
@@ -4119,8 +4081,6 @@ http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125329.mp4
 http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125330.mp4
 #EXTINF:-1 ,Pal Pal Dil Ke Paas (2019) IN
 http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125331.mp4
-#EXTINF:-1 ,Pappa Tamne Nahi Samjaay (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125332.mp4
 #EXTINF:-1 ,Parched (2015) IN
 http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125333.mp4
 #EXTINF:-1 ,Parineeta (2005) IN
