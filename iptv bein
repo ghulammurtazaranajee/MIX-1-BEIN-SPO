@@ -2,7 +2,6 @@
 
 
 
-
 #EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/download_215.jpg",A Sports (pk)
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://r7.pngwing.com/path/238/54/383/indian-premier-league-dd-sports-television-dd-national-cricket-39ee3fc39c581d7670adc32a6a400f2e.png",DD Sports
@@ -39,8 +38,6 @@ http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 http://xlbor3aadvaj-hls-live.wmncdn.net/disha/stream.stream/playlist.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/FAST.png",FASTWAY NEWS (720p) [Not 24/7]
 http://163.47.214.155:1935/fwnews/live/playlist.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/unnamed-1.png",Gaunda Punjab TV (720p) [Not 24/7]
-http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/GDN.png",GDNS Ludhiana (1080p) [Not 24/7]
 http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/6GcaSUS.jpg",Global Punjab (720p) [Not 24/7]
@@ -97,8 +94,6 @@ http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 http://cdn12.henico.net:8080/live/sadatv/index.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/6Q844bs.jpg",Sardari TV (1080p) [Not 24/7]
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/4PA2adF.png",Swaraj Express (576p) [Not 24/7]
-https://live.wmncdn.net/highnews/swaraj.stream/index.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/zzz_6.jpg",Xplore Channel (720p)
 http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/CdXieB6.png",Zee Bioskop (360p) [Geo-blocked]
@@ -539,8 +534,6 @@ http://stariptv.org:8080/wael2021/123456/122826
 http://stariptv.org:8080/wael2021/123456/122828
 #EXTINF:-1 ,SU: Sudan Bukra
 http://stariptv.org:8080/wael2021/123456/122830
-#EXTINF:-1 ,SU: Sudan Music
-http://stariptv.org:8080/wael2021/123456/122831
 #EXTINF:-1 ,SU: Sudan Al Barlemania
 http://stariptv.org:8080/wael2021/123456/122833
 #EXTINF:-1 ,SU: Sudan El Mahadra
@@ -623,8 +616,6 @@ http://stariptv.org:8080/wael2021/123456/112618
 http://stariptv.org:8080/wael2021/123456/112619
 #EXTINF:-1 ,AR: Al Hurra HD
 http://stariptv.org:8080/wael2021/123456/112621
-#EXTINF:-1 ,AR: Imam Hussein 2
-http://stariptv.org:8080/wael2021/123456/112622
 #EXTINF:-1 ,AR: Karbala TV
 http://stariptv.org:8080/wael2021/123456/112623
 #EXTINF:-1 ,AR: ALSALAM
@@ -983,8 +974,6 @@ http://stariptv.org:8080/wael2021/123456/130482
 http://stariptv.org:8080/wael2021/123456/130484
 #EXTINF:-1 ,Ostora Arabic 6
 http://stariptv.org:8080/wael2021/123456/130486
-#EXTINF:-1 ,Ostora Arabic 10
-http://stariptv.org:8080/wael2021/123456/130490
 #EXTINF:-1 ,Wayyak- Comedy HD
 http://stariptv.org:8080/wael2021/123456/129678
 #EXTINF:-1 ,Wayyak- Adel Imam HD
@@ -1179,8 +1168,6 @@ http://stariptv.org:8080/wael2021/123456/112704
 http://stariptv.org:8080/wael2021/123456/66528
 #EXTINF:-1 ,YEM.Sheba TV
 http://stariptv.org:8080/wael2021/123456/66529
-#EXTINF:-1 ,YEM.Al Erth Alnabawi TV
-http://stariptv.org:8080/wael2021/123456/14910
 #EXTINF:-1 ,YEM.ADEN TV
 http://stariptv.org:8080/wael2021/123456/66527
 #EXTINF:-1 ,YEM.AL Hawyah TV
@@ -1301,20 +1288,14 @@ http://stariptv.org:8080/wael2021/123456/97867
 http://stariptv.org:8080/wael2021/123456/97868
 #EXTINF:-1 ,SYR.elSouria Plus
 http://stariptv.org:8080/wael2021/123456/97869
-#EXTINF:-1 ,SYR.Al Khabar TV
-http://stariptv.org:8080/wael2021/123456/97870
 #EXTINF:-1 ,SYR.Syria News TV
 http://stariptv.org:8080/wael2021/123456/97871
 #EXTINF:-1 ,SYR.Syriana
 http://stariptv.org:8080/wael2021/123456/97872
-#EXTINF:-1 ,SYR.ALOULA
-http://stariptv.org:8080/wael2021/123456/14966
 #EXTINF:-1 ,SYR.DRAMA
 http://stariptv.org:8080/wael2021/123456/14965
 #EXTINF:-1 ,SYR.EDUCATION
 http://stariptv.org:8080/wael2021/123456/14862
-#EXTINF:-1 ,SYR.Noor Al Sham TV
-http://stariptv.org:8080/wael2021/123456/14968
 #EXTINF:-1 ,PSE.PNN TV
 http://stariptv.org:8080/wael2021/123456/62039
 #EXTINF:-1 ,PSE.Al-Quds Educational
@@ -1973,8 +1954,6 @@ https://stream.uagit.tv/gittv.m3u8
 http://iptv.prosto.tv:7000/ch151/video.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/../Channel/Logo/День ТВ.png",День Победы
 http://stream-msk-01.ott.tricolor.tv/dtv/id666_MSKSG-PVR-1--Den_Pobedy/01/plst.m3u8
-#EXTINF:-1 group-title="Общие" tvg-logo="http://epg.it999.ru/img2/2399.png",Дождь (240p)
-https://a3569457435-s78511.cdn.ngenix.net/open/_definst_/TVRain_noaudio/chunklist_DVR.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/304.png",Домашний
 https://s91412.cdn.ngenix.net/mdrm/CH_DOMASHNIY/variant.m3u8?version=2
 #EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Домашний.png",Домашний (+2)
@@ -2645,8 +2624,6 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebWi
 http://138.68.138.119:8080/low/5a8993709ea19/index.m3u8
 #EXTINF:-1 ,Imam Hussein TV 3 English (720p)
 https://live.imamhossaintv.com/live/ih3.m3u8
-#EXTINF:-1 ,Ind TV USA (720p)
-https://t06858-lh.akamaihd.net/i/t06858a_1@719164/master.m3u8
 #EXTINF:-1 ,InfoWars (720p)
 http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 #EXTINF:-1 ,Inspiration TV (360p)
