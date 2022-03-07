@@ -378,6 +378,1213 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/var
 http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",V2BEAT HD
 http://de1se01.v2beat.live/playlist.m3u8
+
+#EXTINF:-1 ,|Fox| IPFox Movies Arabic
+http://red.ipfox.org:8080/1234/12345678/8
+#EXTINF:-1 ,|Fox| IPFox Movies Classic
+http://red.ipfox.org:8080/1234/12345678/9
+#EXTINF:-1 ,|Fox| IPFox Movies Action
+http://red.ipfox.org:8080/1234/12345678/7
+#EXTINF:-1 ,|Fox| IPFox Movies Comedy
+http://red.ipfox.org:8080/1234/12345678/11
+#EXTINF:-1 ,|Fox| IPFox Movies Drama
+http://red.ipfox.org:8080/1234/12345678/12
+#EXTINF:-1 ,|Fox| IPFox Movies Horror
+http://red.ipfox.org:8080/1234/12345678/13
+#EXTINF:-1 ,|Fox| IPFox Movies Kids
+http://red.ipfox.org:8080/1234/12345678/14
+#EXTINF:-1 ,|Fox| IPFox Movies Thriller
+http://red.ipfox.org:8080/1234/12345678/15
+#EXTINF:-1 ,|Fox| Box Aflam 1
+http://red.ipfox.org:8080/1234/12345678/30476
+#EXTINF:-1 ,|Fox| Box Aflam 2
+http://red.ipfox.org:8080/1234/12345678/30475
+#EXTINF:-1 ,|Fox| Box CLASSIC
+http://red.ipfox.org:8080/1234/12345678/30471
+#EXTINF:-1 ,|Fox| Box ACTION 1
+http://red.ipfox.org:8080/1234/12345678/30474
+#EXTINF:-1 ,|Fox| Box ACTION 2
+http://red.ipfox.org:8080/1234/12345678/30473
+#EXTINF:-1 ,|Fox| Box HORROR
+http://red.ipfox.org:8080/1234/12345678/30472
+#EXTINF:-1 ,|Fox| Ismael Yassin
+http://red.ipfox.org:8080/1234/12345678/31950
+#EXTINF:-1 ,|Fox| Adel Emam
+http://red.ipfox.org:8080/1234/12345678/31949
+#EXTINF:-1 ,|Fox| Ahmed Zaki
+http://red.ipfox.org:8080/1234/12345678/31948
+#EXTINF:-1 ,|Fox| Ahmed Helmy
+http://red.ipfox.org:8080/1234/12345678/31946
+#EXTINF:-1 ,|Fox| So3ad Hosni
+http://red.ipfox.org:8080/1234/12345678/31945
+#EXTINF:-1 ,|Fox| Majestic Horror
+http://red.ipfox.org:8080/1234/12345678/31944
+#EXTINF:-1 ,|Fox| Majestic Action
+http://red.ipfox.org:8080/1234/12345678/31942
+#EXTINF:-1 ,|Fox| Majestic Romance
+http://red.ipfox.org:8080/1234/12345678/31941
+#EXTINF:-1 ,|Fox| Majestic Arabic
+http://red.ipfox.org:8080/1234/12345678/31939
+#EXTINF:-1 ,|Fox| Cinema CAM 1
+http://red.ipfox.org:8080/1234/12345678/31938
+#EXTINF:-1 ,|Fox| Cinema CAM 2
+http://red.ipfox.org:8080/1234/12345678/31937
+#EXTINF:-1 ,|Fox| Cinema Comedy
+http://red.ipfox.org:8080/1234/12345678/31936
+#EXTINF:-1 ,|Fox| Shahid Sci-Fi
+http://red.ipfox.org:8080/1234/12345678/31935
+#EXTINF:-1 ,|Fox| Shahid Cinema
+http://red.ipfox.org:8080/1234/12345678/31934
+#EXTINF:-1 ,|Fox| Shahid Cartoon
+http://red.ipfox.org:8080/1234/12345678/31933
+#EXTINF:-1 ,|Fox| Shahid Aflam 1
+http://red.ipfox.org:8080/1234/12345678/31932
+#EXTINF:-1 ,|Fox| Shahid Aflam 2
+http://red.ipfox.org:8080/1234/12345678/31931
+#EXTINF:-1 ,|Fox| Shahid Aflam 3
+http://red.ipfox.org:8080/1234/12345678/31930
+#EXTINF:-1 ,|Fox| Shahid Masr7yat
+http://red.ipfox.org:8080/1234/12345678/31929
+#EXTINF:-1 ,|Fox| Shahid Horror 1
+http://red.ipfox.org:8080/1234/12345678/31928
+#EXTINF:-1 ,|Fox| Shahid Horror 2
+http://red.ipfox.org:8080/1234/12345678/31927
+#EXTINF:-1 ,|Fox| Shahid Action 1
+http://red.ipfox.org:8080/1234/12345678/31926
+#EXTINF:-1 ,|Fox| Shahid Action 2
+http://red.ipfox.org:8080/1234/12345678/31925
+#EXTINF:-1 ,|Fox| Shahid Romance 1
+http://red.ipfox.org:8080/1234/12345678/31924
+#EXTINF:-1 ,|Fox| Shahid Romance 2
+http://red.ipfox.org:8080/1234/12345678/31923
+#EXTINF:-1 ,|Fox| Shahid Masrh Masr 2
+http://red.ipfox.org:8080/1234/12345678/31921
+#EXTINF:-1 ,|Fox| Shahid Masrh Masr 3
+http://red.ipfox.org:8080/1234/12345678/31920
+#EXTINF:-1 ,|Fox| Netflix 1
+http://red.ipfox.org:8080/1234/12345678/31918
+#EXTINF:-1 ,|Fox| Netflix 2
+http://red.ipfox.org:8080/1234/12345678/31917
+#EXTINF:-1 ,|Fox| Netflix 3
+http://red.ipfox.org:8080/1234/12345678/31916
+#EXTINF:-1 ,|Fox| Netflix 4
+http://red.ipfox.org:8080/1234/12345678/31915
+#EXTINF:-1 ,|Fox| Netflix 5
+http://red.ipfox.org:8080/1234/12345678/31914
+#EXTINF:-1 ,|Fox| Netflix 6
+http://red.ipfox.org:8080/1234/12345678/31913
+#EXTINF:-1 ,|Fox| Netflix 7
+http://red.ipfox.org:8080/1234/12345678/31912
+#EXTINF:-1 ,|Fox| Netflix 8
+http://red.ipfox.org:8080/1234/12345678/31911
+#EXTINF:-1 ,|Fox| Netflix 9
+http://red.ipfox.org:8080/1234/12345678/31910
+#EXTINF:-1 ,|Fox| Netflix 10
+http://red.ipfox.org:8080/1234/12345678/31909
+#EXTINF:-1 ,|Fox| Netflix Action 1
+http://red.ipfox.org:8080/1234/12345678/31908
+#EXTINF:-1 ,|Fox| Netflix Action 2
+http://red.ipfox.org:8080/1234/12345678/31907
+#EXTINF:-1 ,|Fox| Netflix Cartoon 1
+http://red.ipfox.org:8080/1234/12345678/31906
+#EXTINF:-1 ,|Fox| Netflix Cartoon 2
+http://red.ipfox.org:8080/1234/12345678/31905
+#EXTINF:-1 ,|Fox| Netflix Sci-Fi
+http://red.ipfox.org:8080/1234/12345678/31904
+#EXTINF:-1 ,|Fox| Netflix Romance 1
+http://red.ipfox.org:8080/1234/12345678/31903
+#EXTINF:-1 ,|Fox| Netflix Romance 2
+http://red.ipfox.org:8080/1234/12345678/31902
+#EXTINF:-1 ,|Fox| Netflix Horror 1
+http://red.ipfox.org:8080/1234/12345678/31901
+#EXTINF:-1 ,|Fox| Netflix Horror 2
+http://red.ipfox.org:8080/1234/12345678/31900
+#EXTINF:-1 ,|Fox| showtime 1
+http://red.ipfox.org:8080/1234/12345678/31899
+#EXTINF:-1 ,|Fox| showtime 2
+http://red.ipfox.org:8080/1234/12345678/31898
+#EXTINF:-1 ,|Fox| showtime 3
+http://red.ipfox.org:8080/1234/12345678/31897
+#EXTINF:-1 ,|Fox| showtime 4
+http://red.ipfox.org:8080/1234/12345678/31896
+#EXTINF:-1 ,|Fox| showtime 5
+http://red.ipfox.org:8080/1234/12345678/31895
+#EXTINF:-1 ,|Fox| showtime 6
+http://red.ipfox.org:8080/1234/12345678/31894
+#EXTINF:-1 ,|Fox| showtime 7
+http://red.ipfox.org:8080/1234/12345678/31893
+#EXTINF:-1 ,|Fox| showtime 8
+http://red.ipfox.org:8080/1234/12345678/31892
+#EXTINF:-1 ,|Fox| showtime 9
+http://red.ipfox.org:8080/1234/12345678/31891
+#EXTINF:-1 ,|Fox| showtime 10
+http://red.ipfox.org:8080/1234/12345678/31890
+#EXTINF:-1 ,|Fox| Ostora Arabic 1
+http://red.ipfox.org:8080/1234/12345678/31889
+#EXTINF:-1 ,|Fox| Ostora Arabic 2
+http://red.ipfox.org:8080/1234/12345678/31888
+#EXTINF:-1 ,|Fox| Ostora Arabic 3
+http://red.ipfox.org:8080/1234/12345678/31887
+#EXTINF:-1 ,|Fox| Ostora Arabic 4
+http://red.ipfox.org:8080/1234/12345678/31886
+#EXTINF:-1 ,|Fox| Ostora Arabic 5
+http://red.ipfox.org:8080/1234/12345678/31885
+#EXTINF:-1 ,|Fox| Ostora Arabic 6
+http://red.ipfox.org:8080/1234/12345678/31884
+#EXTINF:-1 ,|Fox| Ostora Arabic 7
+http://red.ipfox.org:8080/1234/12345678/31883
+#EXTINF:-1 ,|Fox| Ostora Arabic 8
+http://red.ipfox.org:8080/1234/12345678/31882
+#EXTINF:-1 ,|Fox| Ostora Arabic 10
+http://red.ipfox.org:8080/1234/12345678/31880
+#EXTINF:-1 ,beIN Sport Premium 01 (240P)
+http://red.ipfox.org:8080/1234/12345678/31603
+#EXTINF:-1 ,beIN Sport Premium 02 (240P)
+http://red.ipfox.org:8080/1234/12345678/31602
+#EXTINF:-1 ,beIN Sport Premium 03 (240P)
+http://red.ipfox.org:8080/1234/12345678/31601
+#EXTINF:-1 ,beIN Sport 01 (240P)
+http://red.ipfox.org:8080/1234/12345678/31600
+#EXTINF:-1 ,beIN Sport 02 (240P)
+http://red.ipfox.org:8080/1234/12345678/31599
+#EXTINF:-1 ,beIN Sport 03 (240P)
+http://red.ipfox.org:8080/1234/12345678/31598
+#EXTINF:-1 ,beIN Sport 04 (240P)
+http://red.ipfox.org:8080/1234/12345678/31597
+#EXTINF:-1 ,beIN Sport 05 (240P)
+http://red.ipfox.org:8080/1234/12345678/31596
+#EXTINF:-1 ,beIN Sport 06 (240P)
+http://red.ipfox.org:8080/1234/12345678/31595
+#EXTINF:-1 ,beIN Sport 07 (240P)
+http://red.ipfox.org:8080/1234/12345678/31594
+#EXTINF:-1 ,beIN Sport Premium 01 (360P)
+http://red.ipfox.org:8080/1234/12345678/31593
+#EXTINF:-1 ,beIN Sport Premium 02 (360P)
+http://red.ipfox.org:8080/1234/12345678/31592
+#EXTINF:-1 ,beIN Sport Premium 03 (360P)
+http://red.ipfox.org:8080/1234/12345678/31591
+#EXTINF:-1 ,beIN Sport 01 (360P)
+http://red.ipfox.org:8080/1234/12345678/31588
+#EXTINF:-1 ,beIN Sport 02 (360P)
+http://red.ipfox.org:8080/1234/12345678/31587
+#EXTINF:-1 ,beIN Sport 03 (360P)
+http://red.ipfox.org:8080/1234/12345678/31586
+#EXTINF:-1 ,beIN Sport 04 (360P)
+http://red.ipfox.org:8080/1234/12345678/31585
+#EXTINF:-1 ,beIN Sport 05 (360P)
+http://red.ipfox.org:8080/1234/12345678/31584
+#EXTINF:-1 ,beIN Sport 06 (360P)
+http://red.ipfox.org:8080/1234/12345678/31583
+#EXTINF:-1 ,beIN Sport 07 (360P)
+http://red.ipfox.org:8080/1234/12345678/31582
+#EXTINF:-1 ,beIN Sport Premium 01 (480P)
+http://red.ipfox.org:8080/1234/12345678/31548
+#EXTINF:-1 ,beIN Sport Premium 02 (480P)
+http://red.ipfox.org:8080/1234/12345678/31547
+#EXTINF:-1 ,beIN Sport Premium 03 (480P)
+http://red.ipfox.org:8080/1234/12345678/31546
+#EXTINF:-1 ,beIN Sport 01 (480P)
+http://red.ipfox.org:8080/1234/12345678/31555
+#EXTINF:-1 ,beIN Sport 02 (480P)
+http://red.ipfox.org:8080/1234/12345678/31554
+#EXTINF:-1 ,beIN Sport 03 (480P)
+http://red.ipfox.org:8080/1234/12345678/31553
+#EXTINF:-1 ,beIN Sport 04 (480P)
+http://red.ipfox.org:8080/1234/12345678/31552
+#EXTINF:-1 ,beIN Sport 05 (480P)
+http://red.ipfox.org:8080/1234/12345678/31551
+#EXTINF:-1 ,beIN Sport 06 (480P)
+http://red.ipfox.org:8080/1234/12345678/31550
+#EXTINF:-1 ,beIN Sport 07 (480P)
+http://red.ipfox.org:8080/1234/12345678/31549
+#EXTINF:-1 ,beIN Sport Premium 01 (720P)
+http://red.ipfox.org:8080/1234/12345678/31529
+#EXTINF:-1 ,beIN Sport Premium 02 (720P)
+http://red.ipfox.org:8080/1234/12345678/31528
+#EXTINF:-1 ,beIN Sport Premium 03 (720P)
+http://red.ipfox.org:8080/1234/12345678/31527
+#EXTINF:-1 ,beIN Sport 01 (720P)
+http://red.ipfox.org:8080/1234/12345678/31536
+#EXTINF:-1 ,beIN Sport 02 (720P)
+http://red.ipfox.org:8080/1234/12345678/31535
+#EXTINF:-1 ,beIN Sport 03 (720P)
+http://red.ipfox.org:8080/1234/12345678/31534
+#EXTINF:-1 ,beIN Sport 04 (720P)
+http://red.ipfox.org:8080/1234/12345678/31533
+#EXTINF:-1 ,beIN Sport 06 (720P)
+http://red.ipfox.org:8080/1234/12345678/31531
+#EXTINF:-1 ,beIN Sport 07 (720P)
+http://red.ipfox.org:8080/1234/12345678/31530
+#EXTINF:-1 ,beIN Sport Premium 01 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31498
+#EXTINF:-1 ,beIN Sport Premium 02 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31497
+#EXTINF:-1 ,beIN Sport Premium 03 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31496
+#EXTINF:-1 ,beIN Sport 01 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31493
+#EXTINF:-1 ,beIN Sport 02 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31492
+#EXTINF:-1 ,beIN Sport 03 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31491
+#EXTINF:-1 ,beIN Sport 04 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31490
+#EXTINF:-1 ,beIN Sport 05 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31489
+#EXTINF:-1 ,beIN Sport 06 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31488
+#EXTINF:-1 ,beIN Sport 07 (1080P)
+http://red.ipfox.org:8080/1234/12345678/31487
+#EXTINF:-1 ,SSC 1 HD
+http://red.ipfox.org:8080/1234/12345678/37815
+#EXTINF:-1 ,SSC 2 HD
+http://red.ipfox.org:8080/1234/12345678/37821
+#EXTINF:-1 ,SSC 3 HD
+http://red.ipfox.org:8080/1234/12345678/37816
+#EXTINF:-1 ,SSC 4 HD
+http://red.ipfox.org:8080/1234/12345678/37817
+#EXTINF:-1 ,SSC 5 HD
+http://red.ipfox.org:8080/1234/12345678/37818
+#EXTINF:-1 ,SSC 6 HD
+http://red.ipfox.org:8080/1234/12345678/37819
+#EXTINF:-1 ,SSC 7 HD
+http://red.ipfox.org:8080/1234/12345678/37820
+#EXTINF:-1 ,|Platinium| REELPX Cinema HD
+http://red.ipfox.org:8080/1234/12345678/37506
+#EXTINF:-1 ,|Platinium| MTV MUSIC
+http://red.ipfox.org:8080/1234/12345678/37490
+#EXTINF:-1 ,|OSN| Al Yawm HD
+http://red.ipfox.org:8080/1234/12345678/2859
+#EXTINF:-1 ,|OSN| Cinema 1
+http://red.ipfox.org:8080/1234/12345678/2861
+#EXTINF:-1 ,|OSN| Cinema 2
+http://red.ipfox.org:8080/1234/12345678/2862
+#EXTINF:-1 ,|OSN| Discovery HD
+http://red.ipfox.org:8080/1234/12345678/2863
+#EXTINF:-1 ,|OSN| Movies First HD
+http://red.ipfox.org:8080/1234/12345678/2865
+#EXTINF:-1 ,|OSN| History HD
+http://red.ipfox.org:8080/1234/12345678/2866
+#EXTINF:-1 ,|OSN| Movies Action HD
+http://red.ipfox.org:8080/1234/12345678/2868
+#EXTINF:-1 ,|OSN| Movies Disney  HD
+http://red.ipfox.org:8080/1234/12345678/2871
+#EXTINF:-1 ,|OSN| Movies HD
+http://red.ipfox.org:8080/1234/12345678/2872
+#EXTINF:-1 ,|OSN| Music Now
+http://red.ipfox.org:8080/1234/12345678/2873
+#EXTINF:-1 ,|OSN| Nat Geo Wild HD
+http://red.ipfox.org:8080/1234/12345678/2874
+#EXTINF:-1 ,|OSN| Nat Geo HD
+http://red.ipfox.org:8080/1234/12345678/2875
+#EXTINF:-1 ,|OSN| Series First HD
+http://red.ipfox.org:8080/1234/12345678/2877
+#EXTINF:-1 ,|OSN| Star Movies HD
+http://red.ipfox.org:8080/1234/12345678/2878
+#EXTINF:-1 ,|OSN| Star World HD
+http://red.ipfox.org:8080/1234/12345678/2879
+#EXTINF:-1 ,|OSN| Yahala Cinema HD
+http://red.ipfox.org:8080/1234/12345678/2880
+#EXTINF:-1 ,|OSN| Yahala HD
+http://red.ipfox.org:8080/1234/12345678/2881
+#EXTINF:-1 ,|OSN| OSN Kids HD
+http://red.ipfox.org:8080/1234/12345678/2882
+#EXTINF:-1 ,|OSN| Yahala ALOula HD
+http://red.ipfox.org:8080/1234/12345678/2883
+#EXTINF:-1 ,|OSN| Musalsalat 1 HD
+http://red.ipfox.org:8080/1234/12345678/2885
+#EXTINF:-1 ,|OSN| Baby TV HD
+http://red.ipfox.org:8080/1234/12345678/2887
+#EXTINF:-1 ,|OSN| Nickelodeon HD
+http://red.ipfox.org:8080/1234/12345678/2888
+#EXTINF:-1 ,|OSN | Fann
+http://red.ipfox.org:8080/1234/12345678/21035
+#EXTINF:-1 ,|OSN| Al Safwa HD
+http://red.ipfox.org:8080/1234/12345678/21036
+#EXTINF:-1 ,|OSN| Kid Zone TV HD
+http://red.ipfox.org:8080/1234/12345678/25917
+#EXTINF:-1 ,|OSN| Musalsalat 2 HD
+http://red.ipfox.org:8080/1234/12345678/25920
+#EXTINF:-1 ,|Platinium| ReelPX Action
+http://red.ipfox.org:8080/1234/12345678/25956
+#EXTINF:-1 ,|Platinium| ReelPX Family
+http://red.ipfox.org:8080/1234/12345678/25955
+#EXTINF:-1 ,|Platinium| ReelPX Comedy
+http://red.ipfox.org:8080/1234/12345678/30407
+#EXTINF:-1 ,|Platinium| ReelPX Ultimate
+http://red.ipfox.org:8080/1234/12345678/25957
+#EXTINF:-1 ,|Platinium| FX HD
+http://red.ipfox.org:8080/1234/12345678/25950
+#EXTINF:-1 ,|Platinium| Fox Movies
+http://red.ipfox.org:8080/1234/12345678/2292
+#EXTINF:-1 ,|Platinium| Fox Life HD
+http://red.ipfox.org:8080/1234/12345678/2291
+#EXTINF:-1 ,|Platinium| Fox Crime HD
+http://red.ipfox.org:8080/1234/12345678/2280
+#EXTINF:-1 ,|Platinium| Fox Rewayat HD
+http://red.ipfox.org:8080/1234/12345678/2290
+#EXTINF:-1 ,|Platinium| Fox Action Movies
+http://red.ipfox.org:8080/1234/12345678/2293
+#EXTINF:-1 ,|Platinium| beIN Fatafeat
+http://red.ipfox.org:8080/1234/12345678/2299
+#EXTINF:-1 ,|Platinium| beIN Groummet
+http://red.ipfox.org:8080/1234/12345678/2300
+#EXTINF:-1 ,|Platinium| BeIN Movies Action
+http://red.ipfox.org:8080/1234/12345678/2316
+#EXTINF:-1 ,|Platinium| BeIN Movies Family
+http://red.ipfox.org:8080/1234/12345678/2315
+#EXTINF:-1 ,|Platinium| BeIN Movies Drama
+http://red.ipfox.org:8080/1234/12345678/2313
+#EXTINF:-1 ,|Platinium| BeIN Movies Premiere
+http://red.ipfox.org:8080/1234/12345678/2314
+#EXTINF:-1 ,|Platinium| beIN Series 1
+http://red.ipfox.org:8080/1234/12345678/2296
+#EXTINF:-1 ,|Platinium| Rotana Classic HD
+http://red.ipfox.org:8080/1234/12345678/2840
+#EXTINF:-1 ,|Platinium| Rotana Cinema HD
+http://red.ipfox.org:8080/1234/12345678/2841
+#EXTINF:-1 ,|Platinium| Rotana Khalijeah HD
+http://red.ipfox.org:8080/1234/12345678/2838
+#EXTINF:-1 ,|Platinium| Rotana Drama HD
+http://red.ipfox.org:8080/1234/12345678/2839
+#EXTINF:-1 ,|Platinium| Rotana Comedy HD
+http://red.ipfox.org:8080/1234/12345678/2842
+#EXTINF:-1 ,|Platinium| Rotana Kids HD
+http://red.ipfox.org:8080/1234/12345678/30406
+#EXTINF:-1 ,|Platinium| H2 HD
+http://red.ipfox.org:8080/1234/12345678/25934
+#EXTINF:-1 ,|Platinium| BeIN animal planet
+http://red.ipfox.org:8080/1234/12345678/25937
+#EXTINF:-1 ,|Platinium| Discovery ID HD
+http://red.ipfox.org:8080/1234/12345678/25926
+#EXTINF:-1 ,|Platinium| Discovery Science
+http://red.ipfox.org:8080/1234/12345678/2850
+#EXTINF:-1 ,|Platinium| VH1
+http://red.ipfox.org:8080/1234/12345678/25927
+#EXTINF:-1 ,|Platinium| MTV Live HD
+http://red.ipfox.org:8080/1234/12345678/25925
+#EXTINF:-1 ,|News| AL Hadath
+http://red.ipfox.org:8080/1234/12345678/2901
+#EXTINF:-1 ,|News| Alarabiya
+http://red.ipfox.org:8080/1234/12345678/2914
+#EXTINF:-1 ,|News| ALarabiya ALhadath
+http://red.ipfox.org:8080/1234/12345678/2915
+#EXTINF:-1 ,|News| Al Jazeera
+http://red.ipfox.org:8080/1234/12345678/2913
+#EXTINF:-1 ,|News| Al Jazeera Mubasher
+http://red.ipfox.org:8080/1234/12345678/2912
+#EXTINF:-1 ,|News| BBC Arabic
+http://red.ipfox.org:8080/1234/12345678/2919
+#EXTINF:-1 ,|News| Alhurra Iraq
+http://red.ipfox.org:8080/1234/12345678/2907
+#EXTINF:-1 ,|News| AlSharqiya News
+http://red.ipfox.org:8080/1234/12345678/2904
+#EXTINF:-1 ,|News| Sky News Arabia
+http://red.ipfox.org:8080/1234/12345678/2920
+#EXTINF:-1 ,|News| France 24 AR
+http://red.ipfox.org:8080/1234/12345678/2897
+#EXTINF:-1 ,|News| France 24 Eng
+http://red.ipfox.org:8080/1234/12345678/2898
+#EXTINF:-1 ,|News| Nile News
+http://red.ipfox.org:8080/1234/12345678/2899
+#EXTINF:-1 ,|News| Iraqia News
+http://red.ipfox.org:8080/1234/12345678/2900
+#EXTINF:-1 ,|News| Almayadeen
+http://red.ipfox.org:8080/1234/12345678/2903
+#EXTINF:-1 ,|News| Al Mawsleya
+http://red.ipfox.org:8080/1234/12345678/2905
+#EXTINF:-1 ,|News| DW-TV ARABIA
+http://red.ipfox.org:8080/1234/12345678/2910
+#EXTINF:-1 ,|News| TRT ELARABIYE
+http://red.ipfox.org:8080/1234/12345678/2911
+#EXTINF:-1 ,|News| Russia Alyaum
+http://red.ipfox.org:8080/1234/12345678/2916
+#EXTINF:-1 ,|News| CNBC Arabia
+http://red.ipfox.org:8080/1234/12345678/2917
+#EXTINF:-1 ,|News| CNN
+http://red.ipfox.org:8080/1234/12345678/2918
+#EXTINF:-1 ,|Kids| Disney HD
+http://red.ipfox.org:8080/1234/12345678/37488
+#EXTINF:-1 ,|Kids| Bein Junior
+http://red.ipfox.org:8080/1234/12345678/37487
+#EXTINF:-1 ,|Kids| MBC 3 HD
+http://red.ipfox.org:8080/1234/12345678/25056
+#EXTINF:-1 ,|Kids| Rotana Kids
+http://red.ipfox.org:8080/1234/12345678/25057
+#EXTINF:-1 ,|Kids| OSN Kid Zone TV
+http://red.ipfox.org:8080/1234/12345678/30416
+#EXTINF:-1 ,|Kids| ZooMoo
+http://red.ipfox.org:8080/1234/12345678/30417
+#EXTINF:-1 ,|Kids| CN Arabia
+http://red.ipfox.org:8080/1234/12345678/2931
+#EXTINF:-1 ,|Kids| Nicktoons
+http://red.ipfox.org:8080/1234/12345678/30414
+#EXTINF:-1 ,|Kids| Nick Jr.
+http://red.ipfox.org:8080/1234/12345678/30413
+#EXTINF:-1 ,|Kids| beIN Baby
+http://red.ipfox.org:8080/1234/12345678/2301
+#EXTINF:-1 ,|Kids| beIN Jeem
+http://red.ipfox.org:8080/1234/12345678/2303
+#EXTINF:-1 ,|Kids| beIN Baraem
+http://red.ipfox.org:8080/1234/12345678/2302
+#EXTINF:-1 ,|Kids| Gulli Arabie HD
+http://red.ipfox.org:8080/1234/12345678/2853
+#EXTINF:-1 ,|Kids| Disney Junior HD
+http://red.ipfox.org:8080/1234/12345678/2857
+#EXTINF:-1 ,|Kids| Kids Baby Channel
+http://red.ipfox.org:8080/1234/12345678/25061
+#EXTINF:-1 ,|Kids| HodHod
+http://red.ipfox.org:8080/1234/12345678/25060
+#EXTINF:-1 ,|Kids| ZAYTOONA
+http://red.ipfox.org:8080/1234/12345678/2922
+#EXTINF:-1 ,|Kids| TOYOR ALJANAH
+http://red.ipfox.org:8080/1234/12345678/2924
+#EXTINF:-1 ,|Kids| TAHA
+http://red.ipfox.org:8080/1234/12345678/2925
+#EXTINF:-1 ,|kids| SPACETOON ARABIC
+http://red.ipfox.org:8080/1234/12345678/2926
+#EXTINF:-1 ,|kids| SAT-7 KIDS
+http://red.ipfox.org:8080/1234/12345678/2928
+#EXTINF:-1 ,|Kids| Atfal &amp; mawaheb
+http://red.ipfox.org:8080/1234/12345678/2932
+#EXTINF:-1 ,|AR| MBC 1 HD ™
+http://red.ipfox.org:8080/1234/12345678/32831
+#EXTINF:-1 ,|AR| MBC 1 +4H
+http://red.ipfox.org:8080/1234/12345678/32833
+#EXTINF:-1 ,|AR| MBC 2 HD  ™
+http://red.ipfox.org:8080/1234/12345678/32834
+#EXTINF:-1 ,|AR| MBC 2 +2H
+http://red.ipfox.org:8080/1234/12345678/32835
+#EXTINF:-1 ,|AR| MBC 2 +4H
+http://red.ipfox.org:8080/1234/12345678/32836
+#EXTINF:-1 ,|AR| MBC 3 HD  ™
+http://red.ipfox.org:8080/1234/12345678/32837
+#EXTINF:-1 ,|AR| MBC 3 +2H
+http://red.ipfox.org:8080/1234/12345678/32838
+#EXTINF:-1 ,|AR| MBC 3 +4H
+http://red.ipfox.org:8080/1234/12345678/32839
+#EXTINF:-1 ,|AR| MBC 4 HD  ™
+http://red.ipfox.org:8080/1234/12345678/32841
+#EXTINF:-1 ,|AR| MBC 4 +2H
+http://red.ipfox.org:8080/1234/12345678/32842
+#EXTINF:-1 ,|AR| MBC 4 +4H
+http://red.ipfox.org:8080/1234/12345678/32843
+#EXTINF:-1 ,|AR| MBC 5  ™
+http://red.ipfox.org:8080/1234/12345678/32844
+#EXTINF:-1 ,|AR| MBC 5 +2H
+http://red.ipfox.org:8080/1234/12345678/32845
+#EXTINF:-1 ,|AR| MBC 5 +4H
+http://red.ipfox.org:8080/1234/12345678/32846
+#EXTINF:-1 ,|AR| MBC IRAQ HD  ™
+http://red.ipfox.org:8080/1234/12345678/32847
+#EXTINF:-1 ,|AR| MBC Iraq HD +2H
+http://red.ipfox.org:8080/1234/12345678/32848
+#EXTINF:-1 ,|AR| MBC ACTION HD  ™
+http://red.ipfox.org:8080/1234/12345678/32849
+#EXTINF:-1 ,|AR| MBC Action +2H
+http://red.ipfox.org:8080/1234/12345678/32850
+#EXTINF:-1 ,|AR| MBC Action +4H
+http://red.ipfox.org:8080/1234/12345678/32851
+#EXTINF:-1 ,|AR| MBC BOLLYWOOD HD  ™
+http://red.ipfox.org:8080/1234/12345678/32852
+#EXTINF:-1 ,|AR| MBC BOLLYWOOD +2H
+http://red.ipfox.org:8080/1234/12345678/32853
+#EXTINF:-1 ,|AR| MBC BOLLYWOOD +4H
+http://red.ipfox.org:8080/1234/12345678/32854
+#EXTINF:-1 ,|AR| MBC Drama HD  ™
+http://red.ipfox.org:8080/1234/12345678/32855
+#EXTINF:-1 ,|AR| MBC DRAMA +2H
+http://red.ipfox.org:8080/1234/12345678/32856
+#EXTINF:-1 ,|AR| MBC DRAMA +4H
+http://red.ipfox.org:8080/1234/12345678/32857
+#EXTINF:-1 ,|AR| MBC MAX HD  ™
+http://red.ipfox.org:8080/1234/12345678/32858
+#EXTINF:-1 ,|AR| MBC MAX +2H
+http://red.ipfox.org:8080/1234/12345678/32859
+#EXTINF:-1 ,|AR| MBC MAX +4H
+http://red.ipfox.org:8080/1234/12345678/32860
+#EXTINF:-1 ,|AR| MBC+ DRAMA HD
+http://red.ipfox.org:8080/1234/12345678/32861
+#EXTINF:-1 ,|AR| MBC+ Drama HD +2H
+http://red.ipfox.org:8080/1234/12345678/32862
+#EXTINF:-1 ,|AR| MBC+ Drama HD +4H
+http://red.ipfox.org:8080/1234/12345678/32863
+#EXTINF:-1 ,|AR| MBC+ VARIETY FHD
+http://red.ipfox.org:8080/1234/12345678/32864
+#EXTINF:-1 ,|AR| MBC MASR  ™
+http://red.ipfox.org:8080/1234/12345678/32865
+#EXTINF:-1 ,|AR| MBC MASR +2H
+http://red.ipfox.org:8080/1234/12345678/32866
+#EXTINF:-1 ,|AR| MBC MASR +4H
+http://red.ipfox.org:8080/1234/12345678/32867
+#EXTINF:-1 ,|AR| MBC MASR 2  ™
+http://red.ipfox.org:8080/1234/12345678/32868
+#EXTINF:-1 ,|AR| MBC MASR 2 +2H
+http://red.ipfox.org:8080/1234/12345678/32869
+#EXTINF:-1 ,|AR| MBC MASR 2 +4H
+http://red.ipfox.org:8080/1234/12345678/32870
+#EXTINF:-1 ,|LB| MTV HD
+http://red.ipfox.org:8080/1234/12345678/32872
+#EXTINF:-1 ,|LB| MTV HD +2H
+http://red.ipfox.org:8080/1234/12345678/32873
+#EXTINF:-1 ,|LB| LBC HD
+http://red.ipfox.org:8080/1234/12345678/32874
+#EXTINF:-1 ,|LB| LBC International HD
+http://red.ipfox.org:8080/1234/12345678/32877
+#EXTINF:-1 ,|LB| NBN TV HD
+http://red.ipfox.org:8080/1234/12345678/32879
+#EXTINF:-1 ,|LB| OTV Lebanon
+http://red.ipfox.org:8080/1234/12345678/32881
+#EXTINF:-1 ,|LB| Teleliban TV
+http://red.ipfox.org:8080/1234/12345678/32883
+#EXTINF:-1 ,|LB| ALJadeed HD
+http://red.ipfox.org:8080/1234/12345678/32884
+#EXTINF:-1 ,|LB| Future TV
+http://red.ipfox.org:8080/1234/12345678/32886
+#EXTINF:-1 ,|LB| Al Manar
+http://red.ipfox.org:8080/1234/12345678/32887
+#EXTINF:-1 ,|LB| AL MANAR +2H
+http://red.ipfox.org:8080/1234/12345678/32888
+#EXTINF:-1 ,|LB| Al Mayadeen
+http://red.ipfox.org:8080/1234/12345678/32889
+#EXTINF:-1 ,|LB| ETIHAD TV
+http://red.ipfox.org:8080/1234/12345678/32891
+#EXTINF:-1 ,|LB| ONE TV HD
+http://red.ipfox.org:8080/1234/12345678/32892
+#EXTINF:-1 ,|LB| AL IMEN
+http://red.ipfox.org:8080/1234/12345678/32893
+#EXTINF:-1 ,|LB| El Eiman TV
+http://red.ipfox.org:8080/1234/12345678/32894
+#EXTINF:-1 ,|LB| Mariam TV
+http://red.ipfox.org:8080/1234/12345678/32895
+#EXTINF:-1 ,|LB| Alaan TV
+http://red.ipfox.org:8080/1234/12345678/32897
+#EXTINF:-1 ,|LB| Hawakom HD
+http://red.ipfox.org:8080/1234/12345678/32899
+#EXTINF:-1 ,|IQ| Iraqia News
+http://red.ipfox.org:8080/1234/12345678/33072
+#EXTINF:-1 ,|IQ| Iraqia Turkuman
+http://red.ipfox.org:8080/1234/12345678/33073
+#EXTINF:-1 ,|IQ| Iraqia Syriac
+http://red.ipfox.org:8080/1234/12345678/33074
+#EXTINF:-1 ,|IQ| Iraqia Kurd
+http://red.ipfox.org:8080/1234/12345678/33075
+#EXTINF:-1 ,|IQ| Al Ahwaz
+http://red.ipfox.org:8080/1234/12345678/33078
+#EXTINF:-1 ,|IQ| Al Ebaa TV
+http://red.ipfox.org:8080/1234/12345678/33080
+#EXTINF:-1 ,|IQ| AL ESHRAQ TV
+http://red.ipfox.org:8080/1234/12345678/33081
+#EXTINF:-1 ,|IQ| Al Fallujah HD
+http://red.ipfox.org:8080/1234/12345678/33083
+#EXTINF:-1 ,|IQ| SHARQIYA from Kalba
+http://red.ipfox.org:8080/1234/12345678/33086
+#EXTINF:-1 ,|IQ| AlRafideen
+http://red.ipfox.org:8080/1234/12345678/33087
+#EXTINF:-1 ,|IQ| Al Sumaria TV
+http://red.ipfox.org:8080/1234/12345678/33088
+#EXTINF:-1 ,|IQ| Al Mawseleya
+http://red.ipfox.org:8080/1234/12345678/33089
+#EXTINF:-1 ,|IQ| MBC Iraq HD
+http://red.ipfox.org:8080/1234/12345678/33090
+#EXTINF:-1 ,|IQ| ALTALEAA TV
+http://red.ipfox.org:8080/1234/12345678/33092
+#EXTINF:-1 ,|IQ| ALTAHIER TV HD
+http://red.ipfox.org:8080/1234/12345678/33103
+#EXTINF:-1 ,|IQ| Beladi
+http://red.ipfox.org:8080/1234/12345678/33110
+#EXTINF:-1 ,|IQ| AFAQ TV
+http://red.ipfox.org:8080/1234/12345678/33112
+#EXTINF:-1 ,|IQ| Iraq Future TV
+http://red.ipfox.org:8080/1234/12345678/33113
+#EXTINF:-1 ,|IQ| AL NOJABA TV
+http://red.ipfox.org:8080/1234/12345678/33115
+#EXTINF:-1 ,|IQ| ALBAEENAH IRAQ
+http://red.ipfox.org:8080/1234/12345678/33116
+#EXTINF:-1 ,|IQ| IMAM ALI HD
+http://red.ipfox.org:8080/1234/12345678/33117
+#EXTINF:-1 ,|IQ| iNEWS HD
+http://red.ipfox.org:8080/1234/12345678/33119
+#EXTINF:-1 ,|IQ| SAMARRA TV
+http://red.ipfox.org:8080/1234/12345678/33121
+#EXTINF:-1 ,|IQ| DUA CHANNEL
+http://red.ipfox.org:8080/1234/12345678/33122
+#EXTINF:-1 ,|IQ| MARJAEYAT 2
+http://red.ipfox.org:8080/1234/12345678/33124
+#EXTINF:-1 ,|IQ| AL Sharqyia HD
+http://red.ipfox.org:8080/1234/12345678/33125
+#EXTINF:-1 ,|IQ| Iraqia Entertainment
+http://red.ipfox.org:8080/1234/12345678/33127
+#EXTINF:-1 ,|IQ| Al Rasheed
+http://red.ipfox.org:8080/1234/12345678/33128
+#EXTINF:-1 ,|IQ| Al-Iraqiya Sport
+http://red.ipfox.org:8080/1234/12345678/33129
+#EXTINF:-1 ,|IQ| ALMASSAR AL OULA
+http://red.ipfox.org:8080/1234/12345678/33130
+#EXTINF:-1 ,|IQ| Dijlah TV
+http://red.ipfox.org:8080/1234/12345678/33131
+#EXTINF:-1 ,|IQ| Al Forat Tv
+http://red.ipfox.org:8080/1234/12345678/33132
+#EXTINF:-1 ,|IQ| Hona Baghdad
+http://red.ipfox.org:8080/1234/12345678/33133
+#EXTINF:-1 ,|IQ| Albaghdadiya
+http://red.ipfox.org:8080/1234/12345678/33134
+#EXTINF:-1 ,|IQ| Karbala Tv HD
+http://red.ipfox.org:8080/1234/12345678/33135
+#EXTINF:-1 ,|IQ| Al Anwar
+http://red.ipfox.org:8080/1234/12345678/33136
+#EXTINF:-1 ,|IQ| Al Ghadeer
+http://red.ipfox.org:8080/1234/12345678/33137
+#EXTINF:-1 ,|IQ| AL NAEEM TV
+http://red.ipfox.org:8080/1234/12345678/33138
+#EXTINF:-1 ,|IQ| Al Kawthar
+http://red.ipfox.org:8080/1234/12345678/33143
+#EXTINF:-1 ,|IQ| Al Maaref TV
+http://red.ipfox.org:8080/1234/12345678/33145
+#EXTINF:-1 ,|EG| AL OULA
+http://red.ipfox.org:8080/1234/12345678/33147
+#EXTINF:-1 ,|EG| AL Thanya
+http://red.ipfox.org:8080/1234/12345678/33148
+#EXTINF:-1 ,|EG| Nile TV
+http://red.ipfox.org:8080/1234/12345678/33149
+#EXTINF:-1 ,|EG| AL Masriya
+http://red.ipfox.org:8080/1234/12345678/33150
+#EXTINF:-1 ,|EG| Mekameleen HD
+http://red.ipfox.org:8080/1234/12345678/33151
+#EXTINF:-1 ,|EG| El Sharq
+http://red.ipfox.org:8080/1234/12345678/33152
+#EXTINF:-1 ,|EG| WATAN TV
+http://red.ipfox.org:8080/1234/12345678/33153
+#EXTINF:-1 ,|EG| Mehwar
+http://red.ipfox.org:8080/1234/12345678/33154
+#EXTINF:-1 ,|EG| CBC
+http://red.ipfox.org:8080/1234/12345678/33155
+#EXTINF:-1 ,|EG| CBC Sofra
+http://red.ipfox.org:8080/1234/12345678/33156
+#EXTINF:-1 ,|EG| CBC Drama
+http://red.ipfox.org:8080/1234/12345678/33157
+#EXTINF:-1 ,|EG| CBC Extra
+http://red.ipfox.org:8080/1234/12345678/33158
+#EXTINF:-1 ,|EG| ON E HD
+http://red.ipfox.org:8080/1234/12345678/33160
+#EXTINF:-1 ,|EG| ON Drama
+http://red.ipfox.org:8080/1234/12345678/33161
+#EXTINF:-1 ,|EG| ON TIME SPORT 1
+http://red.ipfox.org:8080/1234/12345678/33162
+#EXTINF:-1 ,|EG| ON TIME SPORT 2
+http://red.ipfox.org:8080/1234/12345678/33163
+#EXTINF:-1 ,|EG| ON TIME SPORT 3
+http://red.ipfox.org:8080/1234/12345678/33164
+#EXTINF:-1 ,|EG| Al Nahar
+http://red.ipfox.org:8080/1234/12345678/33165
+#EXTINF:-1 ,|EG| Al Nahar Drama
+http://red.ipfox.org:8080/1234/12345678/33166
+#EXTINF:-1 ,|EG| TeN TV
+http://red.ipfox.org:8080/1234/12345678/33167
+#EXTINF:-1 ,|EG| Sada ElBalad HD
+http://red.ipfox.org:8080/1234/12345678/33168
+#EXTINF:-1 ,|EG| Sada ElBalad Plus
+http://red.ipfox.org:8080/1234/12345678/33169
+#EXTINF:-1 ,|EG| Sada ElBalad Drama
+http://red.ipfox.org:8080/1234/12345678/33170
+#EXTINF:-1 ,|EG| AlKahera Wal Nas 1
+http://red.ipfox.org:8080/1234/12345678/33171
+#EXTINF:-1 ,|EG| AlKahera Wal Nas +2
+http://red.ipfox.org:8080/1234/12345678/33172
+#EXTINF:-1 ,|EG| DMC HD
+http://red.ipfox.org:8080/1234/12345678/33173
+#EXTINF:-1 ,|EG| DMC Drama
+http://red.ipfox.org:8080/1234/12345678/33174
+#EXTINF:-1 ,|EG| AL Hayat
+http://red.ipfox.org:8080/1234/12345678/33175
+#EXTINF:-1 ,|EG| Al Hayat Muslsalat
+http://red.ipfox.org:8080/1234/12345678/33176
+#EXTINF:-1 ,|EG| Panorama Food
+http://red.ipfox.org:8080/1234/12345678/33178
+#EXTINF:-1 ,|EG| Panorama Drama 1
+http://red.ipfox.org:8080/1234/12345678/33179
+#EXTINF:-1 ,|EG| Panorama Drama 2
+http://red.ipfox.org:8080/1234/12345678/33180
+#EXTINF:-1 ,|EG| Panorama Film
+http://red.ipfox.org:8080/1234/12345678/33181
+#EXTINF:-1 ,|EG| ALSeha Waljamal
+http://red.ipfox.org:8080/1234/12345678/33184
+#EXTINF:-1 ,|EG| Misr Al Zera3eya
+http://red.ipfox.org:8080/1234/12345678/33185
+#EXTINF:-1 ,|EG| Al Kahera
+http://red.ipfox.org:8080/1234/12345678/33186
+#EXTINF:-1 ,|EG| ALDELTA
+http://red.ipfox.org:8080/1234/12345678/33187
+#EXTINF:-1 ,|EG| ALASKANDRIA
+http://red.ipfox.org:8080/1234/12345678/33188
+#EXTINF:-1 ,|EG| ALSA3EED
+http://red.ipfox.org:8080/1234/12345678/33189
+#EXTINF:-1 ,|EG| Cima
+http://red.ipfox.org:8080/1234/12345678/33190
+#EXTINF:-1 ,|EG| Nile News
+http://red.ipfox.org:8080/1234/12345678/33191
+#EXTINF:-1 ,|EG| Nile Life
+http://red.ipfox.org:8080/1234/12345678/33192
+#EXTINF:-1 ,|EG| Nile Family
+http://red.ipfox.org:8080/1234/12345678/33193
+#EXTINF:-1 ,|EG| Nile Drama
+http://red.ipfox.org:8080/1234/12345678/33194
+#EXTINF:-1 ,|EG| Nile Culture
+http://red.ipfox.org:8080/1234/12345678/33195
+#EXTINF:-1 ,|EG| NILE COMEDY
+http://red.ipfox.org:8080/1234/12345678/33196
+#EXTINF:-1 ,|EG| NILE CINEMA
+http://red.ipfox.org:8080/1234/12345678/33197
+#EXTINF:-1 ,|EG| MISR ELBALAD
+http://red.ipfox.org:8080/1234/12345678/33198
+#EXTINF:-1 ,|EG| Nile Sport
+http://red.ipfox.org:8080/1234/12345678/33200
+#EXTINF:-1 ,|EG| Al Ahly
+http://red.ipfox.org:8080/1234/12345678/33201
+#EXTINF:-1 ,|EG| Zamalek
+http://red.ipfox.org:8080/1234/12345678/33202
+#EXTINF:-1 ,|SA| Iqraa TV
+http://red.ipfox.org:8080/1234/12345678/33204
+#EXTINF:-1 ,|SA| Saudi 1
+http://red.ipfox.org:8080/1234/12345678/33205
+#EXTINF:-1 ,|SA| Saudi Quran
+http://red.ipfox.org:8080/1234/12345678/33206
+#EXTINF:-1 ,|SA| Saudi Sunnah
+http://red.ipfox.org:8080/1234/12345678/33207
+#EXTINF:-1 ,|SA| Saudi AlEKhbaria
+http://red.ipfox.org:8080/1234/12345678/33208
+#EXTINF:-1 ,|SA| Saudi Thikrayat
+http://red.ipfox.org:8080/1234/12345678/33209
+#EXTINF:-1 ,|SA| KSA Sports 1
+http://red.ipfox.org:8080/1234/12345678/33210
+#EXTINF:-1 ,|SA| KSA Sports 2
+http://red.ipfox.org:8080/1234/12345678/33211
+#EXTINF:-1 ,|SA| KSA Sports 3
+http://red.ipfox.org:8080/1234/12345678/33212
+#EXTINF:-1 ,|SA| SAUDI Sports 24
+http://red.ipfox.org:8080/1234/12345678/33213
+#EXTINF:-1 ,|SA| SBC
+http://red.ipfox.org:8080/1234/12345678/33214
+#EXTINF:-1 ,|SA| Mecca TV
+http://red.ipfox.org:8080/1234/12345678/33215
+#EXTINF:-1 ,|SA| Oyoun AlWatan
+http://red.ipfox.org:8080/1234/12345678/33216
+#EXTINF:-1 ,|SA|ROTANA CINEMA EGY HD
+http://red.ipfox.org:8080/1234/12345678/33219
+#EXTINF:-1 ,|SA| ROTANA CLASSIC HD
+http://red.ipfox.org:8080/1234/12345678/33220
+#EXTINF:-1 ,|SA| ROTANA CINEMA KSA HD
+http://red.ipfox.org:8080/1234/12345678/33221
+#EXTINF:-1 ,|SA| ROTANA CLIP
+http://red.ipfox.org:8080/1234/12345678/33222
+#EXTINF:-1 ,|SA| ROTANA MUSIC HD
+http://red.ipfox.org:8080/1234/12345678/33223
+#EXTINF:-1 ,|SA| iEN Doros 01
+http://red.ipfox.org:8080/1234/12345678/33225
+#EXTINF:-1 ,|SA| iEN Doros19
+http://red.ipfox.org:8080/1234/12345678/33243
+#EXTINF:-1 ,|SA| iEN Doros 20
+http://red.ipfox.org:8080/1234/12345678/33244
+#EXTINF:-1 ,|SY| Syrian TV HD
+http://red.ipfox.org:8080/1234/12345678/33711
+#EXTINF:-1 ,|SY| Lana TV HD
+http://red.ipfox.org:8080/1234/12345678/33713
+#EXTINF:-1 ,|SY| Lana TV HD +4
+http://red.ipfox.org:8080/1234/12345678/33714
+#EXTINF:-1 ,|SY| Sham FM
+http://red.ipfox.org:8080/1234/12345678/33717
+#EXTINF:-1 ,|SY| SYRIA SATELLITE TV
+http://red.ipfox.org:8080/1234/12345678/33718
+#EXTINF:-1 ,|SY| Halab Today TV
+http://red.ipfox.org:8080/1234/12345678/33719
+#EXTINF:-1 ,|SY| SUROYO TV
+http://red.ipfox.org:8080/1234/12345678/33720
+#EXTINF:-1 ,|SY| Minbij TV
+http://red.ipfox.org:8080/1234/12345678/33721
+#EXTINF:-1 ,|SY| SYRIAN EDUCATION
+http://red.ipfox.org:8080/1234/12345678/33722
+#EXTINF:-1 ,|SY| Al Yawm (syria)
+http://red.ipfox.org:8080/1234/12345678/33723
+#EXTINF:-1 ,|SY| Syrian Drama TV
+http://red.ipfox.org:8080/1234/12345678/33724
+#EXTINF:-1 ,|SY| Syrian Drama TV +4
+http://red.ipfox.org:8080/1234/12345678/33725
+#EXTINF:-1 ,|SY| Al-Khabar Tele Site
+http://red.ipfox.org:8080/1234/12345678/33727
+#EXTINF:-1 ,|SY| SAFA TV
+http://red.ipfox.org:8080/1234/12345678/33728
+#EXTINF:-1 ,|SY| AL SAHAT
+http://red.ipfox.org:8080/1234/12345678/33729
+#EXTINF:-1 ,|SY| Sama TV
+http://red.ipfox.org:8080/1234/12345678/33731
+#EXTINF:-1 ,|SY| Nour Al Sham TV
+http://red.ipfox.org:8080/1234/12345678/33732
+#EXTINF:-1 ,|SY| AL EKHBARIYA AL SORIYA
+http://red.ipfox.org:8080/1234/12345678/33733
+#EXTINF:-1 ,|SY| AIC
+http://red.ipfox.org:8080/1234/12345678/33734
+#EXTINF:-1 ,|PS| Palestine TV HD
+http://red.ipfox.org:8080/1234/12345678/33737
+#EXTINF:-1 ,|PS| Palestine live HD
+http://red.ipfox.org:8080/1234/12345678/33738
+#EXTINF:-1 ,|PS| Palestine today
+http://red.ipfox.org:8080/1234/12345678/33739
+#EXTINF:-1 ,|PS| Maan TV
+http://red.ipfox.org:8080/1234/12345678/33740
+#EXTINF:-1 ,|PS| Awdeh
+http://red.ipfox.org:8080/1234/12345678/33741
+#EXTINF:-1 ,|PS| Falastini.tv
+http://red.ipfox.org:8080/1234/12345678/33742
+#EXTINF:-1 ,|PS| Al Seraj
+http://red.ipfox.org:8080/1234/12345678/33744
+#EXTINF:-1 ,|PS| ALQUDS TODAY TV
+http://red.ipfox.org:8080/1234/12345678/33745
+#EXTINF:-1 ,|PS| MUSAWA HD
+http://red.ipfox.org:8080/1234/12345678/33747
+#EXTINF:-1 ,|PS| Al AQSA TV
+http://red.ipfox.org:8080/1234/12345678/33749
+#EXTINF:-1 ,|PS| Alkofiya
+http://red.ipfox.org:8080/1234/12345678/33750
+#EXTINF:-1 ,|PS| Palestine Sport
+http://red.ipfox.org:8080/1234/12345678/33752
+#EXTINF:-1 ,|JO| Roya HD
+http://red.ipfox.org:8080/1234/12345678/33755
+#EXTINF:-1 ,|JO| Amman TV
+http://red.ipfox.org:8080/1234/12345678/33756
+#EXTINF:-1 ,|JO| Jordan TV
+http://red.ipfox.org:8080/1234/12345678/33757
+#EXTINF:-1 ,|JO| Jordan HD
+http://red.ipfox.org:8080/1234/12345678/33758
+#EXTINF:-1 ,|JO| Al Mamlaka TV
+http://red.ipfox.org:8080/1234/12345678/33759
+#EXTINF:-1 ,|JO| Jordan Sport
+http://red.ipfox.org:8080/1234/12345678/33760
+#EXTINF:-1 ,|JO| Jordan Sport HD
+http://red.ipfox.org:8080/1234/12345678/33761
+#EXTINF:-1 ,|JO| Jordan Deretna
+http://red.ipfox.org:8080/1234/12345678/33762
+#EXTINF:-1 ,|JO| JORDAN NOW
+http://red.ipfox.org:8080/1234/12345678/33764
+#EXTINF:-1 ,|JO| AL HAQEQA AL DAWLIAH
+http://red.ipfox.org:8080/1234/12345678/33765
+#EXTINF:-1 ,|JO| Darsak 1
+http://red.ipfox.org:8080/1234/12345678/33766
+#EXTINF:-1 ,|JO| Darsak Tawjihi
+http://red.ipfox.org:8080/1234/12345678/33768
+#EXTINF:-1 ,|AE| Dubai TV HD
+http://red.ipfox.org:8080/1234/12345678/33772
+#EXTINF:-1 ,|AE| Dubai Zaman
+http://red.ipfox.org:8080/1234/12345678/33773
+#EXTINF:-1 ,|AE| Dubai One HD
+http://red.ipfox.org:8080/1234/12345678/33774
+#EXTINF:-1 ,|AE| Sama Dubai HD
+http://red.ipfox.org:8080/1234/12345678/33775
+#EXTINF:-1 ,|AE| Abu Dhabi TV HD
+http://red.ipfox.org:8080/1234/12345678/33776
+#EXTINF:-1 ,|AE| AD Emarat TV HD
+http://red.ipfox.org:8080/1234/12345678/33777
+#EXTINF:-1 ,|AE| AD NAT GEO HD
+http://red.ipfox.org:8080/1234/12345678/33778
+#EXTINF:-1 ,|AE| AD NAT GEO HD +4
+http://red.ipfox.org:8080/1234/12345678/33779
+#EXTINF:-1 ,|AE| Abu Dhabi Drama HD
+http://red.ipfox.org:8080/1234/12345678/33780
+#EXTINF:-1 ,|AE| AJMAN HD
+http://red.ipfox.org:8080/1234/12345678/33781
+#EXTINF:-1 ,|AE| Alsharjah
+http://red.ipfox.org:8080/1234/12345678/33782
+#EXTINF:-1 ,|AE| B4U Plus
+http://red.ipfox.org:8080/1234/12345678/33783
+#EXTINF:-1 ,|AE| B4U Aflam
+http://red.ipfox.org:8080/1234/12345678/33784
+#EXTINF:-1 ,|AE| ZEE AFLAM
+http://red.ipfox.org:8080/1234/12345678/33785
+#EXTINF:-1 ,|AE| ZEE ALWAN
+http://red.ipfox.org:8080/1234/12345678/33786
+#EXTINF:-1 ,|AE| ALAAN
+http://red.ipfox.org:8080/1234/12345678/33787
+#EXTINF:-1 ,|AE| Wanasah TV
+http://red.ipfox.org:8080/1234/12345678/33788
+#EXTINF:-1 ,|TN| Watania 2
+http://red.ipfox.org:8080/1234/12345678/34632
+#EXTINF:-1 ,|TN| Watania 2 +4H
+http://red.ipfox.org:8080/1234/12345678/34633
+#EXTINF:-1 ,|TN| TNT Carthage+
+http://red.ipfox.org:8080/1234/12345678/34634
+#EXTINF:-1 ,|TN| Nessma TV
+http://red.ipfox.org:8080/1234/12345678/34635
+#EXTINF:-1 ,|TN| Hannibal TV
+http://red.ipfox.org:8080/1234/12345678/34637
+#EXTINF:-1 ,|TN| Hannibal TV +4H
+http://red.ipfox.org:8080/1234/12345678/34638
+#EXTINF:-1 ,|TN| Al Hiwar Ettounsi
+http://red.ipfox.org:8080/1234/12345678/34639
+#EXTINF:-1 ,|TN| Al Hiwar Ettounsi +4H
+http://red.ipfox.org:8080/1234/12345678/34640
+#EXTINF:-1 ,|TN| Watania 1
+http://red.ipfox.org:8080/1234/12345678/34641
+#EXTINF:-1 ,|TN| Attessia TV
+http://red.ipfox.org:8080/1234/12345678/34642
+#EXTINF:-1 ,|TN| Attessia TV +4H
+http://red.ipfox.org:8080/1234/12345678/34643
+#EXTINF:-1 ,|TN| AL JANOUBIA
+http://red.ipfox.org:8080/1234/12345678/34644
+#EXTINF:-1 ,|TN| Tunisia Educ 1
+http://red.ipfox.org:8080/1234/12345678/34645
+#EXTINF:-1 ,|TN| TUNISNA
+http://red.ipfox.org:8080/1234/12345678/34646
+#EXTINF:-1 ,|TN| Zaytouna TV
+http://red.ipfox.org:8080/1234/12345678/34648
+#EXTINF:-1 ,|TN| Zaytouna TV +4H
+http://red.ipfox.org:8080/1234/12345678/34649
+#EXTINF:-1 ,|TN| AL Mustakilah
+http://red.ipfox.org:8080/1234/12345678/34650
+#EXTINF:-1 ,|TN| Al Insen TV
+http://red.ipfox.org:8080/1234/12345678/34651
+#EXTINF:-1 ,|TN| Telvza TV
+http://red.ipfox.org:8080/1234/12345678/34652
+#EXTINF:-1 ,|TN| Carthage+ TV
+http://red.ipfox.org:8080/1234/12345678/34653
+#EXTINF:-1 ,|TN| Jawhara FM HD
+http://red.ipfox.org:8080/1234/12345678/34655
+#EXTINF:-1 ,|TN| Sahel TV
+http://red.ipfox.org:8080/1234/12345678/34656
+#EXTINF:-1 ,|MA| 2M MAROC
+http://red.ipfox.org:8080/1234/12345678/34855
+#EXTINF:-1 ,|MA| TELE MAROC
+http://red.ipfox.org:8080/1234/12345678/34856
+#EXTINF:-1 ,|MA| AL AOULA INTER
+http://red.ipfox.org:8080/1234/12345678/34857
+#EXTINF:-1 ,|MA| ALMAGHRIBIA
+http://red.ipfox.org:8080/1234/12345678/34858
+#EXTINF:-1 ,|MA| ARRYADIA
+http://red.ipfox.org:8080/1234/12345678/34859
+#EXTINF:-1 ,|MA| ASSADISSA
+http://red.ipfox.org:8080/1234/12345678/34860
+#EXTINF:-1 ,|MA| ATHAQAFIA
+http://red.ipfox.org:8080/1234/12345678/34861
+#EXTINF:-1 ,|MA| LAAYOUNETV
+http://red.ipfox.org:8080/1234/12345678/34862
+#EXTINF:-1 ,|MA| TAMAZIGHT
+http://red.ipfox.org:8080/1234/12345678/34863
+#EXTINF:-1 ,|MA| MEDI1-TV HD
+http://red.ipfox.org:8080/1234/12345678/34864
+#EXTINF:-1 ,|MA| AFLAM 7
+http://red.ipfox.org:8080/1234/12345678/34865
+#EXTINF:-1 ,|DZ| ALGERIE 1 -aloula-
+http://red.ipfox.org:8080/1234/12345678/34867
+#EXTINF:-1 ,|DZ| ALGERIE 2 -Canal-
+http://red.ipfox.org:8080/1234/12345678/34868
+#EXTINF:-1 ,|DZ| ALGERIE 3 -Thalitha-
+http://red.ipfox.org:8080/1234/12345678/34869
+#EXTINF:-1 ,|DZ| ALGERIE 4 -Tamazight-
+http://red.ipfox.org:8080/1234/12345678/34870
+#EXTINF:-1 ,|DZ| ALGERIE 5 -Coran-
+http://red.ipfox.org:8080/1234/12345678/34871
+#EXTINF:-1 ,|DZ| ALGERIE 6 -Sadissa-
+http://red.ipfox.org:8080/1234/12345678/34872
+#EXTINF:-1 ,|DZ| ALGERIE 7 -Maarifa-
+http://red.ipfox.org:8080/1234/12345678/34873
+#EXTINF:-1 ,|DZ| ALGERIE 8 -Edhakira-
+http://red.ipfox.org:8080/1234/12345678/34874
+#EXTINF:-1 ,|DZ| Canal Atlas
+http://red.ipfox.org:8080/1234/12345678/34875
+#EXTINF:-1 ,|DZ| ENNAHAR TV
+http://red.ipfox.org:8080/1234/12345678/34876
+#EXTINF:-1 ,|DZ| SAMIRA TV HD
+http://red.ipfox.org:8080/1234/12345678/34877
+#EXTINF:-1 ,|DZ| ECHOROUK TV
+http://red.ipfox.org:8080/1234/12345678/34878
+#EXTINF:-1 ,|DZ| ECHOROUK NEWS
+http://red.ipfox.org:8080/1234/12345678/34879
+#EXTINF:-1 ,|DZ| EL HEDDAF TV
+http://red.ipfox.org:8080/1234/12345678/34880
+#EXTINF:-1 ,|DZ| EL HAYAT TV HD
+http://red.ipfox.org:8080/1234/12345678/34881
+#EXTINF:-1 ,|DZ| EL DJAZAIR N1
+http://red.ipfox.org:8080/1234/12345678/34882
+#EXTINF:-1 ,|DZ| EL DJAZAIRIA TV
+http://red.ipfox.org:8080/1234/12345678/34883
+#EXTINF:-1 ,|DZ| NUMIDIA TV HD
+http://red.ipfox.org:8080/1234/12345678/34884
+#EXTINF:-1 ,|DZ| EL FADJR TV
+http://red.ipfox.org:8080/1234/12345678/34885
+#EXTINF:-1 ,|DZ| EL BILAD
+http://red.ipfox.org:8080/1234/12345678/34886
+#EXTINF:-1 ,|DZ| BAHIA TV
+http://red.ipfox.org:8080/1234/12345678/34887
+#EXTINF:-1 ,|DZ| BEUR TV
+http://red.ipfox.org:8080/1234/12345678/34888
+#EXTINF:-1 ,|DZ| LINA HD
+http://red.ipfox.org:8080/1234/12345678/34889
+#EXTINF:-1 ,|DZ| ALANIS HD
+http://red.ipfox.org:8080/1234/12345678/34891
+#EXTINF:-1 ,|DZ| Awraas TV
+http://red.ipfox.org:8080/1234/12345678/34893
+#EXTINF:-1 ,|DZ| El Adjwaa TV
+http://red.ipfox.org:8080/1234/12345678/34894
+#EXTINF:-1 ,|DZ| Al istiqama
+http://red.ipfox.org:8080/1234/12345678/34895
+#EXTINF:-1 ,|KW| KTV CH1 HD
+http://red.ipfox.org:8080/1234/12345678/35047
+#EXTINF:-1 ,|KW| KTV CH2 HD
+http://red.ipfox.org:8080/1234/12345678/35048
+#EXTINF:-1 ,|KW| KTV Al Arabi HD
+http://red.ipfox.org:8080/1234/12345678/35049
+#EXTINF:-1 ,|KW| KTV Ethraa HD
+http://red.ipfox.org:8080/1234/12345678/35050
+#EXTINF:-1 ,|KW| KTV QURAIN
+http://red.ipfox.org:8080/1234/12345678/35051
+#EXTINF:-1 ,|KW| Scope TV
+http://red.ipfox.org:8080/1234/12345678/35052
+#EXTINF:-1 ,|KW| Al-Majlis TV HD
+http://red.ipfox.org:8080/1234/12345678/35053
+#EXTINF:-1 ,|KW| Al Rai FHD
+http://red.ipfox.org:8080/1234/12345678/35054
+#EXTINF:-1 ,|KW| Al Bawadi
+http://red.ipfox.org:8080/1234/12345678/35056
+#EXTINF:-1 ,|KW| Al Sabah TV
+http://red.ipfox.org:8080/1234/12345678/35057
+#EXTINF:-1 ,|KW| KTV Khalik bel Bait HD
+http://red.ipfox.org:8080/1234/12345678/35058
+#EXTINF:-1 ,|KW| Almahriah
+http://red.ipfox.org:8080/1234/12345678/35059
+#EXTINF:-1 ,|KW| Kuwait Sport HD
+http://red.ipfox.org:8080/1234/12345678/35060
+#EXTINF:-1 ,|QA| Qatar TV 1
+http://red.ipfox.org:8080/1234/12345678/35061
+#EXTINF:-1 ,|QA| Qatar TV 2
+http://red.ipfox.org:8080/1234/12345678/35062
+#EXTINF:-1 ,|QA| Qatar Today
+http://red.ipfox.org:8080/1234/12345678/35063
+#EXTINF:-1 ,|QA| Al Rayyan 1 HD
+http://red.ipfox.org:8080/1234/12345678/35064
+#EXTINF:-1 ,|QA| beIN Sport HD
+http://red.ipfox.org:8080/1234/12345678/35067
+#EXTINF:-1 ,|QA| beIN Sports News HD
+http://red.ipfox.org:8080/1234/12345678/35068
+#EXTINF:-1 ,|QA| ALJAZEERA HD
+http://red.ipfox.org:8080/1234/12345678/35069
+#EXTINF:-1 ,|QA| ALJAZEERA Mubasher HD
+http://red.ipfox.org:8080/1234/12345678/35070
+#EXTINF:-1 ,|QA| ALJAZEERA Documentary HD
+http://red.ipfox.org:8080/1234/12345678/35071
+#EXTINF:-1 ,|QA| ALJAZEERA English HD
+http://red.ipfox.org:8080/1234/12345678/35072
+#EXTINF:-1 ,|BH| Bahrain TV
+http://red.ipfox.org:8080/1234/12345678/35073
+#EXTINF:-1 ,|BH| Bahrain Quran
+http://red.ipfox.org:8080/1234/12345678/35074
+#EXTINF:-1 ,|BH| Bahrain International HD
+http://red.ipfox.org:8080/1234/12345678/35076
+#EXTINF:-1 ,|BH| Bahrain Sport 1 HD
+http://red.ipfox.org:8080/1234/12345678/35077
+#EXTINF:-1 ,|BH| Bahrain Sport 2 HD
+http://red.ipfox.org:8080/1234/12345678/35078
+#EXTINF:-1 ,|OM| Oman TV Sport HD
+http://red.ipfox.org:8080/1234/12345678/35079
+#EXTINF:-1 ,|OM| Oman TV Culture HD
+http://red.ipfox.org:8080/1234/12345678/35080
+#EXTINF:-1 ,|OM| Oman TV Live HD
+http://red.ipfox.org:8080/1234/12345678/35081
+#EXTINF:-1 ,|OM| Oman TV General HD
+http://red.ipfox.org:8080/1234/12345678/35082
+#EXTINF:-1 ,|LY| AL Jamahiria TV
+http://red.ipfox.org:8080/1234/12345678/35084
+#EXTINF:-1 ,|LY| Libya TV
+http://red.ipfox.org:8080/1234/12345678/35085
+#EXTINF:-1 ,|LY| Libya PANORAMA
+http://red.ipfox.org:8080/1234/12345678/35087
+#EXTINF:-1 ,|LY| Libya 218
+http://red.ipfox.org:8080/1234/12345678/35088
+#EXTINF:-1 ,|LY| Libya 218 News
+http://red.ipfox.org:8080/1234/12345678/35089
+#EXTINF:-1 ,|LY| Libya Sport 1
+http://red.ipfox.org:8080/1234/12345678/35090
+#EXTINF:-1 ,|LY| Libya Alrasmia
+http://red.ipfox.org:8080/1234/12345678/35092
+#EXTINF:-1 ,|LY| Libya AlAhrar
+http://red.ipfox.org:8080/1234/12345678/35093
+#EXTINF:-1 ,|LY| Libya Alhadath
+http://red.ipfox.org:8080/1234/12345678/35094
+#EXTINF:-1 ,|LY| Libya Febrayer
+http://red.ipfox.org:8080/1234/12345678/35095
+#EXTINF:-1 ,|LY| Libya BUSINESS HD
+http://red.ipfox.org:8080/1234/12345678/35096
+#EXTINF:-1 ,|LY| Libya ALMUSTAQBAL HD
+http://red.ipfox.org:8080/1234/12345678/35097
+#EXTINF:-1 ,|LY| Tanasuh TV
+http://red.ipfox.org:8080/1234/12345678/35098
+#EXTINF:-1 ,|LY| Libya Alwatania
+http://red.ipfox.org:8080/1234/12345678/35099
+#EXTINF:-1 ,|LY| Libya Education
+http://red.ipfox.org:8080/1234/12345678/35101
+#EXTINF:-1 ,|YE| Sheba TV
+http://red.ipfox.org:8080/1234/12345678/35103
+#EXTINF:-1 ,|YE| Alerth Alnbawi
+http://red.ipfox.org:8080/1234/12345678/35106
+#EXTINF:-1 ,|YE| Al Ghad Al Mushreq
+http://red.ipfox.org:8080/1234/12345678/35107
+#EXTINF:-1 ,|YE| YEMEN SHABAB
+http://red.ipfox.org:8080/1234/12345678/35108
+#EXTINF:-1 ,|YE| Almahriah
+http://red.ipfox.org:8080/1234/12345678/35109
+#EXTINF:-1 ,|YE| ALMASIRAH MUBASHER
+http://red.ipfox.org:8080/1234/12345678/35111
+#EXTINF:-1 ,|YE| BELQEES
+http://red.ipfox.org:8080/1234/12345678/35112
+#EXTINF:-1 ,|YE| AlSaeedah
+http://red.ipfox.org:8080/1234/12345678/35113
+#EXTINF:-1 ,|YE| Yemen Today
+http://red.ipfox.org:8080/1234/12345678/35114
+#EXTINF:-1 ,|YE| Yemen
+http://red.ipfox.org:8080/1234/12345678/35115
+#EXTINF:-1 ,|YE| Suhail TV
+http://red.ipfox.org:8080/1234/12345678/35116
+#EXTINF:-1 ,|YE| ADEN TV
+http://red.ipfox.org:8080/1234/12345678/35117
+#EXTINF:-1 ,|IS| Al-Majd
+http://red.ipfox.org:8080/1234/12345678/35119
+#EXTINF:-1 ,|IS| Al-Majd3
+http://red.ipfox.org:8080/1234/12345678/35120
+#EXTINF:-1 ,|IS| Al Nas
+http://red.ipfox.org:8080/1234/12345678/35121
+#EXTINF:-1 ,|IS| Ressala
+http://red.ipfox.org:8080/1234/12345678/35122
+#EXTINF:-1 ,|IS| AL RAHMA
+http://red.ipfox.org:8080/1234/12345678/35123
+#EXTINF:-1 ,|IS| MTA
+http://red.ipfox.org:8080/1234/12345678/35125
+#EXTINF:-1 ,|IS| AL MAAREF
+http://red.ipfox.org:8080/1234/12345678/35126
+#EXTINF:-1 ,|IS| Al Awhad TV
+http://red.ipfox.org:8080/1234/12345678/35127
+#EXTINF:-1 ,|IS| AL NAEEM TV
+http://red.ipfox.org:8080/1234/12345678/35128
+#EXTINF:-1 ,|IS| MDEEH
+http://red.ipfox.org:8080/1234/12345678/35130
+#EXTINF:-1 ,|IS| Azhari
+http://red.ipfox.org:8080/1234/12345678/35131
+#EXTINF:-1 ,|IS| IMAM SADEQ
+http://red.ipfox.org:8080/1234/12345678/35133
+#EXTINF:-1 ,|IS| Safa
+http://red.ipfox.org:8080/1234/12345678/35134
+#EXTINF:-1 ,|IS| Menhag Alnbowa
+http://red.ipfox.org:8080/1234/12345678/35136
+#EXTINF:-1 ,|IS| Alfath
+http://red.ipfox.org:8080/1234/12345678/35137
+#EXTINF:-1 ,|CH| SAT 7 ARABIC
+http://red.ipfox.org:8080/1234/12345678/35139
+#EXTINF:-1 ,|CH| SAT-7 KIDS
+http://red.ipfox.org:8080/1234/12345678/35140
+#EXTINF:-1 ,|CH| AGHAPY
+http://red.ipfox.org:8080/1234/12345678/35143
+#EXTINF:-1 ,|CH| NourSat
+http://red.ipfox.org:8080/1234/12345678/35148
+#EXTINF:-1 ,|CH| CTV
+http://red.ipfox.org:8080/1234/12345678/35149
+#EXTINF:-1 ,|CH| Noursat Alchabab
+http://red.ipfox.org:8080/1234/12345678/35151
 #EXTINF:-1 ,MAR.ELAAYOUN
 http://stariptv.org:8080/wael2021/123456/14981
 #EXTINF:-1 ,MAR.AL AOULA INTER
