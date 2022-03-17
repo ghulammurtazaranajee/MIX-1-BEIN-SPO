@@ -514,8 +514,6 @@ http://red.ipfox.org:8080/1234/12345678/31891
 http://red.ipfox.org:8080/1234/12345678/31890
 #EXTINF:-1 ,|Fox| Ostora Arabic 1
 http://red.ipfox.org:8080/1234/12345678/31889
-#EXTINF:-1 ,|Fox| Ostora Arabic 2
-http://red.ipfox.org:8080/1234/12345678/31888
 #EXTINF:-1 ,|Fox| Ostora Arabic 3
 http://red.ipfox.org:8080/1234/12345678/31887
 #EXTINF:-1 ,|Fox| Ostora Arabic 4
@@ -676,14 +674,6 @@ http://red.ipfox.org:8080/1234/12345678/2883
 http://red.ipfox.org:8080/1234/12345678/2885
 #EXTINF:-1 ,|OSN| Baby TV HD
 http://red.ipfox.org:8080/1234/12345678/2887
-#EXTINF:-1 ,|OSN| Nickelodeon HD
-http://red.ipfox.org:8080/1234/12345678/2888
-#EXTINF:-1 ,|OSN | Fann
-http://red.ipfox.org:8080/1234/12345678/21035
-#EXTINF:-1 ,|OSN| Al Safwa HD
-http://red.ipfox.org:8080/1234/12345678/21036
-#EXTINF:-1 ,|OSN| Kid Zone TV HD
-http://red.ipfox.org:8080/1234/12345678/25917
 #EXTINF:-1 ,|OSN| Musalsalat 2 HD
 http://red.ipfox.org:8080/1234/12345678/25920
 #EXTINF:-1 ,|Platinium| ReelPX Action
@@ -694,40 +684,14 @@ http://red.ipfox.org:8080/1234/12345678/25955
 http://red.ipfox.org:8080/1234/12345678/30407
 #EXTINF:-1 ,|Platinium| ReelPX Ultimate
 http://red.ipfox.org:8080/1234/12345678/25957
-#EXTINF:-1 ,|Platinium| FX HD
-http://red.ipfox.org:8080/1234/12345678/25950
-#EXTINF:-1 ,|Platinium| Fox Movies
-http://red.ipfox.org:8080/1234/12345678/2292
-#EXTINF:-1 ,|Platinium| Fox Life HD
-http://red.ipfox.org:8080/1234/12345678/2291
-#EXTINF:-1 ,|Platinium| Fox Crime HD
-http://red.ipfox.org:8080/1234/12345678/2280
-#EXTINF:-1 ,|Platinium| Fox Rewayat HD
-http://red.ipfox.org:8080/1234/12345678/2290
-#EXTINF:-1 ,|Platinium| Fox Action Movies
-http://red.ipfox.org:8080/1234/12345678/2293
 #EXTINF:-1 ,|Platinium| beIN Fatafeat
 http://red.ipfox.org:8080/1234/12345678/2299
-#EXTINF:-1 ,|Platinium| beIN Groummet
-http://red.ipfox.org:8080/1234/12345678/2300
-#EXTINF:-1 ,|Platinium| BeIN Movies Action
-http://red.ipfox.org:8080/1234/12345678/2316
-#EXTINF:-1 ,|Platinium| BeIN Movies Family
-http://red.ipfox.org:8080/1234/12345678/2315
-#EXTINF:-1 ,|Platinium| BeIN Movies Drama
-http://red.ipfox.org:8080/1234/12345678/2313
-#EXTINF:-1 ,|Platinium| BeIN Movies Premiere
-http://red.ipfox.org:8080/1234/12345678/2314
-#EXTINF:-1 ,|Platinium| beIN Series 1
-http://red.ipfox.org:8080/1234/12345678/2296
 #EXTINF:-1 ,|Platinium| Rotana Classic HD
 http://red.ipfox.org:8080/1234/12345678/2840
 #EXTINF:-1 ,|Platinium| Rotana Cinema HD
 http://red.ipfox.org:8080/1234/12345678/2841
 #EXTINF:-1 ,|Platinium| Rotana Khalijeah HD
 http://red.ipfox.org:8080/1234/12345678/2838
-#EXTINF:-1 ,|Platinium| Rotana Drama HD
-http://red.ipfox.org:8080/1234/12345678/2839
 #EXTINF:-1 ,|Platinium| Rotana Comedy HD
 http://red.ipfox.org:8080/1234/12345678/2842
 #EXTINF:-1 ,|Platinium| Rotana Kids HD
@@ -736,10 +700,6 @@ http://red.ipfox.org:8080/1234/12345678/30406
 http://red.ipfox.org:8080/1234/12345678/25934
 #EXTINF:-1 ,|Platinium| BeIN animal planet
 http://red.ipfox.org:8080/1234/12345678/25937
-#EXTINF:-1 ,|Platinium| Discovery ID HD
-http://red.ipfox.org:8080/1234/12345678/25926
-#EXTINF:-1 ,|Platinium| Discovery Science
-http://red.ipfox.org:8080/1234/12345678/2850
 #EXTINF:-1 ,|Platinium| VH1
 http://red.ipfox.org:8080/1234/12345678/25927
 #EXTINF:-1 ,|Platinium| MTV Live HD
@@ -784,32 +744,22 @@ http://red.ipfox.org:8080/1234/12345678/2916
 http://red.ipfox.org:8080/1234/12345678/2917
 #EXTINF:-1 ,|News| CNN
 http://red.ipfox.org:8080/1234/12345678/2918
-#EXTINF:-1 ,|Kids| Disney HD
-http://red.ipfox.org:8080/1234/12345678/37488
 #EXTINF:-1 ,|Kids| Bein Junior
 http://red.ipfox.org:8080/1234/12345678/37487
 #EXTINF:-1 ,|Kids| MBC 3 HD
 http://red.ipfox.org:8080/1234/12345678/25056
 #EXTINF:-1 ,|Kids| Rotana Kids
 http://red.ipfox.org:8080/1234/12345678/25057
-#EXTINF:-1 ,|Kids| OSN Kid Zone TV
-http://red.ipfox.org:8080/1234/12345678/30416
 #EXTINF:-1 ,|Kids| ZooMoo
 http://red.ipfox.org:8080/1234/12345678/30417
 #EXTINF:-1 ,|Kids| CN Arabia
 http://red.ipfox.org:8080/1234/12345678/2931
-#EXTINF:-1 ,|Kids| Nicktoons
-http://red.ipfox.org:8080/1234/12345678/30414
-#EXTINF:-1 ,|Kids| Nick Jr.
-http://red.ipfox.org:8080/1234/12345678/30413
 #EXTINF:-1 ,|Kids| beIN Baby
 http://red.ipfox.org:8080/1234/12345678/2301
 #EXTINF:-1 ,|Kids| beIN Jeem
 http://red.ipfox.org:8080/1234/12345678/2303
 #EXTINF:-1 ,|Kids| beIN Baraem
 http://red.ipfox.org:8080/1234/12345678/2302
-#EXTINF:-1 ,|Kids| Disney Junior HD
-http://red.ipfox.org:8080/1234/12345678/2857
 #EXTINF:-1 ,|Kids| Kids Baby Channel
 http://red.ipfox.org:8080/1234/12345678/25061
 #EXTINF:-1 ,|Kids| HodHod
@@ -866,8 +816,6 @@ http://red.ipfox.org:8080/1234/12345678/32850
 http://red.ipfox.org:8080/1234/12345678/32851
 #EXTINF:-1 ,|AR| MBC BOLLYWOOD HD  ™
 http://red.ipfox.org:8080/1234/12345678/32852
-#EXTINF:-1 ,|AR| MBC BOLLYWOOD +2H
-http://red.ipfox.org:8080/1234/12345678/32853
 #EXTINF:-1 ,|AR| MBC BOLLYWOOD +4H
 http://red.ipfox.org:8080/1234/12345678/32854
 #EXTINF:-1 ,|AR| MBC Drama HD  ™
@@ -966,8 +914,6 @@ http://red.ipfox.org:8080/1234/12345678/33088
 http://red.ipfox.org:8080/1234/12345678/33089
 #EXTINF:-1 ,|IQ| MBC Iraq HD
 http://red.ipfox.org:8080/1234/12345678/33090
-#EXTINF:-1 ,|IQ| ALTALEAA TV
-http://red.ipfox.org:8080/1234/12345678/33092
 #EXTINF:-1 ,|IQ| ALTAHIER TV HD
 http://red.ipfox.org:8080/1234/12345678/33103
 #EXTINF:-1 ,|IQ| Beladi
@@ -1094,8 +1040,6 @@ http://red.ipfox.org:8080/1234/12345678/33185
 http://red.ipfox.org:8080/1234/12345678/33186
 #EXTINF:-1 ,|EG| ALDELTA
 http://red.ipfox.org:8080/1234/12345678/33187
-#EXTINF:-1 ,|EG| ALASKANDRIA
-http://red.ipfox.org:8080/1234/12345678/33188
 #EXTINF:-1 ,|EG| ALSA3EED
 http://red.ipfox.org:8080/1234/12345678/33189
 #EXTINF:-1 ,|EG| Cima
@@ -1168,8 +1112,6 @@ http://red.ipfox.org:8080/1234/12345678/33244
 http://red.ipfox.org:8080/1234/12345678/33711
 #EXTINF:-1 ,|SY| Lana TV HD
 http://red.ipfox.org:8080/1234/12345678/33713
-#EXTINF:-1 ,|SY| Lana TV HD +4
-http://red.ipfox.org:8080/1234/12345678/33714
 #EXTINF:-1 ,|SY| Sham FM
 http://red.ipfox.org:8080/1234/12345678/33717
 #EXTINF:-1 ,|SY| SYRIA SATELLITE TV
@@ -1240,14 +1182,10 @@ http://red.ipfox.org:8080/1234/12345678/33759
 http://red.ipfox.org:8080/1234/12345678/33760
 #EXTINF:-1 ,|JO| Jordan Sport HD
 http://red.ipfox.org:8080/1234/12345678/33761
-#EXTINF:-1 ,|JO| Jordan Deretna
-http://red.ipfox.org:8080/1234/12345678/33762
 #EXTINF:-1 ,|JO| JORDAN NOW
 http://red.ipfox.org:8080/1234/12345678/33764
 #EXTINF:-1 ,|JO| AL HAQEQA AL DAWLIAH
 http://red.ipfox.org:8080/1234/12345678/33765
-#EXTINF:-1 ,|JO| Darsak 1
-http://red.ipfox.org:8080/1234/12345678/33766
 #EXTINF:-1 ,|JO| Darsak Tawjihi
 http://red.ipfox.org:8080/1234/12345678/33768
 #EXTINF:-1 ,|AE| Dubai TV HD
@@ -1344,8 +1282,6 @@ http://red.ipfox.org:8080/1234/12345678/34862
 http://red.ipfox.org:8080/1234/12345678/34863
 #EXTINF:-1 ,|MA| MEDI1-TV HD
 http://red.ipfox.org:8080/1234/12345678/34864
-#EXTINF:-1 ,|DZ| ALGERIE 1 -aloula-
-http://red.ipfox.org:8080/1234/12345678/34867
 #EXTINF:-1 ,|DZ| ALGERIE 2 -Canal-
 http://red.ipfox.org:8080/1234/12345678/34868
 #EXTINF:-1 ,|DZ| ALGERIE 3 -Thalitha-
@@ -1474,8 +1410,6 @@ http://red.ipfox.org:8080/1234/12345678/35094
 http://red.ipfox.org:8080/1234/12345678/35095
 #EXTINF:-1 ,|LY| Libya BUSINESS HD
 http://red.ipfox.org:8080/1234/12345678/35096
-#EXTINF:-1 ,|LY| Libya ALMUSTAQBAL HD
-http://red.ipfox.org:8080/1234/12345678/35097
 #EXTINF:-1 ,|LY| Tanasuh TV
 http://red.ipfox.org:8080/1234/12345678/35098
 #EXTINF:-1 ,|LY| Libya Alwatania
@@ -1484,8 +1418,6 @@ http://red.ipfox.org:8080/1234/12345678/35099
 http://red.ipfox.org:8080/1234/12345678/35101
 #EXTINF:-1 ,|YE| Sheba TV
 http://red.ipfox.org:8080/1234/12345678/35103
-#EXTINF:-1 ,|YE| Alerth Alnbawi
-http://red.ipfox.org:8080/1234/12345678/35106
 #EXTINF:-1 ,|YE| Al Ghad Al Mushreq
 http://red.ipfox.org:8080/1234/12345678/35107
 #EXTINF:-1 ,|YE| YEMEN SHABAB
@@ -1528,8 +1460,6 @@ http://red.ipfox.org:8080/1234/12345678/35128
 http://red.ipfox.org:8080/1234/12345678/35130
 #EXTINF:-1 ,|IS| Azhari
 http://red.ipfox.org:8080/1234/12345678/35131
-#EXTINF:-1 ,|IS| IMAM SADEQ
-http://red.ipfox.org:8080/1234/12345678/35133
 #EXTINF:-1 ,|IS| Safa
 http://red.ipfox.org:8080/1234/12345678/35134
 #EXTINF:-1 ,|IS| Menhag Alnbowa
@@ -1568,8 +1498,6 @@ http://stariptv.org:8080/wael2021/123456/14977
 http://stariptv.org:8080/wael2021/123456/14980
 #EXTINF:-1 ,MAR.CHADA
 http://stariptv.org:8080/wael2021/123456/32631
-#EXTINF:-1 ,MAR.MAPTV NEWS
-http://stariptv.org:8080/wael2021/123456/87463
 #EXTINF:-1 ,MAR.CANAL ATLAS
 http://stariptv.org:8080/wael2021/123456/56036
 #EXTINF:-1 ,MAR.MBC 5
@@ -1582,8 +1510,6 @@ http://stariptv.org:8080/wael2021/123456/100503
 http://stariptv.org:8080/wael2021/123456/100504
 #EXTINF:-1 ,MAR.Assadissa {TNT}
 http://stariptv.org:8080/wael2021/123456/100505
-#EXTINF:-1 ,MAR.MEDI1 {TNT}
-http://stariptv.org:8080/wael2021/123456/100506
 #EXTINF:-1 ,MAR.ASSABIA HD {TNT}
 http://stariptv.org:8080/wael2021/123456/100507
 #EXTINF:-1 ,MAR.Al Maghribia {TNT}
@@ -1712,8 +1638,6 @@ http://stariptv.org:8080/wael2021/123456/122840
 http://stariptv.org:8080/wael2021/123456/122842
 #EXTINF:-1 ,SU: Tebe 8
 http://stariptv.org:8080/wael2021/123456/122845
-#EXTINF:-1 ,SU: Africa TV 1
-http://stariptv.org:8080/wael2021/123456/122848
 #EXTINF:-1 ,SU: Africa TV 3
 http://stariptv.org:8080/wael2021/123456/122849
 #EXTINF:-1 ,AR.Al-Istiqama TV
@@ -1778,8 +1702,6 @@ http://stariptv.org:8080/wael2021/123456/112621
 http://stariptv.org:8080/wael2021/123456/112623
 #EXTINF:-1 ,AR: ALSALAM
 http://stariptv.org:8080/wael2021/123456/112627
-#EXTINF:-1 ,AR: Taleaa TV
-http://stariptv.org:8080/wael2021/123456/112630
 #EXTINF:-1 ,AR: Beladi
 http://stariptv.org:8080/wael2021/123456/112638
 #EXTINF:-1 ,AR: al ahed
@@ -1956,8 +1878,6 @@ http://stariptv.org:8080/wael2021/123456/131998
 http://stariptv.org:8080/wael2021/123456/132002
 #EXTINF:-1 ,beIN FoodNetwork HD
 http://stariptv.org:8080/wael2021/123456/132009
-#EXTINF:-1 ,beIN FATAFEAT
-http://stariptv.org:8080/wael2021/123456/132015
 #EXTINF:-1 ,beIN Nat Geo Wild
 http://stariptv.org:8080/wael2021/123456/132016
 #EXTINF:-1 ,beIN FOX MOVIES
@@ -2118,8 +2038,6 @@ http://stariptv.org:8080/wael2021/123456/15115
 http://stariptv.org:8080/wael2021/123456/55592
 #EXTINF:-1 ,Ostora Arabic 1
 http://stariptv.org:8080/wael2021/123456/130481
-#EXTINF:-1 ,Ostora Arabic 2
-http://stariptv.org:8080/wael2021/123456/130482
 #EXTINF:-1 ,Ostora Arabic 4
 http://stariptv.org:8080/wael2021/123456/130484
 #EXTINF:-1 ,Ostora Arabic 6
@@ -2260,8 +2178,6 @@ http://stariptv.org:8080/wael2021/123456/66380
 http://stariptv.org:8080/wael2021/123456/66381
 #EXTINF:-1 ,OMAN.TV LIVE HD
 http://stariptv.org:8080/wael2021/123456/66499
-#EXTINF:-1 ,QAT.QATAR TV
-http://stariptv.org:8080/wael2021/123456/66505
 #EXTINF:-1 ,QAT.AL RAYYAN Al Qadeem TV
 http://stariptv.org:8080/wael2021/123456/122567
 #EXTINF:-1 ,QAT.AL RAYYAN
@@ -2274,8 +2190,6 @@ http://stariptv.org:8080/wael2021/123456/107039
 http://stariptv.org:8080/wael2021/123456/107043
 #EXTINF:-1 ,IRQ.Iraq 24 HD
 http://stariptv.org:8080/wael2021/123456/112680
-#EXTINF:-1 ,IRQ.AL Ahd Iraq TV
-http://stariptv.org:8080/wael2021/123456/112682
 #EXTINF:-1 ,IRQ.Al Awhad TV
 http://stariptv.org:8080/wael2021/123456/112683
 #EXTINF:-1 ,IRQ.ALHIWAR TV NEWS
@@ -2410,16 +2324,10 @@ http://stariptv.org:8080/wael2021/123456/111544
 http://stariptv.org:8080/wael2021/123456/111545
 #EXTINF:-1 ,Jo: Kaifa TV
 http://stariptv.org:8080/wael2021/123456/111546
-#EXTINF:-1 ,Jo: Aude TV
-http://stariptv.org:8080/wael2021/123456/111547
-#EXTINF:-1 ,SYR.ALQANAT 9
-http://stariptv.org:8080/wael2021/123456/66324
 #EXTINF:-1 ,SYR.LANA
 http://stariptv.org:8080/wael2021/123456/66325
 #EXTINF:-1 ,SYR.LANA PLUS
 http://stariptv.org:8080/wael2021/123456/66326
-#EXTINF:-1 ,SYR.SATELLITE TV
-http://stariptv.org:8080/wael2021/123456/66330
 #EXTINF:-1 ,SYR.SHAM FM
 http://stariptv.org:8080/wael2021/123456/66331
 #EXTINF:-1 ,SYR.Syria TV
@@ -2470,8 +2378,6 @@ http://stariptv.org:8080/wael2021/123456/150154
 http://stariptv.org:8080/wael2021/123456/150155
 #EXTINF:-1 ,Al Majd Rawda
 http://stariptv.org:8080/wael2021/123456/150156
-#EXTINF:-1 ,Al Majd Religious Science
-http://stariptv.org:8080/wael2021/123456/150157
 #EXTINF:-1 ,Al Majd Space TV
 http://stariptv.org:8080/wael2021/123456/150158
 #EXTINF:-1 ,Al Majd Taghareed
@@ -2492,8 +2398,6 @@ http://stariptv.org:8080/wael2021/123456/97896
 http://stariptv.org:8080/wael2021/123456/97897
 #EXTINF:-1 ,Islam.Al Sirat
 http://stariptv.org:8080/wael2021/123456/97898
-#EXTINF:-1 ,Islam.Imam hussein 2 TV
-http://stariptv.org:8080/wael2021/123456/97899
 #EXTINF:-1 ,Islam.Dawaah TV
 http://stariptv.org:8080/wael2021/123456/97900
 #EXTINF:-1 ,Islam.Al Rahma
@@ -2506,8 +2410,6 @@ http://stariptv.org:8080/wael2021/123456/97906
 http://stariptv.org:8080/wael2021/123456/97912
 #EXTINF:-1 ,Islam.Al Zahra TV
 http://stariptv.org:8080/wael2021/123456/97913
-#EXTINF:-1 ,Islam.Tayba TV
-http://stariptv.org:8080/wael2021/123456/97915
 #EXTINF:-1 ,Islam.Al Istiqama TV
 http://stariptv.org:8080/wael2021/123456/97918
 #EXTINF:-1 ,Islam.Al Maaref TV
@@ -2678,14 +2580,10 @@ http://stariptv.org:8080/wael2021/123456/15056
 http://stariptv.org:8080/wael2021/123456/45201
 #EXTINF:-1 ,EGY.APPLE AFLAM
 http://stariptv.org:8080/wael2021/123456/45205
-#EXTINF:-1 ,EGY.AlKahera TV
-http://stariptv.org:8080/wael2021/123456/15097
 #EXTINF:-1 ,EGY.Alhayat Drama
 http://stariptv.org:8080/wael2021/123456/15104
 #EXTINF:-1 ,EGY.AL YOOM DRAMA
 http://stariptv.org:8080/wael2021/123456/97964
-#EXTINF:-1 ,EGY.Al Shasha Muslslat
-http://stariptv.org:8080/wael2021/123456/97945
 #EXTINF:-1 ,EGY.AL SHASHA HAKAYAT
 http://stariptv.org:8080/wael2021/123456/97943
 #EXTINF:-1 ,EGY.AL SHASHA FOOD
@@ -2696,10 +2594,6 @@ http://stariptv.org:8080/wael2021/123456/97941
 http://stariptv.org:8080/wael2021/123456/97944
 #EXTINF:-1 ,EGY.AL RAHMA
 http://stariptv.org:8080/wael2021/123456/14975
-#EXTINF:-1 ,EGY.AL QAHERA WA AL NAS 2
-http://stariptv.org:8080/wael2021/123456/15077
-#EXTINF:-1 ,EGY.AL QAHERA WA AL NAS 1
-http://stariptv.org:8080/wael2021/123456/15078
 #EXTINF:-1 ,EGY.Al Masriya 2TV
 http://stariptv.org:8080/wael2021/123456/97923
 #EXTINF:-1 ,EGY.Al Masriya 1TV
@@ -2712,8 +2606,6 @@ http://stariptv.org:8080/wael2021/123456/141935
 http://stariptv.org:8080/wael2021/123456/141936
 #EXTINF:-1 ,SSC 3 HD
 http://stariptv.org:8080/wael2021/123456/141937
-#EXTINF:-1 ,SSC 4 HD
-http://stariptv.org:8080/wael2021/123456/141938
 #EXTINF:-1 ,SSC 5 HD
 http://stariptv.org:8080/wael2021/123456/141939
 #EXTINF:-1 ,SSC 6 HD
@@ -2788,8 +2680,6 @@ http://stariptv.org:8080/wael2021/123456/97834
 http://stariptv.org:8080/wael2021/123456/97836
 #EXTINF:-1 ,Music.Mazzika TV
 http://stariptv.org:8080/wael2021/123456/97839
-#EXTINF:-1 ,Music.Hawacom TV
-http://stariptv.org:8080/wael2021/123456/97843
 #EXTINF:-1 ,Music.Free TV
 http://stariptv.org:8080/wael2021/123456/97828
 #EXTINF:-1 ,Omr Khirat
@@ -2826,10 +2716,6 @@ http://stariptv.org:8080/wael2021/123456/88020
 http://stariptv.org:8080/wael2021/123456/88023
 #EXTINF:-1 ,KIDS.Karameesh
 http://stariptv.org:8080/wael2021/123456/88027
-#EXTINF:-1 ,KIDS.Toyor Al Janah
-http://stariptv.org:8080/wael2021/123456/88029
-#EXTINF:-1 ,KIDS.Atfal W Mawaheb
-http://stariptv.org:8080/wael2021/123456/88031
 #EXTINF:-1 ,KIDS.beIN JEEM EUROPEN
 http://stariptv.org:8080/wael2021/123456/22172
 #EXTINF:-1 ,OSN Ya Hala Cinema
@@ -2870,8 +2756,6 @@ http://stariptv.org:8080/wael2021/123456/100346
 http://stariptv.org:8080/wael2021/123456/100347
 #EXTINF:-1 ,OSN movies first
 http://stariptv.org:8080/wael2021/123456/100348
-#EXTINF:-1 ,OSN Movies First +2
-http://stariptv.org:8080/wael2021/123456/100349
 #EXTINF:-1 ,OSN ENIGMA
 http://stariptv.org:8080/wael2021/123456/100351
 #EXTINF:-1 ,OSN LIVING
@@ -2898,8 +2782,6 @@ http://stariptv.org:8080/wael2021/123456/100364
 http://stariptv.org:8080/wael2021/123456/100365
 #EXTINF:-1 ,OSN SERIES FIRST
 http://stariptv.org:8080/wael2021/123456/100366
-#EXTINF:-1 ,OSN STAR WORLD
-http://stariptv.org:8080/wael2021/123456/100368
 #EXTINF:-1 ,OSN STAR MOVIES
 http://stariptv.org:8080/wael2021/123456/100369
 #EXTINF:-1 ,OSN DISNEY JOINUR
@@ -2974,8 +2856,6 @@ http://stariptv.org:8080/wael2021/123456/130453
 http://stariptv.org:8080/wael2021/123456/130454
 #EXTINF:-1 ,SHahid Cinema.mp4
 http://stariptv.org:8080/wael2021/123456/130455
-#EXTINF:-1 ,SHahid Aflam_1
-http://stariptv.org:8080/wael2021/123456/130456
 #EXTINF:-1 ,SHahid Aflam2
 http://stariptv.org:8080/wael2021/123456/130457
 #EXTINF:-1 ,SHahid Action
@@ -3010,8 +2890,6 @@ http://wfcint.mediacdn.ru/cdn/wfcint/playlist_hdhigh.m3u8
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Музыка",Xite (NL)
 https://ms2.mx-cd.net/tv/226-1855782/XITE_NL.stream/chunklist.m3u8
-#EXTINF:-1 group-title="Израиль",Ynet Live (720p)
-https://ynet-lh.akamaihd.net/i/ynet_1@123290/master.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/1210.png",ZEE TV
 http://194.213.23.7:3304
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Zero.png",Zerouno TV
