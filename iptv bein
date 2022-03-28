@@ -38,8 +38,6 @@ http://163.47.214.155:1935/fwnews/live/playlist.m3u8
 http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/6GcaSUS.jpg",Global Punjab (720p) [Not 24/7]
 https://media.streambrothers.com:1936/8522/8522/playlist.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/HALCAL.png",Hulchul TV (720p) [Not 24/7]
-http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/IYXrLPs.png",India TV (480p) [Not 24/7]
 https://live-indiatvnews.akamaized.net/indiatv-origin/ITV_1_1@199237/playlist.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/gIYOu4i.jpg",Jhanjar Music [Not 24/7]
@@ -194,14 +192,8 @@ http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Sakura TV.png",Akudji HD
 http://hls.goodgame.ru/hls/5346.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/1372.png",Amedia Premium
-http://2otsfwsh.otttv.pw/iptv/S3YKA4S9YGN99U/555/index.m3u8
 #EXTINF:-1 group-title="Израиль" tvg-logo="https://i.imgur.com/Vs55QWR.png",As a Child (720p)
 https://kanlivep2event-i.akamaihd.net/hls/live/747600/747600/playlist.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Backus tv.png",BACKUS TV HD
-http://2otsfwsh.otttv.pw/iptv/S3YKA4S9YGN99U/11049/index.m3u8
-#EXTINF:-1 group-title="Кино" tvg-logo="../Channel/Logo/Backus tv.png",BACKUSTV Страшное HD
-http://2otsfwsh.otttv.pw/iptv/S3YKA4S9YGN99U/10061/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3747.png",Bolt HD
 http://zabava-htlive.cdn.ngenix.net/hls/CH_BOLTHD/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/3630.png",Bricks TV
@@ -310,8 +302,6 @@ https://live.streams.ovh/YourStreaming/YourStreaming/playlist.m3u8
 http://iptv.prosto.tv:7000/ch72/video.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/3579.png",NIKI Kids
 http://iptv.prosto.tv:7000/ch71/video.m3u8
-#EXTINF:-1 group-title="Українські" tvg-logo="https://dvb.by/sources/logos/1639.png",NLO HD
-http://maikl.megogo.xyz/iptv/8K6QLPHQA9XWMN/6372/index.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/3930.png",NRG TV
 https://5c389faa13be3.streamlock.net:9553/onweb/live/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Platinum TV.png",NUMBER ONE
@@ -400,8 +390,6 @@ http://stariptv.org:8080/wael2021/123456/35992
 http://stariptv.org:8080/wael2021/123456/100503
 #EXTINF:-1 ,MAR.Al Aoula HD {TNT}
 http://stariptv.org:8080/wael2021/123456/100504
-#EXTINF:-1 ,MAR.Assadissa {TNT}
-http://stariptv.org:8080/wael2021/123456/100505
 #EXTINF:-1 ,MAR.ASSABIA HD {TNT}
 http://stariptv.org:8080/wael2021/123456/100507
 #EXTINF:-1 ,MAR.Al Maghribia {TNT}
@@ -506,16 +494,12 @@ http://stariptv.org:8080/wael2021/123456/14835
 http://stariptv.org:8080/wael2021/123456/14838
 #EXTINF:-1 ,LBY.Libya Febrayer TV
 http://stariptv.org:8080/wael2021/123456/21205
-#EXTINF:-1 ,SU: Sudan TV
-http://stariptv.org:8080/wael2021/123456/122825
 #EXTINF:-1 ,SU: Sudan Al Istijaba TV
 http://stariptv.org:8080/wael2021/123456/122826
 #EXTINF:-1 ,SU: Sudan Bukra
 http://stariptv.org:8080/wael2021/123456/122830
 #EXTINF:-1 ,SU: Al Hilal TV
 http://stariptv.org:8080/wael2021/123456/122839
-#EXTINF:-1 ,SU: DW News
-http://stariptv.org:8080/wael2021/123456/122842
 #EXTINF:-1 ,SU: Tebe 8
 http://stariptv.org:8080/wael2021/123456/122845
 #EXTINF:-1 ,SU: Africa TV 3
@@ -530,12 +514,6 @@ http://stariptv.org:8080/wael2021/123456/67772
 http://stariptv.org:8080/wael2021/123456/67773
 #EXTINF:-1 ,AR.HALA TV
 http://stariptv.org:8080/wael2021/123456/67746
-#EXTINF:-1 ,AR: Etihad TV
-http://stariptv.org:8080/wael2021/123456/112581
-#EXTINF:-1 ,AR: Al Sahraa HD
-http://stariptv.org:8080/wael2021/123456/112584
-#EXTINF:-1 ,AR: Al Saha TV
-http://stariptv.org:8080/wael2021/123456/112585
 #EXTINF:-1 ,AR: B4U Plus HD
 http://stariptv.org:8080/wael2021/123456/112587
 #EXTINF:-1 ,AR: Al wilayah TV
@@ -568,10 +546,6 @@ http://stariptv.org:8080/wael2021/123456/112611
 http://stariptv.org:8080/wael2021/123456/112612
 #EXTINF:-1 ,AR: Al-Shaaer TV
 http://stariptv.org:8080/wael2021/123456/112613
-#EXTINF:-1 ,AR: ANB TV
-http://stariptv.org:8080/wael2021/123456/112615
-#EXTINF:-1 ,AR: Anwar TV2
-http://stariptv.org:8080/wael2021/123456/112616
 #EXTINF:-1 ,AR: Al Forat News
 http://stariptv.org:8080/wael2021/123456/112617
 #EXTINF:-1 ,AR: AL QAMAR
@@ -616,18 +590,6 @@ http://stariptv.org:8080/wael2021/123456/15556
 http://stariptv.org:8080/wael2021/123456/15555
 #EXTINF:-1 ,AR: beIN 7 HD
 http://stariptv.org:8080/wael2021/123456/15720
-#EXTINF:-1 ,AR: beIN 1 EN HD
-http://stariptv.org:8080/wael2021/123456/112461
-#EXTINF:-1 ,AR: beIN 2 EN HD
-http://stariptv.org:8080/wael2021/123456/112462
-#EXTINF:-1 ,AR: beIN 3 EN HD
-http://stariptv.org:8080/wael2021/123456/112463
-#EXTINF:-1 ,AR: beIN 1 FR HD
-http://stariptv.org:8080/wael2021/123456/112464
-#EXTINF:-1 ,AR: beIN 2 FR HD
-http://stariptv.org:8080/wael2021/123456/112465
-#EXTINF:-1 ,AR: beIN 3 FR HD
-http://stariptv.org:8080/wael2021/123456/112466
 #EXTINF:-1 ,AR: beIN News HD
 http://stariptv.org:8080/wael2021/123456/22185
 #EXTINF:-1 ,AR: beIN SPORT HD
@@ -644,8 +606,6 @@ http://stariptv.org:8080/wael2021/123456/70577
 http://stariptv.org:8080/wael2021/123456/70578
 #EXTINF:-1 ,OSN: ALFA ALYOUM HD
 http://stariptv.org:8080/wael2021/123456/55978
-#EXTINF:-1 ,OSN: OSN ALFA AL SAFWA
-http://stariptv.org:8080/wael2021/123456/70576
 #EXTINF:-1 ,OSN: OSN ALFA MUSIC NOW
 http://stariptv.org:8080/wael2021/123456/70579
 #EXTINF:-1 ,OSN: OSN ALFA FANN HD
@@ -664,16 +624,12 @@ http://stariptv.org:8080/wael2021/123456/55935
 http://stariptv.org:8080/wael2021/123456/55939
 #EXTINF:-1 ,OSN: MOVIES ACTION HD
 http://stariptv.org:8080/wael2021/123456/55940
-#EXTINF:-1 ,OSN: MOVIES BINGI
-http://stariptv.org:8080/wael2021/123456/55941
 #EXTINF:-1 ,OSN: MOVIES Disney HD
 http://stariptv.org:8080/wael2021/123456/55942
 #EXTINF:-1 ,OSN: MOVIES ENGIMA HD
 http://stariptv.org:8080/wael2021/123456/55943
 #EXTINF:-1 ,OSN: MOVIES KIDS HD
 http://stariptv.org:8080/wael2021/123456/55944
-#EXTINF:-1 ,OSN Series HD
-http://stariptv.org:8080/wael2021/123456/92309
 #EXTINF:-1 ,OSN: SERIES FIRST HD
 http://stariptv.org:8080/wael2021/123456/55954
 #EXTINF:-1 ,OSN: STAR MOVIES HD
@@ -686,8 +642,6 @@ http://stariptv.org:8080/wael2021/123456/55926
 http://stariptv.org:8080/wael2021/123456/93219
 #EXTINF:-1 ,OSN Kids HD
 http://stariptv.org:8080/wael2021/123456/92313
-#EXTINF:-1 ,OSN: BABY HD
-http://stariptv.org:8080/wael2021/123456/55923
 #EXTINF:-1 ,OSN: DISNEY CHANNEL HD
 http://stariptv.org:8080/wael2021/123456/55931
 #EXTINF:-1 ,OSN: DISNEY JUNIOR HD
@@ -698,8 +652,6 @@ http://stariptv.org:8080/wael2021/123456/55937
 http://stariptv.org:8080/wael2021/123456/55949
 #EXTINF:-1 ,OSN: NICKELODEON HD
 http://stariptv.org:8080/wael2021/123456/55950
-#EXTINF:-1 ,OSN: NickToons HD
-http://stariptv.org:8080/wael2021/123456/70582
 #EXTINF:-1 ,OSN Discovery IDX HD
 http://stariptv.org:8080/wael2021/123456/92306
 #EXTINF:-1 ,OSN: DISCOVERY CHANNEL
@@ -708,8 +660,6 @@ http://stariptv.org:8080/wael2021/123456/55927
 http://stariptv.org:8080/wael2021/123456/55930
 #EXTINF:-1 ,OSN: National Geographic HD
 http://stariptv.org:8080/wael2021/123456/55945
-#EXTINF:-1 ,OSN: NAT GEO PEOPLE HD
-http://stariptv.org:8080/wael2021/123456/55947
 #EXTINF:-1 ,OSN: National Geographic WILD  HD
 http://stariptv.org:8080/wael2021/123456/55948
 #EXTINF:-1 ,OSN: OSN H2 HD
@@ -722,8 +672,6 @@ http://stariptv.org:8080/wael2021/123456/92308
 http://stariptv.org:8080/wael2021/123456/92310
 #EXTINF:-1 ,OSN Fashion TV HD
 http://stariptv.org:8080/wael2021/123456/92312
-#EXTINF:-1 ,OSN Enigma HD
-http://stariptv.org:8080/wael2021/123456/92314
 #EXTINF:-1 ,OSN Play FHD
 http://stariptv.org:8080/wael2021/123456/92316
 #EXTINF:-1 ,OSN GINX Esports VIP
@@ -760,24 +708,6 @@ http://stariptv.org:8080/wael2021/123456/132009
 http://stariptv.org:8080/wael2021/123456/132016
 #EXTINF:-1 ,beIN FOX MOVIES
 http://stariptv.org:8080/wael2021/123456/22176
-#EXTINF:-1 ,NETFLIX PREMIUM 1 FHD
-http://stariptv.org:8080/wael2021/123456/146568
-#EXTINF:-1 ,NETFLIX PREMIUM 2 FHD
-http://stariptv.org:8080/wael2021/123456/146569
-#EXTINF:-1 ,NETFLIX PREMIUM 4 FHD
-http://stariptv.org:8080/wael2021/123456/146571
-#EXTINF:-1 ,NETFLIX PREMIUM 5 FHD
-http://stariptv.org:8080/wael2021/123456/146572
-#EXTINF:-1 ,NETFLIX PREMIUM 6 FHD
-http://stariptv.org:8080/wael2021/123456/146573
-#EXTINF:-1 ,NETFLIX PREMIUM 7 FHD
-http://stariptv.org:8080/wael2021/123456/146574
-#EXTINF:-1 ,NETFLIX PREMIUM 8 FHD
-http://stariptv.org:8080/wael2021/123456/146575
-#EXTINF:-1 ,NETFLIX PREMIUM 9 FHD
-http://stariptv.org:8080/wael2021/123456/146576
-#EXTINF:-1 ,NETFLIX PREMIUM 10 FHD
-http://stariptv.org:8080/wael2021/123456/146577
 #EXTINF:-1 ,Netflix 3
 http://stariptv.org:8080/wael2021/123456/130414
 #EXTINF:-1 ,Netflix 6
@@ -816,20 +746,14 @@ http://stariptv.org:8080/wael2021/123456/107034
 http://stariptv.org:8080/wael2021/123456/107035
 #EXTINF:-1 ,AR: MBC 1 4K
 http://stariptv.org:8080/wael2021/123456/45165
-#EXTINF:-1 ,AR.MBC 1 HD
-http://stariptv.org:8080/wael2021/123456/15152
 #EXTINF:-1 ,AR.MBC 1
 http://stariptv.org:8080/wael2021/123456/15143
 #EXTINF:-1 ,AR: MBC 2 4K
 http://stariptv.org:8080/wael2021/123456/45168
-#EXTINF:-1 ,AR.MBC 2 HD
-http://stariptv.org:8080/wael2021/123456/15151
 #EXTINF:-1 ,AR.MBC 2
 http://stariptv.org:8080/wael2021/123456/15142
 #EXTINF:-1 ,AR: MBC 3 4K
 http://stariptv.org:8080/wael2021/123456/45143
-#EXTINF:-1 ,AR.MBC 3 HD
-http://stariptv.org:8080/wael2021/123456/15150
 #EXTINF:-1 ,AR.MBC 3
 http://stariptv.org:8080/wael2021/123456/15141
 #EXTINF:-1 ,AR: MBC 4 4K
@@ -838,8 +762,6 @@ http://stariptv.org:8080/wael2021/123456/45164
 http://stariptv.org:8080/wael2021/123456/15149
 #EXTINF:-1 ,AR.MBC 4
 http://stariptv.org:8080/wael2021/123456/15140
-#EXTINF:-1 ,AR.MBC Action HD
-http://stariptv.org:8080/wael2021/123456/15154
 #EXTINF:-1 ,AR.MBC Action
 http://stariptv.org:8080/wael2021/123456/15135
 #EXTINF:-1 ,AR: MBC BOLLYWOOD 4K
@@ -850,8 +772,6 @@ http://stariptv.org:8080/wael2021/123456/15364
 http://stariptv.org:8080/wael2021/123456/15136
 #EXTINF:-1 ,AR: MBC  DRAMA 4K
 http://stariptv.org:8080/wael2021/123456/45163
-#EXTINF:-1 ,AR.MBC Drama HD
-http://stariptv.org:8080/wael2021/123456/15153
 #EXTINF:-1 ,AR.MBC Drama
 http://stariptv.org:8080/wael2021/123456/15137
 #EXTINF:-1 ,AR: MBC+ Drama 4K
@@ -862,12 +782,8 @@ http://stariptv.org:8080/wael2021/123456/148411
 http://stariptv.org:8080/wael2021/123456/148412
 #EXTINF:-1 ,AR: MBC Panorama FM 4K
 http://stariptv.org:8080/wael2021/123456/148413
-#EXTINF:-1 ,AR.MBC Drama+ HD
-http://stariptv.org:8080/wael2021/123456/21160
 #EXTINF:-1 ,AR: MBC MAX 4K
 http://stariptv.org:8080/wael2021/123456/45167
-#EXTINF:-1 ,AR.MBC Max HD
-http://stariptv.org:8080/wael2021/123456/15139
 #EXTINF:-1 ,AR.MBC Max
 http://stariptv.org:8080/wael2021/123456/15138
 #EXTINF:-1 ,AR: MBC+ VARIETY 4K
@@ -882,12 +798,8 @@ http://stariptv.org:8080/wael2021/123456/15133
 http://stariptv.org:8080/wael2021/123456/92752
 #EXTINF:-1 ,AR.MBC IRAQ HD
 http://stariptv.org:8080/wael2021/123456/14732
-#EXTINF:-1 ,AR: MBC IRAQ
-http://stariptv.org:8080/wael2021/123456/92760
 #EXTINF:-1 ,AR: MBC 5 4K
 http://stariptv.org:8080/wael2021/123456/92759
-#EXTINF:-1 ,AR: MBC FM 4K
-http://stariptv.org:8080/wael2021/123456/92755
 #EXTINF:-1 ,AR.Rotana + HD
 http://stariptv.org:8080/wael2021/123456/97852
 #EXTINF:-1 ,AR.Rotana M+ HD
@@ -910,42 +822,18 @@ http://stariptv.org:8080/wael2021/123456/15117
 http://stariptv.org:8080/wael2021/123456/15115
 #EXTINF:-1 ,AR.ROTANA DRAMA
 http://stariptv.org:8080/wael2021/123456/55592
-#EXTINF:-1 ,Ostora Arabic 1
-http://stariptv.org:8080/wael2021/123456/130481
 #EXTINF:-1 ,Ostora Arabic 4
 http://stariptv.org:8080/wael2021/123456/130484
 #EXTINF:-1 ,Ostora Arabic 6
 http://stariptv.org:8080/wael2021/123456/130486
-#EXTINF:-1 ,Wayyak- Comedy HD
-http://stariptv.org:8080/wael2021/123456/129678
-#EXTINF:-1 ,Wayyak- Adel Imam HD
-http://stariptv.org:8080/wael2021/123456/129680
-#EXTINF:-1 ,Wayyak- Masrah HD
-http://stariptv.org:8080/wael2021/123456/129681
-#EXTINF:-1 ,Wayyak- Bollywood Comedy HD1
-http://stariptv.org:8080/wael2021/123456/129683
-#EXTINF:-1 ,Wayyak- Bollywood Love HD
-http://stariptv.org:8080/wael2021/123456/129685
-#EXTINF:-1 ,Wayyak- Salman Khan HD
-http://stariptv.org:8080/wael2021/123456/129686
-#EXTINF:-1 ,Wayyak- Akshay Komar HD
-http://stariptv.org:8080/wael2021/123456/129687
-#EXTINF:-1 ,Wayyak2 Kitchen HD2
-http://stariptv.org:8080/wael2021/123456/129689
 #EXTINF:-1 ,AR: Majestic wwe hd
 http://stariptv.org:8080/wael2021/123456/43628
-#EXTINF:-1 ,GOBX REEL PX unlimited
-http://stariptv.org:8080/wael2021/123456/100396
 #EXTINF:-1 ,GOBX DOCUBOX
 http://stariptv.org:8080/wael2021/123456/100409
-#EXTINF:-1 ,GOBX TDC
-http://stariptv.org:8080/wael2021/123456/65656
 #EXTINF:-1 ,GOBX gulli bil arabie
 http://stariptv.org:8080/wael2021/123456/45140
 #EXTINF:-1 ,GOBX TRACE URBAIN
 http://stariptv.org:8080/wael2021/123456/92748
-#EXTINF:-1 ,GOBX FILM BOX ART HOUSE
-http://stariptv.org:8080/wael2021/123456/92747
 #EXTINF:-1 ,KSA.SSC 7 HD
 http://stariptv.org:8080/wael2021/123456/142049
 #EXTINF:-1 ,KSA.KSA Sports 2 HD
@@ -992,42 +880,14 @@ http://stariptv.org:8080/wael2021/123456/112574
 http://stariptv.org:8080/wael2021/123456/112575
 #EXTINF:-1 ,KWT.Kuwait 1 HD
 http://stariptv.org:8080/wael2021/123456/66486
-#EXTINF:-1 ,UAE.AJMAN TV
-http://stariptv.org:8080/wael2021/123456/66361
-#EXTINF:-1 ,UAE.DUBAI RACING 1
-http://stariptv.org:8080/wael2021/123456/66362
-#EXTINF:-1 ,UAE.HAWAS TV
-http://stariptv.org:8080/wael2021/123456/66363
-#EXTINF:-1 ,UAE.SHARJAH TV
-http://stariptv.org:8080/wael2021/123456/66366
-#EXTINF:-1 ,UAE.AD NAT GEO
-http://stariptv.org:8080/wael2021/123456/15026
 #EXTINF:-1 ,UAE.Abu Dabi Sport 1 HD
 http://stariptv.org:8080/wael2021/123456/4310
 #EXTINF:-1 ,UAE.Abu Dabi Sport 2 HD
 http://stariptv.org:8080/wael2021/123456/4311
-#EXTINF:-1 ,UAE.ABU DHABI
-http://stariptv.org:8080/wael2021/123456/15023
 #EXTINF:-1 ,UAE.Abu Dabi Sport 3 HD
 http://stariptv.org:8080/wael2021/123456/15020
 #EXTINF:-1 ,UAE.Abu Dabi Sport 4 HD
 http://stariptv.org:8080/wael2021/123456/15019
-#EXTINF:-1 ,UAE.DUBAI ONE
-http://stariptv.org:8080/wael2021/123456/15029
-#EXTINF:-1 ,UAE.DUBAI SPORT 2
-http://stariptv.org:8080/wael2021/123456/15016
-#EXTINF:-1 ,UAE.DUBAI SPORT 3
-http://stariptv.org:8080/wael2021/123456/15017
-#EXTINF:-1 ,UAE.DUBAI ZAMAN
-http://stariptv.org:8080/wael2021/123456/15027
-#EXTINF:-1 ,UAE.DUBAI NOOR
-http://stariptv.org:8080/wael2021/123456/15028
-#EXTINF:-1 ,UAE.DUBAI SAMA
-http://stariptv.org:8080/wael2021/123456/15025
-#EXTINF:-1 ,UAE.AD EMARAT
-http://stariptv.org:8080/wael2021/123456/15024
-#EXTINF:-1 ,UAE.Dubai Racing 2
-http://stariptv.org:8080/wael2021/123456/15015
 #EXTINF:-1 ,BHR.QURAN
 http://stariptv.org:8080/wael2021/123456/66380
 #EXTINF:-1 ,BHR.INTERNATIONAL HD
@@ -1040,8 +900,6 @@ http://stariptv.org:8080/wael2021/123456/122567
 http://stariptv.org:8080/wael2021/123456/66504
 #EXTINF:-1 ,IRQ.Iraqia
 http://stariptv.org:8080/wael2021/123456/107036
-#EXTINF:-1 ,IRQ.Afaq
-http://stariptv.org:8080/wael2021/123456/107039
 #EXTINF:-1 ,IRQ.Al Sumaria TV
 http://stariptv.org:8080/wael2021/123456/107043
 #EXTINF:-1 ,IRQ.Iraq 24 HD
@@ -1060,8 +918,6 @@ http://stariptv.org:8080/wael2021/123456/112688
 http://stariptv.org:8080/wael2021/123456/112689
 #EXTINF:-1 ,IRQ.ALEBAA TV
 http://stariptv.org:8080/wael2021/123456/112690
-#EXTINF:-1 ,IRQ.ALMAAREF TV
-http://stariptv.org:8080/wael2021/123456/112691
 #EXTINF:-1 ,IRQ.AHLULBAYT TV
 http://stariptv.org:8080/wael2021/123456/112695
 #EXTINF:-1 ,IRQ.iNews TV Arabic HD
@@ -1076,24 +932,10 @@ http://stariptv.org:8080/wael2021/123456/112699
 http://stariptv.org:8080/wael2021/123456/112701
 #EXTINF:-1 ,IRQ.Sawt Alitra TV
 http://stariptv.org:8080/wael2021/123456/112702
-#EXTINF:-1 ,YEM.BELQEES
-http://stariptv.org:8080/wael2021/123456/66528
-#EXTINF:-1 ,YEM.Sheba TV
-http://stariptv.org:8080/wael2021/123456/66529
-#EXTINF:-1 ,YEM.ADEN TV
-http://stariptv.org:8080/wael2021/123456/66527
-#EXTINF:-1 ,YEM.AL Hawyah TV
-http://stariptv.org:8080/wael2021/123456/66530
-#EXTINF:-1 ,YEM.Al Masirah Mubasher TV
-http://stariptv.org:8080/wael2021/123456/14790
 #EXTINF:-1 ,YEM.SHABAB
 http://stariptv.org:8080/wael2021/123456/14865
 #EXTINF:-1 ,YEM.YEMEN TODAY
 http://stariptv.org:8080/wael2021/123456/14866
-#EXTINF:-1 ,YEM.Al Saeedah TV
-http://stariptv.org:8080/wael2021/123456/21172
-#EXTINF:-1 ,YEM.HADRAMOOT
-http://stariptv.org:8080/wael2021/123456/21216
 #EXTINF:-1 ,LBN.Al Jadeed -7H HD
 http://stariptv.org:8080/wael2021/123456/112485
 #EXTINF:-1 ,LBN.MTV Lebanon- 7H HD
@@ -1168,8 +1010,6 @@ http://stariptv.org:8080/wael2021/123456/111539
 http://stariptv.org:8080/wael2021/123456/111541
 #EXTINF:-1 ,Jo: Darsak 2
 http://stariptv.org:8080/wael2021/123456/111542
-#EXTINF:-1 ,Jo: Kaifa TV
-http://stariptv.org:8080/wael2021/123456/111546
 #EXTINF:-1 ,SYR.LANA
 http://stariptv.org:8080/wael2021/123456/66325
 #EXTINF:-1 ,SYR.LANA PLUS
@@ -1194,38 +1034,24 @@ http://stariptv.org:8080/wael2021/123456/14862
 http://stariptv.org:8080/wael2021/123456/62039
 #EXTINF:-1 ,PSE.Al-Quds Educational
 http://stariptv.org:8080/wael2021/123456/62040
-#EXTINF:-1 ,PSE.FALASTINI
-http://stariptv.org:8080/wael2021/123456/62043
 #EXTINF:-1 ,PSE.Alfajertv 1 (HD)
 http://stariptv.org:8080/wael2021/123456/100477
 #EXTINF:-1 ,PSE.Alfajertv 5 (HD)
 http://stariptv.org:8080/wael2021/123456/100481
 #EXTINF:-1 ,PSE.ALQUDS TODAY TV
 http://stariptv.org:8080/wael2021/123456/14823
-#EXTINF:-1 ,PSE.PALESTINE TV
-http://stariptv.org:8080/wael2021/123456/14950
 #EXTINF:-1 ,PSE.Makan TV
 http://stariptv.org:8080/wael2021/123456/14946
 #EXTINF:-1 ,PSE.PALESTINE AlYawm HD
 http://stariptv.org:8080/wael2021/123456/14945
 #EXTINF:-1 ,PSE.Watan TV
 http://stariptv.org:8080/wael2021/123456/14760
-#EXTINF:-1 ,Al Majd Basmah
-http://stariptv.org:8080/wael2021/123456/150150
 #EXTINF:-1 ,Al Majd General
 http://stariptv.org:8080/wael2021/123456/150153
-#EXTINF:-1 ,Al Majd Masat
-http://stariptv.org:8080/wael2021/123456/150154
 #EXTINF:-1 ,Al Majd Quran Kareem
 http://stariptv.org:8080/wael2021/123456/150155
-#EXTINF:-1 ,Al Majd Rawda
-http://stariptv.org:8080/wael2021/123456/150156
 #EXTINF:-1 ,Al Majd Space TV
 http://stariptv.org:8080/wael2021/123456/150158
-#EXTINF:-1 ,Al Majd Taghareed
-http://stariptv.org:8080/wael2021/123456/150159
-#EXTINF:-1 ,Islam.Al Nada TV
-http://stariptv.org:8080/wael2021/123456/97888
 #EXTINF:-1 ,Islam.Al Fateh Quran
 http://stariptv.org:8080/wael2021/123456/97892
 #EXTINF:-1 ,Islam.Al Anis TV
@@ -1242,8 +1068,6 @@ http://stariptv.org:8080/wael2021/123456/97912
 http://stariptv.org:8080/wael2021/123456/97913
 #EXTINF:-1 ,Islam.Al Istiqama TV
 http://stariptv.org:8080/wael2021/123456/97918
-#EXTINF:-1 ,Islam.AL MAJD DOCUMENTARY
-http://stariptv.org:8080/wael2021/123456/45188
 #EXTINF:-1 ,NEWS.AL ARABIYA HD
 http://stariptv.org:8080/wael2021/123456/14961
 #EXTINF:-1 ,NEWS.AL HADATH HD
@@ -1254,8 +1078,6 @@ http://stariptv.org:8080/wael2021/123456/14959
 http://stariptv.org:8080/wael2021/123456/14957
 #EXTINF:-1 ,NEWS.FRANCE 24 ARABIC
 http://stariptv.org:8080/wael2021/123456/14958
-#EXTINF:-1 ,NEWS.AL JAZEERA
-http://stariptv.org:8080/wael2021/123456/14995
 #EXTINF:-1 ,NEWS.AL JAZEERA MUBASHER
 http://stariptv.org:8080/wael2021/123456/14993
 #EXTINF:-1 ,NEWS.AL KHABAR TV
@@ -1294,8 +1116,6 @@ http://stariptv.org:8080/wael2021/123456/14908
 http://stariptv.org:8080/wael2021/123456/21244
 #EXTINF:-1 ,NEWS.AL JAZEERA DOCUMENTARY
 http://stariptv.org:8080/wael2021/123456/14994
-#EXTINF:-1 ,NEWS.Saudi Al Ekbariah H265
-http://stariptv.org:8080/wael2021/123456/14963
 #EXTINF:-1 ,NEWS.Al HIWAR
 http://stariptv.org:8080/wael2021/123456/14893
 #EXTINF:-1 ,NEWS.NABAA
@@ -1432,8 +1252,6 @@ http://stariptv.org:8080/wael2021/123456/141940
 http://stariptv.org:8080/wael2021/123456/141941
 #EXTINF:-1 ,AL RABIAA IRAQ SPORT
 http://stariptv.org:8080/wael2021/123456/143562
-#EXTINF:-1 ,Libya Sport TNT
-http://stariptv.org:8080/wael2021/123456/143083
 #EXTINF:-1 ,KSA Sport 2 HD265
 http://stariptv.org:8080/wael2021/123456/97806
 #EXTINF:-1 ,KSA Sport 3 4K
@@ -1448,8 +1266,6 @@ http://stariptv.org:8080/wael2021/123456/141797
 http://stariptv.org:8080/wael2021/123456/96215
 #EXTINF:-1 ,Alkass 4 HD
 http://stariptv.org:8080/wael2021/123456/96216
-#EXTINF:-1 ,Alkass 5 HD
-http://stariptv.org:8080/wael2021/123456/96217
 #EXTINF:-1 ,Abu Dhabi Sports 1
 http://stariptv.org:8080/wael2021/123456/97809
 #EXTINF:-1 ,Abu Dhabi Sports 2
@@ -1502,14 +1318,8 @@ http://stariptv.org:8080/wael2021/123456/98024
 http://stariptv.org:8080/wael2021/123456/98025
 #EXTINF:-1 ,kids.FIX FOXI HD
 http://stariptv.org:8080/wael2021/123456/98027
-#EXTINF:-1 ,kids.Disney Junior HD
-http://stariptv.org:8080/wael2021/123456/98032
-#EXTINF:-1 ,kids.NickToon HD
-http://stariptv.org:8080/wael2021/123456/98034
 #EXTINF:-1 ,kids.Disney Channel HD
 http://stariptv.org:8080/wael2021/123456/98036
-#EXTINF:-1 ,kids.Nickelodeon HD
-http://stariptv.org:8080/wael2021/123456/98037
 #EXTINF:-1 ,kids.Rotana Kids FHD
 http://stariptv.org:8080/wael2021/123456/98040
 #EXTINF:-1 ,kids.GULLI ARABIC
@@ -1532,12 +1342,8 @@ http://stariptv.org:8080/wael2021/123456/22172
 http://stariptv.org:8080/wael2021/123456/100343
 #EXTINF:-1 ,OSN Ya Hala  Aloula
 http://stariptv.org:8080/wael2021/123456/100344
-#EXTINF:-1 ,OSN Ya Hala
-http://stariptv.org:8080/wael2021/123456/100345
 #EXTINF:-1 ,OSN fan
 http://stariptv.org:8080/wael2021/123456/100381
-#EXTINF:-1 ,OSN Al Safwa
-http://stariptv.org:8080/wael2021/123456/100382
 #EXTINF:-1 ,OSN MOSALSALAT 1
 http://stariptv.org:8080/wael2021/123456/100383
 #EXTINF:-1 ,OSN MOSALSALAT 2
@@ -1572,8 +1378,6 @@ http://stariptv.org:8080/wael2021/123456/100352
 http://stariptv.org:8080/wael2021/123456/100353
 #EXTINF:-1 ,OSN Discovery
 http://stariptv.org:8080/wael2021/123456/100354
-#EXTINF:-1 ,OSN Discovery IDX
-http://stariptv.org:8080/wael2021/123456/100355
 #EXTINF:-1 ,OSN Discovery Science
 http://stariptv.org:8080/wael2021/123456/100356
 #EXTINF:-1 ,OSN KIDS
@@ -1586,20 +1390,12 @@ http://stariptv.org:8080/wael2021/123456/100362
 http://stariptv.org:8080/wael2021/123456/100363
 #EXTINF:-1 ,OSN comedy central
 http://stariptv.org:8080/wael2021/123456/100364
-#EXTINF:-1 ,OSN baby
-http://stariptv.org:8080/wael2021/123456/100365
 #EXTINF:-1 ,OSN SERIES FIRST
 http://stariptv.org:8080/wael2021/123456/100366
 #EXTINF:-1 ,OSN STAR MOVIES
 http://stariptv.org:8080/wael2021/123456/100369
-#EXTINF:-1 ,OSN DISNEY JOINUR
-http://stariptv.org:8080/wael2021/123456/100370
-#EXTINF:-1 ,OSN Kids Zone
-http://stariptv.org:8080/wael2021/123456/100371
 #EXTINF:-1 ,OSN Nickelodeon
 http://stariptv.org:8080/wael2021/123456/100372
-#EXTINF:-1 ,OSN Nicktoons
-http://stariptv.org:8080/wael2021/123456/100373
 #EXTINF:-1 ,OSN National Geographic Wild
 http://stariptv.org:8080/wael2021/123456/100374
 #EXTINF:-1 ,OSN National Geographic People
@@ -1620,18 +1416,6 @@ http://stariptv.org:8080/wael2021/123456/132028
 http://stariptv.org:8080/wael2021/123456/2760
 #EXTINF:-1 ,AR: beIN 7 HQ
 http://stariptv.org:8080/wael2021/123456/2761
-#EXTINF:-1 ,shahid-egypt 2 FHD
-http://stariptv.org:8080/wael2021/123456/143530
-#EXTINF:-1 ,shahid-turkish FHD
-http://stariptv.org:8080/wael2021/123456/143383
-#EXTINF:-1 ,shahid hindi FHD
-http://stariptv.org:8080/wael2021/123456/143296
-#EXTINF:-1 ,shahid-egypt FHD
-http://stariptv.org:8080/wael2021/123456/143183
-#EXTINF:-1 ,shahid-khaliji FHD
-http://stariptv.org:8080/wael2021/123456/142757
-#EXTINF:-1 ,shahid syrian FHD
-http://stariptv.org:8080/wael2021/123456/142051
 #EXTINF:-1 ,SHahid Aflam 1
 http://stariptv.org:8080/wael2021/123456/130460
 #EXTINF:-1 ,SHahid Aflam 2
@@ -1668,16 +1452,6 @@ http://stariptv.org:8080/wael2021/123456/130457
 http://stariptv.org:8080/wael2021/123456/130458
 #EXTINF:-1 ,SHahid quran
 http://stariptv.org:8080/wael2021/123456/130459
-#EXTINF:-1 ,AYLdocumentary
-http://stariptv.org:8080/wael2021/123456/141795
-#EXTINF:-1 ,AYLwar
-http://stariptv.org:8080/wael2021/123456/141793
-#EXTINF:-1 ,AYLaction
-http://stariptv.org:8080/wael2021/123456/135802
-#EXTINF:-1 ,AYLanimation
-http://stariptv.org:8080/wael2021/123456/135803
-#EXTINF:-1 ,AYLcomedy
-http://stariptv.org:8080/wael2021/123456/135804
 #EXTINF:-1 ,beIN 1 PREMIUM FHD
 http://stariptv.org:8080/wael2021/123456/141563
 #EXTINF:-1 ,beIN 2 PREMIUM FHD
@@ -1852,8 +1626,6 @@ http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="INFO",❗️=== ОНОВЛЕНО 07.11.2021 ===❗️
 https://www.dropbox.com/s/i6cfutv4efjv2vo/Anonymous%20TV.mp4?dl=1
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1207.png",Здоровье
-http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
 #EXTINF:-1 group-title="Українські" tvg-logo="http://epg.it999.ru/img/2100.png",К1
 http://109.68.40.67/life/k1.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/2587.png",Карусель
@@ -1904,8 +1676,6 @@ http://iptv.prosto.tv:7000/ch27/video.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NASHASIBIR4K/variant.m3u8?version=2
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/2018.png",Наше HD
 http://iptv.prosto.tv:7000/ch136/video.m3u8
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Новое радио (Самара).png",Новое Радио
-https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1 group-title="Українські" tvg-logo="https://iptvx.one/picons/../Channel/Logo/НТА (Украина).png",НТА ТВ Львов HD
 http://95.67.106.10/hls/nta_ua_mid/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/НТВ.png",НТВ (+2)
@@ -1938,8 +1708,6 @@ https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 group-title="СССР" tvg-logo="../Channel/Logo/Первый Социальный.png",Первый СССР
 http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
-#EXTINF:-1 group-title="Українські" tvg-logo="http://epg.it999.ru/img/2147.png",Перший Незалежний
-http://app.live.112.events/hls-ua/112hd_hi/index.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1318.png",Просвещение
 https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Українські" tvg-logo="https://dvb.by/sources/logos/1631.png",Прямий HD
@@ -2092,8 +1860,6 @@ https://last.gcdn.co/IND420/index.m3u8
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/yi5p51T.png",RTV BD (BDIX0)
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/yi5p51T.png",RTV BD
-https://stream.cstfctg.com/rtvonline/rtv2021.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://www.freeetv.com/images/03_logo/Somoy_News_Bangladesh.jpg",Shomoy TV (BDIX0)
 https://somoy.appv.jagobd.com:444/somoy/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/LeIa06D.png",ABP Ananda (akamai)
@@ -3196,8 +2962,6 @@ http://c2.manasat.com:1935/kcine/kcine3/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokumoovimex/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/mty0mgJ.jpg",Moovimex (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-viziomoovimex/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/JBEqPZP.png",Mythos (720p)
-https://rpn1.bozztv.com/36bay2/gusa-mythos/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/IYDllP5.jpg",NETV Toronto (720p) [Not 24/7]
 https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="Movies",Persian Film (720p) [Not 24/7]
@@ -3248,974 +3012,6 @@ https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeF
 https://s02.diazol.hu:10192/hls/stream.m3u8
 #EXTINF:-1 group-title="Music",music top korean
 http://live-edge01.telecentro.net.ar/live/smil:musictop.smil/playlist.m3u8
-#EXTINF:-1 ,2.0 (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124971.mp4
-#EXTINF:-1 ,22 Yards (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124976.mp4
-#EXTINF:-1 ,30 Minutes (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124977.mp4
-#EXTINF:-1 ,30 Minutes or Less (2011) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124978.mp4
-#EXTINF:-1 ,3rd Wedding Anniversary (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124972.mp4
-#EXTINF:-1 ,5 Weddings (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124973.mp4
-#EXTINF:-1 ,7 Hours to Go (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124974.mp4
-#EXTINF:-1 ,7 Khoon Maaf (2011) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124975.mp4
-#EXTINF:-1 ,A Dot Com Mom (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124983.mp4
-#EXTINF:-1 ,A Nightmare On Elm Street (1984) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124998.mp4
-#EXTINF:-1 ,A Nightmare on Elm Street (2010) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124999.mp4
-#EXTINF:-1 ,A Nightmare on Elm Street 3 Dream Warriors (1987) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125000.mp4
-#EXTINF:-1 ,A Nightmare on Elm Street 4 The Dream Master (1988) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125001.mp4
-#EXTINF:-1 ,A Scandall (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125006.mp4
-#EXTINF:-1 ,A Series of Unfortunate Events (2004) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125007.mp4
-#EXTINF:-1 ,Aag Se Khelenge Vangaveeti (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124980.mp4
-#EXTINF:-1 ,Aapla Manus (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124981.mp4
-#EXTINF:-1 ,Aashiqui 2 (2013) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124982.mp4
-#EXTINF:-1 ,Agnivarsha The Fire and the Rain (2002) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124985.mp4
-#EXTINF:-1 ,Ajab Gazabb Love (2012) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124986.mp4
-#EXTINF:-1 ,Ajab Singh Ki Gajab Kahani (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124987.mp4
-#EXTINF:-1 ,Ajji (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124988.mp4
-#EXTINF:-1 ,Akhiyon Se Goli Maare (2002) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124990.mp4
-#EXTINF:-1 ,Aksar 2 (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124991.mp4
-#EXTINF:-1 ,Alibaba (2002) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124992.mp4
-#EXTINF:-1 ,Amavas (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124993.mp4
-#EXTINF:-1 ,Amazon Obhijaan (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124994.mp4
-#EXTINF:-1 ,An Unfold Fact Lateef (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125003.mp4
-#EXTINF:-1 ,Angry Indian Goddesses (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124996.mp4
-#EXTINF:-1 ,Ani  Dr Kashinath Ghanekar (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/124997.mp4
-#EXTINF:-1 ,Ankhon Dekhi (2014) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125002.mp4
-#EXTINF:-1 ,Ardaas (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125004.mp4
-#EXTINF:-1 ,Arthur And The Invisibles (2006) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125005.mp4
-#EXTINF:-1 ,Baarish Aur Chowmein (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125010.mp4
-#EXTINF:-1 ,Baazaar (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125011.mp4
-#EXTINF:-1 ,Babumoshai Bandookbaaz (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125012.mp4
-#EXTINF:-1 ,Baccha Shoshur (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125013.mp4
-#EXTINF:-1 ,Bad Teacher (2011) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125017.mp4
-#EXTINF:-1 ,Badhaai Ho Badhaai (2002) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125014.mp4
-#EXTINF:-1 ,Badman (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125015.mp4
-#EXTINF:-1 ,Badnaam Gali (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125016.mp4
-#EXTINF:-1 ,Bajirao Mastani (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125018.mp4
-#EXTINF:-1 ,Bal Ganesh and the Pomozom Planet (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125019.mp4
-#EXTINF:-1 ,Barah Aana (2009) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125020.mp4
-#EXTINF:-1 ,Bareilly Ki Barfi (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125021.mp4
-#EXTINF:-1 ,Before the Rains (2007) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125023.mp4
-#EXTINF:-1 ,Behen Hogi Teri (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125024.mp4
-#EXTINF:-1 ,Beiimaan Love (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125025.mp4
-#EXTINF:-1 ,Bewajah (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125026.mp4
-#EXTINF:-1 ,Beyond the Clouds (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125027.mp4
-#EXTINF:-1 ,Bhaagamathie (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125028.mp4
-#EXTINF:-1 ,Bhaagte Raho (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125029.mp4
-#EXTINF:-1 ,Bhai Mera Big Brother (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125030.mp4
-#EXTINF:-1 ,Bhanwarey (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125031.mp4
-#EXTINF:-1 ,Bhasmasur (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125032.mp4
-#EXTINF:-1 ,Bheemayan (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125033.mp4
-#EXTINF:-1 ,Bheja Fry 2 (2011) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125034.mp4
-#EXTINF:-1 ,Bhoomi (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125035.mp4
-#EXTINF:-1 ,Bioscopewala (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125036.mp4
-#EXTINF:-1 ,Blackmail (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125037.mp4
-#EXTINF:-1 ,Blue Streak (1999) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125038.mp4
-#EXTINF:-1 ,Bodyguard (2011) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125039.mp4
-#EXTINF:-1 ,Bombairiya (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125040.mp4
-#EXTINF:-1 ,Bombay Summer (2010) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125041.mp4
-#EXTINF:-1 ,Boom (2003) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125042.mp4
-#EXTINF:-1 ,Brij Mohan Amar Rahe (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125043.mp4
-#EXTINF:-1 ,Cabaret (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125044.mp4
-#EXTINF:-1 ,Candyflip (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125045.mp4
-#EXTINF:-1 ,Chakarghinni (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125046.mp4
-#EXTINF:-1 ,Chal Mere Bhai (2000) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125048.mp4
-#EXTINF:-1 ,Charlie Kay Chakkar Mein (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125049.mp4
-#EXTINF:-1 ,Chennai Express (2013) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125050.mp4
-#EXTINF:-1 ,Chhappad Phaad Ke (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125051.mp4
-#EXTINF:-1 ,Chhota Bheem Aur Kaala Yodha (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125052.mp4
-#EXTINF:-1 ,Chhota Bheem Ka Romani Adventure (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125053.mp4
-#EXTINF:-1 ,Chhota Bheem Ka Troll Se Takkar (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125054.mp4
-#EXTINF:-1 ,Chi Va Chi Sau Ka (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125056.mp4
-#EXTINF:-1 ,Chitralahari (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125055.mp4
-#EXTINF:-1 ,Chopsticks (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125057.mp4
-#EXTINF:-1 ,Chousar Firangi (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125058.mp4
-#EXTINF:-1 ,Chunkzz (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125059.mp4
-#EXTINF:-1 ,Clash Of Empires The Battle For Asia (2011) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125060.mp4
-#EXTINF:-1 ,Cocktail (2012) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125061.mp4
-#EXTINF:-1 ,Coffee With D (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125062.mp4
-#EXTINF:-1 ,Commando (2013) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125063.mp4
-#EXTINF:-1 ,Contagion (2011) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125064.mp4
-#EXTINF:-1 ,Contract (2008) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125065.mp4
-#EXTINF:-1 ,Crazy Stupid Love (2011) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125066.mp4
-#EXTINF:-1 ,CRD (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125067.mp4
-#EXTINF:-1 ,Cycle (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125068.mp4
-#EXTINF:-1 ,Daak Ghar (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125069.mp4
-#EXTINF:-1 ,Daddy (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125070.mp4
-#EXTINF:-1 ,Dadnapped (2009) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125071.mp4
-#EXTINF:-1 ,Dairy of Butterfly (2012) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125072.mp4
-#EXTINF:-1 ,Daring Dilwala 3 (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125074.mp4
-#EXTINF:-1 ,Daringbaaz 3 (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125073.mp4
-#EXTINF:-1 ,Dark Chocolate (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125075.mp4
-#EXTINF:-1 ,Darling (2007) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125076.mp4
-#EXTINF:-1 ,Dashakriya (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125077.mp4
-#EXTINF:-1 ,Dassehra (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125078.mp4
-#EXTINF:-1 ,Dear Dad (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125079.mp4
-#EXTINF:-1 ,Dekh Tamasha Dekh (2014) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125080.mp4
-#EXTINF:-1 ,Delhi in a Day (2011) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125081.mp4
-#EXTINF:-1 ,Dev D (2009) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125083.mp4
-#EXTINF:-1 ,DEVAKI (2020) 720p
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125082.mp4
-#EXTINF:-1 ,Dhadak (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125084.mp4
-#EXTINF:-1 ,Dheet Patangey (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125085.mp4
-#EXTINF:-1 ,Dhh (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125086.mp4
-#EXTINF:-1 ,Dhoom (2004) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125087.mp4
-#EXTINF:-1 ,Diary of a Butterfly (2012) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125088.mp4
-#EXTINF:-1 ,Dil Jo Na Keh Saka (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125089.mp4
-#EXTINF:-1 ,Dil Juunglee (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125090.mp4
-#EXTINF:-1 ,Dil To Pagal Hai (1997) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125091.mp4
-#EXTINF:-1 ,Dino Ki Dulhaniya (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125092.mp4
-#EXTINF:-1 ,Direct Ishq (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125093.mp4
-#EXTINF:-1 ,Dj Duvvada Jagannadham (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125094.mp4
-#EXTINF:-1 ,Dolls House (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125095.mp4
-#EXTINF:-1 ,Don 420 (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125096.mp4
-#EXTINF:-1 ,Doorbeen (2019) Punjabi IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125097.mp4
-#EXTINF:-1 ,Dost Tussi Great Ho (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125099.mp4
-#EXTINF:-1 ,Dosti Ke Side Effects (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125098.mp4
-#EXTINF:-1 ,Dream Girl (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125100.mp4
-#EXTINF:-1 ,Drishyam (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125101.mp4
-#EXTINF:-1 ,Drive Angry (2011) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125102.mp4
-#EXTINF:-1 ,Dulla Bhatti Wala (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125103.mp4
-#EXTINF:-1 ,Dynamite (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125105.mp4
-#EXTINF:-1 ,Ek Hasina Thi (2004) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125106.mp4
-#EXTINF:-1 ,Ek Ladki Ko Dekha Toh Aisa Laga (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125107.mp4
-#EXTINF:-1 ,Ek Paheli Maya (Mayuri) (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125108.mp4
-#EXTINF:-1 ,Ek Thi Daayan (2013) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125109.mp4
-#EXTINF:-1 ,Enders Game (2013) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125110.mp4
-#EXTINF:-1 ,Escape from Ensenada (2017) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125111.mp4
-#EXTINF:-1 ,Escape from Taliban (2003) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125112.mp4
-#EXTINF:-1 ,Evening Shadows (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125113.mp4
-#EXTINF:-1 ,Ezra (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125114.mp4
-#EXTINF:-1 ,Fandi (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125115.mp4
-#EXTINF:-1 ,Faulad The Iron Man (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125116.mp4
-#EXTINF:-1 ,Fever (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125117.mp4
-#EXTINF:-1 ,Fightwala (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125118.mp4
-#EXTINF:-1 ,Firangi (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125120.mp4
-#EXTINF:-1 ,Fired (2010) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125121.mp4
-#EXTINF:-1 ,Flat 211 (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125122.mp4
-#EXTINF:-1 ,Footpath (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125123.mp4
-#EXTINF:-1 ,Freddy Vs Jason (2003) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125124.mp4
-#EXTINF:-1 ,Friends with Benefits (2011) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125125.mp4
-#EXTINF:-1 ,Future to Bright Hai Ji (2012) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125126.mp4
-#EXTINF:-1 ,Gali Guleiyan (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125127.mp4
-#EXTINF:-1 ,Gangster (2006) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125128.mp4
-#EXTINF:-1 ,Gaon (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125129.mp4
-#EXTINF:-1 ,Garbage (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125130.mp4
-#EXTINF:-1 ,Garuda Superhero (2014) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125131.mp4
-#EXTINF:-1 ,Geetha Govindam (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125132.mp4
-#EXTINF:-1 ,Geethanjali (2014) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125133.mp4
-#EXTINF:-1 ,Genius (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125134.mp4
-#EXTINF:-1 ,Genius Khiladi (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125135.mp4
-#EXTINF:-1 ,Ghatak Raat Aa Karaala Ratri (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125136.mp4
-#EXTINF:-1 ,Ghoda (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125137.mp4
-#EXTINF:-1 ,Ghost (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125138.mp4
-#EXTINF:-1 ,Ghuma (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125139.mp4
-#EXTINF:-1 ,Gippi (2013) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125140.mp4
-#EXTINF:-1 ,Global baba (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125141.mp4
-#EXTINF:-1 ,Golimaar 2 (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125142.mp4
-#EXTINF:-1 ,Golmaal Again (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125143.mp4
-#EXTINF:-1 ,Gone Kesh (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125144.mp4
-#EXTINF:-1 ,Great Grand Masti (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125145.mp4
-#EXTINF:-1 ,Guddiyan Patole (2019) Punjabi IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125146.mp4
-#EXTINF:-1 ,Gumnaami (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125149.mp4
-#EXTINF:-1 ,Gunwali Dulhaniya (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125150.mp4
-#EXTINF:-1 ,Gurgaon (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125151.mp4
-#EXTINF:-1 ,Guy In The Sky (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125152.mp4
-#EXTINF:-1 ,HAFTHA (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125153.mp4
-#EXTINF:-1 ,Hai Apna Dil Toh Awara (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125154.mp4
-#EXTINF:-1 ,Halal (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125155.mp4
-#EXTINF:-1 ,Hamid (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125156.mp4
-#EXTINF:-1 ,Hannah Montana The Movie (2009) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125157.mp4
-#EXTINF:-1 ,Hanuman Da Damdaar (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125158.mp4
-#EXTINF:-1 ,Happi (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125159.mp4
-#EXTINF:-1 ,Haseena (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125160.mp4
-#EXTINF:-1 ,Hate Story 2 (2014) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125161.mp4
-#EXTINF:-1 ,Hate Story 4 (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125162.mp4
-#EXTINF:-1 ,Hawaa Hawaai (2014) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125164.mp4
-#EXTINF:-1 ,Heartless (2014) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125165.mp4
-#EXTINF:-1 ,Hello Hum Lallann Bol Rahe Hain (2010) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125166.mp4
-#EXTINF:-1 ,Heropanti (2014) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125167.mp4
-#EXTINF:-1 ,Hey Ram (2000) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125168.mp4
-#EXTINF:-1 ,Heyy Babyy (2007) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125169.mp4
-#EXTINF:-1 ,Hichki (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125170.mp4
-#EXTINF:-1 ,High End Yaariyaan (2019) Punjabi IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125171.mp4
-#EXTINF:-1 ,Hindi Medium (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125172.mp4
-#EXTINF:-1 ,Hitler Raja (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125173.mp4
-#EXTINF:-1 ,Ho Gaya Total Siyapaa (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125174.mp4
-#EXTINF:-1 ,Hotel Milan (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125175.mp4
-#EXTINF:-1 ,How Is Wow (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125177.mp4
-#EXTINF:-1 ,Hum Tumhare Hain Sanam (2002) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125178.mp4
-#EXTINF:-1 ,I Me aur Main (2013) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125184.mp4
-#EXTINF:-1 ,Ice Age Collision Course (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125179.mp4
-#EXTINF:-1 ,Ichak (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125180.mp4
-#EXTINF:-1 ,Ik Sandhu Hunda Si (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125181.mp4
-#EXTINF:-1 ,Imago (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125182.mp4
-#EXTINF:-1 ,IMAI (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125183.mp4
-#EXTINF:-1 ,Incredibles 2 (2018) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125185.mp4
-#EXTINF:-1 ,Inkaar (2013) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125186.mp4
-#EXTINF:-1 ,Inteqam The Perfect Game (2004) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125187.mp4
-#EXTINF:-1 ,Invisible Target (2007) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125188.mp4
-#EXTINF:-1 ,Iqbal (2005) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125189.mp4
-#EXTINF:-1 ,Ishq Forever (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125192.mp4
-#EXTINF:-1 ,Ishqedarriyaan (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125190.mp4
-#EXTINF:-1 ,Ishqeria (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125191.mp4
-#EXTINF:-1 ,Ismart Shankar (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125193.mp4
-#EXTINF:-1 ,J.D (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125194.mp4
-#EXTINF:-1 ,Jaan Ki Baazi 2 (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125196.mp4
-#EXTINF:-1 ,Jaane Kyun De Yaaron (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125195.mp4
-#EXTINF:-1 ,Jab Harry Met Sejal (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125197.mp4
-#EXTINF:-1 ,Jab Rat Hoti Hai (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125198.mp4
-#EXTINF:-1 ,Jaddi Sardar (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125199.mp4
-#EXTINF:-1 ,Jallaad (1995) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125200.mp4
-#EXTINF:-1 ,Jannat E Milan (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125201.mp4
-#EXTINF:-1 ,Jeene Nahi Doonga 2 (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125203.mp4
-#EXTINF:-1 ,Jhodaa Akbar (2008) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125204.mp4
-#EXTINF:-1 ,Jhoom Barabar Jhoom (2007) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125205.mp4
-#EXTINF:-1 ,JIHNE MERA DIL LUTEYA (2011) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125206.mp4
-#EXTINF:-1 ,Jonaki (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125207.mp4
-#EXTINF:-1 ,Julie 2 (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125209.mp4
-#EXTINF:-1 ,Junooniyat (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125211.mp4
-#EXTINF:-1 ,Jurassic World Fallen Kingdom (2018) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125212.mp4
-#EXTINF:-1 ,Kaaliyan The Killer (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125214.mp4
-#EXTINF:-1 ,Kadvi Hawa (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125216.mp4
-#EXTINF:-1 ,Kajarya (2013) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125217.mp4
-#EXTINF:-1 ,Kal Ho Naa Ho (2003) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125218.mp4
-#EXTINF:-1 ,Kamzori The Weakness (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125219.mp4
-#EXTINF:-1 ,Kanchana 3 Kaali Ka Karishma (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125220.mp4
-#EXTINF:-1 ,Kande (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125221.mp4
-#EXTINF:-1 ,Kanika (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125222.mp4
-#EXTINF:-1 ,Kanithan (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125223.mp4
-#EXTINF:-1 ,Karim Mohammed (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125224.mp4
-#EXTINF:-1 ,Karwaan (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125225.mp4
-#EXTINF:-1 ,Karz (2002) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125226.mp4
-#EXTINF:-1 ,Kaun Kitney Paani Mein (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125227.mp4
-#EXTINF:-1 ,Kedarnath (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125228.mp4
-#EXTINF:-1 ,Kerry on Kutton (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125229.mp4
-#EXTINF:-1 ,Kesari (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125230.mp4
-#EXTINF:-1 ,Khaidi No150 (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125231.mp4
-#EXTINF:-1 ,Khajoor Pe Atke (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125232.mp4
-#EXTINF:-1 ,Khamiyaza (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125233.mp4
-#EXTINF:-1 ,Ki and Ka (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125235.mp4
-#EXTINF:-1 ,Kissebaaz (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125236.mp4
-#EXTINF:-1 ,Ko 2 (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125237.mp4
-#EXTINF:-1 ,Koi Mil Gaya (2003) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125238.mp4
-#EXTINF:-1 ,Krrish (2006) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125239.mp4
-#EXTINF:-1 ,Krutant (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125241.mp4
-#EXTINF:-1 ,Kuch Bheege Alfaaz (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125242.mp4
-#EXTINF:-1 ,Kuch Pal Pyar Ke (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125244.mp4
-#EXTINF:-1 ,Laali Ki Shaadi Mein Laaddoo Deewana (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125245.mp4
-#EXTINF:-1 ,Lahoriye (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125246.mp4
-#EXTINF:-1 ,Lashtam Pashtam (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125247.mp4
-#EXTINF:-1 ,Laung Laachi (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125248.mp4
-#EXTINF:-1 ,Leader Plus (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125249.mp4
-#EXTINF:-1 ,Leap Year (2010) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125251.mp4
-#EXTINF:-1 ,Legend of The Naga Pearls (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125252.mp4
-#EXTINF:-1 ,Life Ki Toh Lag Gayi (2012) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125253.mp4
-#EXTINF:-1 ,Little Superma (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125254.mp4
-#EXTINF:-1 ,Little Terrors (2014) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125255.mp4
-#EXTINF:-1 ,Love Sonia (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125257.mp4
-#EXTINF:-1 ,LSD Love Sex Aur Dhokha (2010) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125258.mp4
-#EXTINF:-1 ,Lucknow Central (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125259.mp4
-#EXTINF:-1 ,Lupt (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125260.mp4
-#EXTINF:-1 ,Luv Shuv Pyar Vyar (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125261.mp4
-#EXTINF:-1 ,M Cream (2014) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125282.mp4
-#EXTINF:-1 ,M.S.Dhoni The Untold Story (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125262.mp4
-#EXTINF:-1 ,Maatr (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125263.mp4
-#EXTINF:-1 ,Maazii (2013) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125264.mp4
-#EXTINF:-1 ,Machine (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125265.mp4
-#EXTINF:-1 ,Machine Gun Preacher (2011) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125266.mp4
-#EXTINF:-1 ,Made in China (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125267.mp4
-#EXTINF:-1 ,Madholal Keep Walking (2009) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125268.mp4
-#EXTINF:-1 ,Mard Ka Inteqam (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125270.mp4
-#EXTINF:-1 ,Mard Ko Dard Nahi Hota (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125271.mp4
-#EXTINF:-1 ,Mard Ko Dard Nahin Hota (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125272.mp4
-#EXTINF:-1 ,Mardaani 2 (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125269.mp4
-#EXTINF:-1 ,Marne Bhi Do Yaaron (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125273.mp4
-#EXTINF:-1 ,Marthand LLB My Dear Marthandam (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125274.mp4
-#EXTINF:-1 ,Marudhar Express (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125275.mp4
-#EXTINF:-1 ,Mashooka (2005) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125277.mp4
-#EXTINF:-1 ,Mashuka (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125278.mp4
-#EXTINF:-1 ,Mass Leader (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125279.mp4
-#EXTINF:-1 ,Mastizaade (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125280.mp4
-#EXTINF:-1 ,Mauli (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125281.mp4
-#EXTINF:-1 ,Me Shivaji Park (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125286.mp4
-#EXTINF:-1 ,Memory Card (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125283.mp4
-#EXTINF:-1 ,Mere Dad Ki Maruti (2013) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125284.mp4
-#EXTINF:-1 ,Meri Taqdeer (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125285.mp4
-#EXTINF:-1 ,MeToo Wolf Of Bollywood (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125287.mp4
-#EXTINF:-1 ,Mirror Game (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125288.mp4
-#EXTINF:-1 ,Mirza Juuliet (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125289.mp4
-#EXTINF:-1 ,Mirzya (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125290.mp4
-#EXTINF:-1 ,Missing On A Weekend (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125291.mp4
-#EXTINF:-1 ,Mom (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125293.mp4
-#EXTINF:-1 ,Mona Darling (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125294.mp4
-#EXTINF:-1 ,Monsters Dark Continent (2014) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125295.mp4
-#EXTINF:-1 ,Motichoor Chaknachoor (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125296.mp4
-#EXTINF:-1 ,Mridang (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125297.mp4
-#EXTINF:-1 ,Mukhtiar Chadha (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125299.mp4
-#EXTINF:-1 ,Mumbai Pune Mumbai 3 (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125300.mp4
-#EXTINF:-1 ,Mushkil (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125301.mp4
-#EXTINF:-1 ,Music Teacher (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125302.mp4
-#EXTINF:-1 ,Muskurahatein (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125303.mp4
-#EXTINF:-1 ,My Birthday Song (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125304.mp4
-#EXTINF:-1 ,My Father Iqbal (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125305.mp4
-#EXTINF:-1 ,Nadhoo Khan (2019) Punjabi IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125306.mp4
-#EXTINF:-1 ,Namaste England (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125307.mp4
-#EXTINF:-1 ,Nanak Shah Fakir (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125308.mp4
-#EXTINF:-1 ,Nanu Ki Jaanu (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125309.mp4
-#EXTINF:-1 ,Newton (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125310.mp4
-#EXTINF:-1 ,Nikka Zaildar (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125311.mp4
-#EXTINF:-1 ,Nikka Zaildar 3 (2019) Punjabi IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125312.mp4
-#EXTINF:-1 ,Nirdosh (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125313.mp4
-#EXTINF:-1 ,No 1 Mr Perfect (2011) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125314.mp4
-#EXTINF:-1 ,Notebook (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125315.mp4
-#EXTINF:-1 ,Oceans Eleven (2001) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125316.mp4
-#EXTINF:-1 ,Oceans Eleven (2004) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125317.mp4
-#EXTINF:-1 ,Oceans Eleven (2007) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125318.mp4
-#EXTINF:-1 ,OMG Oh My God (2012) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125320.mp4
-#EXTINF:-1 ,Once Upon Ay Time in Mumbai Dobaara  (2013) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125321.mp4
-#EXTINF:-1 ,Oru Nalla Naal Paathu Solren (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125322.mp4
-#EXTINF:-1 ,Ouija Origin of Evil (2016) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125323.mp4
-#EXTINF:-1 ,Outpost (2008) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125324.mp4
-#EXTINF:-1 ,Pad Man (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125325.mp4
-#EXTINF:-1 ,Pagla Ghoda (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125327.mp4
-#EXTINF:-1 ,Paheli (2005) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125328.mp4
-#EXTINF:-1 ,Paigham (1959) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125329.mp4
-#EXTINF:-1 ,Paisa Vasool (2004) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125330.mp4
-#EXTINF:-1 ,Pal Pal Dil Ke Paas (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125331.mp4
-#EXTINF:-1 ,Parched (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125333.mp4
-#EXTINF:-1 ,Parineeta (2005) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125334.mp4
-#EXTINF:-1 ,Parmanu (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125335.mp4
-#EXTINF:-1 ,Pataakha (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125336.mp4
-#EXTINF:-1 ,Patel Ki Punjabi Shaadi (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125337.mp4
-#EXTINF:-1 ,Pati Patni Aur Woh (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125338.mp4
-#EXTINF:-1 ,Period End of Sentence (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125339.mp4
-#EXTINF:-1 ,Phillauri (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125340.mp4
-#EXTINF:-1 ,Phir Hera Pheri (2006) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125341.mp4
-#EXTINF:-1 ,Phobia (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125342.mp4
-#EXTINF:-1 ,Phullu (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125343.mp4
-#EXTINF:-1 ,Pihu (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125344.mp4
-#EXTINF:-1 ,Pink (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125345.mp4
-#EXTINF:-1 ,Policewale ka Tashan (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125346.mp4
-#EXTINF:-1 ,Pranaam (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125347.mp4
-#EXTINF:-1 ,Prem Ratan Dhan Payo (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125348.mp4
-#EXTINF:-1 ,Prince In Exile (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125349.mp4
-#EXTINF:-1 ,Qissa Qismat Ka (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125350.mp4
-#EXTINF:-1 ,R.I.P.D (2013) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125351.mp4
-#EXTINF:-1 ,Raazi (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125352.mp4
-#EXTINF:-1 ,Rab Ne Bana Di Jodi (2008) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125354.mp4
-#EXTINF:-1 ,Rabb Da Radio (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125353.mp4
-#EXTINF:-1 ,Raging Phoenix (2009) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125355.mp4
-#EXTINF:-1 ,Raid (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125356.mp4
-#EXTINF:-1 ,Rakta Charitra 2 (2010) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125357.mp4
-#EXTINF:-1 ,Ram Gopal Varma Ki Aag (2007) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125358.mp4
-#EXTINF:-1 ,Ram Jaane (1995) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125359.mp4
-#EXTINF:-1 ,Ram Ratan (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125361.mp4
-#EXTINF:-1 ,Rampage (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125360.mp4
-#EXTINF:-1 ,Ranbanka (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125362.mp4
-#EXTINF:-1 ,Rebel Khiladi (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125363.mp4
-#EXTINF:-1 ,Rogue (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125364.mp4
-#EXTINF:-1 ,Room The Mystery (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125365.mp4
-#EXTINF:-1 ,Rowdy Shankar (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125366.mp4
-#EXTINF:-1 ,Rubaru Roshni (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125367.mp4
-#EXTINF:-1 ,Rudra Tandava (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125368.mp4
-#EXTINF:-1 ,Rukh (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125369.mp4
-#EXTINF:-1 ,Saak (2019) Punjabi IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125370.mp4
-#EXTINF:-1 ,Saand Ki Aankh (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125371.mp4
-#EXTINF:-1 ,Saat Uchakkey (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125372.mp4
-#EXTINF:-1 ,Sabse Bada Chaalbaaz (Bombaat) (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125373.mp4
-#EXTINF:-1 ,Sabse Bada Zero (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125374.mp4
-#EXTINF:-1 ,Salaam Bombay (1988) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125375.mp4
-#EXTINF:-1 ,Sallu Ki Shaadi (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125376.mp4
-#EXTINF:-1 ,Sargi (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125377.mp4
-#EXTINF:-1 ,Selfie Raja (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125378.mp4
-#EXTINF:-1 ,Seven Pounds (2008) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125379.mp4
-#EXTINF:-1 ,Sharma ji ki lag gayi (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125380.mp4
-#EXTINF:-1 ,Sharp Shooter (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125381.mp4
-#EXTINF:-1 ,Shikari (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125382.mp4
-#EXTINF:-1 ,Shimla Mirchi (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125383.mp4
-#EXTINF:-1 ,Shobhayatra (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125384.mp4
-#EXTINF:-1 ,Shool (1999) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125385.mp4
-#EXTINF:-1 ,Shor Se Shuruaat (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125387.mp4
-#EXTINF:-1 ,Shorgul (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125386.mp4
-#EXTINF:-1 ,Shreelancer (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125388.mp4
-#EXTINF:-1 ,Simran (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125389.mp4
-#EXTINF:-1 ,Simran Ki Aashiqui (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125390.mp4
-#EXTINF:-1 ,Sixteen Candles (1984) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125393.mp4
-#EXTINF:-1 ,Skyscraper (2018) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125394.mp4
-#EXTINF:-1 ,Sniff (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125395.mp4
-#EXTINF:-1 ,Snow Girl and the Dark Crystal (2015) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125396.mp4
-#EXTINF:-1 ,Soccer Killer (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125397.mp4
-#EXTINF:-1 ,Soorma (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125398.mp4
-#EXTINF:-1 ,Sorority Row (2009) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125399.mp4
-#EXTINF:-1 ,Source Code (2011) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125400.mp4
-#EXTINF:-1 ,Speed 2 Cruise Control (1997) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125401.mp4
-#EXTINF:-1 ,Speed 2 Cruise Control (1999) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125402.mp4
-#EXTINF:-1 ,Speedunnodu (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125403.mp4
-#EXTINF:-1 ,Spicy Khiladi (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125404.mp4
-#EXTINF:-1 ,Stupid Cupid (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125405.mp4
-#EXTINF:-1 ,Sui Dhaaga (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125406.mp4
-#EXTINF:-1 ,Sukumarudu (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125407.mp4
-#EXTINF:-1 ,Sunshine Music Tours and Travels (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125408.mp4
-#EXTINF:-1 ,Super Monsters Furever Friends (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125409.mp4
-#EXTINF:-1 ,Surya Ki Antim Kiran Se Surya Ki Pehli Kiran Tak (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125410.mp4
-#EXTINF:-1 ,Take Care Good Night (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125411.mp4
-#EXTINF:-1 ,Tamanchey (2014) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125412.mp4
-#EXTINF:-1 ,Taqdeer Hello (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125413.mp4
-#EXTINF:-1 ,Taxiwala (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125414.mp4
-#EXTINF:-1 ,Teefa In Trouble (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125415.mp4
-#EXTINF:-1 ,Tennis Buddies (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125416.mp4
-#EXTINF:-1 ,Tera Intezaar (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125417.mp4
-#EXTINF:-1 ,Teri Meri Kahaani (2012) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125419.mp4
-#EXTINF:-1 ,Thackeray (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125420.mp4
-#EXTINF:-1 ,Thai Curry (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125421.mp4
-#EXTINF:-1 ,The Adventures of Tintin (2011) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125422.mp4
-#EXTINF:-1 ,The Cat In The Hat (2003) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125424.mp4
-#EXTINF:-1 ,The Equalizer (2014) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125425.mp4
-#EXTINF:-1 ,The Fakir of Venice (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125426.mp4
-#EXTINF:-1 ,The Hit List (2011) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125427.mp4
-#EXTINF:-1 ,The House Next Door (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125428.mp4
-#EXTINF:-1 ,The Indian Post Graduate (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125429.mp4
-#EXTINF:-1 ,The Last Airbender (2010) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125430.mp4
-#EXTINF:-1 ,The Legend of Michael Mishra (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125431.mp4
-#EXTINF:-1 ,The Meg (2018) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125432.mp4
-#EXTINF:-1 ,The Pacifier (2005) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125433.mp4
-#EXTINF:-1 ,The Promise (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125434.mp4
-#EXTINF:-1 ,The Real Tevar Srimanthudu (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125435.mp4
-#EXTINF:-1 ,The Redrum A Love Story (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125436.mp4
-#EXTINF:-1 ,The Roommate (2011) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125438.mp4
-#EXTINF:-1 ,The Scorpion King (2002) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125439.mp4
-#EXTINF:-1 ,The Scorpion King (2012) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125440.mp4
-#EXTINF:-1 ,The Slum Stars (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125441.mp4
-#EXTINF:-1 ,The Wild Thornberrys Movie (2002) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125442.mp4
-#EXTINF:-1 ,The Window (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125443.mp4
-#EXTINF:-1 ,The Zoya Factor (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125444.mp4
-#EXTINF:-1 ,Thodi Thodi Si Manmaaniyan (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125445.mp4
-#EXTINF:-1 ,Thor Ragnarok (2017) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125446.mp4
-#EXTINF:-1 ,Thugbaaz (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125447.mp4
-#EXTINF:-1 ,Tiger (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125448.mp4
-#EXTINF:-1 ,Tik Tik Tik (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125450.mp4
-#EXTINF:-1 ,Tikli and Laxmi Bomb Poster (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125449.mp4
-#EXTINF:-1 ,Time Out (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125451.mp4
-#EXTINF:-1 ,Time Please (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125452.mp4
-#EXTINF:-1 ,Toilet Ek Prem Katha (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125453.mp4
-#EXTINF:-1 ,Too Big To Fail (2011) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125454.mp4
-#EXTINF:-1 ,Tottaa Pataaka Item Maal (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125455.mp4
-#EXTINF:-1 ,Trapped (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125456.mp4
-#EXTINF:-1 ,Trigger (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125457.mp4
-#EXTINF:-1 ,Truckbhar Swapna (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125458.mp4
-#EXTINF:-1 ,True Grit (2011) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125459.mp4
-#EXTINF:-1 ,Tu Tithe Asave (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125463.mp4
-#EXTINF:-1 ,Tubelight (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125460.mp4
-#EXTINF:-1 ,Tumbbad (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125461.mp4
-#EXTINF:-1 ,Tutak Tutak Tutiya (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125462.mp4
-#EXTINF:-1 ,Typecaste (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125464.mp4
-#EXTINF:-1 ,U Turn (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125472.mp4
-#EXTINF:-1 ,Udaan (2010) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125465.mp4
-#EXTINF:-1 ,Ugly (2014) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125467.mp4
-#EXTINF:-1 ,Untraceable (2008) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125470.mp4
-#EXTINF:-1 ,Uri The Surgical Strike (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125471.mp4
-#EXTINF:-1 ,Valiyavan (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125473.mp4
-#EXTINF:-1 ,Vansh Raaj (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125474.mp4
-#EXTINF:-1 ,Veere Di Wedding (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125475.mp4
-#EXTINF:-1 ,Veergati (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125476.mp4
-#EXTINF:-1 ,Ventilator (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125477.mp4
-#EXTINF:-1 ,Vijetha (2020) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125478.mp4
-#EXTINF:-1 ,Vivegam The Real Hero (2017) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125480.mp4
-#EXTINF:-1 ,Vodka Diaries (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125481.mp4
-#EXTINF:-1 ,Waiting (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125482.mp4
-#EXTINF:-1 ,War of the Arrows (2011) IN MultiAudio
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125484.mp4
-#EXTINF:-1 ,Warning (2013) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125483.mp4
-#EXTINF:-1 ,Wedding Cha Shinema (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125486.mp4
-#EXTINF:-1 ,Wedding Pullav (2015) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125487.mp4
-#EXTINF:-1 ,When Obama Loved Osama (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125488.mp4
-#EXTINF:-1 ,Yeh Hai Bakrapur (2014) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125489.mp4
-#EXTINF:-1 ,Yeh Lamhe Judaai Ke (2004) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125491.mp4
-#EXTINF:-1 ,Yevadu 3 (2018) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125492.mp4
-#EXTINF:-1 ,Yours Truly (2019) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125493.mp4
-#EXTINF:-1 ,Zameer (2005) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125494.mp4
-#EXTINF:-1 ,Zubaan (2016) IN
-http://rusmedia.ayservices.xyz:80/movie/Q5MePA2emj/YH3Y23d3D3/125495.mp4
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/t16RjZq.jpg",Altered Carbon: Resleeved (2020)
 https://lh3.googleusercontent.com/7OLP6M9nxhHH94oZF0Lli45nYDntGTmvmHqb9OnTeTvdb1jSPnjBcDxP1CJ89Dr8aw-IZdYuG9UGJUymew=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/6doKB2T.jpg",Abominable (2019)
@@ -4286,7 +3082,6 @@ https://lh3.googleusercontent.com/fJk_Mh-R2jB0v4sQjM00qn7tEHBBgmurEleOHh9Wzg_kEg
 https://lh3.googleusercontent.com/qM-0IPEMej1OcTvnCWLO6A4cFlW8FM4vxugM1HLB8aQSptB8yMeHXv_iQS8x26FCXEpOyUiffTP5Z6zRCw=m22
 #EXTINF:-1 group-title="VOD | VOD ANIMASI" tvg-logo="http://img.prntscr.com/img?url=https://i.imgur.com/iPBjM6y.jpg",The Emoji Movie (2017)
 https://lh3.googleusercontent.com/nKlDG1P-4y8L-1GOwSs7cqO6Mjq68l4qv-5xIzOYJ07Jj5Prdzqgz96u3IPGlce38tL5I0RXRRjFUOzu7w=m22
-
 #EXTINF:-1 group-title="VOD ARAB",AR: 30 Youm 3ez
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/222448.mp4
 #EXTINF:-1 group-title="VOD ARAB" tvg-logo="https://image.tmdb.org/t/p/original/rLPabCL0jXomSaftwcRvkbokVbz.jpg",AR: 30 Youm Fi Ezz
