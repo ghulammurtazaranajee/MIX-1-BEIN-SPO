@@ -2,6 +2,7 @@
 
 
 
+
 #EXTINF:-1 group-title="sports" tvg-logo="https://www.linkpicture.com/q/download_215.jpg",A Sports (pk)
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://r7.pngwing.com/path/238/54/383/indian-premier-league-dd-sports-television-dd-national-cricket-39ee3fc39c581d7670adc32a6a400f2e.png",DD Sports
@@ -56,8 +57,6 @@ https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8?rebase=o
 https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8?rebase=on&sd=10
 #EXTINF:-1 group-title="IN" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/8ZmnDAS3.png",Odisha TV (480p) [Not 24/7]
 https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/QYfhpkre.png",Pratidin Time (360p) [Not 24/7]
-https://rtmp.smartstream.video/pratidintime/pratidintime/playlist.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/iaba.jpg",Prime Canada TV (720p) [Not 24/7]
 http://cdn27.live247stream.com/primecanada/247/primecanada/stream1/playlist.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/downloadooo.jpg",PUNJAB TV (720p)
@@ -90,8 +89,6 @@ https://liveanevia.mncnow.id/live/eds/Soccer-2/sa_dash_vmx/Soccer-2.mpd
 http://wpc.d1627.nucdn.net:80/80D1627/o-tvri/Content/HLS/Live/Channel(TVRI4)/Stream(03)/index.m3u8
 #EXTINF:-1 group-title="BRITISH SPORTS" tvg-logo="https://i.imgur.com/sIIFREX.png",BT Sport 2
 http://93.152.174.144:4000/play/btsport2/index.m3u8
-#EXTINF:-1 group-title="BRITISH SPORTS" tvg-logo="https://i.imgur.com/J8zzS2v.png",Sky Sports Cricket
-http://93.152.174.144:4000/play/skysports2/index.m3u8
 #EXTINF:-1 group-title="BRITISH SPORTS" tvg-logo="https://i.imgur.com/2kPW5qw.png",Sky Sports F1
 http://93.152.174.144:4000/play/ssportsf1/index.m3u8
 #EXTINF:-1 group-title="BRITISH SPORTS" tvg-logo="https://i.imgur.com/jcFnVbi.png",Sky Sports News
@@ -162,8 +159,6 @@ http://rt-vlg-samara-htlive-lb.cdn.ngenix.net/hls/CH_R03_OTT_VLG_SAMARA_M1/varia
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-edgesportxumo/CDN/master.m3u8
 #EXTINF:-1 group-title="Зарубежный спорт",Edge Sport FHD
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Грузия" tvg-logo="../Channel/Logo/Sonnenklar TV.png",Enki Benki
-http://94.43.239.178:8080/CHANNEL678/BITRATE0/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://epg.it999.ru/img/2266.png",Euronews Россия
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/3508.png",Eurosport 4K
@@ -228,8 +223,6 @@ http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 http://wowza.media-line.co.il/Musayof-Live/livestream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Disco Polo Music Polsat.png",MUSIC PLUS
 http://79.172.214.45:10190/stream.m3u8
-#EXTINF:-1 group-title="Грузия" tvg-logo="../Channel/Logo/MusicBOX Украина.png",MusicBox Georgia
-http://94.43.239.178:8080/CHANNEL470/BITRATE0/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Kino Polska muzyka.png",Muzzik Cafe&Club Serbia
 https://muzzik-live.morescreens.com/mts-3/playlist.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Muzo FM Polsat.png",MUZZIK HIP-HOP
@@ -292,15 +285,10 @@ http://iptv.prosto.tv:7000/ch153/video.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&hd
 #EXTINF:-1 group-title="Кино" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Ultra HD Cinema.png",ULTRA REX
 http://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIANEXTREMEULTRA_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/2286.png",Univer TV HD
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",V2BEAT HD
 http://de1se01.v2beat.live/playlist.m3u8
-
 #EXTINF:-1 ,MBC 1 HD
 http://new-pro.tv:8080/Fernando/123321/46
-#EXTINF:-1 ,MBC 1 FHD
-http://new-pro.tv:8080/Fernando/123321/99841
 #EXTINF:-1 ,MBC 1 Canada HD
 http://new-pro.tv:8080/Fernando/123321/98243
 #EXTINF:-1 ,MBC 2 HD
@@ -359,8 +347,6 @@ http://new-pro.tv:8080/Fernando/123321/99851
 http://new-pro.tv:8080/Fernando/123321/33164
 #EXTINF:-1 ,MBC 2 4K
 http://new-pro.tv:8080/Fernando/123321/33165
-#EXTINF:-1 ,MBC 3 4K
-http://new-pro.tv:8080/Fernando/123321/39226
 #EXTINF:-1 ,MBC 4 4K
 http://new-pro.tv:8080/Fernando/123321/33166
 #EXTINF:-1 ,MBC 5 4K
@@ -415,22 +401,12 @@ http://new-pro.tv:8080/Fernando/123321/66129
 http://new-pro.tv:8080/Fernando/123321/66128
 #EXTINF:-1 ,MyHD: Reel PX Family HD
 http://new-pro.tv:8080/Fernando/123321/66127
-#EXTINF:-1 ,MyHD: Reel PX Action HD
-http://new-pro.tv:8080/Fernando/123321/33544
-#EXTINF:-1 ,MyHD: Reel PX Cinema HD
-http://new-pro.tv:8080/Fernando/123321/2692
 #EXTINF:-1 ,MyHD: Horse TV HD
 http://new-pro.tv:8080/Fernando/123321/67448
-#EXTINF:-1 ,MyHD: FightBox HD
-http://new-pro.tv:8080/Fernando/123321/33668
-#EXTINF:-1 ,MyHD: Film Box HD
-http://new-pro.tv:8080/Fernando/123321/24718
 #EXTINF:-1 ,MyHD: Fight Network HD
 http://new-pro.tv:8080/Fernando/123321/30520
 #EXTINF:-1 ,MyHD: DocuBox HD
 http://new-pro.tv:8080/Fernando/123321/64254
-#EXTINF:-1 ,MyHD: Documentary Bil Arabie
-http://new-pro.tv:8080/Fernando/123321/9588
 #EXTINF:-1 ,MyHD: Trace Sport HD
 http://new-pro.tv:8080/Fernando/123321/33386
 #EXTINF:-1 ,MyHD: Trace Urban
@@ -443,8 +419,6 @@ http://new-pro.tv:8080/Fernando/123321/13440
 http://new-pro.tv:8080/Fernando/123321/2700
 #EXTINF:-1 ,MyHD: Planet Earth HD
 http://new-pro.tv:8080/Fernando/123321/7585
-#EXTINF:-1 ,MyHD: Fix & Foxi
-http://new-pro.tv:8080/Fernando/123321/13425
 #EXTINF:-1 ,Bein AFC Global
 http://new-pro.tv:8080/Fernando/123321/311976
 #EXTINF:-1 ,Bein AFC1 4K
@@ -763,8 +737,6 @@ http://new-pro.tv:8080/Fernando/123321/11037
 http://new-pro.tv:8080/Fernando/123321/11036
 #EXTINF:-1 ,OSN Disney Channel HD
 http://new-pro.tv:8080/Fernando/123321/7703
-#EXTINF:-1 ,OSN Disney Junior HD
-http://new-pro.tv:8080/Fernando/123321/7592
 #EXTINF:-1 ,OSN Nickelodeon HD
 http://new-pro.tv:8080/Fernando/123321/8998
 #EXTINF:-1 ,OSN Nick Jr HD
@@ -773,8 +745,6 @@ http://new-pro.tv:8080/Fernando/123321/20515
 http://new-pro.tv:8080/Fernando/123321/27778
 #EXTINF:-1 ,OSN Moonbug Kids
 http://new-pro.tv:8080/Fernando/123321/283134
-#EXTINF:-1 ,OSN Baby
-http://new-pro.tv:8080/Fernando/123321/279128
 #EXTINF:-1 ,OSN Boomerang
 http://new-pro.tv:8080/Fernando/123321/279129
 #EXTINF:-1 ,OSN Kids HD
@@ -845,8 +815,6 @@ http://new-pro.tv:8080/Fernando/123321/178362
 http://new-pro.tv:8080/Fernando/123321/178363
 #EXTINF:-1 ,Spt-VIP | WWE SMACKDOWN
 http://new-pro.tv:8080/Fernando/123321/178364
-#EXTINF:-1 ,Spt-VIP| DE: Dazn Bar 1 HD
-http://new-pro.tv:8080/Fernando/123321/116081
 #EXTINF:-1 ,Spt-VIP| DE: Dazn Bar 2 HD
 http://new-pro.tv:8080/Fernando/123321/116082
 #EXTINF:-1 ,Spt-VIP| DE: Eurosport 1 HD
@@ -889,8 +857,6 @@ http://new-pro.tv:8080/Fernando/123321/116094
 http://new-pro.tv:8080/Fernando/123321/116095
 #EXTINF:-1 ,Spt-VIP| Es: EuroSport 1 HD
 http://new-pro.tv:8080/Fernando/123321/116114
-#EXTINF:-1 ,Spt-VIP| Es: Liga TV BAR HD
-http://new-pro.tv:8080/Fernando/123321/116109
 #EXTINF:-1 ,Spt-VIP| Es: Movistar F1 HD
 http://new-pro.tv:8080/Fernando/123321/116117
 #EXTINF:-1 ,Spt-VIP| Es: Movistar La Liga 1 FHD  [ Live ]
@@ -1513,8 +1479,6 @@ http://new-pro.tv:8080/Fernando/123321/180847
 http://new-pro.tv:8080/Fernando/123321/181256
 #EXTINF:-1 ,Shahid Series 28 HD
 http://new-pro.tv:8080/Fernando/123321/233315
-#EXTINF:-1 ,Shahid VIP Live HD
-http://new-pro.tv:8080/Fernando/123321/145339
 #EXTINF:-1 ,Shahid VIP Live 4K
 http://new-pro.tv:8080/Fernando/123321/145338
 #EXTINF:-1 ,MBC Cinema HD
@@ -1609,8 +1573,6 @@ http://new-pro.tv:8080/Fernando/123321/28811
 http://new-pro.tv:8080/Fernando/123321/6887
 #EXTINF:-1 ,Sy: Syria News
 http://new-pro.tv:8080/Fernando/123321/99706
-#EXTINF:-1 ,Sy: Syria HD
-http://new-pro.tv:8080/Fernando/123321/7186
 #EXTINF:-1 ,Sy: Syria HD Plus
 http://new-pro.tv:8080/Fernando/123321/79039
 #EXTINF:-1 ,Sy: Halab Today Tv
@@ -1795,8 +1757,6 @@ http://new-pro.tv:8080/Fernando/123321/134657
 http://new-pro.tv:8080/Fernando/123321/134621
 #EXTINF:-1 ,Kids | VIP: Oggy 1 TV
 http://new-pro.tv:8080/Fernando/123321/134658
-#EXTINF:-1 ,Kids | VIP: Oggy 2 TV
-http://new-pro.tv:8080/Fernando/123321/134622
 #EXTINF:-1 ,Kids | VIP: Boomerang HD
 http://new-pro.tv:8080/Fernando/123321/134634
 #EXTINF:-1 ,Kids | VIP: HBO Family
@@ -1821,8 +1781,6 @@ http://new-pro.tv:8080/Fernando/123321/134627
 http://new-pro.tv:8080/Fernando/123321/134641
 #EXTINF:-1 ,Kids | VIP: OSN Disney Channel HD
 http://new-pro.tv:8080/Fernando/123321/134639
-#EXTINF:-1 ,Kids | VIP: OSN Disney Junior HD
-http://new-pro.tv:8080/Fernando/123321/134640
 #EXTINF:-1 ,Kids | VIP: OSN Kids HD
 http://new-pro.tv:8080/Fernando/123321/134635
 #EXTINF:-1 ,Kids | VIP: OSN Kids Zone HD
@@ -1975,18 +1933,10 @@ http://new-pro.tv:8080/Fernando/123321/219377
 http://new-pro.tv:8080/Fernando/123321/155275
 #EXTINF:-1 ,Music: Trace Africa
 http://new-pro.tv:8080/Fernando/123321/294617
-#EXTINF:-1 ,Music: Trace Caribbean
-http://new-pro.tv:8080/Fernando/123321/294614
-#EXTINF:-1 ,Music: Trace Gospel
-http://new-pro.tv:8080/Fernando/123321/294619
-#EXTINF:-1 ,Music: Trace Kitoko
-http://new-pro.tv:8080/Fernando/123321/294620
 #EXTINF:-1 ,Music: Trace Muzika
 http://new-pro.tv:8080/Fernando/123321/294615
 #EXTINF:-1 ,Music: Trace Naija
 http://new-pro.tv:8080/Fernando/123321/294616
-#EXTINF:-1 ,Music: Trace Toca
-http://new-pro.tv:8080/Fernando/123321/294618
 #EXTINF:-1 ,Music: Trace Urban
 http://new-pro.tv:8080/Fernando/123321/294613
 #EXTINF:-1 ,Sport | Ar: Abu Dhabi Sports 1 HD
@@ -2045,8 +1995,6 @@ http://new-pro.tv:8080/Fernando/123321/100002
 http://new-pro.tv:8080/Fernando/123321/78843
 #EXTINF:-1 ,Sport | Ar: Iraqia Sport HD
 http://new-pro.tv:8080/Fernando/123321/178141
-#EXTINF:-1 ,Sport | Ar: Shabab Iraq Sport 1 HD
-http://new-pro.tv:8080/Fernando/123321/178142
 #EXTINF:-1 ,Sport | Ar: Zamalek Sports
 http://new-pro.tv:8080/Fernando/123321/178148
 #EXTINF:-1 ,Sport | Ar: Nile Sport
@@ -2055,8 +2003,6 @@ http://new-pro.tv:8080/Fernando/123321/178146
 http://new-pro.tv:8080/Fernando/123321/178137
 #EXTINF:-1 ,Sport | Ar: Al Heddaf TV
 http://new-pro.tv:8080/Fernando/123321/178140
-#EXTINF:-1 ,Sport | Ar: Al Hilal TV
-http://new-pro.tv:8080/Fernando/123321/178138
 #EXTINF:-1 ,Sport | Ar: Libya Sport 1
 http://new-pro.tv:8080/Fernando/123321/33389
 #EXTINF:-1 ,Sport | Ar: Libya Sport 2
@@ -2123,8 +2069,6 @@ http://new-pro.tv:8080/Fernando/123321/33756
 http://new-pro.tv:8080/Fernando/123321/1949
 #EXTINF:-1 ,Lb: Canadian Arab
 http://new-pro.tv:8080/Fernando/123321/98242
-#EXTINF:-1 ,Lb: Hala London
-http://new-pro.tv:8080/Fernando/123321/98247
 #EXTINF:-1 ,Lb: Aghani
 http://new-pro.tv:8080/Fernando/123321/99082
 #EXTINF:-1 ,Lb: Arabica
@@ -2329,8 +2273,6 @@ http://new-pro.tv:8080/Fernando/123321/69631
 http://new-pro.tv:8080/Fernando/123321/14279
 #EXTINF:-1 ,Eg: Melody Classic
 http://new-pro.tv:8080/Fernando/123321/2270
-#EXTINF:-1 ,Eg: Melody Drama
-http://new-pro.tv:8080/Fernando/123321/174741
 #EXTINF:-1 ,Eg: ZILZAL Drama
 http://new-pro.tv:8080/Fernando/123321/71190
 #EXTINF:-1 ,Eg: MIX TV
@@ -2423,8 +2365,6 @@ http://new-pro.tv:8080/Fernando/123321/6550
 http://new-pro.tv:8080/Fernando/123321/100161
 #EXTINF:-1 ,Dz: Beur TV
 http://new-pro.tv:8080/Fernando/123321/6542
-#EXTINF:-1 ,Dz: El Fadjr 2
-http://new-pro.tv:8080/Fernando/123321/312207
 #EXTINF:-1 ,Dz: EnNahar TV
 http://new-pro.tv:8080/Fernando/123321/5749
 #EXTINF:-1 ,Dz: Algerie 2 TV
@@ -2463,8 +2403,6 @@ http://new-pro.tv:8080/Fernando/123321/10027
 http://new-pro.tv:8080/Fernando/123321/10028
 #EXTINF:-1 ,Uae: Dubai Zaman
 http://new-pro.tv:8080/Fernando/123321/10026
-#EXTINF:-1 ,Uae: EXPO 2020 Dubai
-http://new-pro.tv:8080/Fernando/123321/98244
 #EXTINF:-1 ,Uae: Abu Dhabi SD
 http://new-pro.tv:8080/Fernando/123321/21489
 #EXTINF:-1 ,Uae: Abu Dhabi HD
@@ -2639,8 +2577,6 @@ http://new-pro.tv:8080/Fernando/123321/297710
 http://new-pro.tv:8080/Fernando/123321/71187
 #EXTINF:-1 ,Tn: Watania 2 [ Tunisia Nat 2 ]
 http://new-pro.tv:8080/Fernando/123321/71188
-#EXTINF:-1 ,Tn: Tunisie Immobilier TV
-http://new-pro.tv:8080/Fernando/123321/33758
 #EXTINF:-1 ,Tn: JAWHARA-TV
 http://new-pro.tv:8080/Fernando/123321/265136
 #EXTINF:-1 ,Tn: Jawhara FM
@@ -2821,8 +2757,6 @@ http://new-pro.tv:8080/Fernando/123321/8227
 http://new-pro.tv:8080/Fernando/123321/36697
 #EXTINF:-1 ,Ly: Al Tanasuh TV
 http://new-pro.tv:8080/Fernando/123321/33813
-#EXTINF:-1 ,Ly: Sahel 2 TV
-http://new-pro.tv:8080/Fernando/123321/64998
 #EXTINF:-1 ,Ly: Al Salam TV
 http://new-pro.tv:8080/Fernando/123321/106128
 #EXTINF:-1 ,Ly: Al Jamahiria TV
@@ -2953,7 +2887,6 @@ http://new-pro.tv:8080/Fernando/123321/16974
 http://new-pro.tv:8080/Fernando/123321/16973
 #EXTINF:-1 ,Kw: Kuwait Sport HD
 http://new-pro.tv:8080/Fernando/123321/33477
-
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_8339 S01 E01
 http://62.210.209.138:41000/series/v52/v43/7408.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_8340 S01 E02
@@ -3056,8 +2989,6 @@ http://vod.tv7.fi:1935/tv7-se/tv7-se.stream_720p/playlist.m3u8
 https://bk7l2w4nlx53-hls-live.5centscdn.com/HISTORY/961ac1c875f5884f31bdd177365ef1e3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Hit Music Channel (Hungary)
 http://hitmusic.hu/hitmusic.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Hit TV (KZ)
-https://sc.id-tv.kz/HitTV_36_37.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Hitradio Ö3 (Webradio)
 https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Hits
@@ -3232,16 +3163,12 @@ https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Jamahiria TV
 https://master.starmena-cloud.com/hls/jam.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w359453841.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Jawhara FM [720p]
 http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_8652
 http://62.210.209.138:41000/movie/v52/v43/6706.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Jewelry Television
 https://wowzaprod134-i.akamaihd.net/hls/live/577814/ccddaf02/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Jewish Life TV
-https://d3svwuchx5fp62.cloudfront.net/rtplive/smil:jltv.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Jingle.Jangle.a.Christmas.Journey.2020
 http://62.210.209.138:41000/movie/v52/v43/7339.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Jingle.Jangle.a.Christmas.Journey.2020
@@ -3252,8 +3179,6 @@ http://62.210.209.138:41000/movie/v52/v43/6712.mp4
 https://johnnycarson-zype.amagi.tv/playlistR432p.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Johnny Carson TV
 https://johnnycarson-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Jonack TV
-http://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Journy
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxjourny/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Redbox: Journy
@@ -3544,8 +3469,6 @@ https://latele.vedge.infomaniak.com/livecast/latele/playlist.m3u8
 http://62.210.209.138:41000/movie/v52/v43/6160.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Lao Champa TV 1
 https://livefta.malimarcdn.com/ftaedge00/laochampa1.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Lao Champa TV 3
-https://livefta.malimarcdn.com/ftaedge00/laochampa3.stream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Lao Net TV
 https://livefta.malimarcdn.com/ftaedge00/laonet.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Lao SV TV
@@ -3572,8 +3495,6 @@ http://gov.leominster.tv/Pub/smil:Pub.smil/playlist.m3u8
 http://62.210.209.138:41000/movie/v52/v43/6713.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Lex TV
 https://granicusliveus2-a.akamaihd.net/lfucg/G0264_002/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Libya Channel
-https://master.starmena-cloud.com/hls/libyas.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Life TV
 http://lifetv.bitflip.ee/live/stream1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Life TV
@@ -4370,8 +4291,6 @@ http://62.210.209.138:41000/series/v52/v43/7286.mp4
 http://62.210.209.138:41000/series/v52/v43/7298.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Nothing Scripted
 https://30a-tv.com/NothingScripted.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Nova TV Brasov
-http://novapress.ro:1935/live/nova/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Nove Zamky
 http://s1.media-planet.sk:80/live/novezamky/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Novo Tempo
@@ -4524,8 +4443,6 @@ http://62.210.209.138:41000/movie/v52/v43/7343.mp4
 https://vcp.myplaytv.com/oxigenotv/oxigenotv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Oy Lao TV
 https://livefta.malimarcdn.com/ftaedge00/oylaotv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com P3 TV HD
-http://p3-6.mov.at:1935/live/weekstream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com PAC12 Insider
 https://pac12-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com PBS: Maryland Public TV
@@ -4684,8 +4601,6 @@ https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist.m3u8
 https://linear-44.frequency.stream/dist/localnow/44/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Revry News
 https://linear-44.frequency.stream/dist/plex/44/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com RheinMain TV
-https://586fb512206e4.streamlock.net/rheinmaintv-live/_definst_/mp4:livestream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Rhode Island: Providence
 https://dai.google.com/linear/hls/event/5hLTCUyrQcS3B-NF8fNp-g/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Rialto
@@ -4720,8 +4635,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokunowthis/CDN/playlist.m3u8
 https://pac12-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Roku: Channel_11027
 https://playerstv-roku-us.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Roku: RunTime Espanol
-https://runtime-espanol-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Roku: Samuel Goldwyn Channel
 https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Roku: Samuel Goldwyn Classics
@@ -4992,18 +4905,12 @@ http://62.210.209.138:41000/series/v52/v43/8178.mp4
 http://62.210.209.138:41000/series/v52/v43/8197.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Sent TV Global Network (720p)
 https://rpn1.bozztv.com/36bay2/gusa-stgn/mono.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Sesc TV
-https://slbps-ml-sambatech.akamaized.net/samba-live/2472/7424/8a00fe7cc36ac263b2c3e9324497d5ff/video/0c884f97-4264-446f-abcd-03aa46089a96_index720p.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Shahid4U.Com.Lamma.Benetweled.2019.WEB-DL.720p
 http://62.210.209.138:41000/movie/v52/v43/5896.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_11416
 http://62.210.209.138:41000/movie/v52/v43/6491.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Shirley.2020
 http://62.210.209.138:41000/movie/v52/v43/7223.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Shop HQ
-https://aos01-evine.secure.footprint.net/evine/cleanfeed/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Shop HQ TV
-https://aos01-evine.secure.footprint.net/evine/clean/appleman.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Shopping Live
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Shorts Channel
@@ -5512,12 +5419,6 @@ https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u
 https://59f2354c05961.streamlock.net:1443/pascoal/pascoal/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Evangelizar
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV FAMILIA VENEZUELA
-https://cdn01.yowi.tv/KPFPGJU8A6/live-1500.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV FAMILIAR HD
-https://cdn01.yowi.tv/KPFPGJU8A6/live-2500.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Familia
-https://cdn01.yowi.tv/KPFPGJU8A6/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV HALLE HD
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/tvhalle_high/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Halle
@@ -5544,8 +5445,6 @@ https://v4.tustreaming.cl/poptv/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Pai Eterno (480p)
 https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Qui Modena
-http://59d7d6f47d7fc.streamlock.net/tvqui/tvqui/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Santa Cecília (SP)
 http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Seventeen (720p)
@@ -5586,22 +5485,14 @@ https://video-auth2.iol.pt/live_tvi_direct/live_tvi_direct/edge_servers/tvireali
 https://livefta.malimarcdn.com/tvkedge/tvkhd.stream/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVK Camboya
 https://livefta.malimarcdn.com/tvkedge/tvk2.stream/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVL
-https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/mono.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVL
-https://live.mariatvcdn.com/mariatvcdn/70564e1c6884c007c76f0c128d679eed.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVM
 http://168.227.22.18:1935/tvm/tvm.stream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVM Channel
 http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVM3
 https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVN Brasil
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVO TOCOPILLA
 http://srv3.zcast.com.br/cristian5592/cristian5592/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVRS
-http://wms.shared.streamshow.it/tvrs/mp4:tvrs/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVS Boxing (720p)
 https://rpn1.bozztv.com/36bay2/gusa-tvsboxing/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVS Cipher Network (360p)
@@ -5842,8 +5733,6 @@ https://5d8d85cf2c308.streamlock.net:1936/Teleonuba/605oPXx3/playlist.m3u8
 http://5cbd3bc28341f.streamlock.net:1935/telesud/_definst_/live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Teletubbies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Teleunion (RD)
-http://server3.prostudionetwork.com:1945/teleunion/TU/chunklist_w2042982926.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Tempe 11
 https://granicusliveus1-a.akamaihd.net/tempe/G0355_003/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Tempe 11
@@ -6220,28 +6109,18 @@ https://edge-live-ger1.ovstream.com/hls/10/index.m3u8
 http://live1.markenfunk.com/t1/live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ULTRA HD CINEMA
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com UNO PLAY
-https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com UStad TV
 http://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Ucan Kus
 http://ucankus-live.cdnnew.com/ucankus/ucankus.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Ultra HD cinema
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Umbria TV
-https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Unbeaten
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Unhinged.2020
 http://62.210.209.138:41000/movie/v52/v43/6492.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Uniquely Thai
 https://livefta.malimarcdn.com/ftaedge00/uniquely.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Univer TV
-https://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Univer TV
-https://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Univer TV
-https://cdn.universmotri.ru/live/smil:mbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Upside-down.Magic.2020
 http://62.210.209.138:41000/movie/v52/v43/6767.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Utah: Salt Lake City
@@ -6424,8 +6303,6 @@ https://dai.google.com/linear/hls/event/Ae0L5AucTcqefaIvaS504A/master.m3u8
 https://dai.google.com/linear/hls/event/FJejnzFjSFGpaogi0GzPyw/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Waterfalls Live
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Wattan TV (720p)
-http://htvmada.mada.ps:8888/wattan/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com We.Still.Say.Grace.2020
 http://62.210.209.138:41000/movie/v52/v43/6880.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Weather Gone Viral
@@ -7050,8 +6927,6 @@ https://stream.uagit.tv/gittv.m3u8
 https://tvgubernia-htlive.cdn.ngenix.net/live/mp4:tv-gubernia-live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Губерния 33 (Владимир)
 https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Дисконт
-https://tvshops.bonus-tv.ru/cdn/discount/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Домашний +2
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_DOMASHNY_2/variant.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Домашний +7
@@ -7134,8 +7009,6 @@ https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 http://s1.only4.tv/0107/video.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Небеса ТВ7 (RU)
 http://vod.tv7.fi:1935/tv7-ru/tv7-ru.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Новое
-https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ОТР
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ПРНК
@@ -7202,8 +7075,6 @@ http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8
 https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Радио Пилот [RU]
 http://pilotfm.ru:80/cam/hls/pilothd.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Ратник
-https://online-video.rbc.ru/online/rbctv.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Рен ТВ
 https://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Россия 1
@@ -7304,8 +7175,6 @@ http://cdn1.live-tv.od.ua:8081/krugod/krugod/playlist.m3u8
 http://cdn1.live-tv.od.ua:8081/31chod/31chod-sub/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Телплюс ТВ (Астрахань)
 http://streaming.astrakhan.ru/telplushd/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Той Думан
-https://sc.id-tv.kz/ToiDuman_36_37.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Третий цифровой
 http://cdn1.live-tv.od.ua:8081/3tvod/3tvod/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Три Ангела
@@ -7314,8 +7183,6 @@ https://hls.tv.3angels.ru/stream/HQ.m3u8
 http://live-uchalytv.cdnvideo.ru/uchalytv/uchalytv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Фан Спорт.
 https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Фантастика Sci-Fi
-https://autopilot.catcast.tv/content/38801/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Хабар
 https://sc.id-tv.kz/Khabar_34_35.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Хабар 24
@@ -8682,8 +8549,6 @@ https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com 5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com 7Star TV
-http://media.7starcloud.com:1935/live/7star/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ABP Asmita
@@ -8696,8 +8561,6 @@ https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Anjan (720p)
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Assam Talks
-http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Ayush TV
 http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Desi Channel
@@ -8774,10 +8637,6 @@ https://tvsn-i.akamaihd.net/hls/live/261837/expo/expo.m3u8
 https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/chunks.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Antofagasta TV
 https://unlimited1-us.dps.live/atv/atv.smil/atv/livestream2/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ITV Patagonia
-https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/chunks.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ITV Patagonia (720p)
-https://unlimited1-us.dps.live/itv/itv.smil/itv/livestream1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Universidad Autónoma Temuco (UATV)  (1080p)
 https://unlimited1-us.dps.live/uatv/uatv.smil/uatv/livestream1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com VC ONLINE HD
@@ -8804,8 +8663,6 @@ https://dai2.xumo.com/xumocdn/p=roku&rdid=38477a90-292c-585f-9529-4b8a68a221ab&c
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutraveler/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Afrobeats
 https://stream.ecable.tv/afrobeats/index.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com BOSS BROTHERS TV
-http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel 2 News
 http://keshethlslive-lh.akamaihd.net/i/c2n_1@195269/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Kan Educational
@@ -8866,8 +8723,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Kronehit HD
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com P3tv
-http://p3-6.mov.at:1935/live/weekstream/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com R9 TV
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Red Bull TV (1080p) [Geo-blocked]
@@ -9138,8 +8993,6 @@ http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b38
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Radio 51 TV
 http://59d7d6f47d7fc.streamlock.net/canale51/canale51/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVKU
-http://103.30.1.14:8080/hls/live.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Comet TV (Geo)
 http://usgeowall.sinclairstoryline.com/channel/3e45c6b5354a40f787e0b2aadb0f5d6a.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Gracia Tv
@@ -9216,14 +9069,10 @@ https://dai.google.com/linear/hls/event/0e06oV-NTI2ygS2MRQk9ZA/master.m3u8
 http://170.178.189.66:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com American Horrors
 http://170.178.189.66:1935/live/Stream1/.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Assam Talks
-http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/assamtalks-origin/live1/chunks.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Atlanta Channel
 http://media4.tripsmarter.com:1935/LiveTV/ACVBHD/chucklist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com BLK TV Hohenm�lsen
 http://62.113.210.250/medienasa-live/BLKonline_high/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com BUTV10 (Boston University)
-http://butv10-livestream.bu.edu/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Beach TV (30A)
 http://media4.tripsmarter.com:1935/LiveTV/DTVHD/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Beach TV (CSULB)
@@ -9358,8 +9207,6 @@ https://latele.vedge.infomaniak.com/livecast/latele/chunklist.m3u8
 https://livestream.gruppocdt.ch/hls/radio3i.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Rouge TV
 http://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Rouge TV
-https://rougetv.vedge.infomaniak.com/livecast/rougetv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Elektrika TV
 http://rtmp.elektrika.cz/live/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Polar TV
@@ -9386,26 +9233,14 @@ http://82.212.74.3:8000/live/7512.m3u8
 https://master.starmena-cloud.com/hls/yemenshabab.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Canal i (1080p)
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
-#EXTINF:-1 group-title="BDIX Server" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQjaRMs4KsOgKKyAkvnePFgD-GcZrXPGFUXkHZisYbJxjPFqZ7ECDmwxHiOjOWPQTLybWs&usqp=CAU",BTV National
-http://103.106.2.149:13456/btv.m3u8
-#EXTINF:-1 group-title="BDIX Server" tvg-logo="https://cdn.bongobd.com/upload/channels/landscape/99ZKMd4mWYM.png",BTV World
-http://103.106.2.149:13456/btv_world.m3u8
 #EXTINF:-1 group-title="BDIX Server" tvg-logo="none",Saudi Sunnah
 http://210.210.155.35/qwr9ew/s/s27/01.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/sTZelfs.png",Bangladesh Television CTG
-http://103.106.2.149:13456/btv_ctg.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://abbasrizvidev.github.io/LitreallyDataRepository/Images/wintv.png",Channel WIN
-http://cdn.smartstream.video/smartstream-us/channelwinlive/channelwinlive/chunklist_w1848970713.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN" tvg-logo="https://i.imgur.com/9O8smRc.png",RTA Afghan
 http://51.210.227.133/hls/stream.m3u8
 #EXTINF:-1 group-title="None",IRIB Jamejam TV (480p)
 http://cdn1.live.irib.ir:1935/channel-live/smil:jjtvn1/chunklist_b307200_slFa.m3u8
 #EXTINF:-1 group-title="News",NDTV(480p)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/GKZxePQ.png",Jamuna TV
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/jamuna-test-sample-ok.stream/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/1bmJ8rT.png",Channel 24
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/channel24-sg-e8e.stream/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/UHd3eew.jpg",RTV
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/TWuzjbg.jpg",My TV
@@ -9420,14 +9255,8 @@ http://str24.l9574.com/508.stream/index.m3u8
 https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/TNQKahI.png",Press TV English (720p)
 https://s-cloud.irib.ir/presstv/hausatvha/index.m3u8
-#EXTINF:-1 ,Hadi TV
-http://125.209.88.166:45793/BRN/HadiTv.stream/playlist.m3u8
 #EXTINF:-1 group-title="General",IRIB TV 1(1080)
 https://cdnw.telewebion.com/tv1/live/1080p/index.m3u8
-#EXTINF:-1 group-title="India-Pakistani" tvg-logo="https://1.bp.blogspot.com/-H6xvqrblUx0/YReol9noLVI/AAAAAAAAA4Y/a329nR00QooQFLUQmgGGx8s56wJUDs0sACLcBGAsYHQ/s200/images.jpeg",ARY NEWS (PK)
-http://125.209.88.166:45793/BRN/AryNews.stream/playlist.m3u8
-#EXTINF:-1 group-title="India-Pakistani" tvg-logo="https://1.bp.blogspot.com/--wDE2l82PT0/YRepmImjWvI/AAAAAAAAA4g/QfuH2Q9yP_I7D6RrkC5IiaEGRLRvPg6JwCLcBGAsYHQ/s200/PicsArt_08-14-05.01.13.jpg",ARY DIGITAL (PK)
-http://125.209.88.166:45793/BRN/AryDigital.stream/playlist.m3u8
 #EXTINF:-1 group-title="India-Pakistani" tvg-logo="https://1.bp.blogspot.com/-fktS4IURByc/YO43k9xSajI/AAAAAAAAAbM/gex7jop3fIQ62kO64RiVFEmqfg8439VTQCLcBGAsYHQ/s200/PicsArt_07-14-06.29.55.jpg",GEO HD (PK)
 http://221.120.204.4/GEO-ENT-LOCKLE/index.m3u8
 #EXTINF:-1 group-title="India-pakistani" tvg-logo="https://static.urdu.news18.com/static-urdu/2020/03/Urdu1-1.png",News18 Urdu
@@ -9450,20 +9279,14 @@ http://45.94.31.190:7003/play/a0ca
 http://185.105.4.106:1935/live/Bahrain+TV/playlist.m3u8
 #EXTINF:-1 group-title="UK-Religious" tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/IQ-logo-light-120px.png",BT- Iqra Tv
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
-#EXTINF:-1 group-title="India-Pakistani" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/GEO_News_logo_in_Urdu.png",GEO news
-http://125.209.88.166:45793/BRN/GeoNews.stream/playlist.m3u8
 #EXTINF:-1 group-title="Religiouhttps://shialivetv.com/shialive/assets/img/velayatiran.jpg" tvg-logo="https://shialivetv.com/shialive/assets/img/velayatiran.jpg",Al Velayat TV
 http://nl.livekadeh.com/hls2/velayattv.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://www.altkia.com/wp-content/uploads/2015/04/Al-Wilayah-TV.jpg",Alwilayah Velayat Tv Arabic
-http://nl.livekadeh.com/hls2/alwilayah.tv_src.m3u8
 #EXTINF:-1  tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV1-May21-JPG.jpg",TV1 (1080p)
 https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1 group-title="Relegious" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png",Tehzeeb TV India
 http://14.199.164.20:4001/play/a0p5/index.m3u8
 #EXTINF:-1 group-title="None" tvg-logo="https://i.imgur.com/OoONVyI.png",TRT 1 (720p)
 https://tv-trt1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg",Al Iraqiya News
-http://cdn.catiacast.video/abr/78054972db7708422595bc96c6e024ac/playlist.m3u8
 #EXTINF:-1 group-title="Pakistani" tvg-logo="https://i.imgur.com/nKIlaRg.png",PTV World
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master480p.m3u8
 #EXTINF:-1 ,CBC
@@ -9474,8 +9297,6 @@ http://82.212.74.2:8000/live/7307.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/oFGPG9Y.png",BBC Arabic (540p)
 https://vs-hls-pushb-ww-live.akamaized.net/x=3/i=urn:bbc:pips:service:bbc_arabic_tv/pc_hd_abr_v2_akamai_hls_live.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="http://imn.iq/wp-content/uploads/2018/03/Logo.jpg",Al Iraqiya Al 3ama (720p) [Not 24/7]
-http://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="none",Al Sharqiya (1080p)
 http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 #EXTINF:-1 group-title="Relegious" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/haditv.jpg",Hadi TV 1
@@ -9562,8 +9383,6 @@ http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
 http://hls-zhara.cdnvideo.ru/zhara/zhara/playlist.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="http://epg.it999.ru/img2/405.png",Звезда
 http://tvzvezda.bonus-tv.ru/cdn/tvzvezda/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="INFO",❗️=== ОНОВЛЕНО 07.11.2021 ===❗️
-https://www.dropbox.com/s/i6cfutv4efjv2vo/Anonymous%20TV.mp4?dl=1
 #EXTINF:-1 group-title="Українські" tvg-logo="http://epg.it999.ru/img/2100.png",К1
 http://109.68.40.67/life/k1.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/2587.png",Карусель
@@ -9770,8 +9589,6 @@ https://last.gcdn.co/IND420/index.m3u8
 https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/LeIa06D.png",ABP Ananda (akamai)
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d0/Star_Jalsha_logo.jpg",Star Jalsha HD (gCDN)
-https://last.gcdn.co/IND392/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.ebox.live/assets/images/zeebangla.png",Zee Bangla HD (gCDN)
 https://last.gcdn.co/IND389/index.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/RqJGZfm.png",Sony Aath (gCDN)
@@ -10062,8 +9879,6 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=64
 https://2-fss-1.streamhoster.com/pl_134/amlst:200914-1282960/playlist.m3u8
 #EXTINF:-1 ,PBS Kids 68.2 (KETKY) (720p)
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/playlist.m3u8
-#EXTINF:-1 ,PBS Kids Arizona (KAET-DT4) (1080p)
-https://livestream.pbskids.org/out/v1/00a3b9014fa54c40bee6ca68a104a8a4/mst.m3u8
 #EXTINF:-1 ,PCC-TV Pinellas County Florida (480p)
 http://granicusliveus1-a.akamaihd.net/pinellas/G1551_004/playlist.m3u8
 #EXTINF:-1 ,Play.Works (1080p)
@@ -10552,8 +10367,6 @@ https://rpn1.bozztv.com/36bay2/gusa-tvsdriveinmovie/index.m3u8
 https://content.uplynk.com/channel/29aff31fecb848ab9044369db2d61642.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/hfia0wN.png",Wixlar
 http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/6E8SbCf.png",Yupp Thirai (270p)
-http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 #EXTINF:-1 group-title="Bangla news" tvg-logo="https://www.somoynews.tv/_nuxt/img/somoy-logo-192x192.33c3254.png",Somoy News TV
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/somoyt000011226615544544.stream/playlist.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c1/Independent_Television_Logo.svg/157px-Independent_Television_Logo.svg.png",Independent TV (1080p)
