@@ -1,9 +1,9 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 group-title="sports" tvg-logo="https://r7.pngwing.com/path/238/54/383/indian-premier-league-dd-sports-television-dd-national-cricket-39ee3fc39c581d7670adc32a6a400f2e.png",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/WfAU7pB.png",3 Tamil TV (720p) [Not 24/7]
 https://6n3yogbnd9ok-hls-live.5centscdn.com/threetamil/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/P5EXpPy.jpg",7S Music (576p) [Not 24/7]
@@ -14,12 +14,6 @@ http://14.199.164.20:4001/play/a0nc/index.m3u8
 http://14.199.164.20:4001/play/a0mx/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/ef/9XMHindiMusicTelevisionChannelLogo.jpg",9XM (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/IgwQ7o5.png",Aathavan TV (720p) [Not 24/7]
-http://45.77.66.224:1935/athavantv/live/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ABP_Asmita_logo.svg/512px-ABP_Asmita_logo.svg.png",ABP Asmita (324p)
-http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://static.abplive.in/wp-content/themes/abp-hindi/images/logo/hindiLogoD.png",ABP Hindi (324p)
-http://hindiabp-lh.akamaihd.net/i/hindiabp1new_1@192103/master.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/48/Amrita_TV.svg/512px-Amrita_TV.svg.png",Amrita TV (576p)
 http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 #EXTINF:-1 ,like Gecko Chrome/76.0.3809.25 Safari/537.36
@@ -32,8 +26,6 @@ https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/IXpFcJA.png",Ashrafi Channel (484p) [Not 24/7]
 http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/du9iZ0s.png",Asianet Middle East (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0k6/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/qL5PpG7.png",Assam Talks (240p) [Not 24/7]
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/ps6u70j.png",ATN Bangla (1080p) [Geo-blocked]
@@ -72,24 +64,14 @@ http://cdn19.live247stream.com/channely/tv/playlist.m3u8
 https://gcamhls02-i.akamaihd.net/hls/live/1024257/ClassicArts/master.m3u8
 #EXTINF:-1 ,like Gecko) Chrome/91.0.4472.124 Safari/537.36
 https://livecdn.fptplay.net/sdb/cnbc_hls.smil/playlist.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/CNBC_Awaaz_logo.png/512px-CNBC_Awaaz_logo.png",CNBC Awaaz (504p) [Not 24/7]
-https://cnbcawaaz-lh.akamaihd.net/i/cnbcawaaz_1@174872/index_5_av-p.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/cORao6C.png",CNBC Bajar (504p) [Geo-blocked]
-https://cnbcbazar-lh.akamaihd.net/i/cnbcbajar_1@178933/index_5_av-p.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/CNBC_TV18.png",CNBC TV18 (504p)
-https://cnbctv18-lh.akamaihd.net/i/cnbctv18_1@174868/index_5_av-p.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/hpizqP6.png",Dabangg (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0nb/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/AUaPpHL.png",DD Malayalam (576p)
 http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/MohlE5B.png",DD National (576p)
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/WUl0Acy.png",DD Sports (576p)
-http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 group-title="Undefined",Desi Beats HD (720p)
 http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Desi Channel (720p)
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",Desi Plus (720p)
 http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/AC4ze9o.jpg",Dhinchaak 2 (576p) [Not 24/7]
@@ -160,8 +142,6 @@ http://103.199.160.85/Content/kalaignarseithikal/Live/Channel(KalaignarSeithikal
 http://103.199.161.254/Content/kalaignarsirippoli/Live/Channel(Kalaignarsirippoli)/index.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/mwbseoN.png",Kalinga TV (864p) [Not 24/7]
 https://live.mycast.in/kalingatv/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/hytRL90.png",Kannur One (720p) [Not 24/7]
-https://bnwdplewrp3a-hls-live.wmncdn.net/kannur1/d0dbe915091d400bd8ee7f27f0791303.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/MkfPo1V.jpg",Kappa TV (360p)
 http://103.199.161.254/Content/kappa/Live/Channel(Kappa)/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ZQW6MbU.png",Kasthuri (576p)
@@ -184,8 +164,6 @@ http://14.199.164.20:4001/play/a0q7/index.m3u8
 http://14.199.164.20:4001/play/a0l1/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/yJWfyfM.png",Malabar News (720p) [Not 24/7]
 http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",Mandra TV
-http://192.99.2.28/mandra_hls/mandra.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/V5nQl9m.png",Mangalam (576p) [Not 24/7]
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/74/Manorama_News.svg/512px-Manorama_News.svg.png",Manorama News (576p)
@@ -240,36 +218,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 group-title="Business" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a3/NDTV-Profit.png/512px-NDTV-Profit.png",NDTV Profit (480p)
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/CkAJMu1.png",News18 Assam (504p) [Not 24/7]
-https://news18assam-lh.akamaihd.net/i/n18assamne_1@526575/index_5_av-p.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/7aLytf0.png",News18 Bangla (360p) [Not 24/7]
-https://news18bangla-lh.akamaihd.net/i/n18bangla_1@2289/index_4_av-p.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/JYEuSpO.png",News 18 Chhattisgarh (360p)
-https://news18mp-lh.akamaihd.net/i/n18mpcg_1@175737/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/vd6QmS0.png",News 18 Gujarati (360p)
-https://news18gujarati-lh.akamaihd.net/i/n18gujarat_1@370955/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/jQ6MvXG.png",News18 India (504p)
-https://news18india-lh.akamaihd.net/i/news18india_1@174951/index_5_av-p.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/RAdvQ7h.png",News 18 Jharkhand (360p)
-https://news18bihar-lh.akamaihd.net/i/n18biharjh_1@175736/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/TUxd1of.png",News 18 Kannada (360p)
-https://news18kannada-lh.akamaihd.net/i/n18kannada_1@372918/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/SjbtAFh.png",News18 Lokmat (504p)
-https://news18lokmat-lh.akamaihd.net/i/n18lokmat_1@178974/index_5_av-p.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/yLYESLW.png",News 18 Malayalam (360p)
-https://news18kerala-lh.akamaihd.net/i/n18kerala_1@526583/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/3hb2otn.png",News 18 Odia (360p)
-https://etv-oriya.akamaized.net/i/n18odia_1@179753/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/voGr9eQ.png",News 18 Punjab (360p)
-https://news18haryana-lh.akamaihd.net/i/n18punjabhimhar_1@349009/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/6EvZ3Gs.png",News 18 Rajasthan (360p)
-https://news18rajasthan-lh.akamaihd.net/i/n18raj_1@175738/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/Ztr2UJP.png",News 18 Tamil (360p)
-https://news18tamil-lh.akamaihd.net/i/n18tamil_1@526595/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/PF3Srh7.png",News 18 Urdu (360p)
-https://news18urdu-lh.akamaihd.net/i/n18urdu_1@373059/index_4_av-p.m3u8?rebase=on&sd=10
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/ZzdfPBW.png",News 18 Uttarakhand (360p)
-https://news18up-lh.akamaihd.net/i/n18upuk_1@175735/index_4_av-p.m3u8?rebase=on&sd=10
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://cdn.statically.io/img/nexttv.in/f=auto%2Cw=160/assets/images/toplogo-2.png?v=1",Next TV Malabar (720p) [Not 24/7]
 https://6zklxbgpdw9b-hls-live.5centscdn.com/next/c9a1fdac6e082dd89e7173244f34d7b3.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Culture;News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",NHK World Japan (1080p)
@@ -394,54 +342,18 @@ https://dth07jsr8atug.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 http://14.199.164.20:4001/play/a0n3/index.m3u8
 #EXTINF:-1 group-title="Undefined",Xplore Channel (720p)
 http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/6E8SbCf.png",Yupp Thirai (270p)
-http://119.81.82.28/encoded/yuppthirai_800/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/O3tRhpO.png",Zee Aflam (720p) [Not 24/7]
 https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 group-title="Undefined",Zee News Malayalam
 https://d1vd9xhq6jlm48.cloudfront.net/out/v1/71fcc57c8fe74c5b938451bc2435a93e/index_4.m3u8
 #EXTINF:-1 group-title="Undefined",Zee TV (480p)
 https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/fD7wLka.jpg",9XM (480p)
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/9XM/9XM.isml/index.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/punab_1.jpg",Apna Punjab (720p)
-http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/Boogle_Bollywood.jpg",Boogle Bollywood (400p) [Not 24/7]
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/MohlE5B.png",DD National (576p)
-http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/download_50.jpg",Desi Beats HD (720p)
-http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/download-1_8.png",Plus (720p)
-http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/FAST.png",FASTWAY NEWS (720p) [Not 24/7]
-http://163.47.214.155:1935/fwnews/live/playlist.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/GDN.png",GDNS Ludhiana (1080p) [Not 24/7]
-http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/6GcaSUS.jpg",Global Punjab (720p) [Not 24/7]
-https://media.streambrothers.com:1936/8522/8522/playlist.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/gIYOu4i.jpg",Jhanjar Music [Not 24/7]
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/Jonack.png",Jonack TV (360p) [Not 24/7]
-https://cdn.smartstream.video/smartstream-us/jonakk/jonakk/playlist.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/mCsYdYS.png",MH1 Music (360p) [Not 24/7]
-http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/playlist.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/unnamed_78.jpg",Namdhari (404p) [Not 24/7]
-https://namdhari.tv/live/sbs1.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/8ZmnDAS3.png",Odisha TV (480p) [Not 24/7]
 https://cdn.smartstream.video/smartstream-us/otvnewmbr/otvnewmbr.smil/playlist.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/downloadooo.jpg",PUNJAB TV (720p)
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/unnamed-2_10.png",Sada TV (720p)
-http://cdn12.henico.net:8080/live/sadatv/index.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/6Q844bs.jpg",Sardari TV (1080p) [Not 24/7]
-http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/zzz_6.jpg",Xplore Channel (720p)
-http://cdn18.live247stream.com/ndachannel/tv/playlist.m3u8
 #EXTINF:-1 group-title="IN" tvg-logo="https://i.imgur.com/CdXieB6.png",Zee Bioskop (360p) [Geo-blocked]
 http://210.210.155.35/qwr9ew/s/s32/index.m3u8
-#EXTINF:-1 group-title="IN" tvg-logo="https://www.linkpicture.com/q/Zee_TV_logo.png",Zee TV (480p)
-https://d2q8p4pe5spbak.cloudfront.net/bpk-tv/ZEETV/ZEETV.isml/index.m3u8
 #EXTINF:-1 group-title="NATIONAL SPORTS" tvg-logo="https://i.imgur.com/0g1cseU.png",eGG Network
 http://210.210.155.35:80/uq2663/h/h22/01.m3u8
 #EXTINF:-1 group-title="NATIONAL SPORTS" tvg-logo="https://i.imgur.com/cg1yMfi.png",TVRI Sport HD
@@ -474,8 +386,6 @@ http://rtmp.one.by:2300
 http://rtmp.one.by:1200
 #EXTINF:-1 group-title="Спорт" tvg-logo="https://dvb.by/sources/logos/1387.png",1+1 Sport
 https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?token=AnonymousTV
-#EXTINF:-1 group-title="Познавательные" tvg-logo="../Channel/Logo/PRO100 TV.png",100 News
-http://85.238.112.40:8810/hls_sec/239.33.16.32-.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/1006.png",2x2 HD
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/2265.png",360°
@@ -752,8 +662,6 @@ https://hncfree-samsungau.amagi.tv/playlist.m3u8
 https://livefta.malimarcdn.com/ftaedge00/houngfa.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_8499
 http://62.210.209.138:41000/movie/v52/v43/8237.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Hulchul TV
-http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Humor Mill
 https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HumorMill-PLEX/152.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ICI Tele HD
@@ -780,20 +688,14 @@ https://ifood-vizio.amagi.tv/playlist.m3u8
 https://dai.google.com/linear/hls/event/YLDvM8DGQyqsYnDsgxOBPQ/master.m3u8
 #EXTINF:-1 ,#2
 https://dai.google.com/linear/hls/event/IaAlq3prS8Ghiq0FhLtzGQ/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com InTrouble
-https://introuble-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com InWonder (Mexico)
 https://inwonder-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com India Today
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/indiatoday_5/chunklist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com India Today EN
-https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Indiana: South Bend
 https://dai.google.com/linear/hls/event/VGpvNIxIQRO7PXYRy7P0qw/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Indonesia Channel
 http://wowzaprod236-i.akamaihd.net/hls/live/1019903/7dd4cf51/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Inshort (India)
-https://inshort-samsungindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Insight
 https://insighttv-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Insight TV
@@ -808,8 +710,6 @@ https://insight-localnow.amagi.tv/playlist.m3u8
 https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Insight TV (English)
 https://insighttv-eng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Insight TV (German)
-https://insighttv-ger-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Insight TV (India)
 https://insighttv-samsungindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Intermedia TV
@@ -834,8 +734,6 @@ https://inwonder-samsung-uk.amagi.tv/playlist.m3u8
 https://inwonder-samsung-canada.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Inwonder (English)
 https://inwonder-eng-rakuten.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Inwonder (German)
-https://inwonder-ger-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Inwonder (India)
 https://inwonder-samsungindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Inwonder TV
@@ -912,8 +810,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokujustforlaughsgags/CDN/master.
 http://119.200.131.11:1935/KBCTV/tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com KBS World
 https://livecdn.fptplay.net/sdb/kbs_hls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com KBS World
-https://livecdn.fptplay.net/sdb/kbs_hls.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com KBSV/AssyriaSat
 http://66.242.170.53/hls/live/temp/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com KCTV 광주 CH05
@@ -1852,22 +1748,6 @@ https://5ab29cc78f681.streamlock.net/NasulTV/livestream/playlist.m3u8
 https://live.neatv.gr:8888/hls/neatv_mid/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Nebraska: Hastings
 https://dai.google.com/linear/hls/event/xtKyBDIFSZa6cT4Of9yaGQ/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10055 S01 E01
-http://62.210.209.138:41000/series/v52/v43/6541.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10056 S01 E02
-http://62.210.209.138:41000/series/v52/v43/6588.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10057 S01 E03
-http://62.210.209.138:41000/series/v52/v43/6617.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10058 S01 E04
-http://62.210.209.138:41000/series/v52/v43/6670.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10059 S01 E05
-http://62.210.209.138:41000/series/v52/v43/6739.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10060 S01 E06
-http://62.210.209.138:41000/series/v52/v43/6795.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10061 S01 E07
-http://62.210.209.138:41000/series/v52/v43/6834.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10062 S01 E08
-http://62.210.209.138:41000/series/v52/v43/6952.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Nevada: Las Vegas
 https://dai.google.com/linear/hls/event/yDGZP35hTsqdf2rwaP1BGQ/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com New K-ID
@@ -1902,46 +1782,14 @@ https://nmxlive.akamaized.net/hls/live/529965/Live_1/index_404.m3u8
 https://547f72e6652371c3.mediapackage.us-east-1.amazonaws.com/out/v1/e3e6e29095844c4ba7d887f01e44a5ef/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Newsy: Alternate
 https://content.uplynk.com/channel/1f93c13275024afb9e0ead299624073d.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Night.in.Paradise.2021
-http://62.210.209.138:41000/movie/v52/v43/8238.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10098
-http://62.210.209.138:41000/movie/v52/v43/7220.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Ning TV
 https://livefta.malimarcdn.com/ftaedge00/ningtv.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com No.Place.2020
-http://62.210.209.138:41000/movie/v52/v43/6872.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com North Carolina: Greenville - Asheville
 https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com North Carolina: Greenville - New Bern
 https://dai.google.com/linear/hls/event/B6RsXGIZSVqeVZGZIEZESg/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com North Carolina: Raleigh - Durham
 https://dai.google.com/linear/hls/event/86JIujPNRWiVvtfzksp8QQ/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10127 S01 E02
-http://62.210.209.138:41000/series/v52/v43/7177.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10128 S01 E03
-http://62.210.209.138:41000/series/v52/v43/7178.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10129 S01 E04
-http://62.210.209.138:41000/series/v52/v43/7179.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10130 S01 E05
-http://62.210.209.138:41000/series/v52/v43/7180.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10131 S01 E06
-http://62.210.209.138:41000/series/v52/v43/7181.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10132 S01 E08
-http://62.210.209.138:41000/series/v52/v43/7204.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10133 S01 E09
-http://62.210.209.138:41000/series/v52/v43/7231.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10134 S01 E10
-http://62.210.209.138:41000/series/v52/v43/7240.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10135 S01 E11
-http://62.210.209.138:41000/series/v52/v43/7260.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10136 S01 E12
-http://62.210.209.138:41000/series/v52/v43/7270.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10137 S01 E13
-http://62.210.209.138:41000/series/v52/v43/7275.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10138 S01 E14
-http://62.210.209.138:41000/series/v52/v43/7286.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_10139 S01 E15
-http://62.210.209.138:41000/series/v52/v43/7298.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Nothing Scripted
 https://30a-tv.com/NothingScripted.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Nove Zamky
@@ -1964,18 +1812,6 @@ https://fms.nrwision.de/live/livestreamHD.stream/playlist.m3u8
 http://oneamericanews-roku-us.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com OANN One America News Network (720p)
 http://n1.klowdtv.net/live1/oan_720p/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com OCUKLUK S01 E01
-http://62.210.209.138:41000/series/v52/v43/6457.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com OCUKLUK S01 E02
-http://62.210.209.138:41000/series/v52/v43/6458.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com OCUKLUK S01 E03
-http://62.210.209.138:41000/series/v52/v43/6516.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com OCUKLUK S01 E04
-http://62.210.209.138:41000/series/v52/v43/6551.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com OCUKLUK S01 E05
-http://62.210.209.138:41000/series/v52/v43/6595.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com OCUKLUK S01 E06
-http://62.210.209.138:41000/series/v52/v43/6651.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com OCUKLUK S01 E07
 http://62.210.209.138:41000/series/v52/v43/6702.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com OCUKLUK S01 E08
@@ -3028,8 +2864,6 @@ https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:tvhalle_high/p
 https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Mon
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV NOTOS
-https://eco.streams.ovh/notos/notos/chunklist_w1265351016.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV POP HD
 https://v4.tustreaming.cl/poptv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Pai Eterno
@@ -3784,8 +3618,6 @@ https://dai.google.com/linear/hls/event/QuSOUXM4RPaC5zL4J8ZY3w/master.m3u8
 https://dai.google.com/linear/hls/event/KPOafkGTRle7jOcRb9_KFw/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Vià Occitanie
 https://streamer01.myvideoplace.tv/streamer02/hls/MDS_VIA_PAD_301117_medium/index.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Vortex.2019
-http://62.210.209.138:41000/movie/v52/v43/6879.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Voyager Documentaries
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuvoyagerdocumentaries/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Vuemme
@@ -3812,30 +3644,6 @@ https://content.uplynk.com/channel/0123b306191a4307a31b9fb573213fd3.m3u8
 https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wettin_high/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com WWE NETWORK
 http://93.152.174.144:4000/play/WWE/index.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Wafet.Regala.2021
-http://62.210.209.138:41000/movie/v52/v43/8231.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Warget.Gamia.2020
-http://62.210.209.138:41000/movie/v52/v43/7126.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Warrior S01 E05
-http://62.210.209.138:41000/series/v52/v43/6419.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Warrior S02 E02
-http://62.210.209.138:41000/series/v52/v43/6428.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Warrior S02 E03
-http://62.210.209.138:41000/series/v52/v43/6487.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Warrior S02 E04
-http://62.210.209.138:41000/series/v52/v43/6558.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Warrior S02 E05
-http://62.210.209.138:41000/series/v52/v43/6559.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Warrior S02 E06
-http://62.210.209.138:41000/series/v52/v43/6837.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Warrior S02 E07
-http://62.210.209.138:41000/series/v52/v43/6838.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Warrior S02 E08
-http://62.210.209.138:41000/series/v52/v43/6839.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Warrior S02 E09
-http://62.210.209.138:41000/series/v52/v43/6840.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Warrior S02 E10
-http://62.210.209.138:41000/series/v52/v43/6841.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Washington: Seattle
 https://dai.google.com/linear/hls/event/VLEduzwwQfGSwV4eNdkj0g/master.m3u8
 #EXTINF:-1 ,#1
@@ -3844,8 +3652,6 @@ https://dai.google.com/linear/hls/event/Ae0L5AucTcqefaIvaS504A/master.m3u8
 https://dai.google.com/linear/hls/event/FJejnzFjSFGpaogi0GzPyw/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Waterfalls Live
 https://95771f8415a84e31bd152fe9c6c9905c.mediatailor.us-east-1.amazonaws.com/v1/master/82ded7a88773aef3d6dd1fedce15ba2d57eb6bca/wse_powr_com_5c953910932c837b4939735d/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com We.Still.Say.Grace.2020
-http://62.210.209.138:41000/movie/v52/v43/6880.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Weather Gone Viral
 https://linear-128.frequency.stream/dist/localnow/128/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Weatherspy
@@ -3854,10 +3660,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuweatherspy/CDN/playlist.m3u8
 https://jukin-weatherspy-2-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Weatherspy TV
 https://jukin-weatherspy-1.samsung.wurl.com/manifest/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Welcome.Ramadan.2016
-http://62.210.209.138:41000/movie/v52/v43/18.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Welcome.to.Sudden.Death.2020
-http://62.210.209.138:41000/movie/v52/v43/6174.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com West Virginia: Charleston - Huntington
 https://dai.google.com/linear/hls/event/fLqJePs_QR-FRTttC8fMIA/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Weyyak Action (720p)
@@ -3880,8 +3682,6 @@ https://wonder-samsung-uk.amagi.tv/playlist.m3u8
 https://lds-wonder-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Wonder (Australia)
 https://lds-wonder-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Wonder.Woman.1984.2020
-http://62.210.209.138:41000/movie/v52/v43/7127.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com World Poker Tour HD
 https://d3w4n3hhseniak.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/WPT-DistroTV/150.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com XITE
@@ -4168,8 +3968,6 @@ http://62.210.209.138:41000/series/v52/v43/2614.mp4
 http://62.210.209.138:41000/series/v52/v43/2615.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_13706 S01 E39
 http://62.210.209.138:41000/series/v52/v43/2619.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Zee Aflam (720p)
-https://weyyak-live.akamaized.net/weyyak_zee_aflam/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Zee Alwan (720p)
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Zenzana.7.2020
@@ -4382,8 +4180,6 @@ http://turkmedya-live.ercdn.net/tv4/tv4_720p.m3u8
 http://stream.taksimbilisim.com:1935/tv52/bant1/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com tvideonews
 https://59f2354c05961.streamlock.net:1443/tvideonews/_definst_/tvideonews/chunklist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com tvnet
-http://tv.ensonhaber.com/tv/tr/tvnet/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com venntv
 https://venntv-rakuten-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com wwe S01 E14
@@ -5370,8 +5166,6 @@ https://cdn.alarab.com/h264/155285_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155365_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com خيانة عهد الحلقة14
 https://cdn.alarab.com/h264/155473_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com خيانة عهد الحلقة15
-https://cdn.alarab.com/h264/155513_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com خيانة عهد الحلقة16
 https://cdn.alarab.com/h264/155585_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com خيانة عهد الحلقة17
@@ -5986,8 +5780,6 @@ https://cdn.alarab.com/h264/154990_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/154402_720p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com فلانتينو الحلقة 18
 https://cdn.alarab.com/h264/155740_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com فلانتينو الحلقة 2 HD
-https://cdn.alarab.com/h264/154519_240p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com فلانتينو الحلقة 25
 https://cdn.alarab.com/h264/156270_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com فلانتينو الحلقة 26
@@ -6042,16 +5834,8 @@ https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlis
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ABP Ananda
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ABP Asmita
-http://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ABP Asmita
-http://abpasmita-lh.akamaihd.net:80/i/abpasmita_1@77821/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ABP Asmita
-https://abpasmita-lh.akamaihd.net/i/abpasmita_1@77821/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ABP News
 https://abp-i.akamaihd.net/hls/live/765529/abphindi/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Anjan (720p)
-https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Ayush TV
 http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Desi Channel
@@ -6066,8 +5850,6 @@ http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
 https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NDTV India
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NDTV India (480p)
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NDTV Profit
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NDTV Profit (480p)
@@ -6076,8 +5858,6 @@ https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w642807911.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Shubhsandesh
 http://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Shubhsandesh
-https://6284rn2xr7xv-hls-live.wmncdn.net/shubhsandeshtv1/live123.stream/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Tamil Vision TV
 http://live.tamilvision.tv:8081/TVI/SD/chunks.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ABC AU
@@ -6326,8 +6106,6 @@ http://mfe.cliptv.az/dash/Kanal_D_HD.ism/playlist.mpd
 http://85.132.81.184:8080/arbkepez/live/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Lider
 http://mfe.cliptv.az/dash/Lider_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Mezzo Live
-http://mfe.cliptv.az/dash/Mezzo_Live_HD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Minika Cocuk
 http://mfe.cliptv.az/dash/Minika_Cocuk_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Minika Go
@@ -6564,10 +6342,6 @@ https://video.oct.dc.gov/out/u/15_12.m3u8
 https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Taivas TV7
 http://vod.tv7.fi:1935/tv7-fi/tv7-fi.stream_720p/chunklist_w2131949141.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Yle TV1
-https://yletvhdliveworld-lh.akamaihd.net/i/yletv1hdworld_1@187592/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Yle TV2
-https://yletvhdliveworld-lh.akamaihd.net/i/yletv2hdworld_1@187593/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Chamber TV
 https://media02.webtvlive.eu/chd-edge/_definst_/smil:chamber_tv_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Canal Alpha Jura
@@ -6628,8 +6402,6 @@ https://ap02.iqplay.tv:8082/iqb8002/iq53la/playlist.m3u8
 http://str24.l9574.com/508.stream/index.m3u8
 #EXTINF:-1 group-title="Relegious" tvg-logo="https://raw.githubusercontent.com/zuhairabs/shiachannel/main/livetv/img/channels/ahlulbayt.jpg",Ahlulbayt TV (1080)
 https://5f3e23ac71915.streamlock.net:4434/live/livestream1.sdp/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/TNQKahI.png",Press TV English (720p)
-https://s-cloud.irib.ir/presstv/hausatvha/index.m3u8
 #EXTINF:-1 group-title="General",IRIB TV 1(1080)
 https://cdnw.telewebion.com/tv1/live/1080p/index.m3u8
 #EXTINF:-1 group-title="AFGHANISTAN" tvg-logo="https://i.imgur.com/9O8smRc.png",RTA News
@@ -6650,8 +6422,6 @@ https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 http://14.199.164.20:4001/play/a0p5/index.m3u8
 #EXTINF:-1 group-title="Pakistani" tvg-logo="https://i.imgur.com/nKIlaRg.png",PTV World
 https://qatartv.akamaized.net/hls/live/2026573/qtv1/master480p.m3u8
-#EXTINF:-1 ,CBC
-http://149.62.183.214:8000/play/a02r/index.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png",Alerth Alnabawi (576p) [Not 24/7]
 http://82.212.74.2:8000/live/7307.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/Nx0BRdV.png",BBC World News
@@ -6800,8 +6570,6 @@ http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
 https://rt-mos-htlive.cdn.ngenix.net/hls/CH_R01_OTT_1TV/variant.m3u8?version=2
 #EXTINF:-1 group-title="СССР" tvg-logo="../Channel/Logo/Первый Социальный.png",Первый СССР
 http://62.76.27.70:8081/1pnk/1pnk/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/1318.png",Просвещение
-https://cdn-01.bonus-tv.ru:8090/prosveschenie_edge/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Українські" tvg-logo="https://dvb.by/sources/logos/1631.png",Прямий HD
 http://prm-hls3.cosmonova.net.ua/hls/prm_ua_hi/index.m3u8
 #EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Пятница!.png",Пятница! (+2)
@@ -6942,8 +6710,6 @@ https://cnn-cnninternational-1-de.samsung.wurl.com/manifest/playlist.m3u8
 http://iptv.prosto.tv:7000/ch207/video.m3u8
 #EXTINF:-1 group-title="Cartoon" tvg-logo="https://i.imgur.com/SQS0HbU.png",Spacetoon
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/playlist.m3u8
-#EXTINF:-1 group-title="Hindi Music" tvg-logo="https://i.imgur.com/LZ7W3Yc.png",Masti TV
-http://103.199.160.85/Content/masthi/Live/Channel(Masthi)/index.m3u8
 #EXTINF:-1 ,AL HOKAIR Group TV (576p)
 http://82.212.74.3:8000/live/7513.m3u8
 #EXTINF:-1 ,Alaraby TV (1080p)
@@ -7162,8 +6928,6 @@ https://dai.google.com/linear/hls/event/5xreV3X4T9WxeIbrwOmdMA/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redbox-maverickmovies/CDN/playlist.m3u8
 #EXTINF:-1 ,Midnight Pulp (1080p)
 https://369f2966f62841f4affe37d0b330a13c.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Plex_MidnightPulp/playlist.m3u8?ads.app_bundle=&ads.app_store_url=&ads.consent=0&ads.gdpr=0&ads.plex_id=5ef4e1b40d9ad000423c4427&ads.plex_token=z1MCPUpbxYcHru-5hdyq&ads.psid=&ads.targetopt=1&ads.ua=Mozilla/5.0+(Windows+NT+10.0;+Win64;+x64)+AppleWebKit/537.36+(KHTML,+like+Gecko)+Chrome/84.0.4147.89+Safari/537.36+OPR/70.0.3728.71&ads.us_privacy=1---&ads.wurl_channel=263&ads.wurl_name=MidnightPulp
-#EXTINF:-1 ,NACTV (720p)
-http://stream.pivotalelements.com/nactv/stream.m3u8
 #EXTINF:-1 ,Nos Pa�s (720p)
 http://highvolume04.streampartner.nl:1935/nos_pais_24_7/smil:livestream.stream.smil/playlist.m3u8
 #EXTINF:-1 ,Pac 12 Insider (1080p)
@@ -7570,8 +7334,6 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5ea190ae8
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5616f9c0ada51f8004c4b091&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=770&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV World Poker Tour (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5616f9c0ada51f8004c4b091/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 ,Pluto TV Yoga (720p)
-https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e8b0d10e186bf0007e2b100/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=1&deviceId=5e8b0d10e186bf0007e2b100&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=DE&serverSideAds=false&sid=2c143e9d-0cd6-4d02-8b92-df3471ececef&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Yu-Gi-Oh (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f4ec10ed9636f00089b8c89/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,pocket.watch (1080p)
@@ -7608,8 +7370,6 @@ https://dust.sinclair.wurl.com/manifest/playlist.m3u8
 https://fashiontv-fashiontv-3-it.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1 group-title="Channels",India Today (720p)
 https://feeds.intoday.in/hltapps/api/master.m3u8
-#EXTINF:-1 group-title="Fashion",World Fashion Channel (-10080p)
-https://wfcint.mediacdn.ru/cdn/wfcintweb/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="http://www.iontv.co.uk/wp-content/uploads/thegem-logos/logo_5052020503c1c4324dda9918122bbb46_2x.png",iON TV (576p)
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/playlist.m3u8
 #EXTINF:-1 group-title="Music",Radio Fann Jordan: City View (180p)
@@ -8370,8 +8130,6 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/205451.mkv
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/205450.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/6ORP3lwBn9n9ONUjhPRyNCj6lYg.jpg",DE: Die Bluete Des Einklangs
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/205449.mkv
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/34mHYXohSsyxu7QLJTG0IYW7zMr.jpg",DE: Die Schutzbrueder
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/205448.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/z2SpnmNiVfhyz6PEyVdXNxIQsZA.jpg",DE: Glam Girls
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/205447.mkv
 #EXTINF:-1 group-title="VOD Germany",DE: Godzilla 2 King Of The Monsters
@@ -9718,4 +9476,3 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/203025.mkv
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/203024.avi
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/6p2xoOYwRgam0fxEOPZeCCh0i3q.jpg",DE: Amulet
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/203023.mkv
-
