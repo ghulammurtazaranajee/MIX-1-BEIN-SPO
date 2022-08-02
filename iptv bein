@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN 1 PREMIUM HD
 http://stariptv.org:8080/hamza2022/123456/15563
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN 2 PREMIUM HD
@@ -268,8 +267,6 @@ http://stariptv.org:8080/hamza2022/123456/9265
 http://stariptv.org:8080/hamza2022/123456/9267
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Atlantic HD
 http://stariptv.org:8080/hamza2022/123456/36112
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: S4C
-http://stariptv.org:8080/hamza2022/123456/9278
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Watch
 http://stariptv.org:8080/hamza2022/123456/9381
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: TLC
@@ -278,8 +275,6 @@ http://stariptv.org:8080/hamza2022/123456/9370
 http://stariptv.org:8080/hamza2022/123456/16106
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Racing UK
 http://stariptv.org:8080/hamza2022/123456/9385
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: MTV Classic
-http://stariptv.org:8080/hamza2022/123456/9360
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: ITV4 HD
 http://stariptv.org:8080/hamza2022/123456/9324
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: ITV3 HD
@@ -352,8 +347,6 @@ http://stariptv.org:8080/hamza2022/123456/84888
 http://stariptv.org:8080/hamza2022/123456/85013
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Peace TV Urdu
 http://stariptv.org:8080/hamza2022/123456/84886
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Peace TV ENG
-http://stariptv.org:8080/hamza2022/123456/84885
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-NTV SD
 http://stariptv.org:8080/hamza2022/123456/84884
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Noor TV
@@ -410,8 +403,6 @@ http://stariptv.org:8080/hamza2022/123456/84737
 http://stariptv.org:8080/hamza2022/123456/84822
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Geo TV SD
 http://stariptv.org:8080/hamza2022/123456/84821
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Geo Kahani SD
-http://stariptv.org:8080/hamza2022/123456/84819
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-FrontRunner SD
 http://stariptv.org:8080/hamza2022/123456/84818
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-France 24 English
@@ -462,10 +453,6 @@ http://stariptv.org:8080/hamza2022/123456/84774
 http://stariptv.org:8080/hamza2022/123456/84773
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Channel 5 SD
 http://stariptv.org:8080/hamza2022/123456/84950
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Channel 5 +1 SD
-http://stariptv.org:8080/hamza2022/123456/84769
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Challenge SD
-http://stariptv.org:8080/hamza2022/123456/84765
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-CBS Reality SD
 http://stariptv.org:8080/hamza2022/123456/84762
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-CBS Reality +1 SD
@@ -512,8 +499,6 @@ http://stariptv.org:8080/hamza2022/123456/99288
 http://stariptv.org:8080/hamza2022/123456/99289
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zing TV
 http://stariptv.org:8080/hamza2022/123456/99290
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Salam
-http://stariptv.org:8080/hamza2022/123456/99295
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Classic
 http://stariptv.org:8080/hamza2022/123456/99296
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE Business
@@ -664,10 +649,6 @@ http://stariptv.org:8080/hamza2022/123456/99263
 http://stariptv.org:8080/hamza2022/123456/99264
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PUTHIYA THALAIMURAI Tamil
 http://stariptv.org:8080/hamza2022/123456/99266
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: POLIMER TV Tamil
-http://stariptv.org:8080/hamza2022/123456/99267
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JAYA TV US Tamil
-http://stariptv.org:8080/hamza2022/123456/99271
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JAYA TV Tamil
 http://stariptv.org:8080/hamza2022/123456/99272
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JAYA PLUS Tamil
@@ -730,10 +711,6 @@ http://stariptv.org:8080/hamza2022/123456/58656
 http://stariptv.org:8080/hamza2022/123456/58651
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: Premiere Clubes
 http://stariptv.org:8080/hamza2022/123456/58545
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: OFF
-http://stariptv.org:8080/hamza2022/123456/58485
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: Nickelodeon
-http://stariptv.org:8080/hamza2022/123456/58639
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: Multishow
 http://stariptv.org:8080/hamza2022/123456/58535
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: HBO
@@ -748,16 +725,8 @@ http://stariptv.org:8080/hamza2022/123456/58623
 http://stariptv.org:8080/hamza2022/123456/58590
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: ESPN
 http://stariptv.org:8080/hamza2022/123456/58521
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: E!
-http://stariptv.org:8080/hamza2022/123456/58520
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: Disney Channel
 http://stariptv.org:8080/hamza2022/123456/58610
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: Discovery Channel HD
-http://stariptv.org:8080/hamza2022/123456/58603
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: Cartoon Network
-http://stariptv.org:8080/hamza2022/123456/58474
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: Boomerang
-http://stariptv.org:8080/hamza2022/123456/58511
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: BAND NEWS
 http://stariptv.org:8080/hamza2022/123456/58565
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: BAND CAMPINAS HD
@@ -792,8 +761,6 @@ http://stariptv.org:8080/hamza2022/123456/130470
 http://stariptv.org:8080/hamza2022/123456/130472
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Adel Emam
 http://stariptv.org:8080/hamza2022/123456/130473
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Elkbeer Awy
-http://stariptv.org:8080/hamza2022/123456/130474
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",CLASSIC
 http://stariptv.org:8080/hamza2022/123456/106664
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",FRENSH
@@ -878,8 +845,6 @@ http://stariptv.org:8080/hamza2022/123456/132028
 http://stariptv.org:8080/hamza2022/123456/155279
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AD Sport 2 (H.265)
 http://stariptv.org:8080/hamza2022/123456/155280
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AD Sport 3 (H.265)
-http://stariptv.org:8080/hamza2022/123456/155281
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AL RABIAA IRAQ SPORT
 http://stariptv.org:8080/hamza2022/123456/143562
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Libya Sport TNT
@@ -904,10 +869,6 @@ http://stariptv.org:8080/hamza2022/123456/96217
 http://stariptv.org:8080/hamza2022/123456/97809
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Abu Dhabi Sports 2 HD
 http://stariptv.org:8080/hamza2022/123456/97810
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Abu Dhabi Sports 3 HD
-http://stariptv.org:8080/hamza2022/123456/97811
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Abu Dhabi Sports 4 HD
-http://stariptv.org:8080/hamza2022/123456/97812
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Dubai Sport 1 HD
 http://stariptv.org:8080/hamza2022/123456/97813
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Dubai Sport 2 HD
@@ -940,8 +901,6 @@ http://stariptv.org:8080/hamza2022/123456/97825
 http://stariptv.org:8080/hamza2022/123456/97824
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Oman Sport HD
 http://stariptv.org:8080/hamza2022/123456/97877
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",KWT.Sport HD
-http://stariptv.org:8080/hamza2022/123456/97826
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BAHRAIN SPORT
 http://stariptv.org:8080/hamza2022/123456/66383
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SSC LIVE EVENT
@@ -1074,8 +1033,6 @@ http://stariptv.org:8080/hamza2022/123456/98232
 http://stariptv.org:8080/hamza2022/123456/98235
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",KURD: Zarok TV
 http://stariptv.org:8080/hamza2022/123456/98239
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",KURD: Bangawaz
-http://stariptv.org:8080/hamza2022/123456/98240
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",KURD: NRT 3 Kids HD
 http://stariptv.org:8080/hamza2022/123456/98243
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",KURD: NRT 4 HD
@@ -1106,14 +1063,8 @@ http://stariptv.org:8080/hamza2022/123456/163747
 http://stariptv.org:8080/hamza2022/123456/163748
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AU: Channel 10 BOLD
 http://stariptv.org:8080/hamza2022/123456/163749
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Au: TEN HD
-http://stariptv.org:8080/hamza2022/123456/163750
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AU: ABC
-http://stariptv.org:8080/hamza2022/123456/163753
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Au: ABC One HD
 http://stariptv.org:8080/hamza2022/123456/163755
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Au: SBS World Movies
-http://stariptv.org:8080/hamza2022/123456/163766
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Au: NITV
 http://stariptv.org:8080/hamza2022/123456/163767
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Au: PAC 12
@@ -1126,10 +1077,6 @@ http://stariptv.org:8080/hamza2022/123456/163772
 http://stariptv.org:8080/hamza2022/123456/163782
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Au: ESPN 1
 http://stariptv.org:8080/hamza2022/123456/163784
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Au: ESPN 2
-http://stariptv.org:8080/hamza2022/123456/163786
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AU: ESPN 2 FHD
-http://stariptv.org:8080/hamza2022/123456/163787
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AU: Fox Sports 501
 http://stariptv.org:8080/hamza2022/123456/163788
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AU: Fox Sports 501 FHD
@@ -1144,8 +1091,6 @@ http://stariptv.org:8080/hamza2022/123456/148528
 http://stariptv.org:8080/hamza2022/123456/2762
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN 2 PREMIUM HQ
 http://stariptv.org:8080/hamza2022/123456/2763
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN 3 PREMIUM HQ
-http://stariptv.org:8080/hamza2022/123456/2766
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN AFC Global HQ
 http://stariptv.org:8080/hamza2022/123456/165066
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN  AFC1 HQ
@@ -1162,16 +1107,12 @@ http://stariptv.org:8080/hamza2022/123456/2756
 http://stariptv.org:8080/hamza2022/123456/2757
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: beIN 4 HQ
 http://stariptv.org:8080/hamza2022/123456/2758
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: beIN 5 HQ
-http://stariptv.org:8080/hamza2022/123456/2759
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: beIN 6 HQ
 http://stariptv.org:8080/hamza2022/123456/2760
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: beIN 7 HQ
 http://stariptv.org:8080/hamza2022/123456/2761
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Sport English1 HQ
 http://stariptv.org:8080/hamza2022/123456/165070
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Sport English2 HQ
-http://stariptv.org:8080/hamza2022/123456/165071
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Sport English3 HQ
 http://stariptv.org:8080/hamza2022/123456/165072
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Sport French1 HQ
@@ -1244,8 +1185,6 @@ http://stariptv.org:8080/hamza2022/123456/106094
 http://stariptv.org:8080/hamza2022/123456/105847
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SHAHID EGYPT
 http://stariptv.org:8080/hamza2022/123456/105766
-
-
 #EXTINF:-1 group-title="sports" tvg-logo="https://r7.pngwing.com/path/238/54/383/indian-premier-league-dd-sports-television-dd-national-cricket-39ee3fc39c581d7670adc32a6a400f2e.png",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/WfAU7pB.png",3 Tamil TV (720p) [Not 24/7]
@@ -1276,8 +1215,6 @@ http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 #EXTINF:-1  tvg-logo="http://imagesdishtvd2h.whatsonindia.com/dasimages/channel/landscape/360x270/GmXawATX.png",Assam Talks (240p) [Not 24/7]
 http://vidnetcdn.vidgyor.com/assamtalks-origin/liveabr/playlist.m3u8
-#EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/PWzvp0B.png",Ayush TV (360p) [Not 24/7]
-https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/FizAx6D.png",B4U Bhojpuri (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0nq/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vwkjtRT.png",B4U Kadak (576p) [Not 24/7]
@@ -1286,8 +1223,6 @@ http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV Asia (720p)
 https://liveprodapnortheast.global.ssl.fastly.net/ap1/Channel-APTVqvs-AWS-tokyo-1/Source-APTVqvs-1000-1_live.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/LGJlmtp.png",Box Cinema (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0su/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/UXg6sac.png",Captain TV (576p) [Not 24/7]
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 #EXTINF:-1 ,Channel Y (720p) [Not 24/7]
@@ -1300,22 +1235,12 @@ http://103.199.161.254/Content/ddmalayalam/Live/Channel(DDMalayalam)/index.m3u8
 http://103.199.161.254/Content/ddnational/Live/Channel(DDNational)/index.m3u8
 #EXTINF:-1 ,Desi Beats HD (720p)
 http://cdn7.live247stream.com/desibeats/tv/playlist.m3u8
-#EXTINF:-1 group-title="Music",Desi Channel (720p)
-https://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
-#EXTINF:-1 ,Desi Plus (720p)
-http://cdn2.live247stream.com/desiplus/tv/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/T2c6PjU.jpg",Dhinchaak (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0o5/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/AC4ze9o.jpg",Dhinchaak 2 (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0tm/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/yXHmKtT.png",Dreamz TV (576p) [Not 24/7]
 http://198.144.149.82:8080/NOTV/DREAMHD/index.m3u8?token=GTR
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/xnv0Pgm.jpg",DW English (1080p)
-https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/f7J37yv.png",EET TV (1080p) [Not 24/7]
-https://live.streamjo.com/eetlive/eettv.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/fkOxQtS.png",Enter10 Bangla (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0j5/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.postimg.cc/X7YYFZR2/euronews.png",Euronews English (720p)
 https://d1mpprlbe8tn2j.cloudfront.net/v1/master/7b67fbda7ab859400a821e9aa0deda20ab7ca3d2/euronewsLive/87O7AhxRUdeeIVqf/ewnsabren_eng.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/y0VS4QN.png",Fakt Marathi (576p) [Not 24/7]
@@ -1324,8 +1249,6 @@ http://14.199.164.20:4001/play/a0q8/index.m3u8
 http://163.47.214.155:1935/fwnews/live/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://www.flowerstv.in/wp-content/uploads/2017/12/Flowers-Logo-alpha-1.png",Flowers TV (576p)
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/J930pA1.png",Food Food (576p) [Not 24/7]
-http://14.199.164.20:4001/play/a0qx/index.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/J74dCx6.png",Gaunda Punjab TV (720p) [Not 24/7]
 http://start.agmediachandigarh.com/gaundapunjab/tv/playlist.m3u8
 #EXTINF:-1 ,GDNS Ludhiana (1080p) [Not 24/7]
@@ -1336,14 +1259,6 @@ http://cdn12.henico.net:8080/live/jbani/index.m3u8
 http://14.199.164.20:4001/play/a0p3/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://akm-img-a-in.tosshub.com/sites/all/themes/itg/logo.png",India Today (180p) [Not 24/7]
 https://indiatodaylive.akamaized.net/hls/live/2014320/indiatoday/indiatodaylive/playlist.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/radWIeb.png",Isai Aruvi (576p)
-http://103.199.161.254/Content/isaiaruvi/Live/Channel(IsaiAruvi)/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/Jw0M6Kp.jpg",Jaihind TV (576p)
-http://103.199.161.254/Content/jaihind/Live/Channel(Jaihind)/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/PYs1W1Y.png",Jeevan TV (576p)
-http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/gIYOu4i.jpg",Jhanjar Music (1080p) [Not 24/7]
-http://159.203.9.134/hls/jhanjar_music/jhanjar_music.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/hXsVrIh.jpg",Kairali News (576p)
 http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/8Di4h6t.png",Kairali TV (480p)
@@ -1408,8 +1323,6 @@ https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
 https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/master.m3u8
 #EXTINF:-1 group-title="Business" tvg-logo="http://bsmedia.business-standard.com/_media/bs/img/article/2017-06/01/full/1496330873-5363.jpg",NDTV Profit (480p)
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/oBjgUTc.png",News 7 Tamil (720p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UC2f4w_ppqHplvjiNaoTAK9w/live
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ssMOeaj.png",One TV (720p)
 http://137.59.86.218:1935/live/onetv/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/xgEQiso.png",Peppers (576p) [Not 24/7]
@@ -1426,8 +1339,6 @@ http://14.199.164.20:4001/play/a0ld/index.m3u8
 http://158.69.124.9:1935/5aabtv/5aabtv/playlist.m3u8
 #EXTINF:-1 ,Punjabi Zindabad (720p) [Not 24/7]
 http://stream.pztv.online/pztv/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f3/Puthiya_Thalaimurai.jpeg/revision/latest?cb=20191224103436",Puthiya Thalaimurai (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCmyKnNRH0wH-r8I-ceP-dsg/live
 #EXTINF:-1  tvg-logo="https://i.imgur.com/1q1LQQ9.png",Puthuyugam TV (576p) [Not 24/7]
 http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/EmBpOWM.png",Real News Kerala (1080p) [Not 24/7]
@@ -1562,8 +1473,6 @@ http://103.72.179.30:1935/GECHindi/ngrp:SONY_SAB.stream_all/Playlist.m3u8
 http://14.199.164.20:4001/play/a0oh/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/nACKF3x.jpg",Studio One Yuva (576p) [Not 24/7]
 http://14.199.164.20:4001/play/a0sr/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/oodBB6x.png",Swantham (720p) [Not 24/7]
-http://131.153.22.8:1935/SWANTHAM/live/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/isr5jto.png",Thrill (576p)
 http://210.210.155.37/qwr9ew/s/s34/index.m3u8
 #EXTINF:-1 group-title="Undefined",Times Now Navbharat [Geo-blocked]
@@ -1690,8 +1599,6 @@ http://ns8.indexforce.com:1935/home/mystream/playlist.m3u8
 http://ns8.indexforce.com:1935/alsharqiyalive/mystream/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/OI1HQv5.png",Al Wilayah (720p) [Not 24/7]
 https://nl.livekadeh.com/hls2/alwilayah.tv.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/ffFbUmd.jpg",Al Zahra TV (720p) [Not 24/7]
-https://live.al-zahratv.com/live/playlist2/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/LNI1HNi.png",Alaraby TV (1080p)
 https://alaraby.cdn.octivid.com/alaraby/smil:alaraby.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://www.lyngsat.com/logo/tv/aa/alerth-alnabawi-channel-jo.png",Alerth Alnabawi (576p) [Not 24/7]
@@ -1798,8 +1705,6 @@ http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
 http://vstream3.hadara.ps:8081/marahFM_web/web/playlist.m3u8
 #EXTINF:-1 ,Mawal (720p) [Not 24/7]
 http://vstream3.hadara.ps:8081/MawwalHD_web/web/playlist.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://copticocc.org/mesat/wp-content/uploads/2018/07/logo-width12.png",MESat (480p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip=https://www.youtube.com/channel/UCg5uHOxrP5GkMWldOavPKGQ/live
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/x3XqZxs.png",Miracle Channel (576p)
 https://yjh3p.stream.miraclechannel.com/hls/miracle1_high/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://www.mosaiquefm.net/images/front2020/logoar.png",Mosaïque FM (480p)
@@ -2096,8 +2001,6 @@ http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
 https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png",ETV Manisa (1080p) [Not 24/7]
 https://broadcasttr.com:446/manisaetv/bant1/playlist.m3u8
-#EXTINF:-1 ,Gaziantep Olay Tv (720p) [Geo-blocked]
-https://waw2.artiyerelmedya.net/olaytv/bant1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/0N5jh8z.jpg",Gonca TV (720p) [Not 24/7]
 https://broadcasttr.com:446/tuncerciftci/smil:tuncerciftci.smil/playlist.m3u8
 #EXTINF:-1 ,GRT (720p)
@@ -3406,8 +3309,6 @@ http://62.210.209.138:41000/series/v52/v43/1841.mp4
 http://62.210.209.138:41000/series/v52/v43/1842.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Mo8amrat-Sndbad S01 E50
 http://62.210.209.138:41000/series/v52/v43/1843.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Moldova: Publika TV HD
-https://livebeta.publika.md/LIVE/P/2000.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Monaco Info TV
 http://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Monster.Hunter.2020
@@ -3468,8 +3369,6 @@ http://62.210.209.138:41000/series/v52/v43/8038.mp4
 http://62.210.209.138:41000/series/v52/v43/8039.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com قناة مساواة
 http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Music: Kronehit TV HD
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Music: V2BEAT
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Music Channels:Retro Music
@@ -3488,8 +3387,6 @@ https://mytimeuk-rakuten-samsung.amagi.tv/playlist.m3u8
 https://appletree-mytime-samsungmexico.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Mystery Science Theater 3000
 https://mst3k-localnow.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com MÁS+.TV CHILE
-https://593b04c4c5670.streamlock.net/8008/8008/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NASA TV Media (720p)
 https://ntv2.akamaized.net/hls/live/2013923/NASA-NTV2-HLS/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NASA TV Public (720p)
@@ -3582,8 +3479,6 @@ https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8
 https://dai.google.com/linear/hls/event/B6RsXGIZSVqeVZGZIEZESg/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com North Carolina: Raleigh - Durham
 https://dai.google.com/linear/hls/event/86JIujPNRWiVvtfzksp8QQ/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Nothing Scripted
-https://30a-tv.com/NothingScripted.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Nove Zamky
 http://s1.media-planet.sk:80/live/novezamky/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Novo Tempo
@@ -3640,8 +3535,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com OK Wernigerode
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-wernigerode_high/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com OML on Revry
-https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ORTS
 http://ms7.mx-cd.net/tv/200-1006554/ORTS_TV.smil/chunklist_b1894400_slNLD.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Oberlausitz TV
@@ -3843,8 +3736,6 @@ https://bcovlive-a.akamaihd.net/a71236fdda1747999843bd3d55bdd6fa/us-east-1/61839
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Revelation TV
 http://rtv.cdn.mangomolo.com/rtv/smil:rtv.stream.smil/chunklist_b2500000.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Revry
-https://linear-5.frequency.stream/dist/plex/5/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Revry
 https://linear-43.frequency.stream/dist/localnow/43/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Revry News
 https://linear-44.frequency.stream/dist/localnow/44/hls/master/playlist.m3u8
@@ -3900,8 +3791,6 @@ https://xplore-roku.amagi.tv/playlist.m3u8
 https://linear-152.frequency.stream/dist/localnow/152/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Rouge TV
 http://event.vedge.infomaniak.com/livecast/event.stream/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Runtime (Mexico)
-https://runtimemx-samsungmx.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Runtime Español
 https://ammo-espanol-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com SL 1
@@ -4100,8 +3989,6 @@ http://toronto3.live247stream.com:8081/sanjhapunjab/tv/playlist.m3u8
 http://62.210.209.138:41000/movie/v52/v43/7222.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Sayedaty.El.Gameela.1969
 http://62.210.209.138:41000/movie/v52/v43/15.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com SchauTV (720p)
-https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Screendreams
 https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Secret.Society.of.Second.Born.Royals.2020
@@ -4174,10 +4061,6 @@ https://s1.cystream.net/live/smile/playlist.m3u8
 https://smithsonianaus-samsungau.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Snake.Fall.of.a.City.2020
 http://62.210.209.138:41000/movie/v52/v43/7224.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com So Real
-https://soreal-tcl.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Sofy TV
-https://sofytv-samsungfr.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Sofy TV
 https://sofytv-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_11587 S01 E01
@@ -4190,8 +4073,6 @@ http://62.210.209.138:41000/series/v52/v43/6882.mp4
 http://62.210.209.138:41000/series/v52/v43/6990.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_11591 S01 E05
 http://62.210.209.138:41000/series/v52/v43/7063.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_11592 S01 E06
-http://62.210.209.138:41000/series/v52/v43/7164.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_11593 S01 E07
 http://62.210.209.138:41000/series/v52/v43/7255.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_11594 S01 E08
@@ -4208,8 +4089,6 @@ http://62.210.209.138:41000/series/v52/v43/7640.mp4
 http://51.210.199.42/hls/stream.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Solidaria TV (España)
 http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Solidaria TV
-https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_11603 S01 E02
 http://62.210.209.138:41000/series/v52/v43/7191.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_11604 S01 E04
@@ -4236,8 +4115,6 @@ http://62.210.209.138:41000/series/v52/v43/7842.mp4
 http://62.210.209.138:41000/series/v52/v43/8114.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_11615 S01 E16
 http://62.210.209.138:41000/series/v52/v43/8161.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_11616 S01 E17
-http://62.210.209.138:41000/series/v52/v43/8183.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_11617 S01 E18
 http://62.210.209.138:41000/series/v52/v43/8199.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_11619 S01 E20
@@ -4246,8 +4123,6 @@ http://62.210.209.138:41000/series/v52/v43/8298.mp4
 http://62.210.209.138:41000/series/v52/v43/8284.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Sonus FM
 http://www.sonus.fm:1935/public/stream_720p/chunklist_w514335426.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Sophia TV (720p)
-https://www.onairport.live/sophiatv-es-live/livestream/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Soul.Hunter.2020
 http://62.210.209.138:41000/movie/v52/v43/6874.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Channel_11719
@@ -4378,8 +4253,6 @@ http://62.210.209.138:41000/series/v52/v43/2211.mp4
 http://62.210.209.138:41000/series/v52/v43/2212.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com T3lem-Lo8a-Arabic S01 E25
 http://62.210.209.138:41000/series/v52/v43/2214.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com T3lem-Lo8a-Arabic S01 E26
-http://62.210.209.138:41000/series/v52/v43/2215.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com T3lem-Lo8a-Arabic S01 E27
 http://62.210.209.138:41000/series/v52/v43/2216.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com T3lem-Lo8a-Arabic S01 E28
@@ -4418,10 +4291,6 @@ http://62.210.209.138:41000/series/v52/v43/2233.mp4
 http://62.210.209.138:41000/series/v52/v43/2234.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com T3lem-Lo8a-Arabic S01 E46
 http://62.210.209.138:41000/series/v52/v43/2235.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com T3lem-Lo8a-Arabic S01 E47
-http://62.210.209.138:41000/series/v52/v43/2236.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com T3lem-Lo8a-Arabic S01 E48
-http://62.210.209.138:41000/series/v52/v43/2237.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com T3lem-Lo8a-Arabic S01 E49
 http://62.210.209.138:41000/series/v52/v43/2238.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com T3lem-Lo8a-Arabic S01 E50
@@ -4568,8 +4437,6 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w209792194.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TELENORD 10
 http://newyorkstream.ddns.net:5854/telenord10/telenord10/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TELENOVISA 43 HD
-http://ramgolive.ddns.net:1935/telenovisa43/telenovisa43/chunklist_w1350303160.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TELERITMO
 http://mdstrm.com/live-stream-playlist_400/57b4dc126338448314449d0c.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TLS HD
@@ -4596,16 +4463,10 @@ https://cdn.jmvstream.com/w/LVW-9716/LVW9716_HbtQtezcaw/playlist.m3u8
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV BRICS (ENG)
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Birigui
-https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Brusque (SC)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV COM BRASIL
 https://596639ebdd89b.streamlock.net/8032/8032/chunklist_w453009587.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Destak
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Destak (480p)
-https://59f2354c05961.streamlock.net:1443/pascoal/pascoal/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Evangelizar
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV HALLE HD
@@ -4852,8 +4713,6 @@ http://62.210.209.138:41000/series/v52/v43/6553.mp4
 http://62.210.209.138:41000/series/v52/v43/6554.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Tehran S01 E08
 http://62.210.209.138:41000/series/v52/v43/6555.mp4
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Tele Boston - Haiti
-http://162.244.81.145:3333/live/telebostonrtb/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Tele Quebec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Tele Sondrio News
@@ -6020,8 +5879,6 @@ https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 http://s1.only4.tv/0107/video.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Небеса ТВ7 (RU)
 http://vod.tv7.fi:1935/tv7-ru/tv7-ru.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ОТР
-http://hlsstr01.svc.iptv.rt.ru/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ПРНК
 http://serv25.vintera.tv:8081/1pnk/1pnk/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Первый Городской (Кривой Рог)
@@ -6080,8 +5937,6 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_RENTV_2/variant.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_RENTV_7/variant.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Радио 101.8 [Пенза]
 https://video.penzainform.ru/e/r1018.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Радио Вести FM [RU]
-http://radio-live-mg.rtr-vesti.ru/vgtrkrtmp/rtmp_vestifm_480/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Радио Говорит Москва [RU] (Веб-камера)
 https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Рен ТВ
@@ -6122,8 +5977,6 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_STS_7/variant.m3u8
 http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com СТС Прима
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Саратов 24
-http://saratov24.tv:80/online/playlist.php
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Селенга ТВ
 http://90.188.37.86/live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Спас
@@ -6242,14 +6095,6 @@ https://cdn.alarab.com/h264/155747_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155820_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أحلى أيام الحلقة20
 https://cdn.alarab.com/h264/155887_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أحلى أيام الحلقة21
-https://cdn.alarab.com/h264/155972_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أحلى أيام الحلقة22
-https://cdn.alarab.com/h264/156043_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أحلى أيام الحلقة23
-https://cdn.alarab.com/h264/156129_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أحلى أيام الحلقة24
-https://cdn.alarab.com/h264/156189_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أحلى أيام الحلقة25
 https://cdn.alarab.com/h264/156265_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أحلى أيام الحلقة26
@@ -6264,26 +6109,6 @@ https://cdn.alarab.com/h264/156542_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/154654_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أحلى أيام الحلقة5
 https://cdn.alarab.com/h264/154754_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أحلى أيام الحلقة6
-https://cdn.alarab.com/h264/154821_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أحلى أيام الحلقة7
-https://cdn.alarab.com/h264/154911_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أحلى أيام الحلقة8
-https://cdn.alarab.com/h264/155035_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أحلى أيام الحلقة9
-https://cdn.alarab.com/h264/155095_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أم هارون الحلقة 1
-https://cdn.alarab.com/h264/154389_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أم هارون الحلقة 2
-https://cdn.alarab.com/h264/154463_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أم هارون الحلقة 3
-https://cdn.alarab.com/h264/154572_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أم هارون الحلقة 4
-https://cdn.alarab.com/h264/154698_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أم هارون الحلقة 5
-https://cdn.alarab.com/h264/154777_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أم هارون الحلقة 6
-https://cdn.alarab.com/h264/154783_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أم هارون الحلقة10
 https://cdn.alarab.com/h264/155079_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أم هارون الحلقة11
@@ -6330,66 +6155,20 @@ https://cdn.alarab.com/h264/154874_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/154952_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أم هارون الحلقة9
 https://cdn.alarab.com/h264/155013_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 1
-https://cdn.alarab.com/h264/154393_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 10
-https://cdn.alarab.com/h264/155171_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 11
 https://cdn.alarab.com/h264/155234_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 12
 https://cdn.alarab.com/h264/155299_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 13
-https://cdn.alarab.com/h264/155382_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 14
-https://cdn.alarab.com/h264/155463_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 15
 https://cdn.alarab.com/h264/155532_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 16
 https://cdn.alarab.com/h264/155599_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 17
-https://cdn.alarab.com/h264/155660_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 18
-https://cdn.alarab.com/h264/155713_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 19
-https://cdn.alarab.com/h264/155796_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 2
-https://cdn.alarab.com/h264/154472_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 21
-https://cdn.alarab.com/h264/155875_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 22
-https://cdn.alarab.com/h264/156000_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 23
-https://cdn.alarab.com/h264/156070_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 24
-https://cdn.alarab.com/h264/156147_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 25
 https://cdn.alarab.com/h264/156215_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 26
-https://cdn.alarab.com/h264/156297_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 27
-https://cdn.alarab.com/h264/156365_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 28
-https://cdn.alarab.com/h264/156433_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 29
 https://cdn.alarab.com/h264/156497_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 3
 https://cdn.alarab.com/h264/154628_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 30
-https://cdn.alarab.com/h264/156565_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 4
-https://cdn.alarab.com/h264/154634_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 5
-https://cdn.alarab.com/h264/154751_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 6
-https://cdn.alarab.com/h264/154793_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 8
-https://cdn.alarab.com/h264/154949_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة 9
-https://cdn.alarab.com/h264/155018_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com أولاد ادم الحلقة7
-https://cdn.alarab.com/h264/154947_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار االحلقة 21
-https://cdn.alarab.com/h264/155976_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار الحلقة
 https://cdn.alarab.com/h264/154567_720p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار الحلقة 1
@@ -6400,20 +6179,12 @@ https://cdn.alarab.com/h264/155600_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155677_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار الحلقة 18
 https://cdn.alarab.com/h264/155772_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار الحلقة 19
-https://cdn.alarab.com/h264/155828_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار الحلقة 20
-https://cdn.alarab.com/h264/155901_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار الحلقة 22
-https://cdn.alarab.com/h264/156048_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار الحلقة 23
 https://cdn.alarab.com/h264/156126_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار الحلقة 24
 https://cdn.alarab.com/h264/156197_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار الحلقة 25
 https://cdn.alarab.com/h264/156275_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار الحلقة 26
-https://cdn.alarab.com/h264/156336_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار الحلقة 27
 https://cdn.alarab.com/h264/156430_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار الحلقة 3
@@ -6438,10 +6209,6 @@ https://cdn.alarab.com/h264/155533_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156480_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار الحلقة29
 https://cdn.alarab.com/h264/156558_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار الحلقة30والاخيرة
-https://cdn.alarab.com/h264/156599_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار الحلقة7
-https://cdn.alarab.com/h264/154935_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار الحلقة8
 https://cdn.alarab.com/h264/155006_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الإختيار الحلقة9
@@ -6494,8 +6261,6 @@ https://cdn.alarab.com/h264/156052_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156131_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com البرنس الحلقة24
 https://cdn.alarab.com/h264/156200_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com البرنس الحلقة25
-https://cdn.alarab.com/h264/156278_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com البرنس الحلقة26
 https://cdn.alarab.com/h264/156348_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com البرنس الحلقة27
@@ -6512,12 +6277,6 @@ https://cdn.alarab.com/h264/155499_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155566_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الحرملك 2 الحلقة 17
 https://cdn.alarab.com/h264/155643_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الحرملك 2 الحلقة 18
-https://cdn.alarab.com/h264/155726_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الحرملك 2 الحلقة 2
-https://cdn.alarab.com/h264/154503_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الحرملك 2 الحلقة 20
-https://cdn.alarab.com/h264/155871_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الحرملك 2 الحلقة 22
 https://cdn.alarab.com/h264/156026_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الحرملك 2 الحلقة 23
@@ -6532,8 +6291,6 @@ https://cdn.alarab.com/h264/156319_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156396_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الحرملك 2 الحلقة 28
 https://cdn.alarab.com/h264/156455_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الحرملك 2 الحلقة 29
-https://cdn.alarab.com/h264/156517_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الحرملك 2 الحلقة 3
 https://cdn.alarab.com/h264/154580_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الحرملك 2 الحلقة 4
@@ -6552,14 +6309,8 @@ https://cdn.alarab.com/h264/155269_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155347_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الحرملك 2 الحلقة19
 https://cdn.alarab.com/h264/155794_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الحرملك 2 الحلقة21
-https://cdn.alarab.com/h264/155947_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الحرملك 2 الحلقة7
-https://cdn.alarab.com/h264/154902_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الحرملك 2 الحلقة8
 https://cdn.alarab.com/h264/154976_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الحرملك 2 الحلقة9
-https://cdn.alarab.com/h264/155047_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الساحر الحلقة 1
 https://cdn.alarab.com/h264/154458_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الساحر الحلقة 15
@@ -6570,8 +6321,6 @@ https://cdn.alarab.com/h264/155596_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/154531_720p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الساحر الحلقة 4
 https://cdn.alarab.com/h264/154706_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الساحر الحلقة 5
-https://cdn.alarab.com/h264/154775_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الساحر الحلقة 6
 https://cdn.alarab.com/h264/154855_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الساحر الحلقة10
@@ -6634,8 +6383,6 @@ https://cdn.alarab.com/h264/156295_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156366_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الفتوة الحلقة28
 https://cdn.alarab.com/h264/156434_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الفتوة الحلقة29
-https://cdn.alarab.com/h264/156499_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الفتوة الحلقة30 و الاخيرة
 https://cdn.alarab.com/h264/156564_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com الفتوة الحلقة7
@@ -6846,8 +6593,6 @@ https://cdn.alarab.com/h264/155134_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155745_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com خيانة عهد الحلقة 2
 https://cdn.alarab.com/h264/154520_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com خيانة عهد الحلقة 3
-https://cdn.alarab.com/h264/154596_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com خيانة عهد الحلقة 30
 https://cdn.alarab.com/h264/156602_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com خيانة عهد الحلقة 4
@@ -7028,12 +6773,8 @@ https://cdn.alarab.com/h264/156686_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156710_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com رياح السموم الحلقة 36
 https://cdn.alarab.com/h264/156709_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com رياح السموم الحلقة11
-https://cdn.alarab.com/h264/155189_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com رياح السموم الحلقة12
 https://cdn.alarab.com/h264/155262_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com رياح السموم الحلقة13
-https://cdn.alarab.com/h264/155335_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com رياح السموم الحلقة14
 https://cdn.alarab.com/h264/155419_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com رياح السموم الحلقة15
@@ -7162,8 +6903,6 @@ https://cdn.alarab.com/h264/155297_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155379_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com سكر زيادة الحلقة14
 https://cdn.alarab.com/h264/155458_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com سكر زيادة الحلقة15
-https://cdn.alarab.com/h264/155534_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com سكر زيادة الحلقة16
 https://cdn.alarab.com/h264/155603_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com سكر زيادة الحلقة17
@@ -7192,8 +6931,6 @@ https://cdn.alarab.com/h264/156421_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156488_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com سكر زيادة الحلقة29
 https://cdn.alarab.com/h264/156549_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com سلطانة المعز الحلقة 1
-https://cdn.alarab.com/h264/154448_240p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com سلطانة المعز الحلقة 11
 https://cdn.alarab.com/h264/155210_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com سلطانة المعز الحلقة 2
@@ -7332,10 +7069,6 @@ https://cdn.alarab.com/h264/155570_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155653_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com شاهد عيان الحلقة18
 https://cdn.alarab.com/h264/155718_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com شاهد عيان الحلقة19
-https://cdn.alarab.com/h264/155801_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com شاهد عيان الحلقة21
-https://cdn.alarab.com/h264/155959_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com شاهد عيان الحلقة22
 https://cdn.alarab.com/h264/156024_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com شاهد عيان الحلقة23
@@ -7370,10 +7103,6 @@ https://cdn.alarab.com/h264/154535_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/154598_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com عمر ودياب الحلقة 5
 https://cdn.alarab.com/h264/154768_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com عمر ودياب الحلقة 6
-https://cdn.alarab.com/h264/154832_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com عمر ودياب الحلقة10
-https://cdn.alarab.com/h264/155132_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com عمر ودياب الحلقة12
 https://cdn.alarab.com/h264/155282_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com عمر ودياب الحلقة13
@@ -7408,8 +7137,6 @@ https://cdn.alarab.com/h264/156341_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/156408_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com عمر ودياب الحلقة28
 https://cdn.alarab.com/h264/156473_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com عمر ودياب الحلقة29
-https://cdn.alarab.com/h264/156535_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com عمر ودياب الحلقة7
 https://cdn.alarab.com/h264/154917_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com عمر ودياب الحلقة8
@@ -7446,8 +7173,6 @@ https://cdn.alarab.com/h264/155576_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155654_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com فرصة تانية الحلقة18
 https://cdn.alarab.com/h264/155728_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com فرصة تانية الحلقة19
-https://cdn.alarab.com/h264/155811_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com فرصة تانية الحلقة20
 https://cdn.alarab.com/h264/155882_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com فرصة تانية الحلقة21
@@ -7498,12 +7223,6 @@ https://cdn.alarab.com/h264/154764_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/154844_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com فلانتينو الحلقة10
 https://cdn.alarab.com/h264/155130_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com فلانتينو الحلقة11
-https://cdn.alarab.com/h264/155208_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com فلانتينو الحلقة13
-https://cdn.alarab.com/h264/155364_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com فلانتينو الحلقة14
-https://cdn.alarab.com/h264/155443_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com فلانتينو الحلقة15
 https://cdn.alarab.com/h264/155512_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com فلانتينو الحلقة16
@@ -7520,30 +7239,16 @@ https://cdn.alarab.com/h264/156041_480p.mp4/index-v1-a1.m3u8
 http://live4.tdm.com.mo:80/ch2/_definst_/ch2.live/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com 香港开电视 / HKSTV-HKS
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com 香港開電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com WLVT PBS Allentown
-https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com WPPT 39 Extra Philadelphia
-https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com 5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Ayush TV
 http://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Desi Channel
-http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/mono.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Janta TV
 http://live.wmncdn.net/jantatv/live.stream/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com MH1 Music
 http://rtmp.smartstream.video:1935/mhonemusic/mhonemusic/chunklist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NDTV
-https://ndtvindiaelemarchana.akamaized.net//hls//live//2003679//ndtvindia//ndtvindiamaster.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NDTV India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/ndtvindiamaster.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NDTV Profit
-https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/ndtvprofitmaster.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NDTV Profit (480p)
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com PUNJAB TV
@@ -7626,22 +7331,10 @@ http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TVWorkNet
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com KOK Fights
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Dorf TV
-https://stream.openplayout.org/hls/dorf.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com FS1 Salzburg
-http://stream.fs1.tv:8080/hls/webstream.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com K-TV
-http://d1pz8zear993v8.cloudfront.net/hlsme/kathtv.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com KroneHit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com KroneHit TV
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Kronehit HD
-https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com R9 TV
-https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Red Bull TV (1080p) [Geo-blocked]
 https://i.mjh.nz/au/Sydney/tv.redbull.tv.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com W24 TV
@@ -7650,16 +7343,10 @@ https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w89103916_b2176000_slger.m
 https://ap02.iqplay.tv:8082/iqb8002/s03btv/chunks.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Somali National TV
 https://ap02.iqplay.tv:8082/iqb8002/s4ne/chunks.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Somali cable
-https://ap02.iqplay.tv:8082/iqb8002/somc131/chunks.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Dijlah
-https://ghaasiflu.online/Dijlah/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Imam Hussein TV 4 Urdu
 https://ur.imamhusseintv.com/live/ih4.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Kurdistan 24
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Kurdistan TV
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Asgabat TV
 https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Miras
@@ -7842,8 +7529,6 @@ http://mfe.cliptv.az/dash/TV_2_SD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/Tiji_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com VH1 EUROPE
 http://mfe.cliptv.az/dash/VH1_EUROPE_SD.ism/playlist.mpd
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Viasat History
-http://mfe.cliptv.az/dash/Viasat_History_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com XXI
 http://mfe.cliptv.az/dash/TV_XXI_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Xəzər
@@ -7982,14 +7667,6 @@ https://59d52c5a5ce5e.streamlock.net:4443/canal3rosario/ngrp:canal3rosario_all/p
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Cheddar
 https://dai.google.com/linear/hls/event/frfwucAPTVunrpitYiymwg/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com US | Cheddar
-https://live.chdrstatic.com/cheddar/primary/5.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Cheddar Business
-https://live.chdrstatic.com/cheddar/primary/1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Cheddar News
-https://live.chdrstatic.com/cbn/primary/1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com US | Cheddar News
-https://live.chdrstatic.com/cbn/primary/5.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Choppertown
 https://dai.google.com/linear/hls/event/N3c94WZQQq2fruixzfcCUQ/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Christian Youth Channel
@@ -8080,8 +7757,6 @@ https://cdn.bestream.io:19360/elfaro1/elfaro1.m3u8
 https://ap02.iqplay.tv:8082/iqb8002/iq6a7k/playlist.m3u8
 #EXTINF:-1 group-title="Religiouhttps://shialivetv.com/shialive/assets/img/velayatiran.jpg" tvg-logo="https://shialivetv.com/shialive/assets/img/velayatiran.jpg",Al Velayat TV
 http://nl.livekadeh.com/hls2/velayattv.m3u8
-#EXTINF:-1  tvg-logo="https://myklikstatic.secureswiftcontent.com/image/Logo-TV1-May21-JPG.jpg",TV1 (1080p)
-https://rtmlive01tv.secureswiftcontent.com/rtmchannel/01-manifest.mpd
 #EXTINF:-1 group-title="Relegious" tvg-logo="http://sgdccdnems04.cdnsrv.jio.com/jiotv.catchup.cdn.jio.com/dare_images/images/TEHZEEB_TV.png",Tehzeeb TV India
 http://14.199.164.20:4001/play/a0p5/index.m3u8
 #EXTINF:-1 group-title="Pakistani" tvg-logo="https://i.imgur.com/nKIlaRg.png",PTV World
@@ -8106,12 +7781,8 @@ https://live.ishiacloud.com/haditv.co.uk/haditv7.m3u8
 https://live.ishiacloud.com/haditv.co.uk/haditv8.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/j4VjHWN.jpg",Kalemeh TV (1080p) [Not 24/7]
 http://51.210.199.37/hls/stream.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/G7hGk8y.png",IIPC TV (480p)
-https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/FPfq4O5.png",Imam Hussein TV 1 (360p)
 https://live.imamhossaintv.com/live/ih1.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/ocyh4DD.jpg",Imam Hussein TV 4 Urdu
-https://live.imamhossaintv.com/live/ih4.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://hd-report.com/wp-content/uploads/2016/01/4k-ultrahd-logo.jpg",Clarity 4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Documentary",Love Nature 4K
@@ -8350,8 +8021,6 @@ https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/master.m3u8
 #EXTINF:-1 ,Adventure Sports Network (720p)
 https://dai2-xumo.fubo.tv/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/master.m3u8
-#EXTINF:-1 ,Akaku 53 (Hawaii) (720p)
-https://akaku.vod.castus.tv/live/ch1.m3u8
 #EXTINF:-1 ,Akaku 54 (Hawaii) (720p)
 https://akaku.vod.castus.tv/live/ch2.m3u8
 #EXTINF:-1 ,Akaku 55 (Hawaii) (720p)
@@ -8404,8 +8073,6 @@ https://uni10rtmp.tulix.tv/betternature/betternature.stream/playlist.m3u8
 https://uni10rtmp.tulix.tv/betterlife/betterlife.stream/playlist.m3u8
 #EXTINF:-1 ,Biz TV (576p)
 http://gideommd.mmdlive.lldns.net/gideommd/46c072b287224782a4d4ce93c3646589/manifest.m3u8
-#EXTINF:-1 ,Black News Channel (720p) [Not 24/7]
-https://linear-130.frequency.stream/dist/localnow/130/bpk-tv/BNC-OTT/default/index.m3u8
 #EXTINF:-1 ,Blaze TV (720p)
 https://theblaze4.akamaized.net/hls/live/699982/theblaze/cm-dvr/master.m3u8
 #EXTINF:-1 ,Bloomberg TV US (720p)
@@ -8486,20 +8153,10 @@ https://csm-e-boxplus.tls1.yospace.com/csm/extlive/boxplus01,kerrang-alldev.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8
 #EXTINF:-1 ,LIVExLIVE (1080p)
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
-#EXTINF:-1 ,LNKTV City (1080p)
-http://5tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
-#EXTINF:-1 ,LNKTV Education (1080p)
-http://80tv.lincoln.ne.gov/live/WIFI-2096k-1080p/WIFI-2096k-1080p.m3u8
 #EXTINF:-1 ,Local Now Adrenaline Rush (720p)
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 #EXTINF:-1 ,Loop 80s East (1080p) [Geo-blocked]
 https://55e014b3437040d08777729c863a2097.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/Roku_Loop80s-1/playlist.m3u8
-#EXTINF:-1 ,Loop 80s West (1080p) [Geo-blocked]
-https://a500d902bdf94ea69ad343720add6036.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/80s_party_littlstar/master.m3u8
-#EXTINF:-1 ,Loop 90s West (1080p) [Geo-blocked]
-https://7626362bfa104137aded60d8d7e72ff5.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/90s_kids_littlstar/master.m3u8
-#EXTINF:-1 ,Loop Bedroom West (1080p) [Geo-blocked]
-https://3bbe22c035b4409d80f997adc8ad33ee.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/bedroom_beats_littlstar/master.m3u8
 #EXTINF:-1 ,Loop Far Out West (1080p) [Geo-blocked]
 https://957d71ce01dc447384d3978d3cdc55d9.mediatailor.us-west-2.amazonaws.com/v1/master/6b8beeb9ed833d048c8c8155a25a28fe617c5474/that_70s_channel_littlstar/master.m3u8
 #EXTINF:-1 ,Loop Flashback West (1080p) [Geo-blocked]
@@ -8546,8 +8203,6 @@ https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/588128d17d64bc0d0f
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e78faa05a0e200007a6f487/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,Pluto TV Funny AF (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/580e87ff497c73ba2f321dd3/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=580e87ff497c73ba2f321dd3&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=450&terminate=false&userId=
-#EXTINF:-1 ,Pluto TV HER (720p)
-https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e4bf0db50560a000948ce52/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,Pluto TV Inside (England) (720p)
 http://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5d767857f65029ce2385b217/master.m3u8?advertisingId=&appName=web&appStoreUrl=&appVersion=DNT&app_name=&architecture=&buildVersion=&deviceDNT=0&deviceId=5d767857f65029ce2385b217&deviceLat=&deviceLon=&deviceMake=web&deviceModel=web&deviceType=web&deviceVersion=DNT&includeExtendedEvents=false&marketingRegion=US&serverSideAds=false&sid=302&terminate=false&userId=
 #EXTINF:-1 ,Pluto TV Inspector Gadget (720p)
@@ -9832,8 +9487,6 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/205382.mkv
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/205381.mkv
 #EXTINF:-1 group-title="VOD Germany",DE: Ich Verkaufe Deine Heimat
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/205380.mkv
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/gu8d6Oyt6OxWpldflxbsaiecCIP.jpg",DE: Leid Und Herrlichkeit
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/205379.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/1e3sR1NvyEi8X1WtTNFZmTGQqo7.jpg",DE: Marriage Story
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/205378.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/lvJarVue6tRZseEeabIa9Au6bif.jpg",DE: My Days Of Mercy
@@ -10000,46 +9653,24 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204780.mkv
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204779.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/dWpgEhpCrkAQR0d9LehX0WKlpEW.jpg",DE: Unknown User Dark Web
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204778.mkv
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/6ZZsXumdEQBOABfph9Ypq9ylGES.jpg",DE: Wuff
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204777.mkv
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/7Tk15Xm2VAHsUbxGk4U6N7VB9NZ.jpg",DE: Anna Und Die Apokalypse
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204776.mkv
 #EXTINF:-1 group-title="VOD Germany",DE: Brecht Teil 1
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204775.mkv
 #EXTINF:-1 group-title="VOD Germany",DE: Brecht Teil 2
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204774.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/wV9UBBf1Mc5QqYGWQCmUOEtbtBI.jpg",DE: Climax
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204773.mkv
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/i4T3lvy2eJoOAMc16Y465aWfhCi.jpg",DE: Close Dem Feind Zu Nah
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204772.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/bAos6phpkFPod9M6ok6PPvlrdxp.jpg",DE: Cold War Der Breitengrad Der Liebe
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204771.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/nFrCrBzkto08CBp2hxHUDFORXm8.jpg",DE: Controlled Bewahren Sie Ruhe
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204770.mkv
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/5mDkXHWTqquPgs3ds7TSb73fsci.jpg",DE: Der Trafikant
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204769.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/2df7EAp13dFZduADUbrsRt4J79Z.jpg",DE: Die Unglaubliche Reise Des Fakirs Der In Einem Kleiderschrank Feststeckte
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204768.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/1u51B2HsJRHb38dG5eajgc9uGUY.jpg",DE: Double Date
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204767.mkv
-#EXTINF:-1 group-title="VOD Germany",DE: Lords Of Chaos
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204765.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/fcRAOCmDcFYivMNM5ink3OMMe0V.jpg",DE: Office Uprising
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204762.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/qEnH5meR381iMpmCumAIMswcQw2.jpg",DE: Ralph Reichts 2 Chaos Im Netz
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204761.mkv
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original",DE: Rampant
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204760.mkv
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/fIcLQfoxWs8b53vvHNrLaLF6HGJ.jpg",DE: Under The Silver Lake
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204758.mkv
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/rGe3eWy3F3qggDZMc86bASN4I7C.jpg",DE: Unicorn Store
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204757.mkv
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/pE4EztvL6bYRwU8FYBrW69u3sUs.jpg",DE: Susi Und Strolch 1
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204756.avi
-#EXTINF:-1 group-title="VOD Germany",DE: Taran Und Der Zaberkessel
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204755.avi
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/kiooaH0Qaxn6gUY3zfSddKAdLiw.jpg",DE: Tarzan 1
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204754.avi
 #EXTINF:-1 group-title="VOD Germany",DE: Tinker Bell 2
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204753.avi
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/qPGJcANBOdzFdmdwwtO2Yaj4nok.jpg",DE: Toy Story 1
@@ -10086,40 +9717,18 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204733.avi
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204732.avi
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/cfhxZXVrD0skRy12fkaakg06Lok.jpg",DE: Himmel Und Huhn
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204731.avi
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/j3PVSMEzUBC0Esbg6TvdmqIpqAo.jpg",DE: Lilo Und Stitch 2
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204730.avi
 #EXTINF:-1 group-title="VOD Germany",DE: Mickys Froehliche Weihnachten
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204729.avi
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/fNSYpOSx2Xu1xllPV99ZlpAOLjB.jpg",DE: Mickys Grosses Weihnachtsfest
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204728.avi
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/d8f2tr6XCZeHwaMRfchNAyQx6gd.jpg",DE: Mile 22
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204727.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/pmguOyrmYKCamcAc6fLvM0jfO8s.jpg",DE: Ratatouille
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204726.avi
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/yZdfAoCMExcDoUgSVMUcXDUZlkE.jpg",DE: Schneewittchen
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204725.avi
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/nTfE7Lj0Opwq5j1smDkGy1grbpM.jpg",DE: Sherlock Gnomes
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204724.avi
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/lPM6xh7GOR81TMttp8UCTjsFCDa.jpg",DE: Stitch Und Co
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204723.avi
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/kiooaH0Qaxn6gUY3zfSddKAdLiw.jpg",DE: Tarzan 2
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204722.avi
-#EXTINF:-1 group-title="VOD Germany",DE: Tarzan Und Jane
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204721.avi
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/9p4BX90tkn0HobzPex4jWvsmBnp.jpg",DE: Tiggers Grosses Abenteuer
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204720.avi
-#EXTINF:-1 group-title="VOD Germany",DE: Tinker Bell 1
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204719.avi
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/7DC3ggzkSTCYUk2FvPEvvhSjNbG.jpg",DE: Wall E
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204718.avi
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/6aaPaj5RqVxCQ6z18C9jJuqxM0N.jpg",DE: Die Biene Maja 2 Die Honigspiele
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204711.mkv
 #EXTINF:-1 group-title="VOD Germany",DE: Die Brilliante Mademoiselle Neila
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204710.mkv
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/z6AmS5PafU69HeAPzoiZAgbMaDw.jpg",DE: Impact Earth
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204708.mkv
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/6OIFi06IoWRKyzV0oBHgaWghT8h.jpg",DE: LenaLove
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204707.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/5jOqatpfh0aKYhl6fN83RK69UtC.jpg",DE: Patient Zero
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204706.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/rPScSen6NjWCqGTkjPQyVWKcKjy.jpg",DE: Prinz Charming
@@ -10128,12 +9737,6 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204705.mkv
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204704.mkv
 #EXTINF:-1 group-title="VOD Germany",DE: Shock Und Awe Krieg Der Luegen
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204703.mkv
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/2wXyoSYCh2IBo4aoVl5Db51anrx.jpg",DE: Street Justice Rache Kennt Kein Gesetz
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204702.mkv
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/6fP8OLrOQgrJs4L2ZoTx9YBGfiC.jpg",DE: Tag
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204701.mkv
-#EXTINF:-1 group-title="VOD Germany",DE: Tempus Tormentum
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204700.mkv
 #EXTINF:-1 group-title="VOD Germany",DE: The School Schule Des Grauens
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/204699.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/dDfYj5Uoa59beEeS8rUyxmSueYr.jpg",DE: The Strangers Opfernacht
@@ -11054,3 +10657,5 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/203025.mkv
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/203024.avi
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/6p2xoOYwRgam0fxEOPZeCCh0i3q.jpg",DE: Amulet
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/203023.mkv
+
+
