@@ -81,8 +81,6 @@ http://stariptv.org:8080/hamza2022/123456/55940
 http://stariptv.org:8080/hamza2022/123456/55941
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN: MOVIES Disney HD
 http://stariptv.org:8080/hamza2022/123456/55942
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN: MOVIES ENGIMA HD
-http://stariptv.org:8080/hamza2022/123456/55943
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN: MOVIES KIDS HD
 http://stariptv.org:8080/hamza2022/123456/55944
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN: SERIES COMEDY HD
@@ -151,8 +149,6 @@ http://stariptv.org:8080/hamza2022/123456/55938
 http://stariptv.org:8080/hamza2022/123456/55981
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN LIVING
 http://stariptv.org:8080/hamza2022/123456/100352
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN Mezze
-http://stariptv.org:8080/hamza2022/123456/100353
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN Discovery
 http://stariptv.org:8080/hamza2022/123456/100354
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN Discovery IDX
@@ -263,10 +259,6 @@ http://stariptv.org:8080/hamza2022/123456/9263
 http://stariptv.org:8080/hamza2022/123456/16107
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Disney HD
 http://stariptv.org:8080/hamza2022/123456/9265
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: SKY CINEMA ACTION  HD
-http://stariptv.org:8080/hamza2022/123456/9267
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Atlantic HD
-http://stariptv.org:8080/hamza2022/123456/36112
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Watch
 http://stariptv.org:8080/hamza2022/123456/9381
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: TLC
@@ -275,16 +267,8 @@ http://stariptv.org:8080/hamza2022/123456/9370
 http://stariptv.org:8080/hamza2022/123456/16106
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Racing UK
 http://stariptv.org:8080/hamza2022/123456/9385
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: ITV4 HD
-http://stariptv.org:8080/hamza2022/123456/9324
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: ITV3 HD
-http://stariptv.org:8080/hamza2022/123456/9323
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: ITV1 HD
-http://stariptv.org:8080/hamza2022/123456/9321
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: GOLD
 http://stariptv.org:8080/hamza2022/123456/9376
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: EUROSPORT 2
-http://stariptv.org:8080/hamza2022/123456/16126
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: EUROSPORT 1
 http://stariptv.org:8080/hamza2022/123456/16127
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: EURONEWS
@@ -293,12 +277,6 @@ http://stariptv.org:8080/hamza2022/123456/36108
 http://stariptv.org:8080/hamza2022/123456/30033
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Eir Sport 1
 http://stariptv.org:8080/hamza2022/123456/9356
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: CNN HD
-http://stariptv.org:8080/hamza2022/123456/12106
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: CNBC
-http://stariptv.org:8080/hamza2022/123456/14595
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: CBS Reality
-http://stariptv.org:8080/hamza2022/123456/9280
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: CBS Drama
 http://stariptv.org:8080/hamza2022/123456/9318
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: BT SPORTS ESPN HD
@@ -357,16 +335,8 @@ http://stariptv.org:8080/hamza2022/123456/84857
 http://stariptv.org:8080/hamza2022/123456/84848
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Magic SD
 http://stariptv.org:8080/hamza2022/123456/84856
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Madani Channel
-http://stariptv.org:8080/hamza2022/123456/84855
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-London Live SD
-http://stariptv.org:8080/hamza2022/123456/85032
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-KICC TV
 http://stariptv.org:8080/hamza2022/123456/85005
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Kanshi TV SD
-http://stariptv.org:8080/hamza2022/123456/85004
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-ITV 3 +1 SD
-http://stariptv.org:8080/hamza2022/123456/84842
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-ITV 2 +1 SD
 http://stariptv.org:8080/hamza2022/123456/84840
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Islam TV Urdu
@@ -399,14 +369,6 @@ http://stariptv.org:8080/hamza2022/123456/84737
 http://stariptv.org:8080/hamza2022/123456/84822
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Geo TV SD
 http://stariptv.org:8080/hamza2022/123456/84821
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-FrontRunner SD
-http://stariptv.org:8080/hamza2022/123456/84818
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-France 24 English
-http://stariptv.org:8080/hamza2022/123456/84816
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Food XP SD
-http://stariptv.org:8080/hamza2022/123456/84824
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Food Network SD
-http://stariptv.org:8080/hamza2022/123456/84814
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Faith World TV
 http://stariptv.org:8080/hamza2022/123456/84995
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Faith UK
@@ -419,8 +381,6 @@ http://stariptv.org:8080/hamza2022/123456/84993
 http://stariptv.org:8080/hamza2022/123456/84801
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Dunya News
 http://stariptv.org:8080/hamza2022/123456/84799
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Discovery Turbo
-http://stariptv.org:8080/hamza2022/123456/84794
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Discovery Turbo +1 SD
 http://stariptv.org:8080/hamza2022/123456/84966
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Discovery SD
@@ -449,18 +409,6 @@ http://stariptv.org:8080/hamza2022/123456/84774
 http://stariptv.org:8080/hamza2022/123456/84773
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Channel 5 SD
 http://stariptv.org:8080/hamza2022/123456/84950
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-CBS Reality SD
-http://stariptv.org:8080/hamza2022/123456/84762
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-CBS Reality +1 SD
-http://stariptv.org:8080/hamza2022/123456/84893
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-CBS Justice SD
-http://stariptv.org:8080/hamza2022/123456/84760
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-CBeebies SD
-http://stariptv.org:8080/hamza2022/123456/84759
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Box Nation SD
-http://stariptv.org:8080/hamza2022/123456/84743
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-Bloomberg News HD
-http://stariptv.org:8080/hamza2022/123456/84741
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-BBC Two SD
 http://stariptv.org:8080/hamza2022/123456/84740
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-ATN Bangla
@@ -479,12 +427,6 @@ http://stariptv.org:8080/hamza2022/123456/84715
 http://stariptv.org:8080/hamza2022/123456/84714
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK-5 Select SD
 http://stariptv.org:8080/hamza2022/123456/84780
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: zee cafe HD
-http://stariptv.org:8080/hamza2022/123456/108686
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: zee hindustan
-http://stariptv.org:8080/hamza2022/123456/89625
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Living
-http://stariptv.org:8080/hamza2022/123456/99287
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee tv Uk
 http://stariptv.org:8080/hamza2022/123456/99285
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NDTV INDIA
@@ -509,10 +451,6 @@ http://stariptv.org:8080/hamza2022/123456/99308
 http://stariptv.org:8080/hamza2022/123456/99310
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR GOLD SD
 http://stariptv.org:8080/hamza2022/123456/99311
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY MIX
-http://stariptv.org:8080/hamza2022/123456/99312
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY MAX2
-http://stariptv.org:8080/hamza2022/123456/99313
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS 24
 http://stariptv.org:8080/hamza2022/123456/99318
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: AAPKA COLORS HD
@@ -527,10 +465,6 @@ http://stariptv.org:8080/hamza2022/123456/99324
 http://stariptv.org:8080/hamza2022/123456/99325
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR GOLD HD
 http://stariptv.org:8080/hamza2022/123456/99326
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star movies
-http://stariptv.org:8080/hamza2022/123456/99327
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR MOVIES HD
-http://stariptv.org:8080/hamza2022/123456/99328
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PICTURE HD
 http://stariptv.org:8080/hamza2022/123456/99337
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: &tv HD india
@@ -573,32 +507,14 @@ http://stariptv.org:8080/hamza2022/123456/99363
 http://stariptv.org:8080/hamza2022/123456/99364
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Gold
 http://stariptv.org:8080/hamza2022/123456/99365
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Six SD
-http://stariptv.org:8080/hamza2022/123456/99366
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Maa Gold
-http://stariptv.org:8080/hamza2022/123456/99373
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NICK HD+
-http://stariptv.org:8080/hamza2022/123456/99375
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: sony pix HD
-http://stariptv.org:8080/hamza2022/123456/99376
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR PRAVAH HD
-http://stariptv.org:8080/hamza2022/123456/99377
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CHANNEL 24
 http://stariptv.org:8080/hamza2022/123456/99387
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: BTV World
 http://stariptv.org:8080/hamza2022/123456/99402
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Gaan Bangla
 http://stariptv.org:8080/hamza2022/123456/99403
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MY TV
-http://stariptv.org:8080/hamza2022/123456/99406
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NTV
 http://stariptv.org:8080/hamza2022/123456/99407
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Somoy news
-http://stariptv.org:8080/hamza2022/123456/99411
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee bangla
-http://stariptv.org:8080/hamza2022/123456/99412
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ETV UK
-http://stariptv.org:8080/hamza2022/123456/99419
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CHANNEL I
 http://stariptv.org:8080/hamza2022/123456/99422
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JALSHA MOVIES
@@ -613,14 +529,6 @@ http://stariptv.org:8080/hamza2022/123456/99444
 http://stariptv.org:8080/hamza2022/123456/99449
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Asianet movies
 http://stariptv.org:8080/hamza2022/123456/99451
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: WIN TV Tamil
-http://stariptv.org:8080/hamza2022/123456/99249
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: VIJAY HD Tamil
-http://stariptv.org:8080/hamza2022/123456/99250
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SUN TV US Tamil
-http://stariptv.org:8080/hamza2022/123456/99252
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SUN NEWS Tamil
-http://stariptv.org:8080/hamza2022/123456/99254
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SUN MUSIC Tamil
 http://stariptv.org:8080/hamza2022/123456/99255
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SUN LIFE Tamil
@@ -633,8 +541,6 @@ http://stariptv.org:8080/hamza2022/123456/99260
 http://stariptv.org:8080/hamza2022/123456/99262
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: RAJ DIGITAL PLUS US Tamil
 http://stariptv.org:8080/hamza2022/123456/99263
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: RAJ DIGITAL PLUS Tamil
-http://stariptv.org:8080/hamza2022/123456/99264
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PUTHIYA THALAIMURAI Tamil
 http://stariptv.org:8080/hamza2022/123456/99266
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JAYA TV Tamil
@@ -643,40 +549,18 @@ http://stariptv.org:8080/hamza2022/123456/99272
 http://stariptv.org:8080/hamza2022/123456/99273
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JAYA MOVIES Tamil
 http://stariptv.org:8080/hamza2022/123456/99274
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JAYA MAX USA Tamil
-http://stariptv.org:8080/hamza2022/123456/99275
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ADITYA TV Tamil
-http://stariptv.org:8080/hamza2022/123456/99280
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sun tv HD Tamil
-http://stariptv.org:8080/hamza2022/123456/99282
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JAYA TV HD Tamil
-http://stariptv.org:8080/hamza2022/123456/99283
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SANJHA PUNJABI
 http://stariptv.org:8080/hamza2022/123456/99223
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE PUNJABI
 http://stariptv.org:8080/hamza2022/123456/99229
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JUS PUNJABI
-http://stariptv.org:8080/hamza2022/123456/99230
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ALPHA ETC PUNJABI
 http://stariptv.org:8080/hamza2022/123456/99231
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Chakde TV Punjabi
 http://stariptv.org:8080/hamza2022/123456/99236
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ETC Punjabi
 http://stariptv.org:8080/hamza2022/123456/99239
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Hamdard TV Punjabi
-http://stariptv.org:8080/hamza2022/123456/99240
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PTC Chakde Punjabi
-http://stariptv.org:8080/hamza2022/123456/99244
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PTC News Punjabi
-http://stariptv.org:8080/hamza2022/123456/99245
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR SPORTS 3 HD
-http://stariptv.org:8080/hamza2022/123456/98080
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY TEN 2 FHD
-http://stariptv.org:8080/hamza2022/123456/93631
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: WILLOW CRICKET
 http://stariptv.org:8080/hamza2022/123456/93627
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: Viva
-http://stariptv.org:8080/hamza2022/123456/58560
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: TV Globo Premium
 http://stariptv.org:8080/hamza2022/123456/58579
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: TV Diario Brasil
@@ -713,10 +597,6 @@ http://stariptv.org:8080/hamza2022/123456/58623
 http://stariptv.org:8080/hamza2022/123456/58590
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: ESPN
 http://stariptv.org:8080/hamza2022/123456/58521
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: Disney Channel
-http://stariptv.org:8080/hamza2022/123456/58610
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: BAND NEWS
-http://stariptv.org:8080/hamza2022/123456/58565
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BR: BAND CAMPINAS HD
 http://stariptv.org:8080/hamza2022/123456/58564
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",ARG: SUPER TV 55
@@ -729,10 +609,6 @@ http://stariptv.org:8080/hamza2022/123456/107070
 http://stariptv.org:8080/hamza2022/123456/88158
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",DO: Telenord 12
 http://stariptv.org:8080/hamza2022/123456/88245
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",DO: Microvision 10
-http://stariptv.org:8080/hamza2022/123456/88233
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",LT: TV8
-http://stariptv.org:8080/hamza2022/123456/94235
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",LT: TV1
 http://stariptv.org:8080/hamza2022/123456/94236
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Ismail Yassin
@@ -801,8 +677,6 @@ http://stariptv.org:8080/hamza2022/123456/141553
 http://stariptv.org:8080/hamza2022/123456/141554
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Sport English 4k 1
 http://stariptv.org:8080/hamza2022/123456/165080
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Sport English 4k 2
-http://stariptv.org:8080/hamza2022/123456/165081
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Sport English 4k 3
 http://stariptv.org:8080/hamza2022/123456/165082
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Sport French 4k 1
@@ -847,8 +721,6 @@ http://stariptv.org:8080/hamza2022/123456/100470
 http://stariptv.org:8080/hamza2022/123456/141797
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Alkass 2 HD
 http://stariptv.org:8080/hamza2022/123456/96215
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Alkass 5 HD
-http://stariptv.org:8080/hamza2022/123456/96217
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Abu Dhabi Sports 1 HD
 http://stariptv.org:8080/hamza2022/123456/97809
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Abu Dhabi Sports 2 HD
@@ -869,8 +741,6 @@ http://stariptv.org:8080/hamza2022/123456/97818
 http://stariptv.org:8080/hamza2022/123456/97819
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",On Time Sport HD 1
 http://stariptv.org:8080/hamza2022/123456/97820
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",On Time Sport HD 2
-http://stariptv.org:8080/hamza2022/123456/97821
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",On Time Sport HD 3
 http://stariptv.org:8080/hamza2022/123456/211523
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Jordan Sport TV
@@ -919,14 +789,6 @@ http://stariptv.org:8080/hamza2022/123456/141941
 http://stariptv.org:8080/hamza2022/123456/142049
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SSC 8 HD
 http://stariptv.org:8080/hamza2022/123456/212068
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Music.Om Kalthoum TV
-http://stariptv.org:8080/hamza2022/123456/97834
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Music.Arabica TV
-http://stariptv.org:8080/hamza2022/123456/97836
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Music.Wanasah TV
-http://stariptv.org:8080/hamza2022/123456/97840
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Music.Mazzika TV
-http://stariptv.org:8080/hamza2022/123456/97839
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Hamaki
 http://stariptv.org:8080/hamza2022/123456/130479
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",kids.Sanafir
@@ -1001,8 +863,6 @@ http://stariptv.org:8080/hamza2022/123456/98224
 http://stariptv.org:8080/hamza2022/123456/98227
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",KURD: Med Music TV
 http://stariptv.org:8080/hamza2022/123456/98230
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",KURD: AVA TV
-http://stariptv.org:8080/hamza2022/123456/98231
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",KURD: AVA Media
 http://stariptv.org:8080/hamza2022/123456/98232
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",KURD: Iraqia Kurd
@@ -1029,20 +889,10 @@ http://stariptv.org:8080/hamza2022/123456/166583
 http://stariptv.org:8080/hamza2022/123456/166582
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Buddha Bar
 http://stariptv.org:8080/hamza2022/123456/166581
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Au: Channel 10
-http://stariptv.org:8080/hamza2022/123456/163747
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Au: Channel 10 Peach
-http://stariptv.org:8080/hamza2022/123456/163748
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AU: Channel 10 BOLD
 http://stariptv.org:8080/hamza2022/123456/163749
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Au: ABC One HD
-http://stariptv.org:8080/hamza2022/123456/163755
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Au: NITV
 http://stariptv.org:8080/hamza2022/123456/163767
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Au: PAC 12
-http://stariptv.org:8080/hamza2022/123456/163770
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AU: beIN Sports 3
-http://stariptv.org:8080/hamza2022/123456/163782
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AU: Fox Sports 506 FHD
 http://stariptv.org:8080/hamza2022/123456/148526
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AU: Fox Sports News FHD
@@ -1097,32 +947,8 @@ http://stariptv.org:8080/hamza2022/123456/143183
 http://stariptv.org:8080/hamza2022/123456/142757
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",shahid syrian FHD
 http://stariptv.org:8080/hamza2022/123456/142051
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SHahid Aflam 2
-http://stariptv.org:8080/hamza2022/123456/130461
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SHahid Aflam 3
-http://stariptv.org:8080/hamza2022/123456/130462
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SHahid Action 1
-http://stariptv.org:8080/hamza2022/123456/130463
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SHahid Action 2
-http://stariptv.org:8080/hamza2022/123456/130464
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SHahid Cartoon
 http://stariptv.org:8080/hamza2022/123456/130466
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SHahid Sci-Fi
-http://stariptv.org:8080/hamza2022/123456/130436
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SHahid Cinema
-http://stariptv.org:8080/hamza2022/123456/130437
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SHahid Masr7yat
-http://stariptv.org:8080/hamza2022/123456/130439
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SHahid Horror 1
-http://stariptv.org:8080/hamza2022/123456/130440
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SHahid Horror 2
-http://stariptv.org:8080/hamza2022/123456/130441
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SHahid Romance 1
-http://stariptv.org:8080/hamza2022/123456/130442
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SHahid Romance 2
-http://stariptv.org:8080/hamza2022/123456/130443
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SHahid Masrh Masr 3
-http://stariptv.org:8080/hamza2022/123456/130445
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SHahid ARABIA 1
 http://stariptv.org:8080/hamza2022/123456/130446
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SHahid Zaman
@@ -1167,8 +993,6 @@ http://103.199.161.254/Content/amrita/Live/Channel(Amrita)/index.m3u8
 https://f3.vstream.online:7443/bstb/ngrp:anjan_hdall/playlist.m3u8
 #EXTINF:-1 ,Apna Punjab (720p)
 http://cdn5.live247stream.com/apnapunjab/tv/playlist.m3u8
-#EXTINF:-1 ,Ashrafi Channel (484p) [Not 24/7]
-http://ashrafichannel.livebox.co.in/ashrafivhannelhls/live.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/89LBgkl.png",Asianet News (576p)
 http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/vwkjtRT.png",B4U Kadak (576p) [Not 24/7]
@@ -1227,8 +1051,6 @@ http://103.199.161.254/Content/kasthuritv/Live/Channel(KasthuriTV)/index.m3u8
 http://198.144.149.82:8080/NOTV/KCVMOVIE/index.m3u8?token=GTR
 #EXTINF:-1 group-title="Education" tvg-logo="https://i.imgur.com/RvZxSkx.png",KITE Victers (Kerala) (720p) [Not 24/7]
 https://932y4x26ljv8-hls-live.5centscdn.com/victers/tv.stream/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/yJWfyfM.png",Malabar News (720p) [Not 24/7]
-http://cloud.logicwebs.in:1935/live/malabarnews/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/V5nQl9m.png",Mangalam (576p) [Not 24/7]
 http://103.199.160.85/Content/mangalam/Live/Channel(Mangalam)/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/QWHbIYt.png",Manorama News (576p)
@@ -1283,16 +1105,12 @@ http://198.144.149.82:8080/NOTV/RELAXTV/index.m3u8?token=GTR
 http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
 #EXTINF:-1 ,Sada TV (1080p) [Not 24/7]
 http://cdn12.henico.net:8080/live/sadatv/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/LOepeP3.jpg",Safari TV (480p) [Not 24/7]
-https://j78dp346yq5r-hls-live.5centscdn.com/safari/live.stream/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/cA7PpJG.jpg",Sana Plus (720p) [Not 24/7]
 http://media.7starcloud.com:1935/live/sanatv2/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/D03gyp2.png",Sana TV (576p) [Not 24/7]
 http://hdserver.7starcloud.com:1935/sanatv/sanatv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/6Q844bs.jpg",Sardari TV (1080p) [Not 24/7]
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/c9/SathiyamFinallogo.png/revision/latest/scale-to-width-down/180?cb=20191225174913",Sathiyam TV (1080p) [Not 24/7]
-http://free.fullspeed.tv/iptv-query?streaming-ip==https://www.youtube.com/channel/UC2ziCMHFPWkFHjocUMXT__Q/live
 #EXTINF:-1 ,Shraddha (360p) [Not 24/7]
 http://rtmp.smartstream.video:1935/mhoneshradha/mhoneshradha/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/ibnqDAD.png",Shubhsandesh (720p) [Not 24/7]
@@ -1371,12 +1189,8 @@ https://uplynkcontent.sinclairstoryline.com/channel/ddd76fdc1c0a456ba537e4f48e82
 https://livecdn.fptplay.net/hda2/natgeohd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 ,like Gecko) Chrome/92.0.4515.131 Safari/537.36
 https://livecdn.fptplay.net/hda3/natgeowild_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/ltdtvL3.png",NCV (720p) [Not 24/7]
-http://131.153.22.8:1935/NCV/ncvstream/playlist.m3u8
 #EXTINF:-1 group-title="Culture;News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/NHK_World-Japan_TV.svg/512px-NHK_World-Japan_TV.svg.png",NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
-#EXTINF:-1 group-title="Undefined",NVision
-http://live.singamcloud.in:1935/nvision/nvision/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/8t9mdg9.png",Pluto TV Euronews (720p) [Not 24/7]
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3583ef310610007fb02b1/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://i.imgur.com/XJGki3v.png",RT Documentary (1080p) [Geo-blocked]
@@ -1521,24 +1335,16 @@ https://wowzaprod140-i.akamaihd.net/hls/live/750788/7552102e/playlist.m3u8
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmaNA2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i2.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-ME.png",Alkarma TV Middle East (1080p) [Not 24/7]
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i0.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-NA.png",Alkarma TV North America & Canada (1080p) [Not 24/7]
-https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmana1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i0.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Praise.png",Alkarma TV Praise (1080p) [Not 24/7]
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i1.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Talmaza.png",Alkarma TV Talmaza (Discipleship) (1080p) [Not 24/7]
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i0.wp.com/en.alkarmatv.com/wp-content/uploads/2020/11/Logo-US-1024x576-1.png",Alkarma TV Youth & English (1080p) [Not 24/7]
-https://5aafcc5de91f1.streamlock.net/alkarmatv.com/alkarmaus.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious",Alkerazatv (720p)
 https://597f64b67707a.streamlock.net/alkerazatv.org/alkerazatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://www.almagd.tv/en/images/logo.png",Almagd TV Middle East (1080p)
 https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://www.almagd.tv/en/images/logo.png",Almagd TV North America (1080p)
-https://5aafcc5de91f1.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 #EXTINF:-1 ,Alrafidain (1024p) [Not 24/7]
 http://cdg3.edge.tmed.pw/arrafidaintv/live_1024p/chunks.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/eqCEXk6.png",Alrai TV (720p)
-https://media.streambrothers.com:1936/8724/8724/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://arabicagroup.tv/images/app1.png",Arabica TV (720p)
 http://istream.binarywaves.com:8081/hls/arabica/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/14EjTS3.png",ATVSat (1080p) [Not 24/7]
@@ -1597,8 +1403,6 @@ http://82.212.74.2:8000/live/hls/7311.m3u8
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://pbs.twimg.com/profile_images/953959542928412673/wYWx5MRY.jpg",Libya Al Ahrar TV (720p) [Not 24/7]
 https://video.zidivo.com/live983/GrtjM_FNGC/playlist.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://logoschannel.com/images/logo.png",Logos TV (1080p) [Not 24/7]
-https://5aafcc5de91f1.streamlock.net/logoschannel.com/logostv.smil/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/J7GdM3L.png",M24 TV (720p) [Not 24/7]
 http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/PeIYCXs.jpg",Marah FM (720p) [Not 24/7]
@@ -1661,20 +1465,6 @@ http://streamer1.streamhost.org:1935/salive/lctvde/playlist.m3u8
 http://58bd5b7a98e04.streamlock.net/medienasa-live/mdf1_high/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://www.zap.co.ao/media/cache/movie_thumb/uploads/ao/channels/55802c752581d.png",Motorvision TV (720p)
 https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
-#EXTINF:-1  tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild110_v-contentxl.jpg",NDR Fernsehen (720p) [Geo-blocked]
-https://ndrfs-lh.akamaihd.net/i/ndrfs_fs@430230/master.m3u8
-#EXTINF:-1  tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild100_v-contentxl.jpg",NDR Hamburg (720p) [Geo-blocked]
-https://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
-#EXTINF:-1  tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild108_v-contentxl.jpg",NDR International (720p) [Geo-blocked]
-https://ndrfs-lh.akamaihd.net/i/ndrfs_int@430236/master.m3u8
-#EXTINF:-1  tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild102_v-contentxl.jpg",NDR Mecklenburg-Vorpommern (720p) [Geo-blocked]
-https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/master.m3u8
-#EXTINF:-1  tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild104_v-contentxl.jpg",NDR Niedersachsen (720p) [Geo-blocked]
-https://ndrfs-lh.akamaihd.net/i/ndrfs_nds@430233/master.m3u8
-#EXTINF:-1  tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild106_v-contentxl.jpg",NDR Schleswig-Holstein (720p) [Geo-blocked]
-https://ndrfs-lh.akamaihd.net/i/ndrfs_sh@430234/master.m3u8
-#EXTINF:-1  tvg-logo="https://www.ndr.de/fernsehen/livestreamteaserbild108_v-contentxl.jpg",NDR Weltweiter (720p) [Geo-blocked]
-https://ndrfs-lh.akamaihd.net/i/ndrfs_ww@430235/master.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/RkF2Kmx.png",NRWision (1080p)
 https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
 #EXTINF:-1 ,NRWISION (1080p)
@@ -1767,8 +1557,6 @@ https://sofy-ger-samsung.amagi.tv/playlist.m3u8
 http://www.sonus.fm:1935/public/stream_source/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/jyMedaF.png",Sophia TV (720p)
 https://www.onairport.live/sophiatv-it-live/livestream_low/playlist.m3u8
-#EXTINF:-1  tvg-logo="http://logos.zattic.com/images/channels/logos/c50695d215e17cb3f886/black/84x48.png",SR Fernsehen (720p)
-http://fs.live.sr.de/i/sr_universal02@107595/master.m3u8
 #EXTINF:-1 group-title="Cooking" tvg-logo="https://i.imgur.com/8s6aRwv.png",Tastemade Deutschland (720p)
 https://tastemade-de-samsung.amagi.tv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/KJie1k5.png",Teins TV (1080p) [Not 24/7]
@@ -1835,8 +1623,6 @@ https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
 https://weyyak-live.akamaized.net/weyyak_mix/index.m3u8
 #EXTINF:-1  tvg-logo="https://content.weyyak.com/d867c2e9-328d-ea11-831d-02d662556796/poster-image",Weyyak Nawaem (720p)
 https://weyyak-live.akamaized.net/weyyak_nawaem/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://www.zagrosnews.net/sites/default/files/zagros-logo-01_1.png",Zagros (720p) [Not 24/7]
-https://5a3ed7a72ed4b.streamlock.net/zagrostv/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://content.weyyak.com/25a860af-4bbc-4289-8e1f-b3bed0dcc64a/poster-image",Zee Alwan (720p) [Not 24/7]
 https://weyyak-live.akamaized.net/weyyak_zee_alwan/index.m3u8
 #EXTINF:-1 ,AA Live (720p)
@@ -1845,24 +1631,16 @@ http://mtulqxgomrllive.mediatriple.net/mtulqxgomrllive/broadcast_59f9c0c785b88.s
 https://waw2.artiyerelmedya.net/aksutv/bant1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/1LGHMzQ/lwkowCS.png",Al-Zahra TV Turkic (720p) [Not 24/7]
 https://live.al-zahratv.com/live/playlist.m3u8
-#EXTINF:-1 ,Alanya Posta TV (1080p)
-http://win4.yayin.com.tr/postatv/postatv/playlist.m3u8
 #EXTINF:-1 ,ALTAS TV (720p) [Not 24/7]
 http://stream.taksimbilisim.com:1935/altastv/bant1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/Jo6DJUe.png",ATV Alanya (720p) [Not 24/7]
 http://stream2.taksimbilisim.com:1935/alanyatv/alanyatv.smil/playlist.m3u8
-#EXTINF:-1 ,Berat TV (720p) [Not 24/7]
-http://cdn-berattv.yayin.com.tr/berattv/berattv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/bRhnM6W/qti5aea.png",Beşiktaş Web TV (360p)
 https://s01.vpis.io/besiktas/besiktas.m3u8
-#EXTINF:-1 ,Bodrum Belediyesi Web TV (720p)
-https://win2.yayin.com.tr/bodrumbeltv/bodrumbeltv/playlist.m3u8
 #EXTINF:-1 ,BRTV (720p) [Geo-blocked]
 https://waw2.artiyerelmedya.net/brtv/bant1/playlist.m3u8
 #EXTINF:-1 ,Bursa AS TV (720p) [Geo-blocked]
 https://waw2.artiyerelmedya.net/astv/bant1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/9gta3PU.png",Bursa TV (720p) [Not 24/7]
-https://cdn-bursatv.yayin.com.tr/bursatv/bursatv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/qdBr2fH/kgwc6oT.jpg",Can TV (720p)
 http://canbroadcast.com:7000/canlican/tv.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/80d40Qb/e2K5ixJ.png",Cay TV (720p) [Not 24/7]
@@ -1883,14 +1661,8 @@ https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
 https://waw2.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/uOMuhrI.jpg",DRT TV (720p) [Not 24/7]
 https://broadcasttr.com:446/drt/bant1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/pHlRi8m.jpg",Em TV (486p)
-https://cdn.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:-1 ,Er TV (720p) [Geo-blocked]
 https://waw2.artiyerelmedya.net/ertv/bant1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/J2OSHdh.png",Ert Sah TV (720p) [Not 24/7]
-http://win20.yayin.com.tr/ertsahtv/ertsahtv/playlist.m3u8
-#EXTINF:-1 ,Erzurum Web TV (720p)
-https://win29.yayin.com.tr/erzurumwebtv/erzurumwebtv/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.ibb.co/QKXtdkz/sOd3INg.png",ETV Manisa (1080p) [Not 24/7]
 https://broadcasttr.com:446/manisaetv/bant1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/0N5jh8z.jpg",Gonca TV (720p) [Not 24/7]
@@ -2001,8 +1773,6 @@ https://waw1.artiyerelmedya.net/tv41/bant1/playlist.m3u8
 http://stream.taksimbilisim.com:1935/tv52/smil:tv52.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/PFWOkNh.png",TV Den (576p) [Not 24/7]
 http://canli.tvden.com.tr/hls/live.m3u8
-#EXTINF:-1 ,TV Em (486p)
-http://cdn-tvem.yayin.com.tr/TVEM/TVEM/playlist.m3u8
 #EXTINF:-1 ,ÜÜ TV Üsküdar Üniversitesi TV (1080p) [Not 24/7]
 http://uskudarunv.mediatriple.net/uskudarunv/uskudar2/playlist.m3u8
 #EXTINF:-1 ,Vizyon 58 TV (720p) [Geo-blocked]
@@ -2581,8 +2351,6 @@ https://kronetv.mdn.ors.at/out/u/kronetv-nodrm.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Kultur MD
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/kulturmd_high/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Kurdistan TV HD
-https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Kvartal TV
 http://cam.kashira.ru/hls/cam1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Kırmızı.Oda S01 E01
@@ -3283,10 +3051,6 @@ https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLi
 https://nbcnewshls.akamaized.net/hls/live/2011820/nnn_live1/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NBC News Now HD
 http://nbcnews2.akamaized.net/hls/live/723426-b/NBCNewsPlaymaker24x7Linear99a3a827-ua/VIDEO_0_6596000.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NDR HAMBURG
-http://ndrfs-lh.akamaihd.net/i/ndrfs_hh@430231/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NDR Mecklenburg-Vorpommern HD
-https://ndrfs-lh.akamaihd.net/i/ndrfs_mv@430232/index_3776_av-p.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NDTV 24X7
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com NDTV 24x7
@@ -3585,8 +3349,6 @@ http://video01.kshost.com.br/tv31966/tv31966/playlist.m3u8
 http://62.210.209.138:41000/movie/v52/v43/7221.mp4
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Redseat The first
 https://redseat-thefirst-klowdtv.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Reduta
-http://s1.media-planet.sk:80/live/reduta/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Reelz Channel
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxreelzchannel/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Reggio TV
@@ -5065,10 +4827,6 @@ https://streamer-cache.grnet.gr/parliament/hls/webtv3_4/index.m3u8
 http://51.210.199.8/hls/stream.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com VOX2 TVG
 http://51.210.199.9/hls/stream.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com VTV Aconcaga
-http://unlimited1-us.dps.live/vtv/vtv.smil/vtv/livestream1/chunks.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com VTV Aconcaga
-http://unlimited1-us.dps.live/vtv/vtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Vajtswv Txojlus
 https://livefta.malimarcdn.com/ftaedge00/vajtswv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Valley.Girl.2020
@@ -5713,8 +5471,6 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_KARUSEL_2/variant.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_KARUSEL_4/variant.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Карусель +7
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_KARUSEL_7/variant.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Катунь 24 (Барнаул)
-https://live.katun24.ru:8082/katun/katun/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Кино 24
 http://msk3.peers.tv/streaming/kino24/126/copy/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com МИР
@@ -5911,8 +5667,6 @@ http://streaming.astrakhan.ru/telplushd/tracks-v1a1/index.m3u8
 http://cdn1.live-tv.od.ua:8081/3tvod/3tvod/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Три Ангела
 https://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Учалы ТВ
-http://live-uchalytv.cdnvideo.ru/uchalytv/uchalytv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Фан Спорт.
 https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Че
@@ -6723,8 +6477,6 @@ https://cdn.alarab.com/h264/153608_720p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/153638_720p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com سر الحلقة 54
 https://cdn.alarab.com/h264/153657_720p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com سر الحلقة 55
-https://cdn.alarab.com/h264/153701_720p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com سر الحلقة 56
 https://cdn.alarab.com/h264/153722_720p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com سر الحلقة 57
@@ -6889,8 +6641,6 @@ https://cdn.alarab.com/h264/155274_480p.mp4/index-v1-a1.m3u8
 https://cdn.alarab.com/h264/155348_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com شاهد عيان الحلقة 2 HD
 https://cdn.alarab.com/h264/154522_480p.mp4/index-v1-a1.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com شاهد عيان الحلقة 3 HD
-https://cdn.alarab.com/h264/154594_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com شاهد عيان الحلقة 30
 https://cdn.alarab.com/h264/156582_480p.mp4/index-v1-a1.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com شاهد عيان الحلقة 4
@@ -7287,8 +7037,6 @@ http://mfe.cliptv.az/dash/CBC_Azerbaijan_SD.ism/playlist.mpd
 http://mfe.cliptv.az/dash/Cinema_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com DMAX
 http://mfe.cliptv.az/dash/DMAX_HD.ism/playlist.mpd
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Dalğa TV
-http://mfe.cliptv.az/dash/DalgaTV_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Dunya TV
 http://mfe.cliptv.az/dash/Dunya_TV.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com EL TV
@@ -7383,8 +7131,6 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com CNBC Indonesia 1
-http://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w528900641_b384000_sleng.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com RRI Net
 http://36.89.47.217:11935/rrinet/live/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Radio 51 TV
@@ -7557,10 +7303,6 @@ http://210.210.155.35/qwr9ew/s/s27/01.m3u8
 http://51.210.227.133/hls/stream.m3u8
 #EXTINF:-1 group-title="News",NDTV(480p)
 https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/ndtv24x7master.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/UHd3eew.jpg",RTV
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/rtv-sg.stream/live-orgin/rtv-sg.stream/chunks.m3u8
-#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/TWuzjbg.jpg",My TV
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/mytv-up-off.stream/live-orgin/mytv-up-off.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.imgur.com/b3nn216.png",MTA 1 Bangla (1080p)
 https://chlivemta1.akamaized.net/hls/live/2008145/mta1/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/GK5BlnN.jpg",Iqra Bangla (576p)
@@ -7805,12 +7547,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/bw2000000/variant.m3u8?version=2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_4/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Ю.png",Ю (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.ebox.live/assets/images/banglavision.png",Bangla Vision  (BDIX0)
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/banglav000.stream/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="http://tv.ebox.live/assets/images/etv.jpg",Ekushey TV
 https://ekusheyserver.com/etvlivesn.m3u8
-#EXTINF:-1 group-title="Bangla" tvg-logo="https://upload.wikimedia.org/wikipedia/en/0/00/News24logo%28BD%29.jpg",News24 (BDIX0)
-https://bd.jagobd.com:444/c2VydmVyX4RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/LeIa06D.png",ABP Ananda (akamai)
 https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://i.imgur.com/HVZHZGl.png",Colors Bangla (akamai)
@@ -8853,8 +8591,6 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/245378.mkv
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/245377.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/gs8sv4M0sdJWwbedlq9XvCPFKXs.jpg",DE: HellKat
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/245376.mkv
-#EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/uCV98jOIxwd0SMICfHFNcuo5CHS.jpg",DE: Happily
-http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/245375.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/bOFaAXmWWXC3Rbv4u4uM9ZSzRXP.jpg",DE: Fast And Furious 9
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/245374.mkv
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/huGODrOTIElqmV3WuOHwo2IFZVv.jpg",DE: Cash Truck
@@ -10463,5 +10199,4 @@ http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/203025.mkv
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/203024.avi
 #EXTINF:-1 group-title="VOD Germany" tvg-logo="https://image.tmdb.org/t/p/original/6p2xoOYwRgam0fxEOPZeCCh0i3q.jpg",DE: Amulet
 http://c.proserver.in:8080/movie/vodstest/lw5p6ojDQq/203023.mkv
-
 
