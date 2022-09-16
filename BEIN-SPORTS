@@ -1,7 +1,259 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BEIN NEWS SD
+http://topstb.com:8000/50656250782258/27115840859269/31928
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 01 FHD
+http://topstb.com:8000/50656250782258/27115840859269/156463
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 01 HD
+http://topstb.com:8000/50656250782258/27115840859269/156462
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 01 PREMIUM FHD
+http://topstb.com:8000/50656250782258/27115840859269/156469
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 01 PREMIUM HD
+http://topstb.com:8000/50656250782258/27115840859269/156468
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 02 FHD
+http://topstb.com:8000/50656250782258/27115840859269/156461
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 02 HD
+http://topstb.com:8000/50656250782258/27115840859269/156460
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 02 PREMIUM FHD
+http://topstb.com:8000/50656250782258/27115840859269/156467
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 02 PREMIUM HD
+http://topstb.com:8000/50656250782258/27115840859269/156466
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 03 FHD
+http://topstb.com:8000/50656250782258/27115840859269/156459
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 03 HD
+http://topstb.com:8000/50656250782258/27115840859269/156458
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 03 PREMIUM FHD
+http://topstb.com:8000/50656250782258/27115840859269/156465
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 03 PREMIUM HD
+http://topstb.com:8000/50656250782258/27115840859269/156464
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 04 FHD
+http://topstb.com:8000/50656250782258/27115840859269/156457
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 04 HD
+http://topstb.com:8000/50656250782258/27115840859269/156456
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 05 FHD
+http://topstb.com:8000/50656250782258/27115840859269/156455
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 05 HD
+http://topstb.com:8000/50656250782258/27115840859269/156454
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 06 FHD
+http://topstb.com:8000/50656250782258/27115840859269/156453
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 06 HD
+http://topstb.com:8000/50656250782258/27115840859269/156452
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 07 FHD
+http://topstb.com:8000/50656250782258/27115840859269/156451
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 07 HD
+http://topstb.com:8000/50656250782258/27115840859269/156450
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 1 EN FHD
+http://topstb.com:8000/50656250782258/27115840859269/156449
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 1 EN HD
+http://topstb.com:8000/50656250782258/27115840859269/156448
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 1 FR FHD
+http://topstb.com:8000/50656250782258/27115840859269/158828
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 1 FR HD
+http://topstb.com:8000/50656250782258/27115840859269/158825
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 1 PREMIUM SD
+http://topstb.com:8000/50656250782258/27115840859269/156428
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 1 SD
+http://topstb.com:8000/50656250782258/27115840859269/156425
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 2 EN FHD
+http://topstb.com:8000/50656250782258/27115840859269/156447
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 2 EN HD
+http://topstb.com:8000/50656250782258/27115840859269/156446
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 2 FR FHD
+http://topstb.com:8000/50656250782258/27115840859269/158827
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 2 FR HD
+http://topstb.com:8000/50656250782258/27115840859269/158824
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 2 PREMIUM SD
+http://topstb.com:8000/50656250782258/27115840859269/189746
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 2 SD
+http://topstb.com:8000/50656250782258/27115840859269/156424
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 3 EN FHD
+http://topstb.com:8000/50656250782258/27115840859269/158821
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 3 EN HD
+http://topstb.com:8000/50656250782258/27115840859269/158822
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 3 FR FHD
+http://topstb.com:8000/50656250782258/27115840859269/158826
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 3 FR HD
+http://topstb.com:8000/50656250782258/27115840859269/158823
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 3 PREMIUM SD
+http://topstb.com:8000/50656250782258/27115840859269/156426
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 3 SD
+http://topstb.com:8000/50656250782258/27115840859269/156423
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 4 SD
+http://topstb.com:8000/50656250782258/27115840859269/156422
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 5 SD
+http://topstb.com:8000/50656250782258/27115840859269/156421
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 6 SD
+http://topstb.com:8000/50656250782258/27115840859269/156420
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 7 SD
+http://topstb.com:8000/50656250782258/27115840859269/156419
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports AFC
+http://topstb.com:8000/50656250782258/27115840859269/201429
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports AFC 1
+http://topstb.com:8000/50656250782258/27115840859269/201427
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports AFC 2
+http://topstb.com:8000/50656250782258/27115840859269/201425
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports AFC 3
+http://topstb.com:8000/50656250782258/27115840859269/201424
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX  1 HD
+http://topstb.com:8000/50656250782258/27115840859269/176199
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 1 4k
+http://topstb.com:8000/50656250782258/27115840859269/176187
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 1 FHD
+http://topstb.com:8000/50656250782258/27115840859269/176193
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 1 SD
+http://topstb.com:8000/50656250782258/27115840859269/176203
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 2 4K
+http://topstb.com:8000/50656250782258/27115840859269/176186
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 2 HD
+http://topstb.com:8000/50656250782258/27115840859269/176198
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 2 SD
+http://topstb.com:8000/50656250782258/27115840859269/176202
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 3 4K
+http://topstb.com:8000/50656250782258/27115840859269/176185
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 3 FHD
+http://topstb.com:8000/50656250782258/27115840859269/176191
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 3 HD
+http://topstb.com:8000/50656250782258/27115840859269/176197
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 3 SD
+http://topstb.com:8000/50656250782258/27115840859269/176201
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 4 4K
+http://topstb.com:8000/50656250782258/27115840859269/176184
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 4 FHD
+http://topstb.com:8000/50656250782258/27115840859269/176190
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 4 HD
+http://topstb.com:8000/50656250782258/27115840859269/176196
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 4 SD
+http://topstb.com:8000/50656250782258/27115840859269/176200
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 5 4k
+http://topstb.com:8000/50656250782258/27115840859269/176183
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 5 FHD
+http://topstb.com:8000/50656250782258/27115840859269/176189
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 5 HD
+http://topstb.com:8000/50656250782258/27115840859269/176195
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 6 4k
+http://topstb.com:8000/50656250782258/27115840859269/176182
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 6 FHD
+http://topstb.com:8000/50656250782258/27115840859269/176188
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS MAX 6 HD
+http://topstb.com:8000/50656250782258/27115840859269/176194
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS XTRA 1 FHD
+http://topstb.com:8000/50656250782258/27115840859269/161968
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS XTRA 1 HD
+http://topstb.com:8000/50656250782258/27115840859269/161970
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS XTRA 2 FHD
+http://topstb.com:8000/50656250782258/27115840859269/161967
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS XTRA 2 HD
+http://topstb.com:8000/50656250782258/27115840859269/161969
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beINSPORTS 1
+http://topstb.com:8000/50656250782258/27115840859269/156442
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beINSPORTS 1 FR
+http://topstb.com:8000/50656250782258/27115840859269/156435
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beINSPORTS 2
+http://topstb.com:8000/50656250782258/27115840859269/156441
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beINSPORTS 2 FR
+http://topstb.com:8000/50656250782258/27115840859269/156434
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beINSPORTS 3
+http://topstb.com:8000/50656250782258/27115840859269/156440
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beINSPORTS 3 FR
+http://topstb.com:8000/50656250782258/27115840859269/156433
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beINSPORTS 4
+http://topstb.com:8000/50656250782258/27115840859269/156439
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beINSPORTS 5
+http://topstb.com:8000/50656250782258/27115840859269/156438
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beINSPORTS 6
+http://topstb.com:8000/50656250782258/27115840859269/156437
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beINSPORTS 7
+http://topstb.com:8000/50656250782258/27115840859269/156436
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BEINSPORTS NEWS
+http://topstb.com:8000/50656250782258/27115840859269/16394
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beINSPORTS PREMIUM  2
+http://topstb.com:8000/50656250782258/27115840859269/156444
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beINSPORTS PREMIUM  3
+http://topstb.com:8000/50656250782258/27115840859269/156443
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beINSPORTS PREMIUM 1
+http://topstb.com:8000/50656250782258/27115840859269/156445
 
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 24 News
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/50819
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 8XM
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/50821
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 92 News HD
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/536
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 9X JALWA
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/501
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 9X TASHAN
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47214
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: A plus HD
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/50822
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Aaj Entertainment
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/50824
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: AAJ News
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/50825
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ABB TAK NEWS
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/51383
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: AhlulBayt TV
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/51384
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY DIGITAL
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/531
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY MUSIC
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/529
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY NEWS
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/530
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY QTV
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/528
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: AWAZ TV
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/51385
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: DAWN NEWS
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/519
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: DUNYA NEWS
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/518
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: EAWAZ TV
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/51390
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO ENTERTAINMENT TV
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/52955
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO KAHANI
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/512
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO NEWS
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/511
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO SUPER
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/510
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO TEZZ
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/509
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO TV
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/508
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: HUM EUROPE
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47216
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: HUM MASALA
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/50816
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: HUM SITARAY
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47217
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: HUM TV
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47218
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: HUM TV NEW
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/50817
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Kay 2
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/51387
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: MADANI Channel TV
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47205
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV GLOBAL
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47252
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV HOME
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47251
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV NEWS
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47250
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV SPORTS
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/490
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV WORLD
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47249
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: SEE TV HD
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47200
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: TV ONE
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/494
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Waseb TV
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/51389
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ZINDAGI TV
+http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/526
 
 
 
