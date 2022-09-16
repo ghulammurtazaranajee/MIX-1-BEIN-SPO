@@ -1,5 +1,5 @@
 # iptv_bein-sports
-use this link
+use this link this file is some wrong please use other link
 https://tinyurl.com/2p9dj83k
 
 
