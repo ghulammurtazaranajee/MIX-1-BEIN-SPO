@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BEIN NEWS SD
 http://topstb.com:8000/50656250782258/27115840859269/31928
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN SPORTS 01 FHD
@@ -173,90 +174,408 @@ http://topstb.com:8000/50656250782258/27115840859269/156444
 http://topstb.com:8000/50656250782258/27115840859269/156443
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beINSPORTS PREMIUM 1
 http://topstb.com:8000/50656250782258/27115840859269/156445
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 24 News
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/50819
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 8XM
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/50821
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 92 News HD
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/536
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 9X JALWA
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/501
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 9X TASHAN
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47214
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: A plus HD
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/50822
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Aaj Entertainment
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/50824
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: AAJ News
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/50825
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ABB TAK NEWS
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/51383
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: AhlulBayt TV
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/51384
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY DIGITAL
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/531
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY MUSIC
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/529
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY NEWS
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/530
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY QTV
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/528
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: AWAZ TV
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/51385
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: DAWN NEWS
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/519
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: DUNYA NEWS
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/518
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: EAWAZ TV
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/51390
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO ENTERTAINMENT TV
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/52955
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO KAHANI
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/512
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO NEWS
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/511
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO SUPER
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/510
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO TEZZ
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/509
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO TV
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/508
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: HUM EUROPE
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47216
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: HUM MASALA
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/50816
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: HUM SITARAY
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47217
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: HUM TV
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47218
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: HUM TV NEW
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/50817
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Kay 2
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/51387
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: MADANI Channel TV
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47205
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV GLOBAL
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47252
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV HOME
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47251
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV NEWS
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47250
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV SPORTS
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/490
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV WORLD
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47249
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: SEE TV HD
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/47200
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: TV ONE
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/494
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Waseb TV
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/51389
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ZINDAGI TV
-http://server.sibfungold.info:8080/WedevnetHost/HX3qzx8V9E/526
-
-
-
+#EXTINF:-1 group-title="AR : NETFLIX HD" tvg-logo="http://saw.fersat.cc/logo/NETFLIX%20HD/NETFLIX_ACTION_1_FHD.png",NETFLIX ACTION 1 FHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/39532
+#EXTINF:-1 group-title="AR : NETFLIX HD" tvg-logo="http://saw.fersat.cc/logo/NETFLIX%20HD/NETFLIX_ACTION_2_FHD.png",NETFLIX ACTION 2 FHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/39533
+#EXTINF:-1 group-title="AR : NETFLIX HD" tvg-logo="http://saw.fersat.cc/logo/NETFLIX%20HD/NETFLIX_ACTION_3_FHD.png",NETFLIX ACTION 3 FHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/39534
+#EXTINF:-1 group-title="AR : NETFLIX HD" tvg-logo="http://saw.fersat.cc/logo/NETFLIX%20HD/NETFLIX_ACTION_4_FHD.png",NETFLIX ACTION 4 FHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/39536
+#EXTINF:-1 group-title="AR : NETFLIX HD" tvg-logo="http://saw.fersat.cc/logo/NETFLIX%20HD/NETFLIX_ACTION_5_FHD.png",NETFLIX ACTION 5 FHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/39537
+#EXTINF:-1 group-title="AR : NETFLIX HD" tvg-logo="http://saw.fersat.cc/logo/NETFLIX%20HD/NETFLIX_ACTION_6_FHD.png",NETFLIX ACTION 6 FHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/39538
+#EXTINF:-1 group-title="AR : NETFLIX HD" tvg-logo="http://saw.fersat.cc/logo/NETFLIX%20HD/NETFLIX_ACTION_7_FHD-.png",NETFLIX ACTION 7 FHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/39539
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/c7f0ab35a2e13b3631c6e5df19f019d8.png",BEIN PREMUIM 1 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/524
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/de5db570dc9a71dd9f3e0068bec83540.png",BEIN PREMUIM 2 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/526
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/12d04ae759ebacdb3bd28e8f7f813cad.png",BEIN PREMUIM 3 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/528
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/c7f0ab35a2e13b3631c6e5df19f019d8.png",BEINSPORT 1 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/510
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/de5db570dc9a71dd9f3e0068bec83540.png",BEINSPORT 2 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/512
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/12d04ae759ebacdb3bd28e8f7f813cad.png",BEINSPORT 3 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/514
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/3e616dc685f6508343c45eeef0712ea1.png",BEINSPORT 4 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/516
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/50283ef0d2a46af7670aa60bd655b297.png",BEINSPORT 5 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/518
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/60d7e046ad09b6a6f5b0895960492816.png",BEINSPORT 6 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/520
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/3f72185f82a2f88dbe5f7bd6d64e000e.png",BEINSPORT 7 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/522
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/1350af49f426a6e163ac271648a87715.png",BEIN SPORTS EXTRA 1 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38133
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/1350af49f426a6e163ac271648a87715.png",BEIN SPORTS EXTRA 2 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/55582
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/c7f0ab35a2e13b3631c6e5df19f019d8.png",BEIN SPORTS ENGLISH 1 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38134
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/de5db570dc9a71dd9f3e0068bec83540.png",BEIN SPORTS ENGLISH 2 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38135
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/12d04ae759ebacdb3bd28e8f7f813cad.png",BEIN SPORTS ENGLISH 3 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38136
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/c7f0ab35a2e13b3631c6e5df19f019d8.png",BEIN SPORTS FRENSH 1 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38137
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/de5db570dc9a71dd9f3e0068bec83540.png",BEIN SPORTS FRENSH 2 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38138
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/843ab0273b2f94933743711ebdbd9a77.png",BEIN SPORTS NBA
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38139
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/be6e343047e3a319e417bd5336c4e87f.png",ALKASS 1 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38140
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/be6e343047e3a319e417bd5336c4e87f.png",ALKASS 2 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38141
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/be6e343047e3a319e417bd5336c4e87f.png",ALKASS 3 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38142
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/be6e343047e3a319e417bd5336c4e87f.png",ALKASS 4 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38143
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/81f534fad968a222c670b00114013f1e.png",BEINSPORT AFC GLOBAL SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/79605
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/237d26fa3b605b755fe47020465e11e6.png",BEINSPORT AFC 1 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/79606
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/9c79b8d1a886b9e092eee4f9045f9e7d.png",BEINSPORT AFC 2 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/79607
+#EXTINF:-1 group-title="BS : BEINSPORT SD" tvg-logo="http://nettvgo.in:2052/images/3f47c70989f3d2a1344cdcf7bbbff4e1.png",BEINSPORT AFC 3 SD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/79608
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/0b318dc651876d6dd4433f5048422521.png",BEIN PREMUIM 1 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/117734
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/55a507c8a9161ce48225dd25741e6d22.png",BEIN PREMUIM 2 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/5998
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/f9e408b1f88e31197693a065b79696c3.png",BEIN PREMUIM 3 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/5999
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/59c7c61ef640a4810e740c55ed6c1cb2.png",BEINSPORT 1 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/5990
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/30bd4f1df29856e70e509f20965c70fd.png",BEINSPORT 2 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/5991
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/1665680b6ce420e2fe360a4fb3cff64e.png",BEINSPORT 3 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/5992
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/d3a56ed6b7abbfc1da722b90d19a1a84.png",BEINSPORT 4 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/5993
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/cf27ba7036bb111246b94b2a6910e532.png",BEINSPORT 5 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/5994
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/20f2def751ed6243cea1c2ef943a207f.png",BEINSPORT 6 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/5995
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/9846ef5f8c7c27e46e5c34c703ca12c1.png",BEINSPORT 7 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/5996
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/1350af49f426a6e163ac271648a87715.png",BEIN SPORTS EXTRA UHD 2
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/55584
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/c7f0ab35a2e13b3631c6e5df19f019d8.png",BEIN SPORTS ENGLISH UHD 1
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38122
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/c4c278b7362bb7d6e96d51cc43769529.png",BEIN SPORTS ENGLISH UHD 2
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38123
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/12d04ae759ebacdb3bd28e8f7f813cad.png",BEIN SPORTS ENGLISH UHD 3
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38124
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/c7f0ab35a2e13b3631c6e5df19f019d8.png",BEIN SPORTS FRENSH UHD 1
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38125
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/c4c278b7362bb7d6e96d51cc43769529.png",BEIN SPORTS FRENSH UHD 2
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38126
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/843ab0273b2f94933743711ebdbd9a77.png",BEIN SPORTS NBA UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38127
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/861a7fa9ba32be7f69cf0749e5f7e458.png",ALKASS 1 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38128
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/4379519ac74c8c62880264ff18271fac.png",ALKASS 2 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38129
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/4178f0733a812e7af333457bbcddca4c.png",ALKASS 3 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38130
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/77f425df589c72fe1972ae4e69157f8e.png",ALKASS 4 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/38131
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/81f534fad968a222c670b00114013f1e.png",BEINSPORT AFC GLOBAL UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/79613
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/237d26fa3b605b755fe47020465e11e6.png",BEINSPORT AFC 1 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/79614
+#EXTINF:-1 group-title="BS : BEIN SPORTS  UHD" tvg-logo="http://nettvgo.in:2052/images/9c79b8d1a886b9e092eee4f9045f9e7d.png",BEINSPORT AFC 2 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/79615
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT" tvg-logo="http://nettvgo.in:2052/images/fd13c3d612fde8aa93598becf1a487e2.png",BEIN MOVIES 1 HD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/411
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT" tvg-logo="http://nettvgo.in:2052/images/1a88d6b1092dbff7058b4f6bf70725f6.png",BEIN MOVIES 2 HD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/412
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT" tvg-logo="http://nettvgo.in:2052/images/2e9248c5684e0ad15cdbbfb5c67c64c5.png",BEIN MOVIES 3 HD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/413
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT" tvg-logo="http://nettvgo.in:2052/images/9f59873bd7e11cc5410288ba2441cf50.png",BEIN MOVIES 4 HD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/414
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT" tvg-logo="http://nettvgo.in:2052/images/85038dbf0ab4262f8daf49994a2a8871.png",BEIN DRAMA HD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/415
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT" tvg-logo="http://nettvgo.in:2052/images/5a283af5a40d8ce80ced75570ae6edc4.png",BEIN SERIES 1 HD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/416
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT" tvg-logo="http://nettvgo.in:2052/images/5a283af5a40d8ce80ced75570ae6edc4.png",BEIN SERIES 2 HD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/417
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT" tvg-logo="http://nettvgo.in:2052/images/1890e0812faeb12f2f66110349f4f4cb.png",BEIN HGTV HD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/418
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT" tvg-logo="http://nettvgo.in:2052/images/7955bcdf31d77d69f51ea5a6f4b8d8a2.png",BEIN JUNIOR HD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/434
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT" tvg-logo="http://nettvgo.in:2052/images/66ceb2e3cb4ac76298cdba5cf6e2163a.png",BEIN JEEM HD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/435
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT" tvg-logo="http://nettvgo.in:2052/images/0065f1533a54d460841aaa7e827205c3.png",BEIN BARAEM HD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/436
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT" tvg-logo="http://nettvgo.in:2052/images/8d7942d0a13416992cd68c85df252442.png",GULLI ARABIA HD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/437
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT" tvg-logo="http://nettvgo.in:2052/images/f5c051a2a7feff2e9d1ee16f3dd7cd84.png",NAT GEO PEOPLE HD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/442
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT" tvg-logo="http://nettvgo.in:2052/images/b15c9736d5e0824bf61ef959df6212d1.png",NAT GEO AR HD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/445
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT" tvg-logo="http://nettvgo.in:2052/images/c67e25322c1d6e271bffaae78d7ff4a8.png",DISCOVERY HD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/447
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT" tvg-logo="http://nettvgo.in:2052/images/e72cca70a9c2ccf2c58242245fa76199.png",DISCOVERY SCIENCE AR HD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/448
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT UHD" tvg-logo="http://nettvgo.in:2052/images/fd13c3d612fde8aa93598becf1a487e2.png",BEIN MOVIES 1 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/46799
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT UHD" tvg-logo="http://nettvgo.in:2052/images/1a88d6b1092dbff7058b4f6bf70725f6.png",BEIN MOVIES 2 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/46800
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT UHD" tvg-logo="http://nettvgo.in:2052/images/2e9248c5684e0ad15cdbbfb5c67c64c5.png",BEIN MOVIES 3 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/46801
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT UHD" tvg-logo="http://nettvgo.in:2052/images/9f59873bd7e11cc5410288ba2441cf50.png",BEIN MOVIES 4 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/46802
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT UHD" tvg-logo="http://nettvgo.in:2052/images/5a283af5a40d8ce80ced75570ae6edc4.png",BEIN SERIES 1 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/46803
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT UHD" tvg-logo="http://nettvgo.in:2052/images/5a283af5a40d8ce80ced75570ae6edc4.png",BEIN SERIES 2 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/46804
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT UHD" tvg-logo="http://nettvgo.in:2052/images/0065f1533a54d460841aaa7e827205c3.png",BEIN BARAEAM UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/46805
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT UHD" tvg-logo="http://nettvgo.in:2052/images/66ceb2e3cb4ac76298cdba5cf6e2163a.png",BEIN JEEM UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/46806
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT UHD" tvg-logo="http://nettvgo.in:2052/images/93a6f5238d44a85fc481a12430b62af5.png",BEIN BBC EARTH UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/46808
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT UHD" tvg-logo="http://nettvgo.in:2052/images/5d1c455f71132cfa0c9e31b78cfc1cb0.png",BEIN FATAFEAT UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/46809
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT UHD" tvg-logo="http://nettvgo.in:2052/images/d820df19d590b5c688bc684b2652844b.png",BEIN FOX MOV ACTION UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/46812
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT UHD" tvg-logo="http://nettvgo.in:2052/images/0c03dbe5df06526a692b7da7280b5a70.png",BEIN FOX MOVIES UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/46813
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT UHD" tvg-logo="http://nettvgo.in:2052/images/0fa4b86ea32ee6d1b8c651de62e8d918.png",BEIN FOX REWAYAT UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/46814
+#EXTINF:-1 group-title="BS : BEIN ENTERTAINMENT UHD" tvg-logo="http://nettvgo.in:2052/images/85038dbf0ab4262f8daf49994a2a8871.png",BEIN DRAMA UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/46816
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://super-iptv.net:2052/images/36edf075c2d593f3a3b39cacdbdbf35c.png",OSN YAHALA UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13095
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://super-iptv.net:2052/images/9fa65521ce15fc5655367c6eac0aadc9.png",OSN MOVIES FIRST UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13099
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://super-iptv.net:2052/images/829d05918290b60602202b036b229ef1.png",OSN ENIGMA UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13101
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_MOVIES_KIDS_UHD-.png",OSN MOVIES KIDS UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13102
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://super-iptv.net:2052/images/997e5c711dc909e1e81c996daf3a3384.png",OSN MOVIES UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13103
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_SERIES_COMEDY_UHD-.png",OSN SERIES COMEDY UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13104
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://super-iptv.net:2052/images/9235e51c122d369d2267466d484b3767.png",OSN MOVIES ACTION UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13105
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://super-iptv.net:2052/images/479ae72f4b1de8eea8257b602b646d35.png",OSN SERIES FIRST UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13106
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_TLC_UHD-.png",OSN TLC UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13107
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://super-iptv.net:2052/images/01e598d237efa7596f9a847bef61fa85.png",OSN STAR WORLD UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13109
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://super-iptv.net:2052/images/d7debd90aeb21f8dc41afca0042626cc.png",OSN SERIES UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13110
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_STAR_MOVIES_UHD-.png",OSN STAR MOVIES UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13111
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_DISCOVERY_SC_UHD-.png",OSN DISCOVERY SC UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13113
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_DISNEY_UHD-.png",OSN DISNEY UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13114
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_DISNEY_XD_UHD-.png",OSN DISNEY XD UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13115
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://super-iptv.net:2052/images/9bfa91ab7717f9fadecd6e3d0407de9b.png",OSN DISNEY JOUNER UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13116
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://super-iptv.net:2052/images/7dd5fa1a6e9c1b106835ce37a5054fdb.png",OSN HISTORY UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13117
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://super-iptv.net:2052/images/cfed966b4f6c55a679e08ebee93bfe6e.png",OSN DISCOVERY UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13119
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_DISCOVERY_IDX_UHD-.png",OSN DISCOVERY IDX UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13120
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_HISTORY_2_UHD-.png",OSN HISTORY 2 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13121
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_NICKELODEON_UHD-.png",OSN NICKELODEON UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13122
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://super-iptv.net:2052/images/541c32c4963a38743d579c2079abb3ea.png",OSN LIVING UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13123
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_MEZZEE_UHD-.png",OSN MEZZEE UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13124
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_E!_UHD-.png",OSN E! UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13125
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_BABY_TV_UHD-.png",OSN BABY TV UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13126
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://super-iptv.net:2052/images/07d18a331caa5cef99d2f11146e226ec.png",OSN KIDS ZONE UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13127
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_POP_UP_UHD-.png",OSN POP UP UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13129
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_NAT_GEO_UHD-.png",OSN NAT GEO UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13130
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_NAT_GEO_PEOPLE_UHD-.png",OSN NAT GEO PEOPLE UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13131
+#EXTINF:-1 group-title="AR : OSN UHD",OSN NAT GEO WILD UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13132
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_NICK_JR_UHD-.png",OSN NICK JR UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13133
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_AL_SAFWA_UHD-.png",OSN AL SAFWA UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13134
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_AL_YAWM_UHD-.png",OSN AL YAWM UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13135
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_CINEMA_1_UHD-.png",OSN CINEMA 1 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13136
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_CINEMA_2_UHD-.png",OSN CINEMA 2 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13137
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_MUSIC_NOW_UHD-%20copy.png",OSN FANN UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13138
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_MUSIC_NOW_UHD-.png",OSN MUSIC NOW UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13139
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_SERIES_1_UHD-.png",OSN SERIES 1 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13140
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/OSN_SERIES_2_UHD-.png",OSN SERIES 2 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13141
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/MBC_3_UHD-.png",MBC 3 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13145
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/MBC_5_UHD-.png",MBC 5 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13146
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://nettvgo.in:2052/images/7e6264a6cfa77f51ee7fbae64c1008b1.png",MBC IRAQ UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13149
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/MBC_DRAMA_UHD-.png",MBC DRAMA UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13150
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/MBC_DRAMA+_UHD-.png",MBC DRAMA+ UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13151
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/MBC_BOLLYWOOD_UHD-.png",MBC BOLLYWOOD UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13152
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/MBC_MISRI_2_UHD--316.png",MBC MISRI 1 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13153
+#EXTINF:-1 group-title="AR : OSN UHD" tvg-logo="http://saw.fersat.cc/logo/OSN%20UHD/MBC_MISRI_2_UHD--315.png",MBC MISRI 2 UHD
+http://saw.duplex-ott.net:2052/802462699227605/802446701881523/13154
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",MBC 1 HD
+http://topstb.com:8000/50656250782258/27115840859269/121043
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",MBC 2 HD
+http://topstb.com:8000/50656250782258/27115840859269/121040
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",MBC 3 HD
+http://topstb.com:8000/50656250782258/27115840859269/121046
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",MBC 4 HD
+http://topstb.com:8000/50656250782258/27115840859269/121051
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",MBC 5 HD
+http://topstb.com:8000/50656250782258/27115840859269/121041
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",MBC ACTION HD
+http://topstb.com:8000/50656250782258/27115840859269/121050
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",MBC BOLLYWOOD HD
+http://topstb.com:8000/50656250782258/27115840859269/121055
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",MBC DRAMA HD
+http://topstb.com:8000/50656250782258/27115840859269/121054
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",MBC IRAQ HD
+http://topstb.com:8000/50656250782258/27115840859269/121059
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",MBC MASR 2 HD
+http://topstb.com:8000/50656250782258/27115840859269/121056
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",MBC MASR HD
+http://topstb.com:8000/50656250782258/27115840859269/121047
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",MBC MAX HD
+http://topstb.com:8000/50656250782258/27115840859269/121049
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",MBC PLUS DRAMA HD
+http://topstb.com:8000/50656250782258/27115840859269/121048
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Baby TV HD
+http://topstb.com:8000/50656250782258/27115840859269/86649
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Comedy HD
+http://topstb.com:8000/50656250782258/27115840859269/86644
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Discovery HD
+http://topstb.com:8000/50656250782258/27115840859269/86641
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Discovery ID HD
+http://topstb.com:8000/50656250782258/27115840859269/86640
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Discovery Science HD
+http://topstb.com:8000/50656250782258/27115840859269/86639
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Disney HD
+http://topstb.com:8000/50656250782258/27115840859269/86638
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Disney Junior HD
+http://topstb.com:8000/50656250782258/27115840859269/86637
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Kids HD
+http://topstb.com:8000/50656250782258/27115840859269/86627
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Living HD
+http://topstb.com:8000/50656250782258/27115840859269/86626
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Nat Geo HD
+http://topstb.com:8000/50656250782258/27115840859269/86619
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Nat Geo Wild HD
+http://topstb.com:8000/50656250782258/27115840859269/86617
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Nick toons HD
+http://topstb.com:8000/50656250782258/27115840859269/86615
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Nickelodeon HD
+http://topstb.com:8000/50656250782258/27115840859269/86614
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN REEL PX COMEDY
+http://topstb.com:8000/50656250782258/27115840859269/86643
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Series First HD
+http://topstb.com:8000/50656250782258/27115840859269/86610
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Star Movies HD
+http://topstb.com:8000/50656250782258/27115840859269/86608
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Star World HD
+http://topstb.com:8000/50656250782258/27115840859269/86607
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN TLC HD
+http://topstb.com:8000/50656250782258/27115840859269/86605
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Ya Hala Al Oula HD
+http://topstb.com:8000/50656250782258/27115840859269/86604
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Ya Hala HD
+http://topstb.com:8000/50656250782258/27115840859269/86603
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN Yahala Cinema HD
+http://topstb.com:8000/50656250782258/27115840859269/86602
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SSC Sport 1
+http://topstb.com:8000/50656250782258/27115840859269/184097
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SSC SPORT 1
+http://topstb.com:8000/50656250782258/27115840859269/184104
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SSC Sport 2
+http://topstb.com:8000/50656250782258/27115840859269/184096
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SSC Sport 3
+http://topstb.com:8000/50656250782258/27115840859269/184095
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SSC Sport 5
+http://topstb.com:8000/50656250782258/27115840859269/184093
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SSC Sport 6
+http://topstb.com:8000/50656250782258/27115840859269/184098
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SSC SPORT 6
+http://topstb.com:8000/50656250782258/27115840859269/184099
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",SSC SPORT 7
+http://topstb.com:8000/50656250782258/27115840859269/185426
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",TNT: 2M Maroc
+http://topstb.com:8000/50656250782258/27115840859269/35572
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",TNT: Al Aoula Inter
+http://topstb.com:8000/50656250782258/27115840859269/35573
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",TNT: Al Maghribia
+http://topstb.com:8000/50656250782258/27115840859269/35575
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",TNT: Arrabiaa
+http://topstb.com:8000/50656250782258/27115840859269/35576
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",TNT: Arriadia
+http://topstb.com:8000/50656250782258/27115840859269/35577
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",TNT: Assadissa
+http://topstb.com:8000/50656250782258/27115840859269/35578
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",TNT: Medi1TV
+http://topstb.com:8000/50656250782258/27115840859269/35579
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",TNT: Tamazight
+http://topstb.com:8000/50656250782258/27115840859269/35580
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",VIP: Bein AMC HD
+http://topstb.com:8000/50656250782258/27115840859269/87404
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",VIP: Bein Boomerang HD
+http://topstb.com:8000/50656250782258/27115840859269/87420
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",VIP: Bein Cartoon Network HD
+http://topstb.com:8000/50656250782258/27115840859269/87417
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",VIP: Bein Drama HD1
+http://topstb.com:8000/50656250782258/27115840859269/87402
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",VIP: Bein Fatafeat
+http://topstb.com:8000/50656250782258/27115840859269/87409
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",VIP: Bein Fox Movies HD
+http://topstb.com:8000/50656250782258/27115840859269/87427
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",VIP: Bein Gourmet HD
+http://topstb.com:8000/50656250782258/27115840859269/87410
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",VIP: Bein jeem HD
+http://topstb.com:8000/50656250782258/27115840859269/87419
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",VIP: Bein Movies HD1
+http://topstb.com:8000/50656250782258/27115840859269/87396
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",VIP: Bein Movies HD2
+http://topstb.com:8000/50656250782258/27115840859269/87397
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",VIP: Bein Movies HD3
+http://topstb.com:8000/50656250782258/27115840859269/87398
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",VIP: Bein Movies HD4
+http://topstb.com:8000/50656250782258/27115840859269/87399
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",VIP: Bein Nat Geo HD
+http://topstb.com:8000/50656250782258/27115840859269/87415
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",VIP: Bein Nat Wild
+http://topstb.com:8000/50656250782258/27115840859269/87414
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",VIP: Bein OutDoor HD
+http://topstb.com:8000/50656250782258/27115840859269/87412
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",VIP: Bein Series HD1
+http://topstb.com:8000/50656250782258/27115840859269/87400
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",VIP: Bein Series HD2
+http://topstb.com:8000/50656250782258/27115840859269/87401
 #EXTINF:-1 group-title="sports" tvg-logo="https://r7.pngwing.com/path/238/54/383/indian-premier-league-dd-sports-television-dd-national-cricket-39ee3fc39c581d7670adc32a6a400f2e.png",DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/WfAU7pB.png",3 Tamil TV (720p) [Not 24/7]
@@ -385,8 +704,6 @@ http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/tehelkatv.stream/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill (480p) [Geo-blocked]
 http://45.126.83.51/qwr9ew/s/s34/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/YSQVbIm.png",Time Vision News (720p) [Not 24/7]
-http://cloud.logicwebs.in:1935/timevision/timevision/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS English (1080p)
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/eS2fVDh.png",Twenty Four News (576p) [Not 24/7]
@@ -605,16 +922,12 @@ https://58cc65c534c67.streamlock.net/ctvchannel.tv/ctv.smil/playlist.m3u8
 http://51.15.246.58:8081/daawahtv/daawahtv2/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/logo-new1.png",Dijlah (1080p)
 http://91.134.145.75:10001/Dijlah/index.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://www.dijlah.tv/templates/default-2/live-page/images/tarab-logo.png",Dijlah Tarab (576p) [Not 24/7]
-https://ghaasiflu.online/tarab/index.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/nntvc3o.png",Dua TV (720p) [Not 24/7]
 https://live.ishiacloud.com/W67H7ddMzVHyXPrG.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/WjJ8MHC.png",Dubai One (1080p)
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Arabic (1080p)
 https://dwamdstream103.akamaized.net/hls/live/2015526/dwstream103/index.m3u8
-#EXTINF:-1 group-title="Religious",El Maqar (1080p)
-http://135.181.79.179/ElmaqarTVHD/playlist.m3u8?token=mobileuser
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/wup8DKR.jpg",Elbeshara GTV (1080p) [Not 24/7]
 http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/61MSiq9.png",France 24 Arabic (1080p)
@@ -689,8 +1002,6 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 https://fms.nrwision.de/live/livestreamHD.stream_360p/playlist.m3u8
 #EXTINF:-1 ,NRWISION (1080p)
 https://fms.nrwision.de/live/livestreamHD.stream_source/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://europentv.ntvbd.com/sites/all/themes/sloth/logo.png",NTV Europe (720p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/ntvuk00332211.stream/playlist.m3u8
 #EXTINF:-1 ,Oberlausitz TV (1080p) [Not 24/7]
 http://5856e1a25f71a.streamlock.net:1935/easycast8-live/mp4:livestreamhd4/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/BmJaDT3.jpg",OF-TV Offenbach (720p)
@@ -827,8 +1138,6 @@ https://api.new.livestream.com/accounts/27130247/events/8196478/live.m3u8
 https://weyyak-live.akamaized.net/weyyak_ten_tv/index.m3u8
 #EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/cZM2t0P.png",Tunisie Immobilier TV (720p) [Not 24/7]
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
-#EXTINF:-1 ,Wattan TV (720p) [Not 24/7]
-http://htvmada.mada.ps:8888/wattan/index.m3u8
 #EXTINF:-1  tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image",Weyyak Action (1080p)
 https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image",Weyyak Drama (720p)
@@ -929,8 +1238,6 @@ https://waw2.artiyerelmedya.net/lifetv/bant1/playlist.m3u8
 https://broadcasttr.com:446/linetv/bant1/playlist.m3u8
 #EXTINF:-1 ,MaviKaradeniz (720p) [Geo-blocked]
 http://yerelmedya.tv:1935/mavikaradeniz/bant1/playlist.m3u8
-#EXTINF:-1 ,Med Müzik TV (1080p) [Not 24/7]
-http://137.74.205.201/medmuzik/MedStream/playlist.m3u8
 #EXTINF:-1 ,Mercan TV (720p) [Not 24/7]
 http://yerelmedya.tv:1935/mercantv/bant1/playlist.m3u8
 #EXTINF:-1 ,Mercan TV (720p) [Not 24/7]
@@ -2467,8 +2774,6 @@ http://59d7d6f47d7fc.streamlock.net:1935/reggiotv/reggiotv/playlist.m3u8
 http://web.onair-radio.eu:1935/video/video/chunklist_w1235825277.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/08bc71cf0a0f4712b6b03c732b0e6d25/index_3.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Retemia (720p)
-https://5db313b643fd8.streamlock.net/Retemia/Retemia/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Retro Plus 2 HD
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/_definst_/retroplussenal2/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Retro Plus 2 HD
@@ -3201,8 +3506,6 @@ http://trk555.tv:8888/live
 https://api.trtworld.com/livestream/v1/WcM3Oa2LHD9iUjWDSRUI335NkMWVTUV351H56dqC/master.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV 41
 http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Aberta SP
-https://cdn-canalpaulo.ciclano.io:1443/canalpaulo/canalpaulo/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV BRICS (Chine)
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV BRICS (ENG)
@@ -3215,10 +3518,6 @@ https://v4.tustreaming.cl/poptv/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Pai Eterno (480p)
 https://59f1cbe63db89.streamlock.net:1443/teste01/teste01/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Santa Cecília (SP)
-http://flash1.crossdigital.com.br:1935/2063/2063/live.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV Torun HD
-http://217.173.176.107:1935/live/tvk.stream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV2 Fyn
 http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV2 Lorry
@@ -3527,8 +3826,6 @@ https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com The Pet Collective
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com The Retro Channel HD
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com The Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com The Wall Street Journal Live (720p)
@@ -4717,9 +5014,6 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_U_4/variant.m3u8
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_U_7/variant.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Ювелирочка ТВ
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com ЯТБ
-http://46.175.163.130/live_yatb/playlist.m3u8
-
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com 5AAB TV
 http://158.69.124.9:1935/5aabtv/5aabtv/chunklist_w2029417072.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Desi Channel
@@ -4774,8 +5068,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokutraveler/CDN/playlist.m3u8
 https://stream.ecable.tv/afrobeats/index.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV MARIBOR
 https://25-rtvslo-tv-mb-int.cdn.eurovisioncdn.net/playlist.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV SLOVENIJA 1
-https://31-rtvslo-tv-slo1-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com TV SLOVENIJA 3
 https://16-rtvslo-tv-slo3-int.cdn.eurovisioncdn.net/playlist.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Arirang HD
@@ -4987,15 +5279,7 @@ http://mfe.cliptv.az/dash/TV_XXI_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Xəzər
 http://mfe.cliptv.az/dash/Xezer_SD.ism/playlist.mpd
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Māori Television
-http://i.mjh.nz/nz/tv.13.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Māori Television
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Māori Television
-https://i.mjh.nz/nz/tv.13.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Te Reo
-http://i.mjh.nz/nz/tv.20.m3u8
-#EXTINF:-1 group-title="Undefined",list.alliptvlinks.com Te Reo
-https://i.mjh.nz/nz/tv.20.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 group-title="Undefined",list.alliptvlinks.com BeritaSatu
