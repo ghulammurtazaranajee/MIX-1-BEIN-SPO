@@ -1,13 +1,6 @@
 #EXTM3U
 
 
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: AFAGH
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/6152
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: AGHAPY CHRISTIAN
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/6051
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: AL AHLY
-http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/6089
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: AL ALAM
 http://31.43.191.59:8080/WHT1344/zNAqmDwYC4/6054
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: AL ANWAR
