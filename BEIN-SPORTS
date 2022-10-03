@@ -186,6 +186,43 @@ http://iptv.ndasat.com:88/226342532655215/226342532655215/1464
 http://iptv.ndasat.com:88/226342532655215/226342532655215/1472
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Discovery Sc HD
 http://iptv.ndasat.com:88/226342532655215/226342532655215/1474
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Disney
+http://iptv.ndasat.com:88/226342532655215/226342532655215/1690
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Discovery ID
+http://iptv.ndasat.com:88/226342532655215/226342532655215/1691
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Cinema1
+http://iptv.ndasat.com:88/226342532655215/226342532655215/1695
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN: Musalsalat
+http://iptv.ndasat.com:88/226342532655215/226342532655215/1697
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Fann
+http://iptv.ndasat.com:88/226342532655215/226342532655215/1702
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN: Planet Earth
+http://iptv.ndasat.com:88/226342532655215/226342532655215/1703
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:History2
+http://iptv.ndasat.com:88/226342532655215/226342532655215/1606
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Discovery
+http://iptv.ndasat.com:88/226342532655215/226342532655215/1608
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Safwa
+http://iptv.ndasat.com:88/226342532655215/226342532655215/2402
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN: Movies Hollywood
+http://iptv.ndasat.com:88/226342532655215/226342532655215/2412
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Enigma
+http://iptv.ndasat.com:88/226342532655215/226342532655215/1467
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Movies Kids
+http://iptv.ndasat.com:88/226342532655215/226342532655215/1471
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Movies Premiere
+http://iptv.ndasat.com:88/226342532655215/226342532655215/1466
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Movies Comedy
+http://iptv.ndasat.com:88/226342532655215/226342532655215/1469
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN: Series Showcase
+http://iptv.ndasat.com:88/226342532655215/226342532655215/1465
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Movies Premium +2
+http://iptv.ndasat.com:88/226342532655215/226342532655215/1472
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Discovery Sc HD
+http://iptv.ndasat.com:88/226342532655215/226342532655215/1474
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Star Movies
+http://iptv.ndasat.com:88/226342532655215/226342532655215/2392
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",DE:RTL
 http://iptv.ndasat.com:88/226342532655215/226342532655215/252
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",DE:RTL 2
