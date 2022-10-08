@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Coronavirus Pandemic
 http://iptv.ndasat.com:88/226342532655215/226342532655215/1044
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",SP:Bein News
@@ -185,8 +186,6 @@ http://iptv.ndasat.com:88/226342532655215/226342532655215/1464
 http://iptv.ndasat.com:88/226342532655215/226342532655215/1472
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Discovery Sc HD
 http://iptv.ndasat.com:88/226342532655215/226342532655215/1474
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Disney
-http://iptv.ndasat.com:88/226342532655215/226342532655215/1690
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Discovery ID
 http://iptv.ndasat.com:88/226342532655215/226342532655215/1691
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN:Cinema1
@@ -233,112 +232,8 @@ http://iptv.ndasat.com:88/226342532655215/226342532655215/3606
 http://iptv.ndasat.com:88/226342532655215/226342532655215/3416
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",DE:VOX
 http://iptv.ndasat.com:88/226342532655215/226342532655215/253
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 24 News
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1403
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 8XM
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82577
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 92 News
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1402
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: A Plus
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/49504
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: A Sports
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295025
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Aaj Entertainment
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/19748
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Aaj News
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1401
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Abb Takk
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1400
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Akaal Channel
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193653
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Apna Channel
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/76824
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY Digital Asia
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/49510
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY Musik
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1398
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY News
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1397
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY QTV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5058
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY World
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/49494
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY Zindagi
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1396
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ATV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/34630
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: AVT Khyber
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/287724
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Bol Entertainment
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/49517
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Bol News
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1395
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Can Bangla TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286198
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Canada One
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/147405
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Capital TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16625
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Channel Five
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/49501
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: City 41
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/192079
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: City 42
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1394
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Dawn News
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5056
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Discovery Pakistan
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/267107
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Dunya News
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1393
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: EAwaz TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286205
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Eman Channel
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/197123
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Eternal Life TV Network
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/275976
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Express Entertainment
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/147052
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Express News
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5105
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Fazal TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/49600
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Film World
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82238
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Filmax
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/197124
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Geo Kahani
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1392
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Geo News
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1391
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Geo Super
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16626
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Geo Tez
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/5106
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Geo TV Network
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1389
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Hidayat TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193651
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Hum Masala
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/19746
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Hum News
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/49493
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Hum Sitaray
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1386
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Hum TV Europe
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1387
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Isaac TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/275949
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Jalwa
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/226395
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Joo Music
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/168909
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Kay 2
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1384
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Khyber Middle East TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16991
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Khyber News
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/49533
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: King TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/267425
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Kohenoor News
@@ -393,8 +288,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/49522
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/196563
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Raham TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/196564
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Rohi TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/197122
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Roze News
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/21686
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Samaa TV
@@ -419,6 +312,810 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1376
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1375
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Zindagi TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1374
+
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: &AMP; FLIX
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26543
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: &AMP; PICTURES
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14192
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: &AMP; PRIVE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26541
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: &AMP;TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26544
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 3 TAMIL TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/65214
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 1 SPORTS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235930
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 1ST INDIA NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46417
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 4TV NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26545
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 5AAB TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45230
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 8XM
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46418
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 9X JALWA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14384
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 9X JHAKAAS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27051
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 9X TASHAN
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14385
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 9XM
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14188
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: AAJ TAK
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14282
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: AAKAASH AATH
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236066
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: AASTHA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46425
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: AASTHA BHAJAN
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26944
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ABN ANDHRA JYOTHY
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236074
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ABP ANANDA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27007
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ABP ASMITA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14473
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ABP MAJHA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26964
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ABP NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14331
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: AKAAL CHANNEL UK
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45237
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: AMRITA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26416
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ANB NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235956
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ANIMAL PLANET
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14199
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: APKA CHANNEL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45241
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: APN NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235976
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ASIANET
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14886
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ASIANET MOVIES
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27144
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ASIANET NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26418
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ASIANET PLUS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26873
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ATN NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174795
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: B4U KADAK
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26423
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: B4U MASTI MUSIC
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45296
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: B4U MOVIES
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14201
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: B4U PLUS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26424
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: BABY TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26550
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: BBC WORLD
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235969
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: BFLIX MOVIES
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236040
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: BHAKTI TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235977
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: BHARAT SAMACHAR
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236001
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: BHOJPURI CINEMA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236034
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: BIG MAGIC
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14203
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: BOISHAKHI TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/137957
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: BOLLYWOOD CLASSIC
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46442
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: BRIT ASIA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14391
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CALCUTTA NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236071
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CAPTAIN NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14560
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CAPTAIN TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14561
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CARTOON NETWORK
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14206
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CHANNEL NEWS ASIA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235992
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CHARDIKLA TIME TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14394
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CNBC AWAAZ
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26434
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CNBC BAJAR
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26435
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CNN
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235968
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14209
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS BANGLA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174622
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS CINEPLEX
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46448
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS EUROPE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46449
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS GUJARATI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26696
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS KANNADA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174668
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS KANNADA CINEMA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174696
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS MARATHI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26612
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS RISHTEY
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26540
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS SUPER
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26925
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS TAMIL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26557
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLOURS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46453
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CTVN AKD PLUS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236082
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: D TAMIL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236080
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DAN TAMIL OLI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/137532
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DANGAL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26558
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD BANGLA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26560
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD BHARATI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236003
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD BIHAR
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236004
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD CHANDANA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26562
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD GIRNAR
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14215
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD INDIA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14216
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD KASHIR
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174146
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD KISAN
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14218
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD MADHYA PRADESH
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235978
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD MALAYALAM
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26438
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD NATIONAL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14219
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14220
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD NORTH EAST
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235979
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD ODIA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235980
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD PODHIGAI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45329
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD PUNJABI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14437
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD SAHYADRI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46456
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD SAPTAGIRI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236042
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD SPORTS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14223
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD UTTAR PRADESH
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174452
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD YADAGIRI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235981
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DERANA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/137533
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DHINCHAAK
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235964
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DIGHVIJAY 24X7 NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236043
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DILLAGI TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26772
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DISCOVERY CHANNEL HINDI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14873
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DISCOVERY KIDS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/138275
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DISCOVERY SCIENCE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174186
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DISCOVERY SCIENCE HINDI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46462
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DISCOVERY TURBO
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26567
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DISCOVERY WORLD
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174318
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DISHA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235940
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DISNEY
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26568
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DIVYA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26442
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DW
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26443
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DY 365
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236006
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: E24
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174225
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: EK ONKAR
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174291
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ENTERR10
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26716
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: EPIC
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26569
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ET NOW
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26445
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ETV BANGLA NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27041
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ETV CINEMA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236075
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ETV LIFE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236078
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ETV TELENGANA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174582
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: EUROSPORT
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235929
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: EYE SCHEDULE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/137535
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: FAKT MARATHI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27057
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: FASHION TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236065
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: FASTWAY TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45250
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: FATEH TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14401
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: FLOWERS TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26446
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: FOOD FOOD TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14324
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: FOX LIFE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26573
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: FRANCE 24
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235993
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: GARV GURBANI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174371
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: GAUNDA PUNJAB TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14403
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: GEMINI TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174660
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: GOOD TIMES
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236030
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: GS TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26989
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: GUJARAT SAMACHAR TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236050
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: GULISTAN NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27000
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: HARVEST TV USA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26451
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: HBO
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14841
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: HINDU DHARMAM
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235947
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: HIRU TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26452
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: HISTORY CHANNEL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26574
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: HISTORY TV18
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174187
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: HM TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235982
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: HOLYMARY TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/137536
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: HUM TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45319
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: IBC 24
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235942
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: IBC BAKTHI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45331
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: IBC COMEDY
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/137516
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: IBC TAMIL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/137537
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: IN GOA 24X7
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236035
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: INDIA NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174182
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: INDIA TODAY
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/42992
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: INDIA TODAY NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46477
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: INDIA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26456
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: INDRADHANU
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235949
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: INH 24X7
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235943
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ISAIARUVI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174616
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ISHWAR
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236146
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ISLAMIC NETWORK
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170385
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JANAM TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27016
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JAYA MAX
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14570
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JAYA MOVIES
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14571
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JAYA PLUS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14572
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JAYA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14573
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JAYA TV-US
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14626
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JMOVIES
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236171
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JUSONE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174809
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JUSPUNJABI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26858
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: KADAK HITS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26464
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: KAIRALI TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26466
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: KALAIGNAR TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236079
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: KALINGA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235983
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: KANAK NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235984
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: KAPPA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26470
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: KASTHURI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236089
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: KAUMUDY TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26472
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: KOLKATA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236090
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: KTV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14574
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: KTV USA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/42994
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: LIVING FOODZ
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14238
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MADHA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174314
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MAKKAL TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14577
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MALAIMURASU SEITHIGAL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236044
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MANJARI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235985
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MANORAMA NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26478
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MANORANJAN MOVIES
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45450
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MANORANJAN TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174521
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MASTIII
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26479
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MATHRUBHUMI NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26480
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MAZHAVIL MANORAMA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26481
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MBC BOLLYWOOD
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26981
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MEDIA ONE TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26482
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MEGA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236083
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MH ONE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236092
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MH ONE NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26741
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MH ONE SHRADDHA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236007
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MN+
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236020
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MNX
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14908
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MTV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26704
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MTV BEATS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26694
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MURASU TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236093
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NAMMA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236009
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NAT GEO
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26580
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NDTV 24X7
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26699
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NDTV INDIA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26723
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS 18 KERALA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26862
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS 24
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14248
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS LIVE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174345
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS NATION
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235991
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS ONLY
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236165
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS STATE UP UTTARAKHAND
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236021
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS TIME BANGLA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236069
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS11 BHARAT
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236024
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS18 ASSAM NORTH EAST
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174227
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS18 BANGLA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236067
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS18 BIHAR JHARKHAND
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236032
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS18 GUJARATI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174717
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS18 INDIA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235966
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS18 KANNADA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174691
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS18 KERALA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236113
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS18 LOKMAT
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26495
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS18 RAJASTHAN
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235941
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS18 TAMIL NADU
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174636
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NEWS18 UTTAR PRADESH UTTARAKHAND
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235996
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NICK JR
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174087
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NICKELODEON
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26582
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NORTH EAST LIVE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236094
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NTV BANGLA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174794
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NTV TELUGU
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174574
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PEACE OF MIND
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174164
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PEACE TV URDU
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26584
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PITAARA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14416
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: POGO
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174279
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: POLIMER NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14586
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: POLIMER TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174604
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PRAG NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235954
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PRIME ASIA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27096
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PROTIDIN TIME
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236048
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PRUDENT
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236036
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PTC CHAKDE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45266
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PTC NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45269
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PTC PUNJABI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14422
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PTC PUNJABI UK
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45300
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PUNJABI TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26502
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PUTHIYA THALIMURAI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27011
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: R BHARAT
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235967
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: RAJ DIGITAL PLUS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14590
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: RAJ MUSIX
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27115
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: RAJ MUSIX TELUGU
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236106
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: RAJ NEWS 24X7
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26990
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: RAJ NEWS KANNADA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26995
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: RAJ NEWS MALAYALAM
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236107
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: RAJ NEWS TELUGU
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236077
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: RAJ TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14592
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: RAMDHENU
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236099
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: RANG
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236012
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: RENGONI TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236116
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: REPORTER TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26503
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: RISHTEY CINEPLEX
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14884
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: RISHTEY EUROPE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46513
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SAAM TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236049
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SAB
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26583
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SAHANA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236095
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SAKSHI TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14655
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SANGAT TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/170229
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SANGEET BANGLA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27059
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SANGEET MARATHI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174540
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SANJHA PUNJAB
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46517
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SANSKAR TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14354
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SANTHORA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46520
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SARDARI TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14446
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SATHIYAM TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236101
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SATSANG TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174219
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SET
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236018
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SHALOM TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174728
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SHEMAROO MARATHIBANA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235998
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SHEMAROO TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235990
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SHOWBOX
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235971
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SHUBH TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235953
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SIKH CHANNEL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26510
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SIRIPPOLI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236119
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONIC NICKELODEON
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26912
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14275
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY AATH
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236037
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY BBC EARTH
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26692
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY ESPN
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14257
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY MARATHI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27089
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY MAX
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26590
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY MAX 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14259
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY MIX
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14260
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY PAL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/41325
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY PIX
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14182
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY SAB
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14263
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY SAB UK
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45423
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY SIX
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14268
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY TEN 1
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26600
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY TEN 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26601
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY TV ASIA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46537
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY WAH
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174045
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY YAY!
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26808
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SRI SANKARA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236114
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR BHARAT
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14280
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR GOLD
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14283
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR GOLD SELECT
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46544
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR JALSHA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174747
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR MAA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236051
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR MAA GOLD
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14628
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR MAA MOVIES
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174576
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR MOVIES
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14379
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR MOVIES MIDDLE EAST
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46549
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR PLUS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14284
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR PRAVAH
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174748
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR SPORT 3
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45427
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR SPORTS 1
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27151
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR SPORTS 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14289
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR SPORTS SELECT 1
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14865
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR SPORTS SELECT 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14866
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR SUVARNA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174745
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR SUVARNA PLUS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174688
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR VIJAY
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14892
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STARS PORTS 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46555
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SUDARSHAN NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236045
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SUN LIFE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14596
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SUN TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14599
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SUR SAGAR TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14432
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SURYA MOVIES
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174742
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SURYA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174741
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SURYA TV MALAYAM
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/41329
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SUVARNA NEWS 24×7
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26518
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SVBC 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236047
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SWARAJ EXPRESS SMBC
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236013
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: T NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236000
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TAKBEER TV UK
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/61568
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TATA SKY FAMILY HEALTH
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/235957
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TATA SKY GUJARATI CINEMA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236096
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TATA SKY HOLLYWOOD LOCAL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236058
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TATA SKY SHORTS TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236055
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TEN 1
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46566
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TEN 2
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46567
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TEN 3
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46568
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TEN GOLF
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/61567
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TEN SPORTS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/17082
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TEZ
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174139
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: THANTHI TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26521
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: THE Q INDIA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174245
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TIMES NOW
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14181
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TLC HINDI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26932
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TRAVEL XP
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26709
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV ONE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/78564
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV5 KANNADA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236008
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV5 MONDE ASIE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236026
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV9 BHARATVARSH
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174260
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV9 GUJARATI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45303
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV9 MARATHI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174198
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV9 TELUGU
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/26525
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: UDAYA MOVIES
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27018
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: UDAYA TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174753
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: UTV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14872
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: UTV BINDASS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27146
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: UTV MOVIES
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27145
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: V6 NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174136
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: VASANTH TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236039
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: VEDIC
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174337
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: VISION PUNJAB GURBANI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45286
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: VTV GUJARATI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236010
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: WILLOW CRICKET
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27140
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: WION TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14374
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE 24 KALAK
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14476
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE 24 TAAS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45314
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE ACTION
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14296
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE ANMOL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14297
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE ANMOL CINEMA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14298
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE BANGLA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/142533
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE BANGLA CINEMA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27133
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE BIHAR JHARKHAND
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174418
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE BISKOPE
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174295
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE BOLLYWOOD
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14306
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE BUSINESS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14300
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE CINEMA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14301
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE CINEMA USA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46583
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE CINEMALU
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236174
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE CLASSIC
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14305
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE ETC BOLLYWOOD
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46585
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE HINDUSTAN
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45430
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE KANNADA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174673
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE KERALAM
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174744
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE MARATHI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/45313
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE NEWS
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14310
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE PICCHAR
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174463
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE PUNJAB HARYANA HIMACHAL PRADESH
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236014
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE PUNJABI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27129
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE TALKIES
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27124
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE TAMIL
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14606
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE TELUGU
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14664
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE THIRAI
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174376
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE TV
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/14314
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE UTTAR PRADESH UTTARAKHAND
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/236022
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE YUVA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/27126
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZING
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/171807
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZING INDIA
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/46590
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZOOM
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/174286
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: GEMINI MOVIES
+http://driptvs.com:8080/StevOsnTelegram/Vc9zE2PWHw/342767
+
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",8XM HD IN
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136645
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",AL Jazeera HD IN
@@ -509,10 +1206,6 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136606
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136559
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",HUM Sitaray IN
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136570
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",India News IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136527
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Karbala TV IN
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136641
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",KTV HD IN
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136596
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Manoranjan Movies IN.
@@ -563,8 +1256,6 @@ http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136523
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136583
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Sony MAX HD IN
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136654
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Sony Pal IN.
-http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136434
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Sony Pix HD IN
 http://iptvworld.nl:2095/nlinenodric/4sR2SwYYeg/136688
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Sony SAB HD IN
@@ -827,8 +1518,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/283904
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/45479
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD Sports
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/56153
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD Uttar Pradesh
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193051
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Desi Beats
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286933
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Desi Channel
@@ -863,8 +1552,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286940
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286941
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Eet TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/51818
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Enterr 10
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193025
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Epic TV
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/192950
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ETC
@@ -927,8 +1614,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/197720
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/60348
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Jaya Max
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/51824
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JAYA Movies
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295395
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JAYA PLUS
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193207
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Jaya TV
@@ -1071,162 +1756,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/196101
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/60418
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Raj News 24x7
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193648
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Raj TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193125
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Real News Kerala
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/283939
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Relax TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/287018
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Reporter
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/51854
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Republic Bharat
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/49582
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Republic TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82617
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Rishtey Cineplex
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/71074
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Romedy Now
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/51876
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Saam TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166387
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sada TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/49625
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sadhna Plus News
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166394
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sakshi TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193164
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sana Plus
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/287021
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sana TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/287022
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sangat TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165765
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sangeet Bangla
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165827
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sanjha TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/49624
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sankara TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166407
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sanskar TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/51882
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Santhora Short Flim
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/51833
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Santhora TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/51835
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sardari TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82554
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sarv Dharam Sangam
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166791
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sathiyam TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193131
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Satsang TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/45463
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SEITHIGAL
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295300
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Shemaroo TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/192955
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Shraddha
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/287026
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Shubhsandesh TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82557
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sikh Channel
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82556
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sikh Spiritual Centre Rexdale
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/286225
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sivan TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/51842
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SOMOY TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/296493
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony BBC Earth
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/192995
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Marathi
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193097
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Max
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1359
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Max 2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4862
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Max India
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/63397
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Pal
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193645
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Pix
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/49539
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony SAB TV Asia
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1073
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony SAB TV India
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/20649
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Six
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/4853
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Ten 1
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16622
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Ten 2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16621
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Ten 3
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/56191
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Wah
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/165801
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Yay
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1355
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR BHARAT
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/284583
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Gold
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/1070
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Gold 2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/43919
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Jalsha
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/12979
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Maa
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82624
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR Movies
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/11511
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR PLUS
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16091
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Pravah
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193149
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Sports 1
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/3630
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Sports 2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/3631
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Sports 3
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/62584
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Sports Select 1
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82628
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Sports Select 2
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/16619
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Vijay
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/157500
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Steelbird Music
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/49650
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Subhavaartha TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166397
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SUN LIFE
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/267819
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sun Music
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/157496
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sun News
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/295303
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sun TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/76969
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SURYA Movies
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193145
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SVBC
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/166383
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Swamiji TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/267416
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Swaraj Express
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/287033
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Tamil Vision
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/60423
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Tamilan TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/267549
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Tehelka TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/287035
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Thanthi TV
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/45437
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Times Now
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/76961
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Travelxp
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/82636
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV 5 Kannada
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/193065
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV 9 Gujarati
@@ -1321,8 +1850,6 @@ http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/173160
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/192069
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RU: Domashniy
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/80195
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RU: English Club
-http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/271274
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RU: Eureka
 http://quality-restream.com:8080/GenIptvLast/FaP6YswK77NaOPOF/75622
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RU: Europa Plus TV
