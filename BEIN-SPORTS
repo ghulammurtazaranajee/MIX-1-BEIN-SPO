@@ -1,7 +1,6 @@
 #EXTM3U
 
 
-
 #EXTINF:-1 group-title="Pakistani" tvg-logo="https://i.imgur.com/cSsKx4N.jpg?1",PK | GNN HD
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/34987
 #EXTINF:-1 group-title="Pakistani" tvg-logo="https://i.imgur.com/QaIlONm.png?2",PK | 92 News HD
@@ -526,8 +525,6 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/31534
 http://red.ipfox.org:8080/Karam2022/Karam2023/31533
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Sport 06 (720P)
 http://red.ipfox.org:8080/Karam2022/Karam2023/31531
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Sport 07 (720P)
-http://red.ipfox.org:8080/Karam2022/Karam2023/31530
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",STAR MOVIES HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49742
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN MUSALSALAT HD
@@ -550,8 +547,6 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/49751
 http://red.ipfox.org:8080/Karam2022/Karam2023/49752
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN KIDS HD [AR]
 http://red.ipfox.org:8080/Karam2022/Karam2023/49753
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN NEWS FHD
-http://red.ipfox.org:8080/Karam2022/Karam2023/49754
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",ALFA AL YAWM HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49755
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN MUSALSALAT +2 HD
@@ -618,8 +613,6 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/49787
 http://red.ipfox.org:8080/Karam2022/Karam2023/49788
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN DISNEY CHANNEL HD (EN)
 http://red.ipfox.org:8080/Karam2022/Karam2023/49789
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN DISNEY CHANNEL HD (AR)
-http://red.ipfox.org:8080/Karam2022/Karam2023/49790
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN DISNEY JR HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49791
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN NICK JR HD
@@ -662,8 +655,6 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/49814
 http://red.ipfox.org:8080/Karam2022/Karam2023/49815
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN YA HALA! +1 HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49816
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN YA HALA! +4 HD
-http://red.ipfox.org:8080/Karam2022/Karam2023/49818
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN LIVING +2 HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49820
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN SERIES +1 HD
@@ -688,8 +679,6 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/49830
 http://red.ipfox.org:8080/Karam2022/Karam2023/49831
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",DISCOVERY CHANNEL HD +1
 http://red.ipfox.org:8080/Karam2022/Karam2023/49832
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",DISCOVERY SCIENCE +1 HD
-http://red.ipfox.org:8080/Karam2022/Karam2023/49833
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",INVESTIGATION DISCOVERY +1 HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49835
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",INVESTIGATION DISCOVERY +2 HD
@@ -920,8 +909,6 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/797
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/774
 #EXTINF:-1 group-title="Punjabi" tvg-logo="https://i.imgur.com/q53hcfs.jpg",PB: Fastway TV
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/776
-#EXTINF:-1 group-title="Punjabi" tvg-logo="http://www.godlywoodstudio.org/wp-content/uploads/2016/12/2-desi-logo-570x570.png",PB: Desi Channel
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/793
 #EXTINF:-1 group-title="Punjabi" tvg-logo="https://i.imgur.com/sheVQBz.png",PB: BBC Toronto
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/773
 #EXTINF:-1 group-title="Punjabi" tvg-logo="https://i.imgur.com/Ue6Likh.png",PB: Punjab Politics
@@ -1080,8 +1067,6 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/73567
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/2281
 #EXTINF:-1 group-title="UK - Entertainment" tvg-logo="https://i.imgur.com/PUpt2Gw.png",UK | E4
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/908
-#EXTINF:-1 group-title="UK - Entertainment" tvg-logo="https://tvpmlogopeu.samsungcloud.tv/platform/image/sourcelogo/vc/70/00/14/GBAK3504500A_20211208T025510.png",GB | 5 Cops
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/70884
 #EXTINF:-1 group-title="UK - Entertainment" tvg-logo="http://epg.today/wordpress/wp-content/uploads/2020/09/3744.png",UK: Pick
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/907
 #EXTINF:-1 group-title="UK - Entertainment" tvg-logo="https://i.imgur.com/6Fk0Yr1.jpg",UK | Sky Crime HD
@@ -1606,8 +1591,6 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/882
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/877
 #EXTINF:-1 group-title="Romania",RO | NATIONAL TV
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/875
-#EXTINF:-1 group-title="Romania" tvg-logo="https://i.imgur.com/JK6Rypn.jpg",RO | Iasi TV Life
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/874
 #EXTINF:-1 group-title="Romania" tvg-logo="https://i.imgur.com/7l1umPf.png?1",RO | Cook & Play
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/856
 #EXTINF:-1 group-title="Romania" tvg-logo="https://i.imgur.com/I2BUats.png",RO | Digi Animal World
@@ -2116,8 +2099,6 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/1746
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/9238
 #EXTINF:-1 group-title="IN - TAMIL",IN-TAM | POLIMER NEWS
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/17819
-#EXTINF:-1 group-title="IN - TAMIL",IN-TAM | RAJ NEWS
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/17870
 #EXTINF:-1 group-title="IN - TAMIL",IN-TAM | KTV
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/20340
 #EXTINF:-1 group-title="IN - TAMIL",IN-TAM | IBC MUSIC
@@ -2198,8 +2179,6 @@ http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/9387
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/5758
 #EXTINF:-1 group-title="IN - GUJARATI" tvg-logo="https://i.imgur.com/Ql8nUgi.png?1",IN | India News Gujarat
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/11090
-#EXTINF:-1 group-title="IN - GUJARATI" tvg-logo="https://i.imgur.com/7XVVYg3.jpg?1",IN | NEWS18 GUJARATI
-http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/11096
 #EXTINF:-1 group-title="IN - GUJARATI" tvg-logo="https://i.imgur.com/y5vPVci.png?1",IN | SANDESH NEWS
 http://www.tvxclnt.com:8080/tretvx2022/QP3J8nmeTvIZp82J/11099
 #EXTINF:-1 group-title="IN - GUJARATI" tvg-logo="https://i.imgur.com/eaeNxen.jpg?1",IN | Zee 24 Kalak
@@ -2636,8 +2615,6 @@ https://sc.id-tv.kz/Nickelodeon_34_35.m3u8
 http://tv.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Otyrar TV
 https://sc.id-tv.kz/Otyrar_34_35.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Qazaqsha Kinoalem
-https://sc.id-tv.kz/QKinoAlem_34_35.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Qazaqsha Kinohit
 https://sc.id-tv.kz/QKinoHIT_34_35.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",RT HD
@@ -2732,8 +2709,6 @@ https://bl.uma.media/live/485544/HLS/4614144_3/2/1/playlist.m3u8
 https://bl.uma.media/live/485545/HLS/4614144_3/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Viasat Sport
 https://sc.id-tv.kz/ViasatSport_34_35.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Viasat Sport HD
-http://tv.streams.baikal-telecom.net/Viasat_Sport/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",WFC TV
 http://wfcrus.mediacdn.ru/cdn/wfcrus/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",WFC TV HD
@@ -3268,8 +3243,6 @@ http://rtmp.one.by:2300
 http://live-1.otcnet.ru/pskov/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ???????????????
 http://ott.inmart.tv:8081/18/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ???????????????
-http://tv.newline.in.ua:8686/1resp
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ??????????
 http://live-yugmedia.cdnvideo.ru/yugmedia/streamtr_480/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ?????????? HD
@@ -4240,10 +4213,6 @@ http://103.199.160.85/Content/puthuyugam/Live/Channel(Puthuyugam)/index.m3u8
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/a80vdrp.jpg",Reporter TV (576p)
 http://103.199.161.254/Content/reporter/Live/Channel(Reporter)/index.m3u8
-#EXTINF:-1 group-title="Movies",Star Cinema (576p)
-http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnjei8kytwcgs3zm5gnw5c6efa5gr3fadzqe686w8gj2eaehrj89wvujvqza3kez78dtknwbbmnqf79yygmqqg7e9pnc3i3bpywjkiqrwke94yf.m3u8
-#EXTINF:-1 group-title="Family",Star Family (576p)
-http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/jSWRXdg.png",Tamil Vision TV (1080p)
 http://live.tamilvision.tv:8081/TVI/HD/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="http://console.celestialtiger.com/images/upload/1f6e441382a388940977fd9e165178c42fe0c193.png",Thrill (480p) [Geo-blocked]
@@ -4580,8 +4549,6 @@ http://82.212.74.98:8000/live/hls/7726.m3u8
 https://media2.livaat.com/TAHA-TV/index.m3u8
 #EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/cZM2t0P.png",Tunisie Immobilier TV (720p) [Not 24/7]
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://content.weyyak.com/207c8580-318d-ea11-831d-02d662556796/poster-image",Weyyak Action (1080p)
-https://weyyak-live.akamaized.net/weyyak_action/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://content.weyyak.com/d995517f-bc87-ea11-831d-02d662556796/poster-image",Weyyak Drama (720p)
 https://weyyak-live.akamaized.net/weyyak_drama/index.m3u8
 #EXTINF:-1  tvg-logo="https://content.weyyak.com/bc777336-328d-ea11-831d-02d662556796/poster-image",Weyyak Mix (720p)
@@ -4704,8 +4671,6 @@ https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8?token=An
 https://bl.uma.media/live/317805/HLS/4614144_3,2883584_2,1153024_1/1613019214/3754dbee773afc02014172ca26d3bb79/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/2265.png",360°
 https://rt-vlg-ul-htlive.cdn.ngenix.net/hls/CH_R03_STB/variant.m3u8?version=3
-#EXTINF:-1 group-title="Українські" tvg-logo="https://dvb.by/sources/logos/1969.png",7 канал HD (Одесса)
-http://cdn10.live-tv.od.ua:8081/7tvod/7tvod-abr/7tvod/7tvod/playlist.m3u8
 #EXTINF:-1 group-title="Зарубежный спорт" tvg-logo="../Channel/Logo/Travel + Adventure HD.png",Adventure Sports Network
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-adventuresportsnetwork/CDN/768x432_1200000/index.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/3747.png",Bolt HD
@@ -4840,8 +4805,6 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/bw2000000/variant.m3u8?ve
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNIY_4/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Общие" tvg-logo="../Channel/Logo/Домашний.png",Домашний (+7)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_7/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 group-title="Українські",Думская TV HD
-http://cdn1.live-tv.od.ua:8081/dumska/dumska-abr/playlist.m3u8
 #EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/2587.png",Карусель
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/2587.png",Карусель (+3)
@@ -5116,32 +5079,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 #EXTINF:-1 ,Local Now Adrenaline Rush (720p)
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | HBO (West)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147298
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | HBO 2 (East)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147300
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | HBO 2 (West)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147301
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | HBO Comedy (East)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147302
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | HBO Comedy (West)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147303
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | HBO Family (East)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147304
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | HBO LATINO (East)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147306
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | HBO Zone (West)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147311
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | CineMAX (East)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147313
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | CineMAX (West)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147314
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | EPIX (East)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147315
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | EPIX (West)
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147316
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | Epix 2
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/147317
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | MY 9 NEW YORK
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142368
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | WGN AMERICA
@@ -5324,8 +5261,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145864
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145865
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",FOX BUSINESS
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/34803
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",FOX NEW ORLEANS LA WVUE
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/34829
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",FOX PHILADELPHIA PA WTXF
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/34832
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",FOX SAN FRANCISCO CA KTVU
@@ -5396,8 +5331,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145892
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145893
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | NBC Phoenix
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145894
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | NBC Pittsburgh
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145895
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | NBC Raleigh
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145896
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | NBC Sacramento
@@ -5408,8 +5341,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145898
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145899
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | NBC San Francisco
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145900
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | NBC Seattle
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145901
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | NBC St Louis
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145902
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | NBC Washington
@@ -5510,8 +5441,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145954
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145955
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | FXX
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145956
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | FYI
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145957
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | GAC FAMILY
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145958
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | GET TV
@@ -5564,8 +5493,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145983
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145984
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | OWN
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145986
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | OXYGEN
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145987
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | PARAMOUNT NETWORK
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145988
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | PEOPLE TV
@@ -5588,8 +5515,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145997
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145998
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | TASTEMADE
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145999
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | TBS EAST
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146000
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | TCM
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146001
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | TLC
@@ -5630,7 +5555,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146681
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146682
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | UNIVERSAL KIDS
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146683
-
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR : 13EME RUE
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57244
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR : 6TER
@@ -5677,8 +5601,6 @@ http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57272
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57273
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR : CANAL  DECALE
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57275
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR : CANAL  SPORT
-http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57278
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR : CHERIE 25
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57283
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR : CINE CLUB
@@ -5747,8 +5669,6 @@ http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57322
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57323
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR : MTV FRANCE
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57324
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR : NATIONAL GEO WILD
-http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57326
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR : NATIONAL GEOGRAPHIC
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57327
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR : NICKELODEON
