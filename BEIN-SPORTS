@@ -60,6 +60,26 @@ http://cineapp.org:8000/Fernando/Fernando/152889
 http://cineapp.org:8000/Fernando/Fernando/152895
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|KU| TR ARTI TV
 http://cineapp.org:8000/Fernando/Fernando/45385
+#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : AAJ ENT
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69271
+#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : ARY NEWS
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69272
+#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : ARY QTV
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69273
+#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : GEO NEWS
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69276
+#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : GEO SUPER
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69277
+#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : GEO TEZ
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69278
+#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : HUM SITARAY
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69280
+#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : HUM TV HD
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69281
+#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : NEO NEWS
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69283
+#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : PTV SPORTS
+http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69284
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",|Fox| Adel Emam
 http://red.ipfox.org:8080/Karam2022/Karam2023/31949
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",|Fox| Ahmed Zaki
