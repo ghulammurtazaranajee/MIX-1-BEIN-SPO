@@ -1,65 +1,7 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| AL-QURAN AL-KAREEM
-http://cineapp.org:8000/Fernando/Fernando/152819
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| AL-SUNNAH
-http://cineapp.org:8000/Fernando/Fernando/152820
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| 92 NEWS
-http://cineapp.org:8000/Fernando/Fernando/152830
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| PUBLIC NEWS
-http://cineapp.org:8000/Fernando/Fernando/152832
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| GNN NEWS
-http://cineapp.org:8000/Fernando/Fernando/152833
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| NEO NEWS
-http://cineapp.org:8000/Fernando/Fernando/152838
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| LAHORE NEWS
-http://cineapp.org:8000/Fernando/Fernando/152840
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| LAHORE RANG
-http://cineapp.org:8000/Fernando/Fernando/152841
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| CAPITAL NEWS
-http://cineapp.org:8000/Fernando/Fernando/152842
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| GEO TEZZ
-http://cineapp.org:8000/Fernando/Fernando/152849
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| K21 NEWS
-http://cineapp.org:8000/Fernando/Fernando/152850
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| CHANNEL 5
-http://cineapp.org:8000/Fernando/Fernando/152851
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| HUM TV HD
-http://cineapp.org:8000/Fernando/Fernando/152856
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| HUM SITARAY
-http://cineapp.org:8000/Fernando/Fernando/152857
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| BOL ENTERTAINMENT
-http://cineapp.org:8000/Fernando/Fernando/152861
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| ATV
-http://cineapp.org:8000/Fernando/Fernando/152864
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| PLAY TV
-http://cineapp.org:8000/Fernando/Fernando/152867
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| PTV HOME
-http://cineapp.org:8000/Fernando/Fernando/152868
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| AAJ ENTERTAINMENT
-http://cineapp.org:8000/Fernando/Fernando/152869
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| SEE TV HD
-http://cineapp.org:8000/Fernando/Fernando/152870
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| DISCOVER PAKISTAN
-http://cineapp.org:8000/Fernando/Fernando/152873
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| HBO PAK
-http://cineapp.org:8000/Fernando/Fernando/152874
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| APNA STAGE SHOW
-http://cineapp.org:8000/Fernando/Fernando/152880
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| WASEB TV
-http://cineapp.org:8000/Fernando/Fernando/152881
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| NTV HOUSTON
-http://cineapp.org:8000/Fernando/Fernando/152886
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| ARY ZAUQ
-http://cineapp.org:8000/Fernando/Fernando/152887
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| HUM MASALA
-http://cineapp.org:8000/Fernando/Fernando/152888
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| HUM MASALA EUROPE
-http://cineapp.org:8000/Fernando/Fernando/152889
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| JALWA MUSIC
-http://cineapp.org:8000/Fernando/Fernando/152895
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|KU| TR ARTI TV
-http://cineapp.org:8000/Fernando/Fernando/45385
+
+
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : AAJ ENT
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69271
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : ARY NEWS
@@ -116,8 +58,6 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/31942
 http://red.ipfox.org:8080/Karam2022/Karam2023/31941
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",|Fox| Majestic Arabic
 http://red.ipfox.org:8080/Karam2022/Karam2023/31939
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",|Fox| Shahid Sci-Fi
-http://red.ipfox.org:8080/Karam2022/Karam2023/31935
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",|Fox| Shahid Cinema
 http://red.ipfox.org:8080/Karam2022/Karam2023/31934
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",|Fox| Shahid Cartoon
@@ -142,8 +82,6 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/31925
 http://red.ipfox.org:8080/Karam2022/Karam2023/31924
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",|Fox| Shahid Romance 2
 http://red.ipfox.org:8080/Karam2022/Karam2023/31923
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",|Fox| Shahid Masrh Masr 2
-http://red.ipfox.org:8080/Karam2022/Karam2023/31921
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",|Fox| Shahid Masrh Masr 3
 http://red.ipfox.org:8080/Karam2022/Karam2023/31920
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",|Fox| Netflix 1
@@ -224,14 +162,6 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/31882
 http://red.ipfox.org:8080/Karam2022/Karam2023/31881
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",|Fox| Ostora Arabic 10
 http://red.ipfox.org:8080/Karam2022/Karam2023/31880
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",|Shahid| Shahid Khaleeji
-http://red.ipfox.org:8080/Karam2022/Karam2023/49465
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",|Shahid| Shahid Bollywood
-http://red.ipfox.org:8080/Karam2022/Karam2023/49464
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",|Shahid| Shahid Turki
-http://red.ipfox.org:8080/Karam2022/Karam2023/49463
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",|Shahid| Shahid Levant
-http://red.ipfox.org:8080/Karam2022/Karam2023/49459
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN SPORTS MAX 1 HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/52345
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN SPORTS MAX 2 HD
@@ -240,8 +170,6 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/52346
 http://red.ipfox.org:8080/Karam2022/Karam2023/49742
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN MUSALSALAT HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49743
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",NAT GEO WILD FHD
-http://red.ipfox.org:8080/Karam2022/Karam2023/49744
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN AL SAFWA HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49746
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN MOVIES PREMIERE HD
@@ -300,18 +228,12 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/49775
 http://red.ipfox.org:8080/Karam2022/Karam2023/49776
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN MEZZE HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49779
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",DISCOVERY CHANNEL HEVC
-http://red.ipfox.org:8080/Karam2022/Karam2023/49780
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",INVESTIGATION DISCOVERY HD
-http://red.ipfox.org:8080/Karam2022/Karam2023/49781
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",DISCOVERY SCIENCE HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49782
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",HISTORY 2 CHANNEL HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49784
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN NAT GEO HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49785
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",NAT GEO WILD HD
-http://red.ipfox.org:8080/Karam2022/Karam2023/49786
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN NAT GEO HEVC
 http://red.ipfox.org:8080/Karam2022/Karam2023/49787
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BABY TV HD
@@ -332,8 +254,6 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/49797
 http://red.ipfox.org:8080/Karam2022/Karam2023/49798
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",INVESTIGATION DISCOVERY HEVC
 http://red.ipfox.org:8080/Karam2022/Karam2023/49800
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",DISCOVERY CHANNEL HD
-http://red.ipfox.org:8080/Karam2022/Karam2023/49801
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN YA HALA! BEL ARABI +2 HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49803
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN YA HALA! BEL ARABI +4 HD
@@ -344,8 +264,6 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/49807
 http://red.ipfox.org:8080/Karam2022/Karam2023/49808
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN YA HALA! AFLAM +2 HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49813
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN YA HALA! AFLAM +4 HD
-http://red.ipfox.org:8080/Karam2022/Karam2023/49814
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN YA HALA! AFLAM +6 HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49815
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN YA HALA! +1 HD
@@ -370,26 +288,16 @@ http://red.ipfox.org:8080/Karam2022/Karam2023/49829
 http://red.ipfox.org:8080/Karam2022/Karam2023/49830
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",ALFA CINEMA 2 +2
 http://red.ipfox.org:8080/Karam2022/Karam2023/49831
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",DISCOVERY CHANNEL HD +1
-http://red.ipfox.org:8080/Karam2022/Karam2023/49832
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",INVESTIGATION DISCOVERY +1 HD
-http://red.ipfox.org:8080/Karam2022/Karam2023/49835
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",INVESTIGATION DISCOVERY +2 HD
-http://red.ipfox.org:8080/Karam2022/Karam2023/49836
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",NAT GEO WILD +1 HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49837
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",HISTORY 2 CHANNEL +1 HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49839
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",DISCOVERY CHANNEL HD +2
-http://red.ipfox.org:8080/Karam2022/Karam2023/49840
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN YA HALA! AFLAM +8 HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49841
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",NAT GEO +2 HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49842
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",NAT GEO WILD +2 HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49843
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",NICKELODEON HD +2
-http://red.ipfox.org:8080/Karam2022/Karam2023/49844
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN SERIES +2 HD
 http://red.ipfox.org:8080/Karam2022/Karam2023/49847
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",OSN SERIES +4 HD
@@ -498,8 +406,6 @@ http://live-atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
 http://brodilo.tv/channel.php
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",CGTN ???????
 http://liveru.cgtn.com/1000r/prog_index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Cinema
-http://195.26.83.96:50001/1
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",E TV HD
 http://cdn-01.bonus-tv.ru:80/gsl/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Europa Plus TV
@@ -604,8 +510,6 @@ http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
 http://origin5.mediacdn.ru/live/tvm/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Terra
 http://78.25.155.47:1309/channel/Nat_geo.ts
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Terra
-http://origin5.mediacdn.ru/live/terra/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Terra HD
 http://78.25.155.47:1309/channel/Nat_geo_HD.ts
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Terra HD
@@ -632,8 +536,6 @@ http://wfcrus.mediacdn.ru/cdn/wfcrus/playlist_hdhigh.m3u8
 http://wfcint.mediacdn.ru/cdn/wfcint/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",WFC TV International HD
 http://wfcint.mediacdn.ru/cdn/wfcint/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????
-https://astvlive.servicecdn.ru/astv24/astv24.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? (??????????)
 http://hls.atvmedia.ru/atv800.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? [HD]
@@ -726,8 +628,6 @@ https://vgtrkregion.cdnvideo.ru/vgtrk/vladivostok/regionHD/playlist_sdhigh.m3u8
 http://109.126.27.2:6484/v24/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? 24 HD
 https://vgtrkregion.cdnvideo.ru/vgtrk/vladivostok/regionHD/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ??
-http://topchantv.net:3456/live/cdn_Top/PPEIyMvacU/489.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????
 http://78.25.155.47:1309/channel/Vremia.ts
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ?? (????????)
@@ -828,8 +728,6 @@ http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/index.m3u8
 http://cdn-01.bonus-tv.ru:8080/Kaleidoskop_edge/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??????????? ??
 http://origin5.mediacdn.ru/live/kaleidoskop/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??????????? ??
-http://188.191.160.238:9099/channel/Kaleydoskop_TV.ts
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???????? 1
 http://77.82.82.244/kamchatka1/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???????? 1 HD
@@ -846,8 +744,6 @@ http://video.quartztelecom.ru:8080/hls/2386168/71fe656b993c510f39a5/playlist.m3u
 http://193.33.240.8:8080/test1/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???????? ?? HD
 http://185.78.112.46:8077/KTV/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??????
-http://origin5.mediacdn.ru/live/kineko/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? ??
 http://vod.tuva.ru/kinotv/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??????????? ??
@@ -900,8 +796,6 @@ http://188.191.160.238:9099/channel/LOT.ts
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???????? ?????
 http://serv25.vintera.tv:8081/liptime/liptime/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? 24
-http://streaming.astrakhan.ru/live/vgtrk/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???
 http://78.25.155.47:1309/channel/MIR.ts
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???
@@ -1004,10 +898,6 @@ http://78.25.155.47:1309/channel/Nauka.ts
 http://tv.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? ????
 http://live-1.otcnet.ru/nashatema1/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? ??????
-https://kogalimtv.servicecdn.ru/streams/775_101/480n/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? ?????? HD
-https://kogalimtv.servicecdn.ru/streams/775_101/1080n/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ???????? 24
 https://vgtrkregion.cdnvideo.ru/vgtrk/novgorod/regionHD/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ???????? 24 HD
@@ -1156,8 +1046,6 @@ https://e10-ll.facecast.net/rtv/0.m3u8
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik2.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? HD
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ??
-http://188.191.160.238:9099/channel/REN_TV.ts
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ??
 http://78.25.155.47:1309/channel/REN.ts
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? 1
@@ -1560,8 +1448,6 @@ https://simf.1tvcrimea.ru/simferopol24.m3u8
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????????? ????????
 http://live-sovsec.cdnvideo.ru/sovsec/sovsec_orig/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???????-??????? ??
-http://109.239.208.82/tilsit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???????? Live
 http://ott.inmart.tv:8081/19/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???????? Live
@@ -1810,8 +1696,6 @@ https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 https://user73612.clients-cdnnow.ru/hls/user73612_1/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??????? ????? [????????] (???-??????)
 http://live-bigradio.cdnvideo.ru/bigradio/bigradio.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????????????? ?? HD
-http://flussonic.genproc.gov.ru/playlist/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ??
 http://cdn.universmotri.ru/live/kfu.sdp_576p/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ?? HD
@@ -1830,8 +1714,6 @@ http://video.penzainform.ru/e/r1018.m3u8
 http://tv.streams.baikal-telecom.net/MCM/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ??????? ?????? (???-??????)
 https://video.govoritmoskva.ru/rufm/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ???? FM [???]
-https://m.jamfm.ru/cam/hls/jam.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ???????? (??????)
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/TatTVR_Iskatel/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ?????????? FM
@@ -2318,8 +2200,6 @@ https://waw2.artiyerelmedya.net/dehatv/bant1/playlist.m3u8
 https://waw2.artiyerelmedya.net/denizpostasitv/bant1/playlist.m3u8
 #EXTINF:-1 ,DİM TV (720p) [Geo-blocked]
 https://waw2.artiyerelmedya.net/dimtv/bant1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/uOMuhrI.jpg",DRT TV (720p) [Not 24/7]
-https://broadcasttr.com:446/drt/bant1/playlist.m3u8
 #EXTINF:-1 ,Er TV (720p) [Geo-blocked]
 https://waw2.artiyerelmedya.net/ertv/bant1/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/0N5jh8z.jpg",Gonca TV (720p) [Not 24/7]
@@ -2442,8 +2322,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/bw6000000/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img/2801.png",Love Nature 4K
 http://zabava-htlive.cdn.ngenix.net/hls/CH_LOVENATURE4K_HLS/variant.m3u8?version=2
-#EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/M6 Suisse HD.png",M6 Music HD
-http://190.2.155.162:8080/m6music/mpegts
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://dvb.by/sources/logos/1131.png",MTV Block Party HD
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS03/master.m3u8
 #EXTINF:-1 group-title="Музыка" tvg-logo="https://iptvx.one/picons/../Channel/Logo/Kino Polska muzyka.png",Muzzik Cafe&Club Serbia
@@ -2812,16 +2690,12 @@ https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142368
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | WGN AMERICA
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142370
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | WGN CHICAGO 9
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142371
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA CW21 (WTTO) Birmingham
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142380
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA CW23 (WUCW) Saint Paul
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142382
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA CW33 (KVCW) Las Vegas
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142383
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA CW38 (WSWB) Wilkes-Barre
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142386
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA CW53 (WWHO) Columbus
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142390
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA CW69 (WUPA) Atlanta
@@ -2926,8 +2800,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145836
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145837
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | CBS Jacksonville
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145838
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | CBS Kansas City
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145839
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | CBS Los Angeles
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145840
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | CBS Miami
@@ -2978,8 +2850,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145863
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145864
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",CBS WMAZ Macon GA
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145865
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",FOX PHILADELPHIA PA WTXF
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/34832
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",FOX SAN FRANCISCO CA KTVU
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/34839
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",FOX SEATTLE WA KCPQ
@@ -3032,8 +2902,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145884
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145885
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | NBC Miami
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145886
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | NBC Milwaukee
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145887
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | NBC Minneapolis
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145888
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | NBC Nashville
@@ -3186,8 +3054,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145971
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145972
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | JUSTICE CENTRAL
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145973
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | LAW & CRIME
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145974
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | LIFETIME
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145975
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | LOGO
@@ -3208,8 +3074,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145984
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145986
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | PARAMOUNT NETWORK
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145988
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | PEOPLE TV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145989
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | QVC
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145991
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | QVC 2
@@ -3444,7 +3308,6 @@ http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57376
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57377
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR : W9
 http://wayforward.xyz:25461/vod51545as/6G2Zasf0NYVS/57379
-
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Italy.png",IT : BABYTV
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61979
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Italy.png",IT : BOING
@@ -3491,8 +3354,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/62011
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/62012
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Italy.png",IT : RAI MOVIE
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/62014
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Italy.png",IT : RAI PREMIUM
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/62015
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Italy.png",IT : RAI SCUOLA
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/62016
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Italy.png",IT : RAI SPORT
@@ -3505,10 +3366,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/62019
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/62020
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Italy.png",IT : RETE 4
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/62021
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Italy.png",IT : RSI LA 1
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/62022
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Italy.png",IT : RSI LA 2
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/62023
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Greece.png",GR : PLAY TV (480p)
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/109911
 #EXTINF:-1 ,GR : RELOAD PLAY (536p)
@@ -3529,8 +3386,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/109921
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/109927
 #EXTINF:-1 ,GR : TILE EPILOGES (480p)
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/109930
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Greece.png",GR : TV 100 (576p)
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/109934
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Greece.png",GR : TV CRETA
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/109935
 #EXTINF:-1 ,GR : TV DIPSO (720p)
@@ -3553,14 +3408,8 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/109894
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/109900
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Greece.png",GR : NG (612p)
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/109902
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Greece.png",GR : NRG 91 (720p)
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/109904
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Greece.png",GR : NRG TV (720p)
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/109905
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Greece.png",GR : OPEN BEYOND
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58682
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Italy.png",IT : SKY CINEMA UNO
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/62036
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Italy.png",IT : SKY SERIE A
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/62039
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Italy.png",IT : SKY SPORT ARENA
@@ -3583,8 +3432,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/62053
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/118996
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Jamaica.png",JM : HOT 7 TV
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/56902
-#EXTINF:-1  tvg-logo="http://n2086.securepoint.io:25461/images/Jamaica.png",JM : HYPETV
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/118994
 #EXTINF:-1  tvg-logo="http://n2086.securepoint.io:25461/images/Jamaica.png",JM : RETV
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/118995
 #EXTINF:-1  tvg-logo="http://n2086.securepoint.io:25461/images/Jamaica.png",JM : TVJ
@@ -3621,26 +3468,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/57392
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/57398
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : 24NEWS
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69267
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : AAJ ENT
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69271
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : ARY NEWS
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69272
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : ARY QTV
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69273
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : GEO NEWS
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69276
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : GEO SUPER
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69277
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : GEO TEZ
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69278
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : HUM SITARAY
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69280
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : HUM TV HD
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69281
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : NEO NEWS
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69283
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Pakistan.png",PK : PTV SPORTS
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/69284
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Poland.png",PL : 13 ULICA HD
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61829
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Poland.png",PL : 4FUN DANCE
@@ -3655,14 +3482,10 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61834
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61836
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Poland.png",PL : AXN BLACK
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61837
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Poland.png",PL : AXN WHITE
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61839
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Poland.png",PL : BBC BRIT
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61841
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Poland.png",PL : BBC CBEEBIES
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61842
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Poland.png",PL : BBC EARTH
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61843
 #EXTINF:-1 ,PL : CANAL + SERIALE
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61846
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Poland.png",PL : CANAL+
@@ -3715,8 +3538,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61892
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61893
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Poland.png",PL : HISTORY 2
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61894
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Poland.png",PL : KINO POLSKA
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61895
 #EXTINF:-1 ,PL : KINO POLSKA MUZYKA
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61896
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Poland.png",PL : KINO TV
@@ -3729,8 +3550,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61900
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61901
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Poland.png",PL : MOTOWIZJA
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61902
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Poland.png",PL : MTV POLSKA
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61903
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Poland.png",PL : NAT GEO
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/61904
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Poland.png",PL : NAT GEO WILD
@@ -3841,8 +3660,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58533
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/176361
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Portugal.png",PT : CANAL PANDA
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58538
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Portugal.png",PT : CANAL Q
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58539
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Portugal.png",PT : CANCAO NOVA
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58540
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Portugal.png",PT : CASAVISION
@@ -3877,8 +3694,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58573
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58574
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Portugal.png",PT : PFC
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58577
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Portugal.png",PT : PORTO CANAL
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58578
 #EXTINF:-1 ,PT : REAL MADRID TV
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58579
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Portugal.png",PT : RTP 1
@@ -3923,14 +3738,10 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58613
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/58615
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Thai.png",TH : ALTV
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/63411
-#EXTINF:-1  tvg-logo="http://n2086.securepoint.io:25461/images/Thai.png",TH : ASTV NEWS 1
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/63418
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Thai.png",TH : CHANNEL 5
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/127881
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Thai.png",TH : CHANNEL 8
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/63410
-#EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Thai.png",TH : NEWS 1
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/63414
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Thai.png",TH : THAI PBS 3
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/63416
 #EXTINF:-1  tvg-logo="http://hostengine.live:25461/images/Thai.png",TH : THAIRATH TV32
@@ -4019,8 +3830,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/54220
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/119077
 #EXTINF:-1 ,.WA.us" tvg-name="US : FOX (KCPQ -Seattle WA)" tvg-logo="http://hostengine.live:25461/images/71d4744...
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/54221
-#EXTINF:-1 ,.IA.us" tvg-name="US : FOX (KFXA) Cedar Rapids" tvg-logo="http://hostengine.live:25461/images/71d474...
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/119070
 #EXTINF:-1 ,US : FOX (KFXK TYLER TX)
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/54227
 #EXTINF:-1 ,.TX.us" tvg-name="US : FOX (KFXV HARLINGEN-WESLACO-BROWNSVILLE)" tvg-logo="http://n2086.securepoint....
@@ -4029,7 +3838,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/191525
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/119063
 #EXTINF:-1 ,.HI.us" tvg-name="US : FOX (KHON) Honolulu HI" tvg-logo="http://n2086.securepoint.io:25461/images/71...
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/200399
-
 #EXTINF:-1 ,24/7: 12 oz Mouse
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/223873
 #EXTINF:-1 ,24/7: 13 Reasons Why
@@ -4296,8 +4104,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224003
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224004
 #EXTINF:-1 ,24/7: Catweazle
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224005
-#EXTINF:-1 ,24/7: Challenger The Final Flight
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224006
 #EXTINF:-1 ,24/7: Chance
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224007
 #EXTINF:-1 ,24/7: Chappelles Show
@@ -4426,8 +4232,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224068
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224069
 #EXTINF:-1 ,24/7: Doc Martin
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224070
-#EXTINF:-1 ,24/7: Doctor Who
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224071
 #EXTINF:-1 ,24/7: Doctor Who (1963)
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224072
 #EXTINF:-1 ,24/7: Dollhouse
@@ -4526,8 +4330,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224120
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224121
 #EXTINF:-1 ,24/7: For All Mankind
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224122
-#EXTINF:-1 ,24/7: For Life
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224123
 #EXTINF:-1 ,24/7: Forged in Fire
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224124
 #EXTINF:-1 ,24/7: Formula 1 Drive to Survive
@@ -4544,8 +4346,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224129
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224131
 #EXTINF:-1 ,24/7: Friday Night Dinner
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224132
-#EXTINF:-1 ,24/7: Friday Night Lights
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224133
 #EXTINF:-1 ,24/7: Friday the 13th
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224134
 #EXTINF:-1 ,24/7: Friends
@@ -4952,8 +4752,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224334
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224335
 #EXTINF:-1 ,24/7: Miraculous Tales of Ladybug and Cat Noir
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224336
-#EXTINF:-1 ,24/7: Mission Impossible
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224337
 #EXTINF:-1 ,24/7: Mission Impossible Movies
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224338
 #EXTINF:-1 ,24/7: Mister Ed
@@ -5164,8 +4962,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224441
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224442
 #EXTINF:-1 ,24/7: Reading Rainbow
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224443
-#EXTINF:-1 ,24/7: Recess
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224444
 #EXTINF:-1 ,24/7: Red Dwarf
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224445
 #EXTINF:-1 ,24/7: Reef Doctors
@@ -5290,8 +5086,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224504
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224505
 #EXTINF:-1 ,24/7: Skippy the Bush Kangaroo
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224506
-#EXTINF:-1 ,24/7: Sleepy Hollow
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224507
 #EXTINF:-1 ,24/7: Sliders
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224508
 #EXTINF:-1 ,24/7: Smallville
@@ -5654,8 +5448,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224690
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224691
 #EXTINF:-1 ,24/7: The Office US
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224692
-#EXTINF:-1 ,24/7: The Originals
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224693
 #EXTINF:-1 ,24/7: The Orville
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224694
 #EXTINF:-1 ,24/7: The Outer Limits (1963)
@@ -5734,8 +5526,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224731
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224732
 #EXTINF:-1 ,24/7: The Simpsons
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224733
-#EXTINF:-1 ,24/7: The Six Million Dollar Man
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224734
 #EXTINF:-1 ,24/7: The Smurfs
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224735
 #EXTINF:-1 ,24/7: The Sopranos
@@ -5806,8 +5596,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224767
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224768
 #EXTINF:-1 ,24/7: Timmy Time
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224769
-#EXTINF:-1 ,24/7: Tin Star
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224770
 #EXTINF:-1 ,24/7: Tiny Toon Adventures
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224771
 #EXTINF:-1 ,24/7: Titans
@@ -5886,8 +5674,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224807
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224808
 #EXTINF:-1 ,24/7: Van Helsing
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224809
-#EXTINF:-1 ,24/7: Vanderpump Rules
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224810
 #EXTINF:-1 ,24/7: Veep
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/224811
 #EXTINF:-1 ,24/7: Vera
@@ -6022,8 +5808,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/179335
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/179336
 #EXTINF:-1 ,AHL : HENDERSON SILVER KNIGHTS
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/179337
-#EXTINF:-1 ,AHL : HERSHEY BEARS
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/179338
 #EXTINF:-1 ,AHL : IOWA WILD
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/179339
 #EXTINF:-1 ,AHL : LAVAL ROCKET
@@ -6040,8 +5824,6 @@ http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/179345
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/179346
 #EXTINF:-1 ,AHL : SAN DIEGO GULLS
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/179347
-#EXTINF:-1 ,AHL : STOCKTON HEAT
-http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/179349
 #EXTINF:-1 ,AHL : SYRACUSE CRUNCH
 http://n2086.securepoint.io:25461/vod51545as/6G2Zasf0NYVS/179350
 #EXTINF:-1 ,AHL : TORONTO MARLIES
