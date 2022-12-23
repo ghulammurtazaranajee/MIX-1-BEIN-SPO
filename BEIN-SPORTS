@@ -1,29 +1,20 @@
 #EXTM3U
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: HADI TV
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/149146
+
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: KTN TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/149170
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: HUM TV EUROPE
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/149151
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Takbeer tv
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210444
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: IQRA Urdu
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210446
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV GLOBAL
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210449
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: A Sport
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210452
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ANIMAL PLANET
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/149103
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: APNA TV
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/149104
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY WORLD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/149111
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: DESI TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/149125
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: DISCOVERY CHANNEL
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/149128
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: FILMAX
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/149134
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO TEZZ
@@ -52,8 +43,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/149140
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/149129
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: EXPRESS NEWS
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210389
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: SAMAA TV
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210390
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 92 NEWS
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210391
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: HUM NEWS
@@ -94,6 +83,660 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/23595.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23597.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO NEWS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23623.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| AL-QURAN AL-KAREEM
+http://cineapp.org:8000/Fernando/Fernando/152819
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| AL-SUNNAH
+http://cineapp.org:8000/Fernando/Fernando/152820
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| 92 NEWS
+http://cineapp.org:8000/Fernando/Fernando/152830
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| PUBLIC NEWS
+http://cineapp.org:8000/Fernando/Fernando/152832
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| GNN NEWS
+http://cineapp.org:8000/Fernando/Fernando/152833
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| NEWS ONE
+http://cineapp.org:8000/Fernando/Fernando/152837
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| NEO NEWS
+http://cineapp.org:8000/Fernando/Fernando/152838
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| LAHORE NEWS
+http://cineapp.org:8000/Fernando/Fernando/152840
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| LAHORE RANG
+http://cineapp.org:8000/Fernando/Fernando/152841
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| CAPITAL NEWS
+http://cineapp.org:8000/Fernando/Fernando/152842
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| CITY 41 NEWS
+http://cineapp.org:8000/Fernando/Fernando/152844
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| GEO TEZZ
+http://cineapp.org:8000/Fernando/Fernando/152849
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| K21 NEWS
+http://cineapp.org:8000/Fernando/Fernando/152850
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| CHANNEL 5
+http://cineapp.org:8000/Fernando/Fernando/152851
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| HUM TV HD
+http://cineapp.org:8000/Fernando/Fernando/152856
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| HUM SITARAY
+http://cineapp.org:8000/Fernando/Fernando/152857
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| BOL ENTERTAINMENT
+http://cineapp.org:8000/Fernando/Fernando/152861
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| ATV
+http://cineapp.org:8000/Fernando/Fernando/152864
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| PLAY TV
+http://cineapp.org:8000/Fernando/Fernando/152867
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| PTV HOME
+http://cineapp.org:8000/Fernando/Fernando/152868
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| AAJ ENTERTAINMENT
+http://cineapp.org:8000/Fernando/Fernando/152869
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| SEE TV HD
+http://cineapp.org:8000/Fernando/Fernando/152870
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| DISCOVER PAKISTAN
+http://cineapp.org:8000/Fernando/Fernando/152873
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| HBO PAK
+http://cineapp.org:8000/Fernando/Fernando/152874
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| APNA STAGE SHOW
+http://cineapp.org:8000/Fernando/Fernando/152880
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| WASEB TV
+http://cineapp.org:8000/Fernando/Fernando/152881
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| ARY ZAUQ
+http://cineapp.org:8000/Fernando/Fernando/152887
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| HUM MASALA
+http://cineapp.org:8000/Fernando/Fernando/152888
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| HUM MASALA EUROPE
+http://cineapp.org:8000/Fernando/Fernando/152889
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| JALWA MUSIC
+http://cineapp.org:8000/Fernando/Fernando/152895
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|KU| TR ARTI TV
+http://cineapp.org:8000/Fernando/Fernando/45385
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| RAI 1 HD (1080p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15321
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai 1 FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13376
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai 1 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13377
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| RAI 1 HD (720p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15428
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai 2 FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13378
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai 2 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13379
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| RAI 2 HD (720p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15429
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai 3 FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13380
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| RAI 3 HD (1080p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15323
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai 3 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13381
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| RAI 3 HD (720p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15430
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rete 4 FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13382
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| Rete4 HD (1080p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15353
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| Rete4 HD (720p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15381
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| Canale5 HD (1080p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15333
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Canale 5 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13386
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| Canale5 HD (720p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15411
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| Italia1 HD (1080p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15340
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Italia 1 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13388
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| Italia1 HD (720p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15365
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Canale 21
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15316
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",La7 FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13389
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| LA7 HD (1080p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15341
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",La7 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13390
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| LA7 HD (720p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15366
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",La 7d FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13391
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| LA7d HD (1080p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15342
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| LA7d HD (720p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15367
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| RAI 4 HD (1080p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15324
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai 4 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13395
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai 5 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13396
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai Movie HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13411
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Iris HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13405
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Italia 2 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13410
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| 20Mediaset HD (1080p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15330
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Mediaset Cine34
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13408
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Top Crime
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13417
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",La 7d HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13392
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TV8 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13393
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Discovery Nove
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13394
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Discovery DMAX
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13419
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Discovery Giallo
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13401
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Discovery Real Time
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13413
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Discovery Food Network
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13404
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Discovery HGTV
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13402
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Discovery Motor Trend
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13403
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Alma TV
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13399
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Cielo HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13400
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RSI LA 1
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13415
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RSI LA 2
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13416
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TV2000
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13418
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| RAI 5 HD (1080p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15325
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Italia 1
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15328
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rete 4
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15329
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| TV8 HD (1080p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15355
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| 27 Twentyseven HD (1080p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15331
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| Cielo HD (1080p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15334
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| DMAX HD (1080p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15335
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| Food Network HD (1080p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15336
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| RAI Premium HD (1080p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15346
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| RAI 4 HD (720p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15368
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| TV8 HD (720p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15383
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| DMAX HD (720p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15415
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT| RAI Premium HD (720p)
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15373
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Uno FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8824
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Uno HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8799
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Uno  4k
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/11289
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Due FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/17
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Due HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/191
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Due SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13029
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Action FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8811
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Action HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8810
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Action SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13030
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Collection FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8815
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Collection HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8820
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Collection SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13031
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Comedy FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8805
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Comedy HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8806
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Comedy SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13032
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Drama FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/23
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Family FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/19
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Family HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/193
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Family SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13034
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Suspence FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/21
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Suspence HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/195
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Suspense SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13036
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Romance FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8809
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Romance HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/196
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Romance SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13035
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",GRANDE-FRATELLO-VIP-REGIA-1
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15317
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",GRANDE-FRATELLO-VIP-REGIA-2
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15318
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Uno HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/9012
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Atlantic FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8928
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Atlantic HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8929
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Atlantic SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13038
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Investigation FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/7902
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Investigation HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/9021
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Investigation SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13130
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Serie FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8406
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Serie HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/9023
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Serie SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13061
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Blaze FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/58
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Blaze HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/219
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Blaze SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13040
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky MTV FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/61
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky MTV HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/9028
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky MTV SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13041
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Comedy Central FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13131
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",VH1
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/11955
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport 24 FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/70
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport 24 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/226
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Uno FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/71
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Moto GP FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/232
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport F1 FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8795
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport F1 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8796
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Football HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/228
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Arena FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/9273
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Arena HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/9274
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Action FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8921
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Action HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8931
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Tennis FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8922
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Tennis HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8923
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport NBA FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/9276
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport NBA HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/9277
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Super Tennis FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/69
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Horse TV HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/431
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",EQU TV FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/68
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",EQU TV HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/531
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RaiSport FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/65
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai Sport +HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/224
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Radio BiancoNero
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13359
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SuperTennis HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/225
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport 24 SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13042
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Uno SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13043
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Arena SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13044
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Football SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13045
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Moto GP SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13046
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport NBA SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13047
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport F1 SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13048
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Tennis SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13062
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Action SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13128
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TOP-PLANET
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15681
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TOP CALCIO 24
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15682
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Calcio FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13555
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Calcio HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13556
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Calcio 251 FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13558
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Calcio 251 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13559
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Calcio 251 SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13560
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Calcio 252 FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13561
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Calcio 252 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13562
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Calcio 252 SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13563
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Calcio 253 FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13564
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Calcio 253 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13565
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Calcio 253 SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13566
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Calcio 254 FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13567
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Calcio 254 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13568
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Calcio 254 SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13569
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Calcio 256 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13574
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Calcio 256 SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13575
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Mediaset Infinity 1 FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13946
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Infinity + 1 FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/14635
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Infinity + 2 FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/14638
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Infinity + 3 FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/14641
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Infinity + 3 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/14642
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Infinity + 4 FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/14644
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Infinity + 5 FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/14647
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Infinity + 5 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/14648
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Infinity + 5 SD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/14649
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Infinity + 6 HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/14651
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Serie C | Girone A | Sangiuliano  | 720 | HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/15632
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Discovery Channel FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/116
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Discovery Channel HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/251
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Arte FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8996
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Arte HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8997
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Arte +1
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13420
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Nature FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8405
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Nature HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/9003
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Documentaries FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8404
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Documentaries HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/9000
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Documentaries +1
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/11953
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Crime Investigation FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8994
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Crime Investigation HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/8995
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",History FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/4026
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DMAX FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/42
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DMAX HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/208
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Real Time FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/40
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Real Time HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/207
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Nove FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/9
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",GIALLO FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/39
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",HGTV Home Garden
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/569
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai Scuola FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/110
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Motor Trend HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/209
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Nove HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/185
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Motor Trend FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/46
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Focus
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/107
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Food Network
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/48
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai Storia FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/246
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai Scuola HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/245
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CACCIAePesca
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/124
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Masha&Orso channel
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/11254
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PeppaPig channel
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/11253
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Dea kids
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13332
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Boomerang
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13335
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Cartoon Network
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13338
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Nickelodeon
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13344
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai Gulp
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13353
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Cartoonito
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13347
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Boing
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13350
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Baby TV
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13349
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Frisbee
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13351
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",K2
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13352
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Super !
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13357
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Junior tv
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13358
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Deejay TV FHD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13589
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Deejay TV HD
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13590
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Radio Monte Carlo
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13593
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RTL 102.5
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13594
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Kiss Kiss
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13595
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Radio Italia TV
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13596
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Radio 102.5
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13599
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Marte
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13605
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Campania
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13615
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Bruno
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13616
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Nuvola TV
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13620
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Stereo 5 TV
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13621
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",STUDIO 90 ITALIA
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13624
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Mevivo TV
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13627
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky TG 24
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13368
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TgCom24
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13362
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai News 24
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13363
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TG Norba
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13371
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",VIDEOLINA
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13367
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PRIMAFILA 1
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/12997
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PRIMAFILA 2
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/12998
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PRIMAFILA 4
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13000
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PRIMAFILA 5
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13001
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai 2 H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13780
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai 3 H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13781
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rete 4 H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13782
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Canale 5 H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13783
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",italia 1 h265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13808
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Uno H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13784
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Due H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13785
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Action H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13786
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Collection H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13787
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Comedy H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13788
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Drama H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13789
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Family H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13790
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Romance H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13791
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Suspense H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13792
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport 24 H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13793
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Uno HEVC
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13794
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Action H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13807
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Arena H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13797
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Football H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13800
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport NBA H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13798
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport F1 H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13795
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport MotoGP H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13796
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Tennis H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13799
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport 251 H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13801
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Uno H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13802
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Atlantic H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13803
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Investigation H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13804
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Documentaries H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13805
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Nature H265
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13806
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",16 Anni e Incinta
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13465
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Andromeda
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13466
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Catfish
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13467
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Clubbing TV
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13468
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Consulenze Illegali
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13469
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Dating
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13470
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Ex On The Beach
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13471
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FailArmy
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13472
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Pluto TV Anime
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13483
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Pluto TV Cinema Italiano
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13485
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Pluto TV Crime
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13486
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Pluto TV Cucina
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13487
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Pluto TV Documentari
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13488
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Pluto TV Family
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13489
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Pluto TV Film
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13490
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Pluto TV Film Azione
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13491
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Pluto TV Film Classici
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13492
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Pluto TV Film Commedia
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13493
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Pluto TV Natura
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13498
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Pluto TV Reality
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13500
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Pluto TV Serie
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13502
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Pluto TV Sport
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13503
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Scherzi e risate
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13505
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Serie Teen
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13506
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Super! Brothers and Sisters
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13507
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Super! Eroi
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13509
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Super! iCarly
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13510
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Super! Pop
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13512
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Super! SpongeBob
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13513
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Super! Star
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13514
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",The Pet Collective
+http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13515
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: &AMP; PRIVE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/22997.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 9X JALWA
@@ -102,8 +745,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/23006.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23019.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: APKA CHANNEL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23028.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: BFLIX MOVIES
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23043.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CHARDIKLA TIME TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23060.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CNBC AWAAZ
@@ -132,10 +773,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/23237.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23313.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY MIX
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23337.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY SAB
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23340.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SONY SIX HD
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23342.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR MOVIES
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23357.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR VIJAY
@@ -148,16 +785,12 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/22989.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23391.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV9 TELUGU
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23403.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: UTV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23406.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE CINEMA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23430.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Sony TV HD [UK] IN
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/13175
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Star Plus HD IN
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/672450
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Star Maa HD IN
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5585
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Star Maa Gold IN
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5586
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Colors HD IN
@@ -182,8 +815,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/10602
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/672296
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",ATN Bangla IN
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/10610
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Zing IN
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5596
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Zing [UK] IN
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5595
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Deepto HD IN
@@ -192,8 +823,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/10624
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5583
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Raj Digital Plus IN
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5551
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Star Sports 1 IN
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/3979
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Star Sports 2 IN
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/397844
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Ten Sports HD IN
@@ -272,50 +901,12 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/53432
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5473
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports Premium 3 HD VIP AR
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/691817
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Bein Sports MAX 1 [Match Time] FHD VIP AR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693748
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Bein Sports MAX 2 [Match Time] FHD VIP AR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693749
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Bein Sports MAX 3 [Match Time] FHD VIP AR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/697312
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Bein Sports MAX 3 [Match Time] HD VIP AR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/697313
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Bein Sports MAX 5 [Match Time] FHD VIP AR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/697316
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Bein Sports MAX 6 [Match Time] FHD VIP AR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/697318
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports English 1 FHD VIP AR
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/689287
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports English 2 FHD VIP AR
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/689288
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports English 3 HD VIP AR
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/689289
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports FHD US
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/682942
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports Haber HD TR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/682950
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports 1 FHD TR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/682946
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports 2 FHD TR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/682947
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports 3 FHD VIP TR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/682948
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports 4 FHD TR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/682949
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports Max 2 HD VIP TR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/682954
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports 1 HD FR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/682943
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports 3 HD FR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/682945
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports Max 4 HD FR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5470
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports Max 5 HD FR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/53604
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports Max 7 HD FR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/54678
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN Sports Max 8 HD FR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5466
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Astro Supersport 2 FHD VIP MY
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694220
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Astro Supersport 4 FHD VIP MY
@@ -336,8 +927,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/690044
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/690046
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Amazon Prime 7 [Match Time] FHD VIP FR
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/690047
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Amazon Prime 8 [Match Time] FHD VIP FR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/690048
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",RMC Sport 1 FHD FR
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/682956
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",RMC Sport 2 HD FR
@@ -370,22 +959,8 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/682975
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/682976
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Yas Sport HD AR
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/682972
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",SSC Sports 3 FHD VIP AR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694162
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",SSC Sports 4 FHD VIP AR
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694163
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",SSC Sports 5 FHD VIP AR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694164
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",TRT Spor FHD TR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/683139
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",TRT Spor Yildiz FHD TR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/683140
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Tivibuspor HD TR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5439
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Tivibuspor 3 HD TR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/682980
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Spor Smart FHD TR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5446
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AT: ATV HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/207893
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AT: ATV 2
@@ -524,8 +1099,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/213492
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/213494
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",IS: N4 Iceland
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/213495
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: 4E
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210037
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: Alert TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210040
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: Alfa TV
@@ -542,8 +1115,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210049
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210050
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: BBC earth
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210051
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: BCI 24 News
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210052
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: Best TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210053
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: Blue Sky
@@ -570,8 +1141,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210067
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210068
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: COSMOTE SPORT 2
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210069
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: COSMOTE SPORT 4
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210070
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: COSMOTE SPORT 8
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210074
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: Creta TV
@@ -598,8 +1167,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210092
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210093
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: ERT News
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210094
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: ERT Sports 2
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210095
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: ERT Sports 3
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210096
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: ERT Sports
@@ -608,8 +1175,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210097
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210098
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: euronews
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210099
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: EUROSPORT 1
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210100
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: EUROSPORT 2
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210101
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: EXTRA TV
@@ -638,8 +1203,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210119
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210122
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: Mad Greekz
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210124
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: Mad TV
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210125
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: NAT GEO Wild
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210134
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: NET TV
@@ -650,8 +1213,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210140
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210141
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: Nova Cinema 3
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210142
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: Nova Cinema 4
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210143
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: Nova Sports 4
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/210175
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",GR: NRG 91
@@ -750,8 +1311,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130946
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130974
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: MEZZO
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131075
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: MOTORVISION
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130975
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: NAT GEO WILD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/131079
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: RTP 1
@@ -772,8 +1331,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130936
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130935
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: SIC RADICAL
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130934
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: SPORT TV 4 FHD
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130955
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: SPORT TV NBA
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/130957
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",PT: TVCINE ACTION
@@ -846,8 +1403,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/21086
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/21087
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR: CARTOON NETWORK
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/20930
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR: CHASSE ET PECHE
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/44451
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR: CHERIE 25
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/43947
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR: CINE+ CLASSIC
@@ -896,8 +1451,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/20878
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/29132
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR: GAMEONE
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/20952
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR: GULLI
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/20956
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR: HISTOIRE
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/20957
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",FR: INFOSPORT
@@ -1192,8 +1745,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32237
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/15861
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: BET HER
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32214
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: BET JAMS
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32216
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: BET SOUL
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32217
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: BIG TEN NETWORK
@@ -1202,8 +1753,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32240
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208671
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: BOOMERANG
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32158
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: BRAVO
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208672
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: BUZZR
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208673
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: C-SPAN
@@ -1220,8 +1769,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/68035
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208676
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: CINEMAX EAST
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/68038
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: CMT HD
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32204
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: CNN
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/69284
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: COMEDY CENTRAL
@@ -1232,8 +1779,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208681
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208682
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: COOKING CHANNEL
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208683
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: COURT TV
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208684
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: CW
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/191732
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: Dabl
@@ -1248,18 +1793,12 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/159811
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/68043
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: DISNEY CHANNEL HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32162
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: E! ENTERTAINMENT
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208688
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: ELEVEN SPORTS NETWORK
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/205823
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: EPIX
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208689
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: EPIX 2
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208690
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: EPIX DRIVE IN
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208691
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: EPIX HITS
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32263
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: FOOD NETWORK
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208694
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: FOX NEWS HD
@@ -1280,14 +1819,10 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208698
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32309
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: FYI
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32310
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: GAME SHOW NETWORK
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208699
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: GREAT AMERICAN COUNTRY
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208702
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: GRIT TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/191706
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: H2
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208703
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: Hallmark Drama
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32127
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: Hallmark Movies Mysteries
@@ -1306,12 +1841,8 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/65111
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/159761
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: HEROES AND ICONS
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208704
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: HISTORY
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208705
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: HLN
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32317
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: HSN
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208706
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: ID Discovery
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/159853
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: IFC
@@ -1320,14 +1851,10 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208708
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208709
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: ION TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208711
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: JUSTICE CENTRAL
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208712
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: LIFETIME
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208714
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: LIFETIME MOVIE NETWORK
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/159794
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: Magnolia Network
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/77844
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: MARQUEE SPORTS NETWORK
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/205821
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: ME TV
@@ -1372,16 +1899,12 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208729
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32364
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: OWN HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32367
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: OXYGEN
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32368
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: PAC-12 ARIZONA
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/20923
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: PAC-12 BAY AREA
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/18007
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: PAC-12 LOS ANGELES
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/17899
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: PAC-12 MOUNTAIN
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/17894
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: PAC-12 NETWORK
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/17528
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: PAC-12 OREGON
@@ -1392,20 +1915,12 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/16315
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208732
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: PBS
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/191708
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: PBS Kids
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/43497
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: PEOPLE TV
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208734
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: POP
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32377
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: PURSUIT CHANNEL
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208736
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: REELZ
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208740
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: REVOLT
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208741
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: SCIENCE
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208743
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: SEC NETWORK
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208744
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: SHOWTIME
@@ -1420,10 +1935,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/158682
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32467
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: SHOWTIME SHOWCASE
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32468
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: SHOWTIME WOMEN
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/159873
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: SMITHSONIAN
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/208745
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: Sportsnet NY
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32390
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: Stadium HD
@@ -1438,14 +1949,10 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/79697
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32149
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: STARZ ENCORE ACTION
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/159925
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: STARZ ENCORE BLACK
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/68076
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: STARZ ENCORE CLASSIC
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32141
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: STARZ ENCORE FAMILY
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/159766
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: STARZ ENCORE SUSPENSE
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32143
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: STARZ ENCORE WESTERNS
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32140
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: STARZ IN BLACK
@@ -1458,8 +1965,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32402
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/205834
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: TCM
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/205835
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: TEENNICK
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/159823
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: THE COWBOY CHANNEL
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/205836
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",US: TLC
@@ -1572,8 +2077,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/129150
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/77326
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",TR: KRAL POP
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/77371
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",TR: KRAL TV
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/77370
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",TR: MINIKA GO
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/77385
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",TR: MOVIESMART CLASSIC
@@ -1650,8 +2153,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/77374
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/77274
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",TR: TRT TURK
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/77345
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",TR: TRT WORLD
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/77347
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",TR: TV 100
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/77343
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",TR: TV8
@@ -1804,8 +2305,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/75269
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/158428
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",NL: SPIKE HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/76389
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",NL: STINGRAY ICONCERTS
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/159910
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",NL: STINGRAY LITE TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/207474
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",NL: TLC HD
@@ -1834,12 +2333,8 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36566
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36598
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: FILM KLUB
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36596
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: HRT 1 HD
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36554
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: HRT 2 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36556
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: HRT 3 HD
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36559
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: HRT 4 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36560
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: HRT Int
@@ -1872,8 +2367,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36572
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36568
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: RTL PASSION
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36569
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: RTL TELEVIZIJA
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36571
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: SLAVONSKA TV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36580
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: SPORT KLUB 1 HD
@@ -1886,8 +2379,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/158256
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/158257
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: TV 1000
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/39759
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: VINKOVACKA TV
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36574
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: Z1
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36573
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CRO: ARENA SPORT 4 HD
@@ -1944,8 +2435,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157600
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157601
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Film Cafe
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157602
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: RTL Klub
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157656
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Sorozat+
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/157658
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",HU: Spektrum
@@ -2034,14 +2523,10 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/16280
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/16057
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SE: TLC
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/84761
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SE: TV10
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/43181
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SE: TV12
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/16056
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SE: TV3
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/84765
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SE: TV4
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/84532
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SE: TV4 FAKTA
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/16050
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",SE: TV4 FILM
@@ -2148,8 +2633,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/16024
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/16002
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",DK: TV6
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/16003
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",DK: VIASAT FILM ACTION
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/16006
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",DK: VIASAT FILM PREMIERE
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/16010
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",DK: VIASAT HOCKEY
@@ -2246,8 +2729,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32049
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32480
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CA: TVO Kids
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32030
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CA: W NETWORK
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/135346
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CA: Sportsnet World HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32394
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CA: TSN 2
@@ -2258,16 +2739,12 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/32032
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/135347
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CA: WGN
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/135348
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",CA: YES TV
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/135349
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",RO: AGROTV
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/126547
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",RO: AMC
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/36305
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",RO: Animal Planet
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/145051
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",RO: ANTENA 1
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/31056
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",RO: ANTENA 3
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/31057
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",RO: ANTENA STARS
@@ -2362,8 +2839,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/31151
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/31149
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",RO: National 24 Plus
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/145068
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",RO: National TV
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/31152
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",RO: Nick JR
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/16515
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",RO: Paramount Channel
@@ -2410,8 +2885,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/31215
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/207136
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AU: 9 GEM
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/207140
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AU: 9 GO HD
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/207141
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AU: 9 HD
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/207142
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AU: 9 LIFE HD
@@ -2420,8 +2893,6 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/207143
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/207146
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AU: ABC ME BRISBANE
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/207148
-#EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AU: ABC ME HD
-http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/207149
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AU: ABC NEWS
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/207150
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AU: ABC ONE HD
@@ -2432,16 +2903,10 @@ http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/207158
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/207159
 #EXTINF:-1 group-title="France" tvg-logo="https://i.ibb.co/4pmx6qR/fr.jpg",AU: CHANNEL 9 SYDNEY
 http://dominoiptv.com:2082/babarbugti/9LGcekwpxt/207160
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Exxen Sport 1 [Match Time] FHD VIP TR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694153
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Exxen Sport 3 [Match Time] FHD VIP TR
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694155
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Exxen Sport 6 [Match Time] FHD VIP TR
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694159
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Worldcup 2022 01 [Match Time] HD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/697391
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Worldcup 2022 02 [Match Time] HD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/697392
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Main Event FHD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692257
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Main Event HD VIP UK
@@ -2556,8 +3021,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692371
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692372
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CBBC FHD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692373
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CBBC HD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692374
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BBC One [Northern Ireland] HD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692375
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BBC One [Wales] FHD VIP UK
@@ -2584,8 +3047,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692632
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/695710
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RTE News HD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692401
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Premiere HD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692403
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Select FHD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692404
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Select HD VIP UK
@@ -2608,10 +3069,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692428
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692429
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Sci-Fi & Horror HD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692436
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Film 4 HD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692434
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TCM FHD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692437
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Animal Planet FHD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692441
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Animal Planet HD VIP UK
@@ -2728,8 +3185,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692511
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692518
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Gold FHD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692519
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Gold HD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692520
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Legend VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/695740
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",HorrorXtra VIP UK
@@ -2776,8 +3231,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692562
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692589
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Star Gold HD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692521
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Utv SAT Plus HD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692590
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Baby TV VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692592
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Boomerang FHD VIP UK
@@ -2810,8 +3263,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692610
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692611
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MTV 90s VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692612
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MTV 80s VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692613
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Clubland TV VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692622
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Kerrang TV UK
@@ -2870,12 +3321,8 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686058
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686086
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky TG 24 HD IT
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686088
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TGCOM 24 HD IT
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686089
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TV 2000 IT
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686063
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TelePavia HD IT
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686199
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Football FHD IT
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686217
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sport Football HD IT
@@ -2916,8 +3363,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686126
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686127
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Primafila 4 HD IT
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686128
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Primafila 6 HD IT
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686130
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Primafila 7 HD IT
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686131
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Primafila 8 HD IT
@@ -2930,8 +3375,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686190
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686083
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Nove IT
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686075
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Food Network HD IT
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686078
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Nat Geo Wild FHD IT
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686196
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",History FHD IT
@@ -2952,18 +3395,10 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686290
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686172
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",OSN Movies Action HD AR
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694406
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",OSN Family HD AR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694408
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Al Yawm HD AR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694409
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Music Now HD AR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/685292
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Art Hekayat 2 AR
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694412
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Art Aflam 1 AR
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694414
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Art Aflam 2 AR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694415
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Art Cinema AR
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694416
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",OSN Comedy HD AR
@@ -3042,8 +3477,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/9385
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/629074
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sandzak TV RS
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/9386
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Jefimija TV RS
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/18919
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Mlava TV RS
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/7888
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RTK 2 HD RS
@@ -3158,8 +3591,6 @@ http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",43 ????? HD
 http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",43 ????? HD
-http://sochi-strk.ru:2015/43Kanal/mpegts
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",49 ?????
 http://49channel.mediacdn.ru/live/cdn/49channel/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",6 ?? ????????
@@ -3236,8 +3667,6 @@ http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
 http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",MCM Top
 http://194.190.78.91:8080/mcm/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Maidan TV
-http://hls-iptv.tattelecom.ru:80/online_tv_Maydan/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Maidan TV
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv_480/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Maidan TV HD
@@ -3486,8 +3915,6 @@ http://89.218.30.37/ktklive/live.hq/playlist.m3u8
 http://wz-kt.ktk.kz/ktklive/smil:ktk-live.smil/chunklist_b3064000_slrus.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???
 http://92.46.127.146:8080/KTK/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? 24
-https://vgtrkregion.cdnvideo.ru/vgtrk/kavkaz/region/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??????????? ??
 http://live-1.otcnet.ru/kaleidoskop/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??????????? ??
@@ -3548,8 +3975,6 @@ http://bsttv.bonus-tv.ru:80/cdn/kurai/playlist_sdhigh.m3u8
 http://46.46.143.222:1935/live/ldpr.stream_480p/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? ?? HD
 http://46.46.143.222:1935/live/ldpr.stream/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??????????? 24 HD
-https://sevas.1tvcrimea.ru/legendarniy24.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ?? 24
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_LenTV/hls/1024x576@1272/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ?? 24
@@ -3578,8 +4003,6 @@ http://185.78.112.46:8077/mtv-stolitca/index.m3u8
 http://tvcdn01.esilnet.kz/tv/mtrk/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????
 http://193.33.240.8:8080/mama/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ?? [HD]
-http://live-saha.cdnvideo.ru/saha/mamont/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ?? HD
 http://213.59.128.165:8080/Matur_TV/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? 15
@@ -3648,8 +4071,6 @@ http://78.25.155.47:1309/channel/Nauka.ts
 http://tv.tuva.ru/nauka2/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? ????
 http://live-1.otcnet.ru/nashatema1/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ???????? 24
-https://vgtrkregion.cdnvideo.ru/vgtrk/novgorod/regionHD/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ???????? 24 HD
 http://live-vestinn.cdnvideo.ru/vestinn/nn24/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ???????? 24 HD
@@ -3911,8 +4332,6 @@ https://vgtrkregion.cdnvideo.ru/vgtrk/syktyvkar/russia1sd/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? 1 (??????)
 https://vgtrkregion.cdnvideo.ru/vgtrk/tambov/russia1sd/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? 1 (?????)
-https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tver/russia1-sd/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? 1 (?????)
 https://vgtrkregion.cdnvideo.ru/vgtrk/tomsk/russia1sd/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? 1 (????)
 https://vgtrkregion-reg.cdnvideo.ru/vgtrk/tula/russia1-sd/index.m3u8
@@ -4115,8 +4534,6 @@ http://185.186.142.16/rs/1080/s.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????
 http://193.33.240.8:8080/ryzhiy/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? (????????)
-http://86.57.147.236/HLS/ctvby/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? (????????)
 http://80.94.225.126:8080/STV/mono.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? (????????)
 http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
@@ -4124,8 +4541,6 @@ http://ctv.dc.beltelecom.by/ctv/ctv.stream/playlist.m3u8
 http://sochinskayatrk.ru/hdtv/hls/strk_400/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? HD
 http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? HD
-http://sochi-strk.ru:2015/STRK/mpegts
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???
 http://188.191.160.238:9099/channel/STS.ts
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???
@@ -4172,18 +4587,12 @@ http://live2.mediacdn.ru/sr1/sever/playlist_hdhigh.m3u8
 http://stvserver.sibaytv.ru:10082/canals/canal1/stream.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? 24
 https://vgtrkregion.cdnvideo.ru/vgtrk/novosibirsk/regionSD/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??????????? 24
-https://simf.1tvcrimea.ru/simferopol24sd.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??????????? 24 HD
-https://simf.1tvcrimea.ru/simferopol24.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??????? ?? HD
 https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????????? ????????
 http://live-sovsec.cdnvideo.ru/sovsec/sovsec_orig/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???????? Live
 http://ott.inmart.tv:8081/19/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???????? Live
-http://tv.newline.in.ua:8686/novorossiya
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? 24 HD
 http://sochi.camera:8080/cam_128/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????
@@ -4208,8 +4617,6 @@ http://78.25.155.47:1309/channel/TV3.ts
 http://86.57.178.105:9951/tv3
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??7 (??????)
 https://ctv7.ru/live/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? (???)
-http://37.79.254.224:1234/hls2/tvg.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? (??????????)
 http://air.tvk6.ru/tvk24/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? HD
@@ -4228,8 +4635,6 @@ http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 http://origin5.mediacdn.ru/live/tnvplaneta/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ?????????
 https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ?????????
-http://hls-iptv.tattelecom.ru:80/online_tv_TNV/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???
 http://78.25.155.47:1309/channel/TNT.ts
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? Music
@@ -4258,8 +4663,6 @@ https://iptv-hls.idc.md/hls/2/live2.m3u8
 http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????
 http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????????? 24
-http://hls-iptv.tattelecom.ru:80/online_tv_Tatarstan24/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????????? 24
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/TatTVR_tat24_1f55f482a2df2bede07c661806c4eb/hls/1024x576@1272/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????????? 24 HD
@@ -4337,8 +4740,6 @@ http://origin5.mediacdn.ru/live/shayan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????????? ??
 http://stream0.tv41.ru/live.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? ??
-http://hls-iptv.tattelecom.ru:80/online_tv_Efir/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? ??
 http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_efir_2c28d5412dd75bf975fb951c740a30/hls/1024x576@1272/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? ??
 http://stream.efir24.tv:1935/live/efir/playlist.m3u8
@@ -4358,8 +4759,6 @@ http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 http://okko-media.cdnvideo.ru/live/okko/uvelir/hls/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? HD
 http://ott.inmart.tv:8081/35/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? HD
-http://tv.newline.in.ua:8686/union
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? 24
 http://live-saha.cdnvideo.ru/saha/yak24rtmp/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? ??
@@ -4432,8 +4831,6 @@ https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ????? FM [BY]
 http://stream1.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????????? HD
-http://hlss.goodgame.ru/hls/187241.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? 25 (???????????)
 http://flussonic0.podryad.net:8080/gorodtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://r7.pngwing.com/path/238/54/383/indian-premier-league-dd-sports-television-dd-national-cricket-39ee3fc39c581d7670adc32a6a400f2e.png",DD Sports
@@ -4614,8 +5011,6 @@ http://123tv-mx1.flex-cdn.net/index.m3u8
 https://alex-stream.rosebud-media.de/live/alexlivetv40.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Anixe_HD.svg/641px-Anixe_HD.svg.png",Anixe HD Serie (360p)
 https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
-#EXTINF:-1  tvg-logo="http://logos.zattic.com/images/channels/logos/e96fafec01ec632f9b38/black/84x48.png",ARD-alpha (720p)
-http://livestreams.br.de/i/bralpha_germany@119899/master.m3u8
 #EXTINF:-1 ,Baden TV (1080p) [Not 24/7]
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV Musik (720p)
@@ -4630,8 +5025,6 @@ https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg",ABNsat (720p)
 http://rtmp1.abnsat.com/hls/arabic.m3u8
-#EXTINF:-1 group-title="Religious",Aghapy TV (1080p)
-https://5b622f07944df.streamlock.net/aghapy.tv/aghapy.smil/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="http://jascotvstreaming.com/uploads/topics/15819734874770.jpg",AL HOKAIR Group TV (576p)
 http://82.212.74.3:8000/live/7513.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/VCfZB73.png",Al Horreya TV (1080p)
@@ -4656,8 +5049,6 @@ https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmapa.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i1.wp.com/en.alkarmatv.com/wp-content/uploads/2020/02/Logo-Talmaza.png",Alkarma TV Talmaza (Discipleship) (1080p) [Not 24/7]
 https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Religious",Alkerazatv (720p)
-https://597f64b67707a.streamlock.net/alkerazatv.org/alkerazatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://www.almagd.tv/en/images/logo.png",Almagd TV Middle East (1080p)
 https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://arabicagroup.tv/images/app1.png",Arabica TV (720p)
@@ -4698,10 +5089,6 @@ https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/bYz6HUG.png",Palestine Mubasher (404p)
 http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/KcSgZg0.jpg",Palestine Satellite Channel (404p)
-http://htvpalsat.mada.ps:8888/PBC/index.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/7wABSuo.png",Das Erste (720p)
-https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/17/dstv_Deutshe_Welle_4-3_lightbackground_001_xlrg.png",DW Deutsch (1080p) [Geo-blocked]
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",DW Deutsch+ (1080p) [Geo-blocked]
@@ -4782,8 +5169,6 @@ https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3
 https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u
 #EXTINF:-1 ,Punktum S�dharz (1080p)
 http://62.113.210.250/medienasa-live/punktum_high/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/9pvCYaA.png",Radio Weser TV Bremen (576p)
-https://5857499ee635b.streamlock.net/radiowesertv-live/mp4:livestreamTV/playlist.m3u8
 #EXTINF:-1 ,Ran 1 (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ran1.png",RAN1 (1080p)
@@ -4946,8 +5331,6 @@ http://139.162.182.79/live/test/index.m3u8
 https://b01c02nl.mediatriple.net/videoonlylive/mtisvwurbfcyslive/broadcast_58d915bd40efc.smil/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/qk102lK.png",Sinop Yildiz TV (360p)
 https://s01.vpis.io/sinopyildiz/sinopyildiz.m3u8
-#EXTINF:-1 ,Sun RTV (720p) [Not 24/7]
-https://tr.socialsmart.tv/suntv/bant1/chunks.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.dsmart.com.tr/epg/images/0x50/59f19761cfef0b221f7da8ea",TGRT Haber (360p) [Not 24/7]
 https://b01c02nl.mediatriple.net/videoonlylive/mtsxxkzwwuqtglive/broadcast_5fe4598be8e5d.smil/playlist.m3u8
 #EXTINF:-1 ,Ton TV (720p) [Not 24/7]
@@ -5102,8 +5485,6 @@ http://cdn-01.bonus-tv.ru:80/konnyimir/tracks-v1a1/mono.m3u8?ws_sport?token=Anon
 http://ai5dhpwuk8j.a.trbcdn.net/livemaster/lr4wy_live-b9nqfoyk6i9.smil/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="https://dvb.by/sources/logos/6845.png",Любимый HD
 http://92.245.103.126:1935/live/live.stream/playlist.m3u8
-#EXTINF:-1 group-title="Познавательные" tvg-logo="https://dvb.by/sources/logos/2875.png",Министерство идей
-https://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Кино" tvg-logo="http://epg.it999.ru/img2/2275.png",Мир Сериала HD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIRSERIALA/variant.m3u8
 #EXTINF:-1 group-title="Познавательные" tvg-logo="http://epg.it999.ru/img2/675.png",Моя Планета
@@ -5360,38 +5741,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1234A-lawcrime/CDN/playlist.m3u8
 https://dai.google.com/linear/hls/event/xC8SDBfbTKCTCa20kFJQXQ/master.m3u8
 #EXTINF:-1 ,Local Now Adrenaline Rush (720p)
 https://linear-133.frequency.stream/dist/localnow/133/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | MY 9 NEW YORK
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142368
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | WGN AMERICA
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142370
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA CW21 (WTTO) Birmingham
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142380
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA CW23 (WUCW) Saint Paul
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142382
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA CW33 (KVCW) Las Vegas
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142383
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA CW69 (WUPA) Atlanta
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142393
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA CW (KMAX) SACRAMENTO
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/142396
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | ABC Atlanta
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145786
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | ABC Boston
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145788
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | ABC Charlotte
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145789
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | ABC Chicago
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145790
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | ABC Cleveland
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145791
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | ABC Dallas
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145793
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | ABC Detroit
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145795
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | ABC Durham
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145796
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | ABC Fresno
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145797
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | ABC Hartford
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145798
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | ABC Houston
@@ -5706,8 +6055,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146011
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146012
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | DISNEY CHANNEL
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146675
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | DISNEY JR
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146676
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | NICK JR
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/146677
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | NICK TOONS
