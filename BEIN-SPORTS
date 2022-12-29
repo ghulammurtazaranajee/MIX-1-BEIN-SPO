@@ -1,18 +1,14 @@
 #EXTM3U
 
-#EXTM3U
+
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 92 NEWS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23585.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY DIGITAL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23593.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY NEWS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23595.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY QTV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23597.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO NEWS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23623.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| AL-SUNNAH
-http://cineapp.org:8000/Fernando/Fernando/152820
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| 92 NEWS
 http://cineapp.org:8000/Fernando/Fernando/152830
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| PUBLIC NEWS
@@ -25,10 +21,6 @@ http://cineapp.org:8000/Fernando/Fernando/152837
 http://cineapp.org:8000/Fernando/Fernando/152838
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| LAHORE NEWS
 http://cineapp.org:8000/Fernando/Fernando/152840
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| LAHORE RANG
-http://cineapp.org:8000/Fernando/Fernando/152841
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| CAPITAL NEWS
-http://cineapp.org:8000/Fernando/Fernando/152842
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| CITY 41 NEWS
 http://cineapp.org:8000/Fernando/Fernando/152844
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| GEO TEZZ
@@ -57,27 +49,652 @@ http://cineapp.org:8000/Fernando/Fernando/152870
 http://cineapp.org:8000/Fernando/Fernando/152873
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| HBO PAK
 http://cineapp.org:8000/Fernando/Fernando/152874
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Top Channel
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/1
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Klan HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/35
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Klan Plus
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/37
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Klan Kosova
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/36
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Klan Macedonia
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/93
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Vizion Plus HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/59
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Kanali 7
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/33
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Top News
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/2
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",News 24
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/39
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RTV Ora
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/11
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Ora News
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/12
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ABC News
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/26
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Fax News
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/29
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Report TV
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/72
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Syri TV
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/46
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",A2 CNN
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/61
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Scan TV
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/73
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",klannews
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/95
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Film Nje HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/16
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Film Dy HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/64
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Family HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/19
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Film Komedi
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/66
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Film Aksion HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/18
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Film Drame
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/63
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Film Thriller
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/15
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Film Hits HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/65
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Eurofilm
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/62
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Stinet
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/3
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",T HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/77
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Fox
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/67
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Fox Life
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/68
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Fox Movies
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/69
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Jolly HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/31
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",3 Plus
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/25
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Kanal D Drama
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/32
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tring Action HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/48
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tring Fantasy HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/50
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tring Comedy
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/49
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tring Super HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/56
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tring Life
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/52
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tring Shqip
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/54
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Living HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/38
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Smile
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/41
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tring Planet
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/53
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tring Histori
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/51
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tring World
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/58
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",EXP Shkence
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/20
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",EXP Natyra
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/21
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",EXP Histori
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/84
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Bang Bang
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/24
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Cufo TV
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/23
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Junior TV
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/14
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tring Tring
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/57
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tip TV
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/47
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Kids
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/34
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Nick Toons
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/10
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BBF
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/27
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Elsrodi
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/28
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Folk Plus
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/30
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Melody TV
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/13
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IN TV
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/70
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SuperSonic TV
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/76
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TV Blue Sky
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/79
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TV Kopliku
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/80
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TV Rozafa
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/81
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TV Star Plus
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/82
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Klan Music
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/83
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SS-1 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/4
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SS-2 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/5
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SS-3 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/6
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SS-4 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/7
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tring Sport News
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/55
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport 1 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/42
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport 2 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/43
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport 3 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/44
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RTK
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/86
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RTV 21
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/40
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtsh shkodra
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/96
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai 1
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/104
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai 2
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/105
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai 3
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/106
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai 5
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/108
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Italia 1
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/109
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rete 4
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/110
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Canale 5
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/111
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai Movie
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/112
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai Storia
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/115
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai News 24
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/116
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai Gulp
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/117
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai Yoyo
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/118
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",20 Mediaset
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/119
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Mediaset Extra
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/120
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Mediaset Italia 2
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/121
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Real Time
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/122
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Dmax
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/123
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Focus
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/125
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Cielo
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/126
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Frisbee
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/128
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Home and Garden
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/131
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Uno
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/132
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Italia
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/139
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Super Tennis
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/143
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Motor Trend
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/144
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",VH1
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/153
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Boing
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/157
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Boing Plus
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/158
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Cartoonito
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/159
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Cine34
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/160
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Food Network
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/162
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",27Twentyseven
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/163
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Giallo
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/164
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Nove
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/165
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",R101 TV
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/167
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Radio Cusano
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/169
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Radio Zeta
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/170
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Radio Frescia
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/171
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Radio Italia
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/172
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RDS Social
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/173
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rtl 102 hd
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/174
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky tg 24
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/180
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Top Crime
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/181
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TV2000
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/182
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TV8
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/183
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",VIRGIN RADIO
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/184
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Zelig Sport
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/185
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Iris
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/186
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",La 5
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/187
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",La 7
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/188
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RADIO RADIO TV
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/190
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tgcom 24
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/191
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Radio Kiss Kiss
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/192
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Uniresat HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/193
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",radio italia trend hd
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/194
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",XXX Desire
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/145
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",XXX Brazers
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/146
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",XXX Redlight
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/148
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",XXX Private
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/149
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",XXX Vivid Red
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/150
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",XXX Blue Hustler
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/151
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rtsh Sport
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/199
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtsh1
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/200
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtsh2
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/201
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtsh3
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/202
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtsh24
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/203
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtshplus
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/204
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtshshkolle
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/205
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtshfemije
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/206
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtshkukesi
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/207
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtshagro
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/208
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtshkuvend
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/209
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtshshqip
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/210
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtshfilm
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/211
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtshmuzike
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/212
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tring Family HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/260
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tring International
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/261
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Filma24 Thriller FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/527
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Filma24 Romance FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/528
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Filma24 Netflix 24 FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/529
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Filma24 Netflix FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/530
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Filma24 Mister FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/531
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Filma24 Krim FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/532
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Filma24 Komedi FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/533
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Filma24 Histori FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/534
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Filma24 Fantasy FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/535
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Filma24 Familjar FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/536
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Filma24 Drama FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/537
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Filma24 Biografi FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/538
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Filma24 Aventur FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/539
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Filma24 Animuar FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/540
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Filma24 Action FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/541
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Falcon Premium 6 FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/542
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Falcon Premium 5 FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/543
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Falcon Premium 4 FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/544
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Falcon Premium 3 FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/545
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Falcon Premium 2 FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/546
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Falcon Premium 1 FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/547
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Falcon Cinema Horror 24 FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/548
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Falcon Cinema Horror FHD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/549
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: RTV 21 Junior HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/600
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: RTV 21 M
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/601
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: RTV 21 Plus
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/602
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: RTV 21 Popullore
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/603
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: TELE one 1
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/604
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: TELE one 2
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/605
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: TELE one 3
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/606
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: TELE one 4
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/607
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: TELE one 5
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/608
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TELE one muzik Shqip
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/609
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TELE one Aksion HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/610
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TELE one Aventure
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/611
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TELE one Crime HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/612
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TELE one GOLD Collection HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/613
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TELE one fantazi HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/614
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TELE one Drama HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/616
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TELE one Epik HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/617
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TELE one Gags
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/618
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TELE one muzik hits HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/619
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TELE one KURANI ( shqip )
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/620
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Ktv HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/621
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",alsat
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/622
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Digi Gold 1
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/625
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Digi Gold 2
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/626
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Digi Gold 3
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/627
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: Folklorit
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/629
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: MTV Kosova
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/630
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",EX-YO: DM Sat
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/632
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 6
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/371
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 5
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/372
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 4
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/373
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 3
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/374
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 2
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/375
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 1
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/376
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Sport 5 HR
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/378
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Sport 4 RS
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/379
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Sport 4 HR
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/380
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Sport 3 RS
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/381
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Sport 3 HR
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/382
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Sport 2 RS
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/383
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Sport 2 HR
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/384
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Sport 1 RS
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/385
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Arena Sport 1 HR
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/386
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- BEINSPORT 1 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/387
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- BEINSPORT 2 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/388
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- BEINSPORT 3 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/389
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- BEINSPORT MAX 5
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/391
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR --. BEINSPORT MAX 6
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/392
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- BEINSPORT MAX 7
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/393
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- BEINSPORT MAX 8
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/394
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- BEINSPORT MAX 9
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/395
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- BEINSPORT MAX 10
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/396
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- AB MOTEURS
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/397
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- CANAL SPORT
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/398
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- EUROSPORT 1 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/399
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- EUROSPORT 2 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/400
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- GOLF CHANNEL
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/401
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- RMC SPORT 1 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/402
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- RMC SPORT 2 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/403
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- RMC SPORT 3 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/404
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- FOOT  24
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/405
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- 13th Street HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/474
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- 3sat HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/475
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Boomerang
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/477
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Cartoon Network
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/478
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Das Erste HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/480
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Discovery HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/481
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Disney Channel
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/482
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Disney Cinemagic HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/483
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- DMAX
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/484
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- E! Entertainm. HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/485
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Fox HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/487
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Heimatkanal
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/488
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- History HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/489
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Jukebox
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/490
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Junior
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/491
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Kabel eins HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/492
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- KIKA HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/493
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Motorvision TV
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/494
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Nat Geo Wild HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/495
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- NatGeo HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/496
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Nickelodeon HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/497
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- ROMANCE TV
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/498
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- RTL 2 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/499
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- RTL HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/500
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- RTL Nitro HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/501
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- RTL Television
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/502
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- SAT.1 Gold HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/503
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Sat.1 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/504
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Sixx HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/505
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Sky Atlantic HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/506
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Sky Cinema  1 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/507
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Sky Cinema  24 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/508
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Sky Cinema Action HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/509
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Sky Cinema Family HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/510
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Sky Cinema HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/511
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Sky Cinema Hits HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/512
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Sky Krimi
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/513
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Spiegel Geschichte
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/514
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Spiegel TV Wissen
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/515
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Super RTL HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/516
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- SYFY HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/517
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- TNT Comedy HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/518
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Universal HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/521
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- VOX HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/522
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- WDR  HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/523
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- Welt der Wunder
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/524
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- ZDF HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/525
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- ZDF info HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/526
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- 6ter
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/550
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- arte Hd
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/551
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- BFM TV
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/552
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- Canal + HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/555
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- Canal + Series HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/556
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- Canal+ Cinema HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/557
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- Canal+ Family HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/558
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- Cartoon Network
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/559
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- Cine  Frisson HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/560
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- Cine Famiz HD.
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/561
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- Cine FX HD.
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/562
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- Cine Polar HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/563
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- Cine Premier HD.
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/564
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- CStar
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/565
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- EuroNews HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/566
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- France 2 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/567
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- France 3
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/568
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- France 4
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/569
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- France 5
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/570
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- France Ã–
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/571
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- France24
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/572
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- Gulli
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/573
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- M6
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/574
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- NRj12
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/575
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- OCS CHOC HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/576
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- RMC Decouverte HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/577
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- RTS Deux
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/578
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- TF1 HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/579
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- TMC HD
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/580
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- W9
+http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/582
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| APNA STAGE SHOW
 http://cineapp.org:8000/Fernando/Fernando/152880
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| HUM MASALA
 http://cineapp.org:8000/Fernando/Fernando/152888
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|KU| TR ARTI TV
 http://cineapp.org:8000/Fernando/Fernando/45385
-
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: BEIN SPORTS ESPANA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24040.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DAZN LALIGA 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25125.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DAZN LALIGA 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25127.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: M+ Laliga SmartBankTV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25128.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DAZN 1
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5589.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DAZN 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5590.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DAZN 3
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5591.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DAZN 4
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5592.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DAZN F1
@@ -132,8 +749,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/5561.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5564.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: BOING
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5565.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: BOM CINE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5566.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: CALLE 13
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5567.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: CANAL COCINA
@@ -226,8 +841,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/5728.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5729.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: TCM
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5733.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: TELE MADRID
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5736.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: TNT
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5739.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: TOROS
@@ -276,22 +889,10 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/29322.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29324.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Netflix Thriller 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29326.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: TAQUILLA 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29328.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: MYTIME MOVIE NETWORK
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29350.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: ALCARRIA TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29664.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: 091 ALERTA POLICIA 24/7
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29665.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: CANAL DIOCESANO TOLEDO
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29666.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: SPORT TV 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24982.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: SPORT TV 3
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24980.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: SPORT TV 4
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24979.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: ELEVEN SPORT 3
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25026.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: SPORT TV NBA
@@ -304,10 +905,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/24986.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/24987.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: AMC
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/24989.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: ARTV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24990.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: AXN WHITE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24994.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: BABY TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/24995.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: CMTV
@@ -316,14 +913,8 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/25017.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25018.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: E! ENTERTAINMENT
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25023.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: FOX MOVIES
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25035.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: GLOBO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25038.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: HISTORIA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25040.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: MOTORVISION
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25048.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: MTV PORTUGAL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25049.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: NAT GEO WILD
@@ -368,8 +959,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/10160.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23833.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: POLSAT SPORT FIGHT
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23839.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: 4 FUN DANCE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10099.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: 4 FUN TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10102.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: ACTIVE FAMILY
@@ -404,8 +993,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/10146.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10147.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: DISNEY XD
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10148.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: ESKA EXTRA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10156.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: FIGHT BOX
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10162.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: FIGHT KLUB
@@ -418,14 +1005,8 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/10176.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10177.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: HGTV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10179.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: KINO POLSKA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10181.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: KINO TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10183.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: KUCHINA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10184.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: MOTOWIZJA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10188.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: MTV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10189.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: MTV DANCE
@@ -450,8 +1031,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/10211.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10212.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: POLSAT VIASAT EXPLORE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10215.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: POLSAT VIASAT HISTORY
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10216.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: POLSAT VIASAT NATURE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10217.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: SCIFI UNIVERSAL
@@ -472,8 +1051,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/10252.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10258.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: SKY SPORT FOOTBALL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/24460.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: RAI SPORT 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24465.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: ANIMAL PLANET
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/24469.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: BOING
@@ -484,10 +1061,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/24479.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/24485.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: DISCOVERY CHANNEL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/24493.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: DISNEY JR
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24495.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: EAGLE GOMORRA STAGIONE 4
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24508.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: EURONEWS LIVE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/24516.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: FOCUS
@@ -558,8 +1131,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/29678.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29988.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP EUROSPORT 1
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29929.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP EIR SPORT 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29681.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP EIR SPORT 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29680.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP BT SPORT 1
@@ -592,18 +1163,12 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/29713.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29726.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP VIRGIN MEDIA 3
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29727.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP ANIMAL PLANET
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29789.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP CRIME & INVESTIGATION
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29790.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP DISCOVERY CHANNEL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29791.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP HISTORY 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29796.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP TLC
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29813.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP PARAMOUNT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29816.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP QVC BEAUTY
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29818.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP ITVBE
@@ -620,14 +1185,10 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/29842.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29845.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP E4
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29849.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP COLORS EUROPE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29866.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP TINY POP
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29870.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP BABY TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29873.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP BOOMERANG
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29874.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY CINEMA COMEDY
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29881.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY CINEMA FAMILY
@@ -636,16 +1197,10 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/29882.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29888.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP BBC ALBA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29901.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP BBC NEWS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29902.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP EURONEWS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29911.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY 1
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29916.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY NATURE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29983.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY ARTS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29857.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY WITNESS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29858.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY NEWS
@@ -694,10 +1249,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/18061.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8357.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CZ: CT1
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8358.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CZ: DISNEY CHANNEL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8361.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CZ: DUCK TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8362.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CZ: MARKIZA INTERNATIONAL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8380.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CZ: MINIMAX
@@ -746,8 +1297,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/7589.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7601.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: EURO D
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7642.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: EXXEN SPORTS 6
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7648.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: EXXEN SPORTS 7
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7649.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: FOX
@@ -770,8 +1319,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/7744.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7745.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: MINIKA COCUK
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7748.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: MOVIES YESILCAM
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7759.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: NAT GEO
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7784.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: NILOYA TV
@@ -790,20 +1337,10 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/7902.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7926.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: TRT SPOR 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7940.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: TRT WORLD
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7942.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: TV 8
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7945.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: TV 85
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7950.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: ULKE TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7956.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",GR: COSMOTE SPORT 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/24010.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",GR: COSMOTE SPORT 4
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/24008.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",GR: ACTION 24
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/4568.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",GR: FOOD NETWORK
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/4591.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",GR: FOX LIFE
@@ -1032,10 +1569,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/19869.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/19879.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: BUZZR
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/19887.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: CW
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19915.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: FUSION
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19947.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: HBO 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/19952.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: MSG
@@ -1100,14 +1633,8 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/7981.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7982.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 3
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7984.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 4
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7985.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 6
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7987.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 7
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7988.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 8
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7989.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 9
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7990.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 10
@@ -1118,8 +1645,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/7992.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7993.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 13
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7994.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 14
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7995.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 15
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7996.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 16
@@ -1172,22 +1697,10 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/8029.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8030.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: A LA CARTE 4
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8031.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: A LA CARTE 7
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8034.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: A LA CARTE 8
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8035.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: A LA CARTE 9
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8036.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: A LA CARTE 11
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8038.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: A LA CARTE 12
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8039.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: A LA CARTE 15
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8042.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: A LA CARTE 16
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8043.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BTV MOVIES 7
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8054.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: RMC DECOUVERTE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8057.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: RMC STORY
@@ -1198,8 +1711,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/8062.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8063.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: PSG ULTRAS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8066.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: AB 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8067.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: AB 3
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8068.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: AB EXPLORE
@@ -1208,10 +1719,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/8069.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8071.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BFM BUSINESS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8072.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BFM GRAND LILLE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8073.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BFM PARIS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8074.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BFM SPORT
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8075.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: ACTION
@@ -1322,8 +1829,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/8164.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8165.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: POLAR+
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8168.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: PUBLIC SENTA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8169.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: RFM TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8171.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: ROUGE TV
@@ -1358,8 +1863,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/8190.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8192.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TOUTE L HISTOIRE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8193.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TRACE AFRICA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8194.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TRACE URBAN
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8196.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TREK
@@ -1398,10 +1901,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/8302.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8341.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: RMC SPORT 5 LIVE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8342.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: RMC SPORT 7 LIVE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8344.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: RMC SPORT 9 LIVE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8346.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: AMAZON PRIME 2 (MATCH TIME)
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8323.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: AMAZON PRIME 3 (MATCH TIME)
@@ -1522,10 +2021,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/9891.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9892.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: NAT GEO WILD
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9903.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: NICKELODEON
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9907.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: NPO 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9908.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: NPO 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9910.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: OMROEP FRYSLAN
@@ -1566,10 +2061,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/18420.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18427.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",LA: MIAMI TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18428.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",LA: TELEMUNDO CHICAGO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18457.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",LA: UNIVISION (NEW YORK)
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18462.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",LA: UNIVISION TELENOVELAS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18464.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",LA: TELEMUNDO LAMPA
@@ -1592,8 +2083,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/18622.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18640.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MEX: LIFETIME
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18647.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MEX: MULTIMEDIOS PLUS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18655.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MEX: STUDIO UNIVERSAL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18672.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MEX: SYFY
@@ -1638,8 +2127,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/19082.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/19088.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RUS: ???
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/19146.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: CANAL COSTA TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29662.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEIN SPORTS 1
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20884.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEIN SPORTS NEWS
@@ -1650,12 +2137,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/20896.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20681.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AD NAT GEO
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20682.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AGHAPY CHRISTIAN
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20692.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL AOULA MARCO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20706.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL HADEF ALGERIE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20729.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL HAQEQA AL DAWLIAH JORDAN
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20730.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL ISTIQAMAT
@@ -1690,8 +2171,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/20821.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20824.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: ASIA TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20852.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: ASSADISSA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20854.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: ATTESIA TUNISIA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20856.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEUR TV
@@ -1714,14 +2193,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/20958.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20969.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: FRANCE 24
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20977.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: IEN DOROS 08
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21007.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: IRAQIA TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21019.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: ISHTAR
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21020.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: JORDAN SPORT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21025.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: KTV ETHRAA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/21043.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: KTV SPORT PLUS TV
@@ -1808,46 +2279,16 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/21376.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/21386.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: ZEE ALWAN
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/21396.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CA: ABC
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23786.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CA: CANAL D
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23787.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CA: CASA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23739.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CA: CBC EDMONTON
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23814.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CA: CP24
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23711.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CA: CTV DRAMA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23795.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CA: FAMILY JR
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23762.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CA: HBO 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23722.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CA: ICI
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23741.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CA: NAT GEO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23725.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SCAN: VIAPLAY XTRA 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24109.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SCAN: VIAPLAY XTRA 3
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24110.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SCAN: VIAPLAY XTRA 21
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24128.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEIN SPORTS 3
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25108.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEIN SPORTS 4
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25110.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEIN SPORTS 5
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25109.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEIN SPORTS ENG 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25114.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEIN SPORTS ENG 3
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25115.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEDAYA TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25094.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEIN GOURMET
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25098.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEIN MOVIES 4 FAMILY
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25103.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEIN SERIES 1
@@ -1860,30 +2301,10 @@ http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/49947
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50034
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|FR| TCM CINEMA HD
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50080
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|FR| OCS CHOC FULL HD
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50210
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|FR| DISNEY CHANNEL FHD
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50235
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: LIGUE 1 PRIME VIDEO 6 FHD
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50248
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Discovery Turbo
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51388
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: NATGEO WILD
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51451
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: RTE Two
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51470
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Movies Select HD
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51490
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sony Movie
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51513
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",US: ESPN U HD
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51211
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",US: PAC-12 Arizona
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51251
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",US: Starz Comedy
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51262
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",US: WGN America HD
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51281
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: MOVISTAR SERIESMANIA
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50385
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BR: BAND SPORTS
@@ -1892,10 +2313,6 @@ http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/49329
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/49357
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BR: GLOBO ANHANGUERA GOIANIA
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/49427
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BR: PREMIERE CLUBES FHD
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/49554
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: MTV HD
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/48747
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RTP 2 ?²65
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51920
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tvi Reality ?²65
@@ -1928,8 +2345,6 @@ http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51859
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51860
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: Eleven Sports 4 LOW
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51861
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: Eleven Sports 5 LOW
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51862
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: CARTOON NETWORK LOW
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51898
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: BIGGS LOW
@@ -1962,20 +2377,6 @@ http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51905
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51901
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: TV RECORD LOW
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51886
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BE: EEN FHD
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50261
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BG: Bulgaria On Air
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50295
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BG: Evrokom
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50312
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BG: Fen Folk TV
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50313
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BG: Fen TV HD
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50315
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BG: v HD 1080
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50357
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BG:Nat Geo HD
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50361
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RTP 1
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52097
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RTP 1 FHD
@@ -2040,8 +2441,6 @@ http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52113
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/40139
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ODISSEIA
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/40119
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TVI REALITY CAMARA 4
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/39979
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SIC CARAS
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/39950
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",24 KITCHEN
@@ -2088,28 +2487,12 @@ http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/46213
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/46215
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ELEVEN SPORTS 5 hd
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/46217
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ELEVEN 6
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/46218
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Eurosport 1
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/46227
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",EUROSPORT 1 hd
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/46228
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MOTORVISION
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/46233
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR : Bein Sport 9 HD (Backup)
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/48931
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: Aghanina
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/48938
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL SUMARIA TV
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/49012
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: Altaghier
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/49033
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: MELODY CLASSIC
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/49178
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Latino: FILM ZONE
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50828
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Latino: MTV LIVE
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50858
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CANAL SUSPENSE/TERROR "looney"
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52146
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CANAL Peter Rabbit "looney"
@@ -2730,8 +3113,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/23081.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/22979.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: KALINGA TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23197.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: KTV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23205.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MASTIII
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23215.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR MOVIES
@@ -2778,8 +3159,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/672296
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/10610
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Zing [UK] IN
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5595
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Deepto HD IN
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/10624
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Jaya TV IN
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5583
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Raj Digital Plus IN
@@ -2826,8 +3205,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/11297
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/3993
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Raj Musix IN
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5550
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Zoom HD IN
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/5538
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Dhoom Music IN
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/10599
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",PTC Chakde IN
@@ -2934,10 +3311,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692263
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692264
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Golf FHD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692265
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Racing FHD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692267
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Racing HD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692268
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports F1 FHD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692269
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Action FHD VIP UK
@@ -2968,8 +3341,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692282
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692283
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BT Sport 3 FHD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692284
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BT Sport 3 HD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692285
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BT Sport 4 FHD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692291
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BT Sport 4 HD VIP UK
@@ -3030,8 +3401,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692371
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692372
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CBBC FHD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692373
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BBC One [Northern Ireland] HD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692375
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BBC One [Wales] FHD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692378
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BBC One [North West] VIP UK
@@ -3060,12 +3429,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692401
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692404
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Select HD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692405
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Greats FHD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692414
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Greats HD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692415
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Action FHD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692421
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Thriller FHD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692426
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Thriller HD VIP UK
@@ -3102,10 +3465,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692450
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692451
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Horse & Country UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692452
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",National Geographic Wild FHD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692454
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",National Geographic Wild HD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692455
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Showcase FHD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692547
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Showcase HD VIP UK
@@ -3120,8 +3479,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692553
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692554
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Replay FHD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692549
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Max HD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/693172
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sci-Fi FHD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692557
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Virgin Media Three FHD VIP UK
@@ -3220,8 +3577,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692559
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692560
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TLC HD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692561
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Watch FHD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692567
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Yesterday VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692568
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Alibi FHD VIP UK
@@ -3252,8 +3607,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692595
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692596
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Cartoonito VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692597
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Nick Jr HD UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692600
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Nickelodeon FHD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692601
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RTE Jr VIP UK
@@ -3668,8 +4021,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1228000.m3u8
 http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Leomax 24
 http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Luxury HD
-http://nano.teleservice.su:8080/hls/luxury.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",MCM Top
 http://194.190.78.91:8080/mcm/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Maidan TV HD
@@ -3682,8 +4033,6 @@ http://musictv.mediacdn.ru/cdn/musicboxgold/playlist_sdmid.m3u8
 http://musictv.mediacdn.ru/cdn/musicboxhd/playlist_sdmid.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Music Box Russian
 http://193.33.240.8:8080/music-box-ru/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Nano TV
-http://nano.teleservice.su:8080/hls/nano.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",OVAA TV
 http://tv.tuva.ru/ovaa/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",RT HD
@@ -4802,8 +5151,6 @@ https://live.35media.ru/transmit-video/1080/s.m3u8
 https://live-rian.cdnvideo.ru/rian/rus-radio/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ??? (????)
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ????? FM [BY]
-http://stream1.dc.beltelecom.by/centrfm/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? 25 (???????????)
 http://flussonic0.podryad.net:8080/gorodtv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="sports" tvg-logo="https://r7.pngwing.com/path/238/54/383/indian-premier-league-dd-sports-television-dd-national-cricket-39ee3fc39c581d7670adc32a6a400f2e.png",DD Sports
@@ -5058,8 +5405,6 @@ http://82.212.74.2:8000/live/hls/7311.m3u8
 https://5d658d7e9f562.streamlock.net/koogi.tv/koogi.smil/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/J7GdM3L.png",M24 TV (720p) [Not 24/7]
 http://79.137.106.241/live/smil:OutStream1.smil/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/bYz6HUG.png",Palestine Mubasher (404p)
-http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://rndcdn.dstv.com/dstvcms/2017/11/17/dstv_Deutshe_Welle_4-3_lightbackground_001_xlrg.png",DW Deutsch (1080p) [Geo-blocked]
 https://dwamdstream106.akamaized.net/hls/live/2017965/dwstream106/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/deutschewelle.png",DW Deutsch+ (1080p) [Geo-blocked]
@@ -5720,8 +6065,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145801
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145804
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | ABC Nashville
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145805
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | ABC New York
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145806
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | ABC Orlando
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145807
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | ABC Phoenix
