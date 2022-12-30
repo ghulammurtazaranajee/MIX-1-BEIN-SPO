@@ -9,8 +9,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/23593.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23595.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO NEWS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23623.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| 92 NEWS
-http://cineapp.org:8000/Fernando/Fernando/152830
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| PUBLIC NEWS
 http://cineapp.org:8000/Fernando/Fernando/152832
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| GNN NEWS
@@ -45,16 +43,738 @@ http://cineapp.org:8000/Fernando/Fernando/152868
 http://cineapp.org:8000/Fernando/Fernando/152869
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| SEE TV HD
 http://cineapp.org:8000/Fernando/Fernando/152870
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| DISCOVER PAKISTAN
-http://cineapp.org:8000/Fernando/Fernando/152873
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| HBO PAK
 http://cineapp.org:8000/Fernando/Fernando/152874
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | VOX
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129495.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | KABEL 1
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129497.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | ONE
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129499.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | PRO7
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129501.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | RTL 2
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129503.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | SAT 1 GOLD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129506.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | ZDF INFO
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129521.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | PRO7 FUN
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129523.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | PRO7 MAXX
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129524.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE? SILVERLINE MOVIE CHANNE
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129570.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | S Cine Emotions hd
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129581.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",===== DEUTSCHLAND KINO =====
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47719.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: S*Y  Cinema Thriller HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47721.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | S*Y CINEMA PREMIEREN FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47722.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | S*Y CINEMA ACTION FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47723.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | S*Y CINEMA FAMILY FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47724.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | S*Y CINEMA BEST OF FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47725.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | S*Y CINEMA SPECIAL FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47726.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | S*Y CINEMA FUN FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47727.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | S*Y CINEMA ATLANTIC FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47729.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: CRIME INVESTIGATION
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47732.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: S*Y  KRIMI HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47733.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: RTL CRIME HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47734.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: RTL PASSION FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47736.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: TNT COMEDY HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47737.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: TNT FILM HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47738.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: TNT S*RIE HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47739.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: 13TH STREET FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47741.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SYFY HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47742.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: UNIVERSAL TV HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47743.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: KINOWELT TV
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47744.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: DAS ERSTE HD+
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47768.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: ZDF HD+
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47769.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: ARD Alpha HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47770.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: ZDF INFO HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47771.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: ZDF NEO HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47772.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: PRO 7 HD+
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47773.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: PRO 7 Maxx HD+
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47774.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: RTL HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47776.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: RTL 2 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47778.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SAT 1 HD+
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47780.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SAT 1 Gold HD+
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47781.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SIXX HD+
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47783.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: VOX HD+
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47784.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: KABEL 1 HD+
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47786.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | S*Y CINEMA CLASSICS SD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47787.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: NITRO HD+
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47788.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: TELE 5 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47795.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: TLC HD+
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47796.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | S*Y ONE FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47798.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: WDR HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47799.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: MDR HD+
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47803.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: NAT GEO WILD HD+
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47824.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: KABEL 1 DOKU HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47827.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: DISCOVERY HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47830.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: NAT GEO HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47832.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: HISTORY FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47833.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: DMAX HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47836.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: ANIMAL PLANET FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47840.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: BOOMERANG
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47845.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: CARTOON NETWORK
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47846.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: DISNEY CHANNEL HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47847.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: DISNEY JUNIOR FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47848.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: KIKA FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47851.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: NICKELODEON
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47853.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SUPER RTL FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47854.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: TOGGO PLUS
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47855.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: RTL FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47863.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: PHOENIX
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47866.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE:  MTV HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47869.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: MTV Dance
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47870.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: DELUXE MUSIC HD+
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47871.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- S- Select 1
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129749.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- S- Select 2
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129750.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- S- Select 3
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129751.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- S- Select 4
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129752.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- S- Select 5
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129753.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Junior HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150670.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Fix&Foxi
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150671.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Spongebob HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150672.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: GalaBox Lego Jurassic World
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150696.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: GalaBox LEGO Marvel
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150697.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: GalaBox Lego Star Wars
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150698.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Galabox Pippi Langstrumpf
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150699.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Galabox Pumuckl
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150700.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Galabox Skylanders Academy
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150702.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Galabox Hallo Ninja
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150703.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",De: Galabox Kung Fu Panda
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150704.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Galabox Angry Birds
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150705.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Galabox Tut Tut Cory Flitzer
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150706.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Galabox Avatar
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150707.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Galabox Scooby
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150708.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Galabox Micky Maus
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150709.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Galabox Barbie
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150710.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Galabox One Punch Man
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150712.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Paw Patrol
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150714.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Home Cinema Peppa Wutz
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150715.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Home Cinema Spongebob
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150716.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Die Simpsons
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150717.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Pokemon
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150718.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Galileo
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150719.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: MaAX KINO 1 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173511.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: MaAX KINO 2 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173510.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: MaAX KINO 3 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173509.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: MaAX KINO 4 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173508.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: MaAX KINO 5 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173507.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: MAX KINO COLLECTION FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173506.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: MAX 007 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173505.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: MAX STAR WARS FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173504.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: KINO CRIME HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173502.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: KINO COMEDY HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173501.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: KINO DRAMA HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173500.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: KINO ANIMATION HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173499.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: KINO SCI - FI HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173498.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: KINO HORROR HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173497.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: KINO FAMILY HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173496.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: KINO ACTION HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173495.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: CINE STAR PREMIRERE HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173493.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: CINE STAR HORROR HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173492.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: CINE STAR THRILLER HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173491.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: CINE STAR FAMILIE HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173488.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: CINE STAR DRAMA HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173487.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: CINE STAR CRIME HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173486.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: CINE STAR ABENTEUER HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173485.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: CINE STAR ANIMATION HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173484.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: CINE STAR ACTION HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173483.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE:  24 - 7 MARVEL FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173482.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: 24 - 7 JAMES BOND FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173481.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE:  24 - 7 JACKIE CHAN FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173480.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY CINEMA SPECIAL FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173479.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 18 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173478.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 17 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173477.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 16 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173476.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 15 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173475.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 14 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173474.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 13 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173473.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 12 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173472.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 11 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173471.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 10 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173470.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 9 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173469.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 8 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173468.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 6 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173466.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 5 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173465.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 4 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173464.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 4 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173463.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 3 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173462.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 2 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173461.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 1 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173460.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold Musical
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173528.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold History
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173529.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold Bollywood
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173530.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold Romance
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173532.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cind Max Warner Bros
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173533.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Max James Bond 007
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173534.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Max Jurassic Park
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173535.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Max MARVEL
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173536.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Max Disney
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173537.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Max Harry Potter
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173538.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Max IMDB
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173539.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold vision
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173540.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold War
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173541.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold Western
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173542.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold Sci-Fi
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173543.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold Horror
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173544.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold Fantasy
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173545.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold Family
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173546.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold Drama
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173547.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold Crime
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173548.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold Comedy
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173549.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold Biography
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173550.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold Animation
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173551.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold Adventure
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173552.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Gold Action/Thriller
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173553.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Cine Max Fast and Furious
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173554.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: EAGLE CINEMA ABENTEUER
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173555.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: EAGLE CINEMA AKTION
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173556.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: EAGLE CINEMA DRAMA
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173557.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: EAGLE CINEMA HORROR
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173558.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: EAGLE CINEMA KOMODIE
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173559.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: EAGLE CINEMA LACHELN
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173560.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: EAGLE CINEMA SCI-FI
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173561.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: NPO 1 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129904.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: NPO 2 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129905.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: NPO 3 HD FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129906.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTL 4 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129907.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTL 5 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129908.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: SBS 6 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129909.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTL 7 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129910.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: NET 5 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129912.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTL Z HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129914.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: SBS 9 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129915.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: TLC HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129916.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: SPIKE FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129917.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: 24 KITCHEN FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129918.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTL LOUNGE FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129919.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: FOX HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129920.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: CRIME INVESTIGATION
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129921.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ANIMAL PLANET FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129922.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: National Geographic FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129923.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: DISCOVERY WORLD FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129925.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: DISCOVERY SCIENCE HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129926.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: DISCOVERY ID HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129927.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: HISTORY FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129928.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: FILM1 PREMIERE HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129929.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: FILM1 DRAMA HD FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129930.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: FILM1 ACTION HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129931.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: FAMILY 7
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129932.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: NPO POLITIEK
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129933.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: COMEDY CENTRAL EXTRA
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129938.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTL TELEKIDS HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129939.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: NICKELODEON HEVC
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129940.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: 192 TV HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129942.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: DANCE TRIPPIN HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129944.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: XITE FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129945.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: TV ORANJE
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129946.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: SLAM! TV
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129948.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: TV 538
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129949.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTL Crime FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129950.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTV-7
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129951.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: Love Nature HD H265
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129952.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: DISCOVERY HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129953.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: Pebble TV
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129954.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: FILM1 FAMILY
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129955.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTV Oost
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129956.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: BBC First HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129957.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: BBC first
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129958.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: BBC FIRST FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129959.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: Stingray Djazz HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129960.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: VICELAND HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129962.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: E! HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129964.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ONS HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129965.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: AT 5 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129966.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: CANVAS
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129967.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: Fashion TV
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129969.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: Investigation Discovery
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129970.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: L1MBURG
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129971.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: OMROEP Brabant HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129972.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: OMROEP Flevoland TV
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129973.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: Q2 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129978.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTV UTRECHT
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129979.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTV Maastricht
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129982.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTV DRENTHE HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129986.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: VIJF
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129987.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: Vitaya TV
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129988.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: KETNET HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129994.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: NPO 1 Extra HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129996.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTL CRIME
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129997.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: NPO 2 Extra HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129998.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: NPO ZAP/EXTRA
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129999.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ViaPlay 1 Xtra HD F1
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172950.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ViaPlay 2 Xtra FHD F1
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172951.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ViaPlay 2 Xtra HD F1
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172952.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ViaPlay PPV 1 FHD F1
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172953.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ViaPlay PPV 1 HD F1
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172954.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ViaPlay Premier League Top Event FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172955.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ViaPlay Premier League Top Event HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172956.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ViaPlay PPV 2 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172957.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ViaPlay PPV 2 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172958.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ViaPlay PPV 3 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172959.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ViaPlay PPV 4 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172960.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ViaPlay PPV 5 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172961.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ViaPlay PPV 6 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172962.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ViaPlay PPV 7 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172963.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ViaPlay PPV 8 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172964.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ViaPlay PPV 9 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172965.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: VIAPLAY PPV 10 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172966.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: BluBOX 2  HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172967.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: BluBOX 3  HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172968.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: BluBOX 4 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172969.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: BluBOX 5  HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172970.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| LA 7 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129157.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| S*y CINEMA ACTION
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129178.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",(IT) RAI 1 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150251.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",(IT) RAI 2 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150252.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",(IT) RAI 3 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150253.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",(IT) RAI 4 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150254.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",(IT) SKY CINEMA DRAMA FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150266.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",----------- ITALIA  ----------
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156530.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",(IT) DISCOVERY NOVE FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156532.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",(IT) SKY CINEMA DUE FHD +24
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156533.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",(IT) RAI YOYO FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156534.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",(IT) MEDIASET 20 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156535.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",(IT) ITALIA 1 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156536.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",(IT) RETE 4 FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156537.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",(IT) FOX LIFE FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156538.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",(IT) FOX CRIME FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156539.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",(IT) DISCOVERY NOVE TV FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156541.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",(IT) SKY CINEMA COMEDY FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156542.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",(IT) SKY CINEMA DRAMA FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156543.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",(IT) PREMIUM STORIES FHD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156544.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",------- Top Italia -------
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156553.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| RSI LA 1 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156554.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| RSI LA 2 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156555.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| CANALE 5 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156556.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| MEDIASET LA 5 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156557.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| LA 7 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156558.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| RAI 4 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156562.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| RAI 5 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156563.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| RAI GULP HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156564.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| RAI MOVIE HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156565.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| RAI PREMIUM
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156566.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| RAI SCUOLA
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156567.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| MEDIASET IRIS HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156568.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| RETE 4 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156569.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| TELE TICINO
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156570.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| TV2000
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156571.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| MEDIASET ITALIA 1 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156572.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| MEDIASET ITALIA 2 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156573.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| PREMIUM COMEDY HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156588.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| PREMIUM CINEMA 3
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156595.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| PREMIUM ACTION 24
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156596.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| PREMIUM COMEDY HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156597.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| PREMIUM STORIES +24 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156600.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| ANIMAL PLANET HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156616.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| DISCOVERY HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156623.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| DISCOVERY HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156625.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| DMAX HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156627.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| MEDIASET EXTRA HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156628.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| PESCA
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156630.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| MARCOPOLO HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156631.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",------- IT News -------
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156632.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY TG COM 24 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156633.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| RAI NEWS 24
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156634.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY PRIMAFILA 4
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156636.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY PRIMAFILA 2
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156637.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY PRIMAFILA 3
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156638.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY PRIMAFILA 8
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156639.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY PRIMAFILA 5
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156640.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY PRIMAFILA 7
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156641.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY PRIMAFILA 6
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156642.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY PRIMAFILA 1
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156643.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY PRIMAFILA 9
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156644.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY PRIMAFILA 10
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156645.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| FRISBEE
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156649.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| CARTOONITO
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156650.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| CARTOON NETWORK
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156651.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| DISNEY JUNIOR HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156652.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| DISNEY XD HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156654.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| RAI YOYO
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156655.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| BOING HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156656.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SUPER TV
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156657.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SUPER J
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156658.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| NICK JR
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156661.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| AXN SCI FI
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156685.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| AXN HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156686.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY ARTE HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156687.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| LA 7 HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156689.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| FOX HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156691.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY FOX COMEDY HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156692.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY FOX CRIME
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156694.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY FOX LIFE HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156695.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| GIALLO HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156698.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| CIELO HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156700.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| ALICE HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156701.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",------- IT Cinema -------
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156703.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY CINEMA UNO HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156704.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY CINEMA SUSPENSE HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156705.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY CINEMA COMEDY
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156707.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY CINEMA FAMILY HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156708.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY CINEMA ACTION
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156709.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY CINEMA DRAMA HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156710.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| SKY CINEMA COLLECTION HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156716.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| S*Y ATLANTIC HD
+http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172886.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Top Channel
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/1
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Klan HD
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/35
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Klan Plus
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/37
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Klan Kosova
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/36
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Klan Macedonia
@@ -79,8 +799,6 @@ http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/29
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/72
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Syri TV
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/46
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",A2 CNN
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/61
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Scan TV
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/73
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",klannews
@@ -181,8 +899,6 @@ http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/80
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/81
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TV Star Plus
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/82
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Klan Music
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/83
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SS-1 HD
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/4
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SS-2 HD
@@ -227,34 +943,22 @@ http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/115
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/116
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai Gulp
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/117
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai Yoyo
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/118
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",20 Mediaset
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/119
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Mediaset Extra
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/120
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Mediaset Italia 2
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/121
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Real Time
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/122
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Dmax
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/123
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Focus
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/125
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Cielo
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/126
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Frisbee
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/128
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Home and Garden
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/131
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Uno
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/132
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Italia
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/139
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Super Tennis
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/143
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Motor Trend
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/144
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",VH1
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/153
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Boing
@@ -343,8 +1047,6 @@ http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/204
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/205
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtshfemije
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/206
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtshkukesi
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/207
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtshagro
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/208
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",rtshkuvend
@@ -459,8 +1161,6 @@ http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/627
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/629
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: MTV Kosova
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/630
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",EX-YO: DM Sat
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/632
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 6
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/371
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 5
@@ -493,8 +1193,6 @@ http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/385
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/386
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- BEINSPORT 1 HD
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/387
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- BEINSPORT 2 HD
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/388
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- BEINSPORT 3 HD
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/389
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- BEINSPORT MAX 5
@@ -625,8 +1323,6 @@ http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/525
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/526
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- 6ter
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/550
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- arte Hd
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/551
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- BFM TV
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/552
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- Canal + HD
@@ -659,8 +1355,6 @@ http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/567
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/568
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- France 4
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/569
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- France 5
-http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/570
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- France Ã–
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/571
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- France24
@@ -683,12 +1377,6 @@ http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/579
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/580
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR -- W9
 http://restream.skyhd-iptv.com:25461/lazerlokale/Nhy5XbHsuZ/582
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| APNA STAGE SHOW
-http://cineapp.org:8000/Fernando/Fernando/152880
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| HUM MASALA
-http://cineapp.org:8000/Fernando/Fernando/152888
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|KU| TR ARTI TV
-http://cineapp.org:8000/Fernando/Fernando/45385
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DAZN LALIGA 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25127.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: M+ Laliga SmartBankTV
@@ -717,14 +1405,8 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/5651.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5653.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: M+ LALIGA 5 (MATCH TIME)
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5654.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: M+ LALIGA 6 (MATCH TIME)
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5655.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: CLASSICA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5545.ts
 #EXTINF:-1 ,#0
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5546.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: 24 HORAS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5550.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: A&AMP;E
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5551.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: AMC
@@ -739,12 +1421,8 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/5556.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5557.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: AXN WHITE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5558.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: BABY TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5559.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: BARCA TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5560.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: BE MAD
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5561.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: BLAZE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5564.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: BOING
@@ -781,12 +1459,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/5601.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5603.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: ESPERANZA TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5606.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: EXTREMADURA TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5609.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: FDF
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5611.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: FOX
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5612.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: FOX LIFE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5613.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: GOL TV
@@ -827,10 +1499,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/5714.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5715.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: NEOX
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5718.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: NICK JR
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5720.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: NON STOP PEOPLE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5722.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: ODISEA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5724.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: PARAMOUNT CHANNEL
@@ -851,24 +1519,14 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/5741.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5742.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: TV3 CAT
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5743.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: TVE INTERNACIONAL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5745.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: XTRM
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5751.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Castilla La Mancha Media
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25929.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DARK
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25930.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: M+ LaLiga Smartbank TV M2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25953.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: M+ LaLiga Smartbank TV M3
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25954.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Garage TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29309.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Netflix Action
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29311.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Netflix Action 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29312.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Netflix Box Office
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29313.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Netflix Box Office 2
@@ -1027,12 +1685,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/10209.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10210.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: POLSAT NEWS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10211.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: POLSAT PLAY
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10212.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: POLSAT VIASAT EXPLORE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10215.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: POLSAT VIASAT NATURE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10217.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: SCIFI UNIVERSAL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10221.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: TV TRWAM
@@ -1101,8 +1753,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/29410.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29413.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: EAGLE CINEMA HORROR
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29420.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: EAGLE CINEMA KOMODIE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29422.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: N24 Doku
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29454.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: NAT GEO
@@ -1159,10 +1809,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/29703.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29711.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP UNIVERSAL CHANNEL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29713.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP VIRGIN MEDIA 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29726.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP VIRGIN MEDIA 3
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29727.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP CRIME & INVESTIGATION
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29790.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP HISTORY 2
@@ -1181,8 +1827,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/29838.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29840.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP CHANNEL 4
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29842.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP COMEDY CENTRAL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29845.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP E4
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29849.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP TINY POP
@@ -1235,14 +1879,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/18035.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18037.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SWS: 4+
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18039.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SWS: RSI LA 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18040.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SWS: TELE BASEL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18054.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SWS: RTS 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18057.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SWS: SRF 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18059.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SWS: COMEDY CENTRAL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18061.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CZ: CT 24
@@ -1257,16 +1893,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/8381.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8385.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CZ: PRIMA MAX
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8401.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: S SPORT 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7499.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: S SPORT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7500.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: BEIN SPORTS MAX 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7502.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: A SPOR
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7512.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: AKLILI TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7517.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: AS TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7525.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: AUTOMOTO (FR)
@@ -1297,8 +1923,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/7589.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7601.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: EURO D
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7642.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: EXXEN SPORTS 7
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7649.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: FOX
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7674.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: FOX CRIME
@@ -1413,10 +2037,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/8614.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8616.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BG: DISCOVERY CHANNEL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8640.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BG: FILM PLUS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8651.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BG: ID EXTRA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8666.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BG: RETRO MUSIC
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/24054.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BG: VTV
@@ -1437,20 +2057,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/10755.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10764.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AF: SUPERSPORT ACTION
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/6709.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AF: SUPERSPORT VARIETY 3
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/6724.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AF: CHANNELS 24 TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/6575.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AF: CONGO TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/6579.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AF: MOURIDE TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/6645.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AF: TELE TCHAD
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/6729.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: ASHKALI TV HD
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/6812.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: FAMILY
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/6862.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: KANAL D DRAMA FHD
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/6913.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: RTV 21 JUNIOR
@@ -1561,10 +2167,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/19755.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/19784.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: NBC SPORTS BOSTON
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/19785.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: NBC TULSA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19792.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: SPORTSMAN CHANNEL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19869.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: AMERICAN HEROES CHANNEL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/19879.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: BUZZR
@@ -1575,10 +2177,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/19952.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/19973.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: RETRO PLEX
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/19988.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: SHOWTIME 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19992.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: SHOWTIME SHOWCASE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19999.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: SPIKE TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20002.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: STADIUM
@@ -1791,8 +2389,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/8141.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8142.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: MTV HITS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8143.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: MY CUISINE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8145.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: NAT GEO
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8146.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: NAT GEO WILD
@@ -1827,10 +2423,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/8163.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8164.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: PLANETE+
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8165.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: POLAR+
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8168.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: RFM TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8171.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: ROUGE TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8172.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: RTL 9
@@ -1855,12 +2447,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/8186.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8187.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TFI SERIES AND FILM
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8188.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TFX
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8189.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TIJI
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8190.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TOONAMI
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8192.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TOUTE L HISTOIRE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8193.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TRACE URBAN
@@ -1879,18 +2465,8 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/8204.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8205.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: EURONEWS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8207.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: INFOSPORT+
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8214.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: EXTREME SPORTS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8215.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL+ SPORT 360
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25959.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL+ SPORT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8008.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BEIN SPORTS 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8298.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BEIN SPORTS 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8299.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BEIN SPORTS 3
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8300.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BEIN SPORT MAX 4
@@ -1907,8 +2483,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/8323.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8324.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: AMAZON PRIME 4 (MATCH TIME)
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8325.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: AMAZON PRIME 7 (MATCH TIME)
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8328.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: AMAZON PRIME 8 (MATCH TIME)
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29659.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: AMAZON PRIME 10 (MATCH TIME)
@@ -1961,12 +2535,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/9580.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9964.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ZIGGO SPORT
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9977.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ZIGGO SPORT GOLF
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9965.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ZIGGO SPORT RACING
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9968.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ZIGGO SPORT VOETBAL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9969.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ZIGGO SPORT SELECT
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9970.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ZIGGO SPORT EXTRA
@@ -1997,8 +2565,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/9864.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9868.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ESPN 1
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9871.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ESPN 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9872.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ESPN 3
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9873.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ESPN 4
@@ -2025,10 +2591,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/9903.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9910.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: OMROEP FRYSLAN
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9919.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: OMROEP ZEELAND
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9921.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: PEBBLE TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9924.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTL 7
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9927.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTL 8
@@ -2049,8 +2611,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/9953.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9960.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ZIGGO DOCU
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9961.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: CARTOON NETWORK
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9978.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PE: TV PERU
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10797.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",LA: CURACAO_TV DIRECT 13
@@ -2087,10 +2647,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/18647.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18672.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MEX: SYFY
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18673.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MEX: TDN
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18676.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MEX: TELEHIT PLUS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18678.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MEX: TELENOVELAS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18679.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MEX: TV MAS
@@ -2103,14 +2659,8 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/18826.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18827.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CAR: HBO CARIBBEAN
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18832.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CAR: LVM
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18839.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CAR: NOS PAIS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18843.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CAR: TELEUNIVERSO 29
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18868.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CO: TELE PACIFICO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18740.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CO: TELECAFE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18742.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CL: TNT SPORTS 3
@@ -2261,10 +2811,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/21279.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/21281.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: SAT 7 KIDS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/21294.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: SSC SPORT 5
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21322.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: SSC SPORT 7
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21324.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: TELE MAROC
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/21359.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: TELVZA TV
@@ -2277,12 +2823,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/21370.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/21376.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: YEMEN EDU
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/21386.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: ZEE ALWAN
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21396.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEIN SPORTS 3
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25108.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEIN SPORTS 4
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25110.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEIN SPORTS 5
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25109.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEIN SPORTS ENG 3
@@ -2303,28 +2843,14 @@ http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50034
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50080
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|FR| DISNEY CHANNEL FHD
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50235
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: LIGUE 1 PRIME VIDEO 6 FHD
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50248
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: MOVISTAR SERIESMANIA
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/50385
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BR: BAND SPORTS
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/49329
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BR: DISCOVERY HOME & HEALTH
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/49357
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BR: GLOBO ANHANGUERA GOIANIA
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/49427
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RTP 2 ?²65
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51920
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tvi Reality ?²65
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51953
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: Sport Tv 1 4? ?²65
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51957
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ELEVEN SPORTS 1 ?²65
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51908
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ELEVEN SPORTS 1??? ?²65
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51962
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NATIONAL GEOGRAPHIC ?²65
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51951
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: TVI Ficcao LOW
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51849
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: A BOLA TV LOW
@@ -2491,8 +3017,6 @@ http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/46217
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/46227
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",EUROSPORT 1 hd
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/46228
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MOTORVISION
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/46233
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CANAL SUSPENSE/TERROR "looney"
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52146
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CANAL Peter Rabbit "looney"
@@ -3253,8 +3777,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686920
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/690042
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Amazon Prime 4 [Match Time] FHD VIP FR
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/690044
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Amazon Prime 6 [Match Time] FHD VIP FR
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/690046
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Amazon Prime 7 [Match Time] FHD VIP FR
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/690047
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",RMC Sport 1 FHD FR
@@ -3751,8 +4273,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686278
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686288
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Rai Yoyo FHD IT
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686290
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MTV Hits IT
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686172
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",OSN Movies Action HD AR
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694406
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Art Hekayat 2 AR
@@ -5333,12 +5853,6 @@ https://ma.anixa.tv/clips/stream/anixehd/index.m3u8
 http://badentv-stream2.siebnich.info/rtplive/btv.stream/live.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/bibeltv.png",Bibel TV Musik (720p)
 http://bibeltv03.iptv-playoutcenter.de/bibeltv03/bibeltv03.stream_1/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/blkregionaltv.png",BLK Regional TV (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://pbs.twimg.com/profile_images/706774153001639938/VCkr2ys5_400x400.jpg",BLK TV (1080p) [Not 24/7]
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/BLKonline_high/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://i.imgur.com/D5wePo5.jpg",BLK TV Hohenmölsen (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:BLKonline_high/playlist.m3u8?ref=medienportal-sachsen-
 #EXTINF:-1 group-title="Business" tvg-logo="http://cdn-profiles.tunein.com/s47135/images/logog.png",Bloomberg TV Europe (720p)
 https://liveprodeuwest.akamaized.net/eu1/Channel-EUTVqvs-AWS-ireland-1/Source-EUTVqvs-1000-1_live.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="http://vidmgr.abnvideos.com/images/playlists/phpENpJQS.jpeg",ABNsat (720p)
@@ -5479,24 +5993,10 @@ https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5d6792bd6
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5e8b5e43f294f8000793c3d7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 ,PunktUM (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/punktum_high/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/punktum.png",PUNKTum (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://www.punktum-fernsehen.de/share/android-icon-192x192.png",PUNKTum Fernsehen (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:punktum_high/playlist.m3u
-#EXTINF:-1 ,Punktum S�dharz (1080p)
-http://62.113.210.250/medienasa-live/punktum_high/master.m3u8
 #EXTINF:-1 ,Ran 1 (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ran1_high/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/ran1.png",RAN1 (1080p)
-http://62.113.210.250/medienasa-live/mp4:ran1_high/master.m3u8
-#EXTINF:-1  tvg-logo="http://www.ran1.de/img/ban1.png",RAN1 Regionalfernsehen (1080p)
-http://62.113.210.250:1935/medienasa-live/mp4:ran1_high/playlist.m3u8
 #EXTINF:-1  tvg-logo="http://www.rbwonline.de/img/ban1.png",RBW (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/rbw_high/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/rfh.png",RFH (1080p)
-https://58bd5b7a98e04.streamlock.net/medienasa-live/mp4:RFH_high/playlist.m3u8
-#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/de/thumb/e/ea/RFH-Logo.svg/200px-RFH-Logo.svg.png",RFH Harz (1080p)
-http://62.113.210.250/medienasa-live/RFH_high/master.m3u8
 #EXTINF:-1 ,RFH TV (1080p)
 http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
 #EXTINF:-1  tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24539-1.png",RheinMain TV (720p) [Not 24/7]
@@ -5669,8 +6169,6 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/index.m3u8
 http://zabava-htlive.cdn.ngenix.net/hls/CH_CNN_INTERNATIONAL/variant.m3u8
 #EXTINF:-1 group-title="Українські" tvg-logo="https://dvb.by/sources/logos/3361.png",CTB HD
 http://iptv.prosto.tv:7000/ch4/video.m3u8
-#EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/2305.png",Disney Channel (+4)
-http://rt-sib-bul-htlive-lb.cdn.ngenix.net/hls/CH_R02_DISNEYCHANNEL/variant.m3u8?version=2
 #EXTINF:-1 group-title="Детские" tvg-logo="https://dvb.by/sources/logos/2305.png",Disney Channel (+7)
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY_7/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 group-title="Музыка",Ecnulo
@@ -5979,8 +6477,6 @@ https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full
 https://a.files.bbci.co.uk/media/live/manifesto/audio_video/webcast/dash/uk/full/ak/uhd_stream_05.mpd
 #EXTINF:-1 ,Beach TV Panama City (720p)
 http://media4.tripsmarter.com:1935/LiveTV/BTVHD/playlist.m3u8
-#EXTINF:-1 ,Better Life TV (720p)
-https://uni10rtmp.tulix.tv/betterlife/betterlife.stream/playlist.m3u8
 #EXTINF:-1 ,Bloomberg TV US (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxbloomberg/CDN/playlist.m3u8
 #EXTINF:-1 ,Bloomberg TV US (360p)
