@@ -1,20 +1,870 @@
 #EXTM3U
 
 
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 92 NEWS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23585.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY DIGITAL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23593.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY NEWS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23595.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO NEWS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23623.ts
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 24 News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1403
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 8XM
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82577
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 92 News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1402
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: A Plus
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49504
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: A Sports
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/295025
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Aaj Entertainment
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/19748
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Aaj News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1401
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Abb Takk
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1400
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Akaal Channel
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193653
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Apna Channel
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/76824
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY Digital Asia
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49510
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY Musik
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1398
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1397
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY QTV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/5058
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY Zindagi
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1396
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ATV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/34630
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: AVT Khyber
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/287724
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Awaz TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/197634
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Bol Entertainment
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49517
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Bol News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1395
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Can Bangla TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/286198
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Canada One
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/147405
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Capital TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16625
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Channel Five
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49501
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: City 41
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192079
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: City 42
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1394
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Dawn News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/5056
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Discovery Pakistan
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/267107
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Dunya News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1393
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: EAwaz TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/286205
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Eman Channel
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/197123
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Eternal Life TV Network
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/275976
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Express Entertainment
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/147052
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Express News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/5105
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Fazal TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49600
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Film World
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82238
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Filmax
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/197124
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Geo Kahani
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1392
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Geo News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1391
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Geo Super
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16626
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Geo TV Network
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1389
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Hidayat TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193651
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Hum Masala
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/19746
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Hum News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49493
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Hum Sitaray
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1386
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Hum TV Europe
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1387
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Isaac TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/275949
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Islam Channel
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/198251
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Jalwa
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/226395
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Joo Music
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/168909
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Kay 2
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1384
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Khyber Middle East TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16991
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Khyber News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49533
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: King TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/267425
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Kohenoor News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/76827
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: KTN
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/166013
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Lahore News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/18916
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Lahore Rang
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/267564
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Madani Channel Urdu
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/121144
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Minhaj
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/196573
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Mission Asia
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/284256
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: My TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/196243
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Neo News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1383
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: News One
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16994
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Noor TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/76821
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: OMNI 1
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/453
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: OMNI 2
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/452
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: One Golf
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/287727
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Pakus TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49529
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Pashto 1
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/34620
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Peace TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/287043
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Peace TV Urdu
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157334
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Play Entertainment
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49532
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV Global
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1382
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV Home
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1381
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1380
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV Sports
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16633
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV World
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1379
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Public News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49522
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Raavi TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/196563
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Raham TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/196564
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Roze News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/21686
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Samaa TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1377
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: See TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193652
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Sindh TV News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/226398
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Sony 8
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/196248
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Such TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/197116
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Toronto 360 TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49513
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: TV One Global
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/5108
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: UK 44
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/196565
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Urdu 1
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1376
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Waseb TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1375
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Zindagi TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1374
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: & pictures
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16958
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: & prive
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49557
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: & TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16964
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: & Xplor
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/196116
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 3 Tamil TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/60420
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 1st India
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/159102
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 5AAB TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/286195
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 9X Jalwa
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/45465
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 9X Jhakaas
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165802
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 9X Tashan
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/45455
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 9XM
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/45471
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Aaj Tak
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/12977
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Aapka Colors
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/196121
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Aastha TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/145647
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Aathavan TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/267432
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ABP
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192817
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ABP Majha
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/283899
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ABP News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16962
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Adithya TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157469
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Akaal Channel
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165767
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Akaram Kidz
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/267454
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Amrita TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82497
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Angel TV India
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/196120
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ANIMAL PLANET (TATA PLAY)
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/296266
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Anjan
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/286918
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Apna Channel
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/286919
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Artist Aloud
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/286920
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Ashrafi Channel
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/286921
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Asianet
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82579
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Asianet Movies
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157463
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Asianet News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/163276
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Asianet News Tamil
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/294789
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Asianet Plus
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193206
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Asianet Suvarna News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/51844
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Aus Tamil TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/286792
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Ayush TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82500
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: B4U Kadak
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49556
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: B4U Movies
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1369
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: B4U Music
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1368
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: B4U Plus
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1367
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Bansal News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165400
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: BBC Toronto
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49640
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Bhojpuri Cinema
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193007
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Big Magic
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49548
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Boogle Bollywood
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193087
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Brit Asia TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/71067
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Captain News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193038
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Captain TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/294952
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Cartoon Network
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82584
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Channel i TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/296496
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Channel WIN
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/172318
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Channel Y
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49586
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Chardikla Time TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49637
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CNBC Awaaz
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49583
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CNBC Bajar
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82506
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CNBC TV 18
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192198
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1366
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS Bangla
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/247530
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS Cineplex
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/19741
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS Cineplex Bollywood
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49550
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS Gujarati
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/145645
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS Kannada
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192203
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS Marathi
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82642
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS Rishtey
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49547
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CTVN AKD Plus
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/166385
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CVR News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/270135
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Dabangg
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165800
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Dangal TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82589
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD Bangla
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/45488
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD Girnar
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/145648
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD India
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165806
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD Malayalam
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/45499
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD National
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192197
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/21668
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD Podhigai
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193047
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD Punjabi
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/283904
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD Sahyadri
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/45479
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD Sports
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/56153
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DD Uttar Pradesh
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193051
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Desi Beats
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/286933
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Desi Channel
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49601
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Dhamaal
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82510
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Dhoom Music
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/69362
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Dighvijay News 24x7
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/283905
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Dil Se
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165784
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Discovery Kids
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82683
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Discovery Science
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1363
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Discovery Tamil
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/295292
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Discovery World
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/73792
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Disha TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193001
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Disney Channel
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192985
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Divyavani TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/166373
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: DocuBay TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/286940
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: E 24
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193086
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Eet TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/51818
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Enterr 10
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193025
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Epic TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192950
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ET Now
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82513
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ETV Telangana
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/283906
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Fakt Marathi
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193017
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Fast Way News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/267402
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Fateh TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/166370
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Flowers TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193148
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Food Food
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1362
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Gaunda Punjab TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/296604
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: GDNS Ludhiana
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/286949
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Gemini TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165794
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Global Punjab
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49647
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Goodnews TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/159106
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: GS TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/196130
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Harvest TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/166372
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Harvest USA
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/198220
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: History
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82604
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Hmtv News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/296488
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Hulchul TV Canada
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49630
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: IBC
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/196133
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: IBC 24 TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193013
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: IBC Comedy
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/45428
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ILove
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49560
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: India Ahead
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/166376
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: India News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192968
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: INDIA PLUS
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/290683
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: India Today
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16970
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: India TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49577
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Ion TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/198746
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Isai Aruvi
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193205
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: J Movie
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/145638
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Janam TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/197720
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Jaya Max
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/51824
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JAYA Movies
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/295395
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: JAYA PLUS
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193207
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Jaya TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/145637
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Jeevan TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/166377
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Jhanjar Music
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82522
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Jigyasa TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/275982
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: K News India
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/275947
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Kadak Hits
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82523
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Kairali News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/294953
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Kalaignar
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193204
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Kalaignar Murasu
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/286966
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Kalinga
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193062
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Kanak News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193063
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Kanshi TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/145661
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Kappa TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193109
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Kasthuri TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193110
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Kaumudy TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82530
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: KCL TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/286959
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Khabrain Abhi Tak
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/286974
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: KTV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/36442
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Lok Sabha TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82532
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Madha TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193042
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Maha Movie
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82608
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Makkal TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/51821
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Malabar News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/283914
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Manorama News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192076
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Manoranjan Movies
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192200
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Manoranjan TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/295501
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Mastiii
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/76958
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Mathrubhumi News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/163277
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Mazhavil Manorama
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193067
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Media One
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/51851
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Mediaone News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/296483
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MH One
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193116
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MH1 Music
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/198604
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MK TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/198223
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Movies Active
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/267541
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MTV Beats
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193068
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: MTV India
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193647
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Music India
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1358
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Nambikkai TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/166382
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Namdhari TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49646
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Nazrana
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165810
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NDTV 24X7
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/21664
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NDTV India
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/166390
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NDTV Profit
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/166388
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: News 7 Tamil
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/269685
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: News 18 Gujarati
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193127
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: News 18 Lokmat
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82543
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: News 18 Malayalam
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/283926
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: News 18 Punjab
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/197949
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: News 18 Rajasthan
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193012
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: News 18 Tamil
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/283930
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: News 18 Urdu
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193015
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: News 24
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16601
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: News Live
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193089
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: nickelodeon
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/286732
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NRB TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/281555
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: NTV Telugu
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165796
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Pardesi TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49642
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Peace TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82613
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Peppers TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/166401
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Pitaara TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/145652
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Polimer News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/163279
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: POP Pataka
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82545
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Pramaya News 7
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/283937
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Pratidin Time
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/198224
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Prime Asia TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/166081
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Prime Canada TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49519
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PTC CHAKDE
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193155
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PTC News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/295294
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PTC Punjabi
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82616
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PTC Punjabi Gold
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/197742
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: PTC SIMRAN
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/264723
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Public Music
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192145
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Pulari TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/287016
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Puthiya Thalaimurai
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193035
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Puthuyugam TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/196101
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Raj Digital Plus
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/60418
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Raj News 24x7
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193648
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Raj TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193125
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Real News Kerala
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/283939
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Reporter
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/51854
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Republic Bharat
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49582
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Republic TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82617
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Rishtey Cineplex
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/71074
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Romedy Now
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/51876
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Saam TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/166387
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sada TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49625
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sadhna Plus News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/166394
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sakshi TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193164
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sana Plus
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/287021
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sana TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/287022
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sangat TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165765
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sangeet Bangla
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165827
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sanjha TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49624
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sanskar TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/51882
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Santhora Short Flim
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/51833
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sardari TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82554
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sathiyam TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193131
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Satsang TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/45463
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Shemaroo TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192955
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Shorts TV Active
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/295301
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Shraddha
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/287026
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Shubhsandesh TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82557
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sikh Channel
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82556
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sikh Spiritual Centre Rexdale
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/286225
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sivan TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/51842
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SOMOY TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/296493
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/281867
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Aath
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/17005
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony BBC Earth
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192995
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Marathi
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193097
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Max
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1359
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Max 2
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/4862
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Max India
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/63397
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Pal
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193645
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Pix
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49539
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony SAB TV Asia
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1073
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony SAB TV India
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/20649
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Ten 1
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16622
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Ten 2
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16621
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Ten 3
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/56191
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sony Wah
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165801
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR BHARAT
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/284583
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Gold
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1070
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Gold 2
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/43919
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Jalsha
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/12979
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Maa
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82624
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR Movies
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/11511
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR PLUS
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16091
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Pravah
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193149
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Sports 2
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/3631
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Sports 3
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/62584
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Sports Select 1
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82628
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Sports Select 2
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16619
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Star Vijay
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157500
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Steelbird Music
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49650
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Subhavaartha TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/166397
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SUN LIFE
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/267819
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sun Music
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/157496
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Sun TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/76969
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SURYA Movies
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193145
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SVBC
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/166383
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Swamiji TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/267416
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Swaraj Express
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/287033
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: T News Telugu
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/296490
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Tamil Vision
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/60423
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Tamilan TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/267549
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Tehelka TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/287035
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Thanthi TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/45437
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Time Vision News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/283944
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Times Now
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/76961
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Travelxp
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82636
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV 9 Gujarati
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193152
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV 9 Kannada
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193060
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV 9 Marathi
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193016
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV 9 Telugu
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/163256
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV 16 Toronto
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/147414
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV Derana
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/296394
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV Punjab
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/196089
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV Raj
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/285531
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV9 Kannada News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/296481
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Utsav Bharat
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16614
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Utsav Gold
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82623
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Utsav Plus
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/60347
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: UTV Action
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/297002
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: UTV Movies
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/284584
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: V6 News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192185
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Vasanth TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82569
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Velicham TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/159110
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Vijay TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/19744
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: VTV News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193081
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: We
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193159
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Willow
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/165776
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Xplore Channel
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/287041
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee 24 Ghanta
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193187
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee 24 Kalak
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/45484
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee 24 Taas
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/45486
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Action
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1353
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Aflam
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/22067
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Anmol Cinema
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/19467
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Bangla
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/145632
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Bangla Cinema
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/21658
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Bihar Jharkhand
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193006
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Biskope
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193009
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Bollywood
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1351
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Business
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16984
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Cafe
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/49561
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Cinema
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1350
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Cinemalu
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/45504
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE Classic
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/21578
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Hindustan
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/145633
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Kannada
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/145631
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Magic
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/281920
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Marathi
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/82646
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee News
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/5047
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Picchar
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192201
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Punjabi
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/145630
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Sarthak
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/193135
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Talkies
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/16957
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Tamil
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/45505
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ZEE TELUGU
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/21561
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Thirai
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/287042
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee TV
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1348
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee Yuva
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/45502
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zing
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/173160
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zing Asia
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/1347
+#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zoom
+http://kuchini.site:8080/GenIptvLast/Z0cMmSRZnDvDtkJP/192069
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| PUBLIC NEWS
 http://cineapp.org:8000/Fernando/Fernando/152832
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| GNN NEWS
-http://cineapp.org:8000/Fernando/Fernando/152833
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| NEWS ONE
-http://cineapp.org:8000/Fernando/Fernando/152837
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| LAHORE NEWS
 http://cineapp.org:8000/Fernando/Fernando/152840
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| K21 NEWS
@@ -33,14 +883,6 @@ http://cineapp.org:8000/Fernando/Fernando/152864
 http://cineapp.org:8000/Fernando/Fernando/152867
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| PTV HOME
 http://cineapp.org:8000/Fernando/Fernando/152868
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| AAJ ENTERTAINMENT
-http://cineapp.org:8000/Fernando/Fernando/152869
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| SEE TV HD
-http://cineapp.org:8000/Fernando/Fernando/152870
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",|PK| HBO PAK
-http://cineapp.org:8000/Fernando/Fernando/152874
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR:BEIN SPORTS 1 PREMUM SD
-http://juzu.online:2082/luinnew/H8hQgb7455/237682
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: beIN SPORTS 1 PREMIUM 480
 http://juzu.online:2082/luinnew/H8hQgb7455/237683
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR:BEIN SPORTS 3 PREMUM SD
@@ -59,8 +901,6 @@ http://juzu.online:2082/luinnew/H8hQgb7455/237697
 http://juzu.online:2082/luinnew/H8hQgb7455/237698
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BEIN SPORTS 1 PREMUM HD
 http://juzu.online:2082/luinnew/H8hQgb7455/237699
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: beIN SPORTS 1 PREMIUM HD ?
-http://juzu.online:2082/luinnew/H8hQgb7455/237700
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: BEIN SPORTS 2 PREMUM HD
 http://juzu.online:2082/luinnew/H8hQgb7455/237702
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: BEIN SPORTS 3 PREMUM HD
@@ -95,8 +935,6 @@ http://juzu.online:2082/luinnew/H8hQgb7455/237725
 http://juzu.online:2082/luinnew/H8hQgb7455/237726
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN PremiuM 1 4K
 http://juzu.online:2082/luinnew/H8hQgb7455/237727
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: beIN PremiuM 2 4K
-http://juzu.online:2082/luinnew/H8hQgb7455/237728
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: beIN PremiuM 3 4K
 http://juzu.online:2082/luinnew/H8hQgb7455/237729
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: beIN 3 4K
@@ -107,8 +945,6 @@ http://juzu.online:2082/luinnew/H8hQgb7455/237739
 http://juzu.online:2082/luinnew/H8hQgb7455/237740
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: beIN French 3 4K
 http://juzu.online:2082/luinnew/H8hQgb7455/237744
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: BEIN SPORTS XTRA 2 HD O
-http://juzu.online:2082/luinnew/H8hQgb7455/237782
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BEIN SPORT 1 720
 http://juzu.online:2082/luinnew/H8hQgb7455/237788
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",BEIN SPORT 2 HD
@@ -239,8 +1075,6 @@ http://juzu.online:2082/luinnew/H8hQgb7455/237909
 http://juzu.online:2082/luinnew/H8hQgb7455/237919
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Kids: Atfal et Mawaheb
 http://juzu.online:2082/luinnew/H8hQgb7455/237920
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Kids: MR Bean
-http://juzu.online:2082/luinnew/H8hQgb7455/237922
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Kids:: KidsCo-Movies
 http://juzu.online:2082/luinnew/H8hQgb7455/237924
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: EGY CBC SD
@@ -289,20 +1123,14 @@ http://juzu.online:2082/luinnew/H8hQgb7455/237960
 http://juzu.online:2082/luinnew/H8hQgb7455/237963
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: EGY NILE COMEDY SD
 http://juzu.online:2082/luinnew/H8hQgb7455/237964
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: IRQ KARBALA TV SD
-http://juzu.online:2082/luinnew/H8hQgb7455/237966
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: UAE Emarat TV SD
 http://juzu.online:2082/luinnew/H8hQgb7455/237967
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: EGY AL HAYAT SD
 http://juzu.online:2082/luinnew/H8hQgb7455/237968
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: EGY DMC HD
-http://juzu.online:2082/luinnew/H8hQgb7455/237973
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: EGY SADA EL BALAD 2 SD
 http://juzu.online:2082/luinnew/H8hQgb7455/237974
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: SUDAN TV SD
 http://juzu.online:2082/luinnew/H8hQgb7455/237975
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: TOKTOK AFLAM SD
-http://juzu.online:2082/luinnew/H8hQgb7455/237976
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: EGY TOKTOK CIMA SD
 http://juzu.online:2082/luinnew/H8hQgb7455/237977
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: Al QUDS SD
@@ -601,8 +1429,6 @@ http://juzu.online:2082/luinnew/H8hQgb7455/238180
 http://juzu.online:2082/luinnew/H8hQgb7455/238181
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: Rotana Cinema KSA HD
 http://juzu.online:2082/luinnew/H8hQgb7455/238182
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: ROTANA COMEDY -HD
-http://juzu.online:2082/luinnew/H8hQgb7455/238184
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: ROTANA DRAMA HD
 http://juzu.online:2082/luinnew/H8hQgb7455/238185
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: ROTANA + HD
@@ -625,8 +1451,6 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129503.ts
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129506.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | ZDF INFO
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129521.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | PRO7 FUN
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129523.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE | PRO7 MAXX
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129524.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE? SILVERLINE MOVIE CHANNE
@@ -719,8 +1543,6 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47830.ts
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47832.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: HISTORY FHD
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47833.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: DMAX HD
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47836.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: ANIMAL PLANET FHD
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/47840.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: BOOMERANG
@@ -757,8 +1579,6 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129751.ts
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129752.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE -- S- Select 5
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/129753.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Fix&Foxi
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150671.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: Spongebob HD
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/150672.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: GalaBox Lego Jurassic World
@@ -847,8 +1667,6 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173487.ts
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173486.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: CINE STAR ABENTEUER HD
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173485.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: CINE STAR ANIMATION HD
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173484.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: CINE STAR ACTION HD
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173483.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE:  24 - 7 MARVEL FHD
@@ -885,10 +1703,6 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173468.ts
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173466.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 5 FHD
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173465.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 4 FHD
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173464.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 4 FHD
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173463.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 3 FHD
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173462.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SKY SELECT PREMIERE 2 FHD
@@ -951,8 +1765,6 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173554.ts
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173555.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: EAGLE CINEMA AKTION
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173556.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: EAGLE CINEMA DRAMA
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173557.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: EAGLE CINEMA HORROR
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/173558.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: EAGLE CINEMA KOMODIE
@@ -1211,12 +2023,8 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156572.ts
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156573.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| PREMIUM CINEMA 3
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156595.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| PREMIUM ACTION 24
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156596.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| PREMIUM COMEDY HD
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156597.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| PREMIUM STORIES +24 HD
-http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156600.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| ANIMAL PLANET HD
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156616.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|IT| DISCOVERY HD
@@ -1311,8 +2119,6 @@ http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/156716.ts
 http://super-media.giize.com:80/sstvwhatchap@gmail.com/upwQb3d9D3/172886.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DAZN LALIGA 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25127.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: M+ Laliga SmartBankTV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25128.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DAZN 1
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5589.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DAZN 4
@@ -1357,22 +2163,8 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/5571.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5580.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: COMEDY CENTRAL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5584.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: COSMO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5585.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: CRIME INVESTIGATION
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5586.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: CUATRO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5588.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DISCOVERY
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5594.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DISNEY CHANNEL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5596.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DISNEY JUNIOR
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5597.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DISNEY XD
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5598.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DIVINITY
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5599.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: DISCOVERY MAX
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5601.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: ENERGY
@@ -1403,12 +2195,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/5634.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5636.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: M+ ESTRENOS 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5646.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: M+ FEST
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5648.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: M+ SERIES
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5675.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: MEGA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5688.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: NAT GEO
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5714.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: NAT GEO WILD
@@ -1417,10 +2203,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/5715.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5718.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: ODISEA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5724.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: PARAMOUNT CHANNEL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5727.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: POPULAR TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5728.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: REAL MADRID TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5729.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: TCM
@@ -1429,38 +2211,16 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/5733.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5739.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: TOROS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5740.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: TRECE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5741.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: TV GALICIA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5742.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: TV3 CAT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5743.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: XTRM
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5751.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: M+ LaLiga Smartbank TV M2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25953.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: M+ LaLiga Smartbank TV M3
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25954.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Netflix Action
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29311.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Netflix Box Office
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29313.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Netflix Box Office 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29314.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Netflix Comedy
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29315.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Netflix Comedy 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29316.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Netflix Discovery
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29317.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Netflix Drama
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29318.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Netflix Horror
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29319.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Netflix Kids 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29322.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Netflix Movies 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29324.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: Netflix Thriller 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29326.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ES: 091 ALERTA POLICIA 24/7
@@ -1475,26 +2235,12 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/24995.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25017.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: CRIME & INVESTIGATION
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25018.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: E! ENTERTAINMENT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25023.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: HISTORIA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25040.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: MTV PORTUGAL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25049.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: NOS STUDIO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25057.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: RECORD TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25063.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: RTP 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25065.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: RTP MADEIRA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25069.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: SIC NOTICIAS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25078.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: SIC RADICAL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25079.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: TRACE URBAN
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25083.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: TVI
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25085.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: TVI 24
@@ -1505,64 +2251,22 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/25087.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25088.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: VH1
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25089.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: POLSAT SPORT PREMIUM 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23836.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: ELEVEN SPORTS 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10153.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: EUROSPORT 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10160.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: POLSAT SPORT EXTRA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23833.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: POLSAT SPORT FIGHT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23839.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: 4 FUN TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10102.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: ACTIVE FAMILY
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10104.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: AXN WHITE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10113.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: BBC EARTH
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10117.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: BOOMERANG
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10120.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: CBS REALITY
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10133.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: COMEDY CENTRAL FAMILY
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10137.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: DAVINCI LEARNING
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10139.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: DISCOVERY INVESTIGATION
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10142.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: DISCOVERY LIFE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10143.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: DISNEY CHANNEL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10146.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: DISNEY JR
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10147.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: DISNEY XD
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10148.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: FIGHT BOX
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10162.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: FIGHT KLUB
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10163.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: FILMBOX EXTRA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10167.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: HBO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10176.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: HBO 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10177.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: HGTV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10179.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: KINO TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10183.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: MTV DANCE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10190.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: NAT GEO WILD
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10195.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: POLSAT 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10205.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: POLSAT 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10206.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: POLSAT CAFE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10207.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: POLSAT NEWS
@@ -1575,162 +2279,40 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/10238.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10241.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: TVN TURBO
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10244.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: TVP 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10247.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: TVP INFO
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10252.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PL: VH1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10258.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: SKY SPORT FOOTBALL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24460.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: ANIMAL PLANET
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24469.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: BOING
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24473.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: CANALE 5
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/24479.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: CARTOON NETWORK
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24485.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: DISCOVERY CHANNEL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24493.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: EURONEWS LIVE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/24516.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: FOCUS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/24521.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: GIALLO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24528.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: INTER CHANNEL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24531.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: RAI 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24574.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: RAI ITALIA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24578.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: RAI STORIA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24583.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: SKY PRIMAFILA 6
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24616.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: SKY TG 24
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24622.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: TOP CRIME
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24644.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: VIP CAPITAL TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25144.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: ANIXE SERIES
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29386.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: ATV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29390.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: CRIME &AMP; INVESTIGATION
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29402.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: E! ENTERTAINMENT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29413.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: EAGLE CINEMA HORROR
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29420.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: N24 Doku
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29454.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: SAT 1 GOLD
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29496.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: TAGESSCHAU 24
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29556.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DE: QVC Zwei
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29631.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY SPORTS MIX
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29672.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY SPORTS PREMIER LEAGUE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29676.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY SPORTS RACING
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29671.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY SPORTS MAIN EVENT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29678.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP EIR SPORT 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29680.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP BT SPORT 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29689.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP BT SPORT 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29688.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP BT SPORT 3
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29687.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP BT SPORT EXTRA 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29684.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP BT SPORT EXTRA 4
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29682.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SUPERSPORT GOLF
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29733.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SUPER SPORTS CRICKET (MATCH TIME)
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29735.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP BT SPORT ESPN
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29686.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP KERRANG!
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29696.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP RTE ONE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29703.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP TG 4
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29711.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP UNIVERSAL CHANNEL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29713.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP CRIME & INVESTIGATION
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29790.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP HISTORY 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29796.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP TLC
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29813.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP QVC BEAUTY
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29818.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP MORE 4
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29828.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP CBS ACTION
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29838.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP CBS REALITY
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29840.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP CHANNEL 4
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29842.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP TINY POP
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29870.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP BABY TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29873.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY CINEMA COMEDY
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29881.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY CINEMA FAMILY
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29882.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP TCM MOVIES
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29888.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP BBC ALBA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29901.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP EURONEWS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29911.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY 1
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29916.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY WITNESS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29858.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP SKY NEWS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29914.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP RTE NEWS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29939.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP NHK WORLD
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29949.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP LAW & CRIMEHD
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29969.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP PEACE TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29975.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky News
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/29989.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP Sky Store 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/49558.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP Sky Store 4
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/49560.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SWS: MYSPORTS 3
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18043.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SWS: BLUE STARS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18035.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SWS: TELE M 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18037.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SWS: 4+
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18039.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SWS: COMEDY CENTRAL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18061.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CZ: CT 24
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8357.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CZ: CT1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8358.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: AS TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7525.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: AUTOMOTO (FR)
@@ -1739,98 +2321,30 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/7527.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7537.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: BEIN MOVIES ACTION
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7539.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: BOSS MOVIES 10
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7563.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: CNN TURK
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7579.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: DISCOVERY ID
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7589.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: EGE TURK TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7601.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: EURO D
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7642.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: FOX
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7674.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: HALK TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7687.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: HISTORY CHANNEL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7688.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: KANAL 7
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7697.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: KANAL 42 KONYA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7703.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: KANAL 68
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7705.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: MINIKA COCUK
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7748.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: SHOW TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7829.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: SINEVIZYON TURK 8
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7896.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: SMART SPOR 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7902.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: TRT 1
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7926.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: TRT SPOR 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7940.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",GR: COSMOTE SPORT 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/24010.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",GR: COSMOTE SPORT 4
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24008.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",GR: FOOD NETWORK
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/4591.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",GR: FOX LIFE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/4593.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",GR: KONTRA CHANNEL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/4597.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",GR: MEGA FHD
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/4695.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SWE: VIASAT SPORT EXTRA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5505.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SWE: VIASAT SPORT PREMIUM
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5490.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SWE: VIASAT FOTBOLL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/5493.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SWE: DISCOVERY WORLD
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5522.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SWE: TV 4 FAKTA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5475.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SWE: TV 4 FILM
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/5476.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CRO: SPORT KLUB 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/24031.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CRO: RTL CRIME
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8496.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RO: DIGI SPORT 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23854.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RO: AXN WHITE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8723.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RO: BOOMERANG
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8727.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RO: CARTOON NETWORK
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23855.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RO: TVR 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8822.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RO: VH1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8829.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BG: ANIMAL PLANET
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8622.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BG: BTV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8611.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BG: BTV ACTION
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8614.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BG: RETRO MUSIC
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24054.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BG: VTV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8692.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BR: CARTOON NETWORK
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10676.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BR: DISNEY CHANNEL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10699.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BR: MAX
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10728.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BR: NAT GEO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10732.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BR: PREMIERE CLUBES
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10744.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BR: SYFY
@@ -1845,104 +2359,28 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/7013.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7055.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AL: TOM & JERRY
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7076.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NO: CARTOON NETWORK
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24088.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NO: DISNEY CHANNEL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8934.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NO: TV 2 NORGE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8948.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NO: TV 2 NYHETS KANALEN
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8949.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FI: C MORE SPORT 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24074.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FI: DISCOVERY CHANNEL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8966.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FI: H2 [MULTI-SUB]
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8971.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",DK: BOOMERANG
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8992.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: HISTORY
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/19316.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: BRAVO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19333.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: DIY NETWORK
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19340.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: EPIX
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/19343.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: FXX
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19354.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: ION TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19367.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: LOGO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19370.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: REVOLT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19386.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: TLC
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/19395.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: VH1 CLASSIC
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19404.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: CNN INTERNATIONAL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19439.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: FOX BUSINESS NETWORK
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19440.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: ABC 2 ATLANTA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19464.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: ABC NASHVILLE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19485.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: ESPN 1
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/19492.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: FOX SPORT 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19515.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: FOX 5 NEW YORK
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/19520.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: FOX ALBUQUERQUE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/19554.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: FOX LAFAYETTE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19597.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: FOX LANSING
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19598.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: FOX TOLEDO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19651.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: FOX YORK
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19658.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: CBS 3 OMAHA KMTV-TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19666.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: CBS 4 MIAMI WFOR-TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/19669.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: CBS 7 SEATTLE KIRO-TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19677.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: CBS 11 FORT MYERS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19679.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: CBS 13 BALTIMORE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19680.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: NBC SN
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19784.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: NBC SPORTS BOSTON
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19785.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: MSG
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19973.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: RETRO PLEX
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19988.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: SPIKE TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20002.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: STADIUM
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20003.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: STARZ ENCORE ACTION
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20012.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: STARZ ENCORE WESTERN
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20019.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: UFC NETWORK
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20031.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: WEATHER CHANNEL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20036.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",USA: WILLOW CRICKET
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20037.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ARG: CANAL 26 NOTICIAS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10091.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ARG: CANAL DE LA CIUDAD
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9993.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ARG: FOX SPORT 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9983.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ARG: LN
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10031.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ARG: RAI
@@ -1953,16 +2391,8 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/10047.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10058.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ARG: TNT SERIES
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/10060.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",HU: DISCOVERY CHANNEL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8853.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",HU: M1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8884.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",HU: NAT GEO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8892.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL ALPHA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7980.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL J
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7981.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 1
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7982.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 3
@@ -1973,26 +2403,12 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/7987.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7990.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 10
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7991.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 11
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7992.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 12
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/7993.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 13
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7994.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 15
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7996.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 16
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7997.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL PLAY 18
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/7999.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL+
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8000.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL+ CINEMA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8001.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL+ KIDS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8004.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL+ PREMIER LEAGUE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8006.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL+ SERIES
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8007.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CINE CLUB
@@ -2007,74 +2423,20 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/8015.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8016.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: DISCOVERY CHANNEL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8017.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: DISCOVERY FAMILY
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8018.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: DISCOVERY INVESTIGATION
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8019.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: DISCOVERY SCI-FI
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8020.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: DISCOVERY SCIENCE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8021.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: DISNEY CHANNEL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8022.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: DISNEY CINEMAGIC
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8024.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: DISNEY JUNIUOR
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8025.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: DISNEY+
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8027.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: A LA CARTE 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8028.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: A LA CARTE 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8029.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: A LA CARTE 3
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8030.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: A LA CARTE 4
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8031.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: A LA CARTE 8
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8035.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: A LA CARTE 9
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8036.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: RMC DECOUVERTE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8057.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: RMC STORY
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8058.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: PSG TV INTERVIEWS 24/24
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8062.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: PSG TV MATCHS COMPLETS 24/24
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8063.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: PSG ULTRAS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8066.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: AB 3
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8068.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BFM
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8071.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BFM BUSINESS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8072.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BFM SPORT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8075.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: ACTION
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8078.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: AUTOMOTO
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8085.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BABY TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8086.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BERBERE TELEVISION
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8087.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BET
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8088.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BOING
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8090.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BOOMERANG
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8091.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CMUSIC
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8095.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: C NEWS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8096.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: C8
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8098.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CARTOON NETWORK
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8099.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CHASSE &AMP; PECHE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8100.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CHERIE 25
@@ -2083,54 +2445,30 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/8101.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8104.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: COMEDY CENTRAL
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8105.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CRIME DISTRICT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8106.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: E! ENTERTAINMENT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8107.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: EQUIDIA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8109.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL+ FOOT
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8111.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: FRANCE 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8113.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: FRANCE 3
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8114.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: FRANCE 4
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8115.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: FRANCE 24
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8117.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: FRANCEINFO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8119.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: GONG
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8121.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: GULLI
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8122.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: J ONE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8124.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: L EQUIPE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8126.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: LCI
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8128.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: LCP
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8129.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: M6
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8131.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: MCM
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8134.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: MTV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8141.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: MTV FRANCE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8142.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: MTV HITS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8143.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: NAT GEO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8146.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: NAT GEO WILD
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8147.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: NICKELODEON
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8148.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: NICKELODEON 4 TEEN
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8149.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: NICKELODEON JR
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8150.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: NOVELAS
@@ -2147,128 +2485,38 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/8155.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8156.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: OCS GEANTS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8157.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: OCS MAX
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8158.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: PARAMOUNT CHANNEL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8162.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: PARIS PREMIERE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8163.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: PIWI
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8164.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: PLANETE+
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8165.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: ROUGE TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8172.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: RTL 9
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8174.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: RTS DEUX
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8175.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: RTS UNE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8176.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: SCIENCE &AMP; VIE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8177.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: SEASON
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8178.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: SERIE CLUB
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8179.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: SYFY
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8181.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TCM CINEMA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8182.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TEVA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8186.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TFI
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8187.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TFI SERIES AND FILM
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8188.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TOUTE L HISTOIRE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8193.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TRACE URBAN
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8196.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TREK
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8197.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TV BREIZH
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8199.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: TVM 3
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8202.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: W9
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8205.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: EURONEWS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8207.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: CANAL+ SPORT 360
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25959.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BEIN SPORTS 3
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8300.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BEIN SPORT MAX 4
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8301.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: BEIN SPORT MAX 5
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8302.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: AMAZON PRIME 10 (MATCH TIME)
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8331.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: M6 MUSIC
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25129.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: RFM TV MUSIC
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25130.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: i24 News
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25131.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",EX-YU: FOX
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9093.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",EX-YU: HBO 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9106.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",EX-YU: PINK FASHION
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9167.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",EX-YU: PINK HAHA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9172.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",EX-YU: PINK HORROR
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9175.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",EX-YU: SEVDAH TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9233.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SRB: FILM KLUB EXTRA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9293.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SRB: HBO ADRIA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9302.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SRB: N1 SRBIJA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9323.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SRB: PINK WORLD CINEMA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9370.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",SRB: RTS DRAMA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9383.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MK: HBO 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9427.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MK: SITEL 3
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9455.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BH: IZVORNA TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9552.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BH: TV USK
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9580.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: EUROSPORT 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9964.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ZIGGO SPORT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9977.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ZIGGO SPORT SELECT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9970.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ZIGGO SPORT EXTRA 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9976.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: FOX SPORTS 1
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9973.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: 192 TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9846.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: 24 KITCHEN
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9847.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: BABY TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9851.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: BOOMERANG
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9854.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: COMEDY CENTRAL
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9857.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: CRIME &AMP; INVESTIGATION
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9859.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: DISCOVERY WORLD
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9864.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: DUCK TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9868.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ESPN 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9871.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ESPN 3
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9873.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ESPN 4
@@ -2279,48 +2527,22 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/9877.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9878.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: FASHION TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9879.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: FILM 1 DRAMA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9881.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: FILM 1 FAMILY
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9882.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: HORSE &AMP; COUNTRY
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9890.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: NPO 2
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9910.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: OMROEP FRYSLAN
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9919.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTL 7
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9927.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTL 8
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9928.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: RTV 7
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9933.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: SBS 6
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9939.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: SLAM! TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/9942.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: TV WEST
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9953.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: XITE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9960.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",NL: ZIGGO DOCU
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/9961.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PE: TV PERU
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/10797.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",LA: CURACAO_TV DIRECT 13
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18415.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",LA: HBO 2 WEST
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18420.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",LA: INDIEPLEX
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18427.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",LA: MIAMI TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18428.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",LA: UNIVISION TELENOVELAS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18464.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",LA: TELEMUNDO LAMPA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18468.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",LA: DISCOVERY TURBO
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18522.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",LA: DISCOVERY HOME & HEALTH
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18525.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MEX: ADRENALINA SPORTS NETWORK
@@ -2337,138 +2559,36 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/18622.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18826.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CAR: ESPN CARIBBEAN
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18827.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CAR: HBO CARIBBEAN
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18832.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CAR: NOS PAIS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18843.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CO: TELECAFE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18742.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CL: TNT SPORTS 3
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18747.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RUS: KARUSEL TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/18969.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RUS: KINO TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/18984.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RUS: RUSSIA ILLUSION
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19055.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RUS: TNT 4
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19082.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RUS: TV 1000 COMEDY
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19088.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RUS: ???
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/19146.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEIN SPORTS PREMIUM 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20896.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AD DRAMA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20681.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AD NAT GEO
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20682.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL HAQEQA AL DAWLIAH JORDAN
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20730.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL ISTIQAMAT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20743.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL JADEED
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20744.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL KASS 5
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20757.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL MAALY TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20761.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL MAGHRIBIA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20765.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL MASIRAH TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20774.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL RAYYAN
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20799.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL RAYYAN AL QADEEM
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20800.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL SHARJAH
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20811.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL SHARQIYA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20813.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL SHARQIYA NEWS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20814.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL SIRAT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20817.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: AL THANYA 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20821.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: ATTESIA TUNISIA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/20856.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEUR TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20904.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: CARTOON NETWORK
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20909.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: CINEMA 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20919.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: DUBAI ONE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20937.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: DUBAI TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20944.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: EGYPTIAN TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20948.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: EL HIWAR
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20958.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: FRANCE 24
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/20977.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: KTV ETHRAA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21043.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: KTV SPORT PLUS TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21045.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: LIBYA ALHADATH HD
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21070.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: MAJID KIDS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21083.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: MBC 4
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21091.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: MBC 5
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/21092.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: MBC BOLLYWOOD
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/21095.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: MBC DRAMA PLUS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21097.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: MBC MAX
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/21101.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: MELODY CLASSIC
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21109.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: MUSAWA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/21124.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: NESSMA TV
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/21144.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: NILE DRAMA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21148.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: NOUR DUBAI TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21157.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: OSN HISTORY
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21202.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: OSN HISTORY 2
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21203.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: OSN KIDS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21204.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: OSN ON DEMAND EXTRA 3
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21230.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: PALESTINE NEWS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21255.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: PALESTINE SPORT
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21256.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: ROTANA CINEMA KSA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21270.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: ROTANA DRAMA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21274.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: RT ARAB
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21279.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: SADA DRAMA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21281.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: TOUNESNA
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21369.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: TOYOUR BABY
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21370.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: TUNISIA NAT 1
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/21376.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEIN SPORTS 5
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25109.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEIN SPORTS ENG 3
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25115.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",AR: BEDAYA TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/25094.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|FR| France 2 HD
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/49947
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",|FR| BeIN Sports MAX 4 HD
@@ -2495,8 +2615,6 @@ http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51857
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51884
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: Eleven Sports 1 LOW
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51858
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: Eleven Sports 2 LOW
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51859
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: Eleven Sports 3 LOW
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51860
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: Eleven Sports 4 LOW
@@ -2509,8 +2627,6 @@ http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51904
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51899
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: DISNEY JUNIOR LOW
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51895
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: BABY TV LOW
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51897
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: TVCine Emotion LOW
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/51865
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: AMC LOW
@@ -2547,14 +2663,10 @@ http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52099
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/39957
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CNN PORTUGAL FHD
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/39969
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CANAL 11
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/40046
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TVI FICCAO
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/52101
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PORTO CANAL
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/39983
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ELEVEN SPORTS 2 HD
-http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/40021
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ELEVEN SPORTS 3 HD
 http://streamplayapptv.xyz:8080/Liandragraca/hxk7r1aG/40026
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",ELEVEN SPORTS 3 FHD
@@ -3229,20 +3341,8 @@ http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13513
 http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13514
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",The Pet Collective
 http://live.vipserver.com.ua:80/ziabekibremen/XOfLF1tALD/13515
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: &AMP; PRIVE
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/22997.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: 9X JALWA
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/23006.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: ABP NEWS
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23019.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CHARDIKLA TIME TV
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23060.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: STAR VIJAY
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23363.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: SUN MUSIC
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/22983.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: TV9 TELUGU
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/23403.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Sony TV HD [UK] IN
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/13175
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Star Plus HD IN
@@ -3265,8 +3365,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/4000
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/696445
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",Zee Alwan IN
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/10630
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",NTV HD IN
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/10602
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",&TV HD IN
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/672296
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",ATN Bangla IN
@@ -3401,8 +3499,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692258
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692259
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Premier League HD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692260
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Football FHD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692261
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Football HD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692262
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Cricket FHD VIP UK
@@ -3423,12 +3519,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692795
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692273
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports News HD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692274
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Mix FHD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692275
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Mix VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692278
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Mix HD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692276
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Sports Mix HD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692277
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BT Sport 1 FHD VIP UK
@@ -3507,8 +3597,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692378
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692382
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Al Jazeera News FHD UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692383
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BBC News HD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692386
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",BBC World News HD UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692387
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",CNN FHD VIP UK
@@ -3523,10 +3611,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692631
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692632
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",GB News FHD UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/695710
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",RTE News HD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692401
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Select FHD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692404
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Select HD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692405
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Cinema Drama FHD VIP UK
@@ -3541,8 +3625,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692436
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692441
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Animal Planet HD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692442
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Crime & Investigation FHD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692443
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Discovery Channel FHD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692444
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Discovery History VIP UK
@@ -3557,8 +3639,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692448
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692449
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky History HD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692450
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky History2 FHD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692451
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Horse & Country UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692452
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Showcase FHD VIP UK
@@ -3677,8 +3757,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692568
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692582
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Alibi HD VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692583
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TV Warehouse UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692461
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Colors TV VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692584
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Colors Rishtey VIP UK
@@ -3711,8 +3789,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692604
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692605
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Tiny Pop VIP UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692606
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MTV FHD VIP UK
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692609
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MTV Music UK
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/692610
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",MTV Hits VIP UK
@@ -3813,8 +3889,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686080
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686127
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Primafila 4 HD IT
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686128
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Primafila 7 HD IT
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686131
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Primafila 8 HD IT
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/686132
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sky Primafila 12 HD IT
@@ -3983,8 +4057,6 @@ http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/9404
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/9403
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 8 RS
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/687780
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 9 RS
-http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/687781
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Sport Klub 10 RS
 http://mytv.fun:80/Fred_Sjoerd/v45CCb78Ac/694341
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",Nova Sport HD RS
@@ -4163,18 +4235,6 @@ http://78.25.155.47:1309/channel/Nat_geo_HD.ts
 http://193.33.240.8:8080/natgeo_hd/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Travel & Adventure HD
 http://45.142.213.81:8001/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Univer TV
-http://cdn.universmotri.ru/live/univer.sdp_576p/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Univer TV
-http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Univer TV
-http://cdn.universmotri.ru/live/smil:mbr.smil/chunklist_b1328000_slru.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Univer TV HD
-http://cdn.universmotri.ru/live/univer.sdp_1080p/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Univer TV HD
-http://cdn.universmotri.ru/live/hq.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Univer TV HD
-http://cdn.universmotri.ru/live/smil:mbr.smil/chunklist_b3628000_slru.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? (??????????)
 http://hls.atvmedia.ru/atv800.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? [HD]
@@ -4455,8 +4515,6 @@ http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3
 http://78.25.155.47:1309/channel/Mult.ts
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????????????
 http://193.33.240.8:8080/multimania/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ???? HD
-http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? (????????)
 http://185.78.112.46:8077/nnttv/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? (?????? ????????)
@@ -5195,10 +5253,6 @@ https://live.prd.dlive.tv/hls/live/viva-russia.m3u8
 https://user73612.clients-cdnnow.ru/hls/user73612_1/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??????? ????? [????????] (???-??????)
 http://live-bigradio.cdnvideo.ru/bigradio/bigradio.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ??
-http://cdn.universmotri.ru/live/kfu.sdp_576p/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ?? HD
-http://cdn.universmotri.ru/live/kfu.sdp_1080p/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ????? ??
 https://hlslive.platformcraft.ru/hls/634554b033803a0001931b70/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ????? ??
@@ -5479,8 +5533,6 @@ http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145962
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145963
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | HALLMARK MOVIES AND MYSTERIES
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145964
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | HGTV
-http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145966
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | HISTORY CHANNEL
 http://31.14.41.118:8080/Matt26746595/WmU5aBL80E/145967
 #EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",USA | HLN
