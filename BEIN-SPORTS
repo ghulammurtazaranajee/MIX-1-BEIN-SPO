@@ -1,6 +1,5 @@
 #EXTM3U
 
-
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 24 News
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1403
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 8XM
@@ -137,8 +136,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/34620
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/287043
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Peace TV Urdu
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/157334
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Play Entertainment
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/49532
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV Global
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1382
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: PTV Home
@@ -259,8 +256,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/294952
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/82584
 #EXTINF:-1 group-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CNBC Awaaz
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/49583
-#EXTINF:-1 group-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CNBC Bajar
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/82506
 #EXTINF:-1 group-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: CNBC TV 18
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/192198
 #EXTINF:-1 group-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: COLORS Bangla
@@ -613,31 +608,10 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/45505
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/21561
 #EXTINF:-1 group-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Zee TV
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1348
-
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",?????? ????????
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/12002
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",ALRabiaa Sport
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/18320
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",SPORT | Al Kass 5 ???
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/19898
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO BEINS PORTS PREMIUM 01 FHD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/201
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO BEINS PORTS PREMIUM  01 HD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/202
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO BEINS PORTS PREMIUM  01 SD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/203
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO BEINS PORTS PREMIUM  02 FHD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/204
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO BEINS PORTS PREMIUM  02 HD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/205
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO BEINS PORTS PREMIUM  02 SD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/206
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO BEINS PORTS PREMIUM  03 FHD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/207
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO BEINS PORTS PREMIUM  03 HD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/208
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO BEINS PORTS PREMIUM  03 SD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/209
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO BEINS PORTS 02 FHD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/210
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO BEINS PORTS 02 HD
@@ -662,20 +636,10 @@ http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/2156
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/2157
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",SPORT | KSA SPORTS 4 ???
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/2158
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO BEINS PORTS 03 FHD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/216
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO BEINS PORTS 03 HD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/217
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO BEINS PORTS 03 SD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/218
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",SPORT | Al Kass 3 ???
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/2183
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO  BEINS PORTS 04 FHD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/219
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO  BEINS PORTS 04 HD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/220
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO BEINS PORTS 04 SD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/221
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO  BEINS PORTS 05 FHD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/222
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO  BEINS PORTS 05 HD
@@ -694,6 +658,69 @@ http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/228
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/229
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",LO BEINS PORTS 07 SD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/230
+
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN AMC HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/169.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Bein Baraim HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/171.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Bein Bejunior HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/173.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Bein Boomerang HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/174.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Bein Cartoon Network HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/175.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Bein Discovery Family
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/176.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Drama 1 HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/177.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Fatafeat HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/179.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Fine Living HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/180.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Food Network HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/181.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Fox Action Movies HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/182.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Fox HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/185.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Fox Life HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/186.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Fox Movies HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/187.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN FX
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/189.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Gourmet HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/190.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",beIN HG HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/191.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Bein HG TV
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/192.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",Bein Jeem HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/193.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Movies 2 Action HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/194.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Movies 3 Drama HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/195.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Movies 4 Family HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/196.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Movies Premiere 1 HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/197.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN National Geographic FHD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/198.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN National Geographic Wild FHD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/199.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN OutDoor HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/200.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Series HD 1
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/201.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Series HD 2
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/202.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Star Movies HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/203.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Star World HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/204.ts
+#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",BeIN Travel HD
+http://ourtv.live:8080/live/J2dwPgJnkzq8bqf5zBC0NRP7W8iHrShO/AXaQLn8D1GAtLiv8SsP72U1XbtQc3V9z/205.ts
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",SPORTS | AD SPORT 1 H265
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/2340
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",SPORT | DUBAI SPORTS 2 HD
@@ -720,16 +747,12 @@ http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5141
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5142
 #EXTINF:-1 group-title="OSN" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN Art Hekayat 1 FHD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5143
-#EXTINF:-1 group-title="OSN" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN Art Hekayat 2 FHD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5144
 #EXTINF:-1 group-title="OSN" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN Art Aflam 1 FHD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5145
 #EXTINF:-1 group-title="OSN" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN Art Aflam 2 FHD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5146
 #EXTINF:-1 group-title="OSN" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN Art Cinema FHD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5147
-#EXTINF:-1 group-title="OSN" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN Movies FHD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5148
 #EXTINF:-1 group-title="OSN" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN Movies First FHD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5149
 #EXTINF:-1 group-title="OSN" tvg-logo="https://i.ibb.co/CVzyzJw/download-1.jpg",OSN Movies First  +2 FHD
@@ -810,8 +833,6 @@ http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/902
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/903
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",SPORT | LIBYA SPORT 1
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/906
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",SPORT | SHARJAH SPORT SD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/907
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",SPORTS | BEIN GLOBAL
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/913
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",SPORTS | BEIN NEWS
@@ -824,8 +845,6 @@ http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/920
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/921
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",SPORTS | ON TIME 3
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/922
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",SPORTS | ZAMALEK SPORT
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/923
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: ABN
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/63105
 #EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR: Al Basira
@@ -1098,8 +1117,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/21947
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/283038
 #EXTINF:-1 group-title="IR" tvg-logo="https://i.ibb.co/3rzmsQQ/Iran.png",IR: Prima TV
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/287784
-#EXTINF:-1 group-title="IR" tvg-logo="https://i.ibb.co/3rzmsQQ/Iran.png",IR: Radio Farda
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/5410
 #EXTINF:-1 group-title="IR" tvg-logo="https://i.ibb.co/3rzmsQQ/Iran.png",IR: Radio Javan TV
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/5408
 #EXTINF:-1 group-title="IR" tvg-logo="https://i.ibb.co/3rzmsQQ/Iran.png",IR: Sahand TV
@@ -1812,8 +1829,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/45085
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/266584
 #EXTINF:-1 group-title="NL" tvg-logo="https://i.ibb.co/HdstCMs/Netherland.png",NL: Ideaal TV
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/287660
-#EXTINF:-1 group-title="NL" tvg-logo="https://i.ibb.co/HdstCMs/Netherland.png",NL: Insight
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/168949
 #EXTINF:-1 group-title="NL" tvg-logo="https://i.ibb.co/HdstCMs/Netherland.png",NL: Investigation Discovery
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2471
 #EXTINF:-1 group-title="NL" tvg-logo="https://i.ibb.co/HdstCMs/Netherland.png",NL: InWild
@@ -1912,8 +1927,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2497
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/287693
 #EXTINF:-1 group-title="NL" tvg-logo="https://i.ibb.co/HdstCMs/Netherland.png",NL: RTV Maastricht
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/10576
-#EXTINF:-1 group-title="NL" tvg-logo="https://i.ibb.co/HdstCMs/Netherland.png",NL: RTV NOF 1
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/287694
 #EXTINF:-1 group-title="NL" tvg-logo="https://i.ibb.co/HdstCMs/Netherland.png",NL: RTV Noord Extra
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/287696
 #EXTINF:-1 group-title="NL" tvg-logo="https://i.ibb.co/HdstCMs/Netherland.png",NL: RTV Purmerend
@@ -2032,8 +2045,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/285737
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2216
 #EXTINF:-1 group-title="Es" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png",ES: Canal 25 Barbastro
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/146340
-#EXTINF:-1 group-title="Es" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png",ES: Canal 33
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/64938
 #EXTINF:-1 group-title="Es" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png",ES: Canal 56
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/270088
 #EXTINF:-1 group-title="Es" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png",ES: Canal Cocina
@@ -2134,8 +2145,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9148
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2192
 #EXTINF:-1 group-title="Es" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png",ES: Gol
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1156
-#EXTINF:-1 group-title="Es" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png",ES: HBO Signature
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/91989
 #EXTINF:-1 group-title="Es" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png",ES: Hola TV
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/3061
 #EXTINF:-1 group-title="Es" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png",ES: Iberalia TV
@@ -2154,8 +2163,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1152
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/197711
 #EXTINF:-1 group-title="Es" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png",ES: Lancelot TV
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12159
-#EXTINF:-1 group-title="Es" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png",ES: Mar TV
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/166347
 #EXTINF:-1 group-title="Es" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png",ES: MavTV Europe
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/285845
 #EXTINF:-1 group-title="Es" tvg-logo="https://i.ibb.co/jGkbmgf/Espa-a.png",ES: Mega
@@ -2546,8 +2553,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2256
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/9829
 #EXTINF:-1 group-title="GR" tvg-logo="https://i.ibb.co/JxhwnC3/gr.jpg",GR: 4E
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2663
-#EXTINF:-1 group-title="GR" tvg-logo="https://i.ibb.co/JxhwnC3/gr.jpg",GR: Acheloos TV
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/7137
 #EXTINF:-1 group-title="GR" tvg-logo="https://i.ibb.co/JxhwnC3/gr.jpg",GR: Action 24
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1971
 #EXTINF:-1 group-title="GR" tvg-logo="https://i.ibb.co/JxhwnC3/gr.jpg",GR: Alert TV
@@ -2608,8 +2613,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/68469
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/12700
 #EXTINF:-1 group-title="GR" tvg-logo="https://i.ibb.co/JxhwnC3/gr.jpg",GR: Greek TV London
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/280276
-#EXTINF:-1 group-title="GR" tvg-logo="https://i.ibb.co/JxhwnC3/gr.jpg",GR: HBO
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/291123
 #EXTINF:-1 group-title="GR" tvg-logo="https://i.ibb.co/JxhwnC3/gr.jpg",GR: Ionian TV
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/2667
 #EXTINF:-1 group-title="GR" tvg-logo="https://i.ibb.co/JxhwnC3/gr.jpg",GR: Irida TV
@@ -2696,8 +2699,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/145959
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/281683
 #EXTINF:-1 group-title="BE" tvg-logo="https://i.ibb.co/djcx08p/be.jpg",BE: bx1 Redif
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/16696
-#EXTINF:-1 group-title="BE" tvg-logo="https://i.ibb.co/djcx08p/be.jpg",BE: Canvas
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/282010
 #EXTINF:-1 group-title="BE" tvg-logo="https://i.ibb.co/djcx08p/be.jpg",BE: City Music
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/244970
 #EXTINF:-1 group-title="BE" tvg-logo="https://i.ibb.co/djcx08p/be.jpg",BE: EbS+
@@ -2706,8 +2707,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/158673
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/843
 #EXTINF:-1 group-title="BE" tvg-logo="https://i.ibb.co/djcx08p/be.jpg",BE: ELEVEN SPORTS 1
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/36420
-#EXTINF:-1 group-title="BE" tvg-logo="https://i.ibb.co/djcx08p/be.jpg",BE: JimJam
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/151539
 #EXTINF:-1 group-title="BE" tvg-logo="https://i.ibb.co/djcx08p/be.jpg",BE: Ketnet
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1960
 #EXTINF:-1 group-title="BE" tvg-logo="https://i.ibb.co/djcx08p/be.jpg",BE: LN 24
@@ -2752,8 +2751,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/8331
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/193602
 #EXTINF:-1 group-title="BE" tvg-logo="https://i.ibb.co/djcx08p/be.jpg",BE: VTM 4
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1956
-#EXTINF:-1 group-title="BE" tvg-logo="https://i.ibb.co/djcx08p/be.jpg",BE: VTM Kids
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/120477
 #EXTINF:-1 group-title="CH" tvg-logo="https://i.ibb.co/D7hK19Y/ch.jpg",CH: 3+
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/14266
 #EXTINF:-1 group-title="CH" tvg-logo="https://i.ibb.co/D7hK19Y/ch.jpg",CH: Blue Sport 1
@@ -3072,8 +3069,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1089
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/727
 #EXTINF:-1 group-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Greats
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1087
-#EXTINF:-1 group-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Hits
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/1086
 #EXTINF:-1 group-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema sci-fi Horror
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/725
 #EXTINF:-1 group-title="UK" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: Sky Cinema Select
@@ -3362,8 +3357,6 @@ http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/63288
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/290473
 #EXTINF:-1 group-title="DE" tvg-logo="https://i.ibb.co/PxwGLDv/de.png",DE: Nicktoons
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/191983
-#EXTINF:-1 group-title="DE" tvg-logo="https://i.ibb.co/PxwGLDv/de.png",DE: Niederbayern TV
-http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/18474
 #EXTINF:-1 group-title="DE" tvg-logo="https://i.ibb.co/PxwGLDv/de.png",DE: Noa 4
 http://kuchini.site:8080/tomstme300/tomasarenatelegramme300/278512
 #EXTINF:-1 group-title="DE" tvg-logo="https://i.ibb.co/PxwGLDv/de.png",DE: Noa 4 Hamburg
@@ -3660,8 +3653,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/25017.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25040.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",PT: SIC NOTICIAS
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/25078.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",IT: CANALE 5
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/24479.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",UK: VIP BT SPORT ESPN
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/29686.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",TR: TRT 1
@@ -3694,8 +3685,6 @@ http://flysilo.top:8080/live/8031659300659217/8611659300659217/8100.ts
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8114.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: GONG
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8121.ts
-#EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: GULLI
-http://flysilo.top:8080/live/8031659300659217/8611659300659217/8122.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",FR: J ONE
 http://flysilo.top:8080/live/8031659300659217/8611659300659217/8124.ts
 #EXTINF:-1 group-title="TV" tvg-logo="https://i.ibb.co/sCN7q6G/download.png",LA: CURACAO_TV DIRECT 13
@@ -3912,8 +3901,6 @@ http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/2.m3u8
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/UBZfFgtKB1JwTwoDERNQVGGs/1080.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",4 ????? ????????????
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_EKB1/hls/1024x576@2024/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",43 ????? HD
-http://sochinskayatrk.ru/hdtv/hls/43Channel_hd/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",49 ?????
 http://49channel.mediacdn.ru/live/cdn/49channel/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",6 ?? ????????
@@ -4278,8 +4265,6 @@ http://78.25.155.47:1309/channel/Moya_pl.ts
 http://193.33.240.8:8080/planeta_hd/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ????
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????
-http://78.25.155.47:1309/channel/Mult.ts
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????????????
 http://193.33.240.8:8080/multimania/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? (????????)
@@ -4984,103 +4969,3 @@ https://live.35media.ru/transmit-video/1080/s.m3u8
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? 25 (???????????)
 http://flussonic0.podryad.net:8080/gorodtv/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Bloomberg 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15808
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| CBS News 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15810
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| CNBC 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15816
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| CNN 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15819
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Fox News 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15821
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| TBS 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15826
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| MSNBC HD+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15828
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Viceland 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15830
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| USA Network 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15833
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Bravo 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15836
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| HGTV 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15838
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Freeform 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15839
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Showtime 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15845
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Cartoon Network 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15848
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Cinemax 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15852
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Starz Edge HD+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15854
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Starz Comedy HD+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15867
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Nickelodeon HD+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15871
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| HBO Signature 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15882
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Food Network 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15899
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Hallmark 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15902
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Animal Planet 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15903
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| History Channel 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15904
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| National Geographic 4K
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15906
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Discovery Channel  4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15907
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Showtime 2 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15916
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| AFN Prime Pacific
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15917
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| BET 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15973
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| BET Jams HD
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/84298
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Bein Sports 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15919
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Fox Sport 1 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15922
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Fox Sport 2 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15923
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| NBA 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15924
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| NBC Golf 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15925
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Fight Network 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15928
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| SportsNet One 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15931
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| AFN Sport
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15933
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| TSN 1 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15939
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| TSN 2 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15942
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| TSN 3 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15945
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| TSN 4 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15948
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| TSN 5 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15952
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| World Fishing Network
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15960
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| Willow Cricket 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15966
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| MLB Network 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15970
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| WWE Network HD
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15976
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| ESPN 2
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/22428
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| ESPN 1
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/22429
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| NFL Network
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/22430
-#EXTINF:-1 group-title="usa" tvg-logo="https://i.ibb.co/kxxKY4b/usa.jpg",|US| NHL Network 4K+
-http://62.182.83.91:80/adagio-discord/xZpWNf4md2/15822
