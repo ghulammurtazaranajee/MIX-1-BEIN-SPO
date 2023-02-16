@@ -16,7 +16,7 @@ https://bit.ly/3eUaJfI
 
 FOR
 
-iptv_bein
+iptv bein
 
 https://bit.ly/3IpQyT4
 
