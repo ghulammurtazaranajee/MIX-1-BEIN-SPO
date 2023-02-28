@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Al Majd Quran
 http://bmk5050.com:80/live/05312706368/05312706368/3.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Al Majd SPACE
@@ -95,8 +96,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/66.ts
 http://bmk5050.com:80/live/05312706368/05312706368/40.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???????? 2
 http://bmk5050.com:80/live/05312706368/05312706368/41.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???????? 3
-http://bmk5050.com:80/live/05312706368/05312706368/42.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???????? 4
 http://bmk5050.com:80/live/05312706368/05312706368/43.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???????? 5
@@ -117,8 +116,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/50.ts
 http://bmk5050.com:80/live/05312706368/05312706368/51.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???????? 13
 http://bmk5050.com:80/live/05312706368/05312706368/52.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???????? 14
-http://bmk5050.com:80/live/05312706368/05312706368/53.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???????? 15
 http://bmk5050.com:80/live/05312706368/05312706368/54.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???????? 16
@@ -137,168 +134,24 @@ http://bmk5050.com:80/live/05312706368/05312706368/67.ts
 http://bmk5050.com:80/live/05312706368/05312706368/68.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Premium 01
 http://bmk5050.com:80/live/05312706368/05312706368/69.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Premium 02
-http://bmk5050.com:80/live/05312706368/05312706368/70.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Premium 03
-http://bmk5050.com:80/live/05312706368/05312706368/71.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 01
-http://bmk5050.com:80/live/05312706368/05312706368/72.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 02
-http://bmk5050.com:80/live/05312706368/05312706368/73.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 03
-http://bmk5050.com:80/live/05312706368/05312706368/74.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 04
-http://bmk5050.com:80/live/05312706368/05312706368/75.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 05
-http://bmk5050.com:80/live/05312706368/05312706368/76.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 06
-http://bmk5050.com:80/live/05312706368/05312706368/77.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 07
-http://bmk5050.com:80/live/05312706368/05312706368/78.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Xtra 01
-http://bmk5050.com:80/live/05312706368/05312706368/79.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Xtra 02
-http://bmk5050.com:80/live/05312706368/05312706368/80.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 01 FR
-http://bmk5050.com:80/live/05312706368/05312706368/81.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 02 FR
-http://bmk5050.com:80/live/05312706368/05312706368/82.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 03 FR
-http://bmk5050.com:80/live/05312706368/05312706368/83.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 01 EN
-http://bmk5050.com:80/live/05312706368/05312706368/84.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 02 EN
 http://bmk5050.com:80/live/05312706368/05312706368/85.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 03 EN
 http://bmk5050.com:80/live/05312706368/05312706368/86.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Nba
-http://bmk5050.com:80/live/05312706368/05312706368/87.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Bein Sport
 http://bmk5050.com:80/live/05312706368/05312706368/88.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Bein News
 http://bmk5050.com:80/live/05312706368/05312706368/89.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Premium 01
 http://bmk5050.com:80/live/05312706368/05312706368/90.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Premium 02
-http://bmk5050.com:80/live/05312706368/05312706368/91.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Premium 03
-http://bmk5050.com:80/live/05312706368/05312706368/92.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 01
-http://bmk5050.com:80/live/05312706368/05312706368/93.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 02
-http://bmk5050.com:80/live/05312706368/05312706368/94.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 03
-http://bmk5050.com:80/live/05312706368/05312706368/95.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 04
-http://bmk5050.com:80/live/05312706368/05312706368/96.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 05
-http://bmk5050.com:80/live/05312706368/05312706368/97.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 06
-http://bmk5050.com:80/live/05312706368/05312706368/98.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 07
-http://bmk5050.com:80/live/05312706368/05312706368/99.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Xtra 01
-http://bmk5050.com:80/live/05312706368/05312706368/100.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Xtra 02
-http://bmk5050.com:80/live/05312706368/05312706368/101.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 01 FR
-http://bmk5050.com:80/live/05312706368/05312706368/102.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 02 FR
-http://bmk5050.com:80/live/05312706368/05312706368/103.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 03 FR
-http://bmk5050.com:80/live/05312706368/05312706368/104.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 01 EN
-http://bmk5050.com:80/live/05312706368/05312706368/105.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 02 EN
-http://bmk5050.com:80/live/05312706368/05312706368/106.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 03 EN
-http://bmk5050.com:80/live/05312706368/05312706368/107.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Nba
-http://bmk5050.com:80/live/05312706368/05312706368/108.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Bein Sport
 http://bmk5050.com:80/live/05312706368/05312706368/109.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Bein News
 http://bmk5050.com:80/live/05312706368/05312706368/110.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Premium 01
-http://bmk5050.com:80/live/05312706368/05312706368/111.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Premium 02
-http://bmk5050.com:80/live/05312706368/05312706368/112.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Premium 03
-http://bmk5050.com:80/live/05312706368/05312706368/113.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 01
-http://bmk5050.com:80/live/05312706368/05312706368/114.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 02
-http://bmk5050.com:80/live/05312706368/05312706368/115.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 03
-http://bmk5050.com:80/live/05312706368/05312706368/116.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 04
-http://bmk5050.com:80/live/05312706368/05312706368/117.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 05
-http://bmk5050.com:80/live/05312706368/05312706368/118.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 06
-http://bmk5050.com:80/live/05312706368/05312706368/119.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 07
-http://bmk5050.com:80/live/05312706368/05312706368/120.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Xtra 01
-http://bmk5050.com:80/live/05312706368/05312706368/121.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Xtra 02
-http://bmk5050.com:80/live/05312706368/05312706368/122.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 01 FR
-http://bmk5050.com:80/live/05312706368/05312706368/123.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 02 FR
-http://bmk5050.com:80/live/05312706368/05312706368/124.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 03 FR
-http://bmk5050.com:80/live/05312706368/05312706368/125.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 01 EN
-http://bmk5050.com:80/live/05312706368/05312706368/126.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 02 EN
-http://bmk5050.com:80/live/05312706368/05312706368/127.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 03 EN
-http://bmk5050.com:80/live/05312706368/05312706368/128.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Nba
-http://bmk5050.com:80/live/05312706368/05312706368/129.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Bein Sport
 http://bmk5050.com:80/live/05312706368/05312706368/130.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Bein News
 http://bmk5050.com:80/live/05312706368/05312706368/131.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Premium 01
-http://bmk5050.com:80/live/05312706368/05312706368/132.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Premium 02
-http://bmk5050.com:80/live/05312706368/05312706368/133.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Premium 03
-http://bmk5050.com:80/live/05312706368/05312706368/134.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 01
-http://bmk5050.com:80/live/05312706368/05312706368/135.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 02
-http://bmk5050.com:80/live/05312706368/05312706368/136.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 03
-http://bmk5050.com:80/live/05312706368/05312706368/137.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 04
-http://bmk5050.com:80/live/05312706368/05312706368/138.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 05
-http://bmk5050.com:80/live/05312706368/05312706368/139.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 06
-http://bmk5050.com:80/live/05312706368/05312706368/140.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 07
-http://bmk5050.com:80/live/05312706368/05312706368/141.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Xtra 01
-http://bmk5050.com:80/live/05312706368/05312706368/142.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Xtra 02
-http://bmk5050.com:80/live/05312706368/05312706368/143.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 01 FR
-http://bmk5050.com:80/live/05312706368/05312706368/144.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 02 FR
-http://bmk5050.com:80/live/05312706368/05312706368/145.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 03 FR
-http://bmk5050.com:80/live/05312706368/05312706368/146.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 01 EN
-http://bmk5050.com:80/live/05312706368/05312706368/147.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 02 EN
-http://bmk5050.com:80/live/05312706368/05312706368/148.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport 03 EN
-http://bmk5050.com:80/live/05312706368/05312706368/149.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Sport Nba
-http://bmk5050.com:80/live/05312706368/05312706368/150.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AD Premum 1 Stc Sd
 http://bmk5050.com:80/live/05312706368/05312706368/163.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AD Premum 2 Stc Sd
@@ -361,52 +214,18 @@ http://bmk5050.com:80/live/05312706368/05312706368/12709.ts
 http://bmk5050.com:80/live/05312706368/05312706368/12710.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SSC EXTRA 3 1080
 http://bmk5050.com:80/live/05312706368/05312706368/12711.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN MOVIES 1 HD
-http://bmk5050.com:80/live/05312706368/05312706368/240.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN MOVIES 2 HD
-http://bmk5050.com:80/live/05312706368/05312706368/241.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN MOVIES 3 HD
-http://bmk5050.com:80/live/05312706368/05312706368/242.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN MOVIES 4 HD
-http://bmk5050.com:80/live/05312706368/05312706368/243.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN SERIES 1 HD
-http://bmk5050.com:80/live/05312706368/05312706368/244.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN SERIES 2 HD
-http://bmk5050.com:80/live/05312706368/05312706368/245.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN FATAFEAT
 http://bmk5050.com:80/live/05312706368/05312706368/248.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN JEEM HD
-http://bmk5050.com:80/live/05312706368/05312706368/249.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN BARAEM
-http://bmk5050.com:80/live/05312706368/05312706368/250.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Dream Works
-http://bmk5050.com:80/live/05312706368/05312706368/251.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN CARTOON NETWORK
 http://bmk5050.com:80/live/05312706368/05312706368/252.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN BABY
-http://bmk5050.com:80/live/05312706368/05312706368/253.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN  Boomerang HD
 http://bmk5050.com:80/live/05312706368/05312706368/254.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Star World
-http://bmk5050.com:80/live/05312706368/05312706368/256.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN STAR MOVIES
-http://bmk5050.com:80/live/05312706368/05312706368/257.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN FOX LIFE
 http://bmk5050.com:80/live/05312706368/05312706368/259.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN FOX HD
-http://bmk5050.com:80/live/05312706368/05312706368/261.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN FOX MOVIES ACTION
 http://bmk5050.com:80/live/05312706368/05312706368/262.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN FOX MOVIES
-http://bmk5050.com:80/live/05312706368/05312706368/263.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Food Network HD
 http://bmk5050.com:80/live/05312706368/05312706368/265.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Nat Geo Wild HD
-http://bmk5050.com:80/live/05312706368/05312706368/266.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Nat Geographic
-http://bmk5050.com:80/live/05312706368/05312706368/267.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN bbc earth
-http://bmk5050.com:80/live/05312706368/05312706368/268.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Animal Planet HD
 http://bmk5050.com:80/live/05312706368/05312706368/269.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Discovery Family HD
@@ -415,42 +234,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/270.ts
 http://bmk5050.com:80/live/05312706368/05312706368/271.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",beIN Travel
 http://bmk5050.com:80/live/05312706368/05312706368/272.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shaid Top Chef
-http://bmk5050.com:80/live/05312706368/05312706368/274.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shaid Al Maqaleb
-http://bmk5050.com:80/live/05312706368/05312706368/276.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shaid Assembly
-http://bmk5050.com:80/live/05312706368/05312706368/277.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shaid Al Oula
-http://bmk5050.com:80/live/05312706368/05312706368/278.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SHAHID TASH
-http://bmk5050.com:80/live/05312706368/05312706368/279.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shaid Masr
-http://bmk5050.com:80/live/05312706368/05312706368/280.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shaid Tareekhi
-http://bmk5050.com:80/live/05312706368/05312706368/281.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shaid Comedy
-http://bmk5050.com:80/live/05312706368/05312706368/282.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shaid Al Ostoura
-http://bmk5050.com:80/live/05312706368/05312706368/283.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shaid Khaleeji
-http://bmk5050.com:80/live/05312706368/05312706368/284.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shaid Al Zaeem
-http://bmk5050.com:80/live/05312706368/05312706368/285.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shaid Turki
-http://bmk5050.com:80/live/05312706368/05312706368/286.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shaid Bollywood
-http://bmk5050.com:80/live/05312706368/05312706368/287.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shaid Levant
-http://bmk5050.com:80/live/05312706368/05312706368/288.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shaid Mawaheb
-http://bmk5050.com:80/live/05312706368/05312706368/289.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shaid Style
-http://bmk5050.com:80/live/05312706368/05312706368/290.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shaid Al Sham
-http://bmk5050.com:80/live/05312706368/05312706368/291.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shaid Hassino
-http://bmk5050.com:80/live/05312706368/05312706368/292.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MBC 1 HD
 http://bmk5050.com:80/live/05312706368/05312706368/293.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MBC 2 HD
@@ -509,36 +292,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/319.ts
 http://bmk5050.com:80/live/05312706368/05312706368/320.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MBC Persia
 http://bmk5050.com:80/live/05312706368/05312706368/321.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",LBCI HD
-http://bmk5050.com:80/live/05312706368/05312706368/322.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Rotana KSA HD
-http://bmk5050.com:80/live/05312706368/05312706368/323.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Rotan Khalijia HD
-http://bmk5050.com:80/live/05312706368/05312706368/324.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Rotana Classic HD
-http://bmk5050.com:80/live/05312706368/05312706368/325.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Rotana + HD
-http://bmk5050.com:80/live/05312706368/05312706368/326.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Alarabyia HD
-http://bmk5050.com:80/live/05312706368/05312706368/328.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Alhadath HD
-http://bmk5050.com:80/live/05312706368/05312706368/329.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Asharq HD
-http://bmk5050.com:80/live/05312706368/05312706368/330.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Spacetoon HD
-http://bmk5050.com:80/live/05312706368/05312706368/331.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Cartoon AR HD
-http://bmk5050.com:80/live/05312706368/05312706368/332.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Wanasah HD
-http://bmk5050.com:80/live/05312706368/05312706368/333.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MBC FM HD
-http://bmk5050.com:80/live/05312706368/05312706368/334.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Panorama fm HD
-http://bmk5050.com:80/live/05312706368/05312706368/335.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MBC Persia HD
-http://bmk5050.com:80/live/05312706368/05312706368/336.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FIGHT BOX HD
-http://bmk5050.com:80/live/05312706368/05312706368/337.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",OSN FAN
 http://bmk5050.com:80/live/05312706368/05312706368/382.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",OSN Safwah
@@ -701,8 +454,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/923.ts
 http://bmk5050.com:80/live/05312706368/05312706368/924.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??? ? ???
 http://bmk5050.com:80/live/05312706368/05312706368/925.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",????? ????
-http://bmk5050.com:80/live/05312706368/05312706368/926.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??? ?????
 http://bmk5050.com:80/live/05312706368/05312706368/927.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",????? ???
@@ -741,8 +492,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/944.ts
 http://bmk5050.com:80/live/05312706368/05312706368/945.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",3 ????? ?????
 http://bmk5050.com:80/live/05312706368/05312706368/946.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",1 ???? ????
-http://bmk5050.com:80/live/05312706368/05312706368/947.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??????? ?????? ?????????
 http://bmk5050.com:80/live/05312706368/05312706368/948.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",1 ????? ?????????
@@ -823,8 +572,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/986.ts
 http://bmk5050.com:80/live/05312706368/05312706368/987.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",????? ????? ???????
 http://bmk5050.com:80/live/05312706368/05312706368/988.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",????? ????????
-http://bmk5050.com:80/live/05312706368/05312706368/989.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",????? ????
 http://bmk5050.com:80/live/05312706368/05312706368/990.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",????? ???? ???????????
@@ -1120,8 +867,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/12642.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??? ???????? ??????
 http://bmk5050.com:80/live/05312706368/05312706368/12643.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???? ?????
-http://bmk5050.com:80/live/05312706368/05312706368/12645.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???? ?????
 http://bmk5050.com:80/live/05312706368/05312706368/12646.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??? ????
 http://bmk5050.com:80/live/05312706368/05312706368/12647.ts
@@ -1239,8 +984,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/918.ts
 http://bmk5050.com:80/live/05312706368/05312706368/919.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",KIDS Islamic 1 HD
 http://bmk5050.com:80/live/05312706368/05312706368/920.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Sirag 1 4K
-http://bmk5050.com:80/live/05312706368/05312706368/921.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Sirag 2 4K
 http://bmk5050.com:80/live/05312706368/05312706368/922.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Netflix Kids 1 HD
@@ -1275,28 +1018,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/1190.ts
 http://bmk5050.com:80/live/05312706368/05312706368/1191.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Panorama FM
 http://bmk5050.com:80/live/05312706368/05312706368/1192.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Rotana Cinema EGY
-http://bmk5050.com:80/live/05312706368/05312706368/452.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Rotana Drama
-http://bmk5050.com:80/live/05312706368/05312706368/453.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Rotana Comedy
-http://bmk5050.com:80/live/05312706368/05312706368/454.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Rotana Cinema HD
-http://bmk5050.com:80/live/05312706368/05312706368/455.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Rotana Music
-http://bmk5050.com:80/live/05312706368/05312706368/456.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Rotana Classic
-http://bmk5050.com:80/live/05312706368/05312706368/457.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",B4U Aflam
-http://bmk5050.com:80/live/05312706368/05312706368/1932.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",B4U Plus
-http://bmk5050.com:80/live/05312706368/05312706368/1933.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Zee Alwan
-http://bmk5050.com:80/live/05312706368/05312706368/1934.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Zee Aflam
-http://bmk5050.com:80/live/05312706368/05312706368/1935.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Mix TV
-http://bmk5050.com:80/live/05312706368/05312706368/1936.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SAMA TV
 http://bmk5050.com:80/live/05312706368/05312706368/459.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",LTV HD
@@ -1463,8 +1184,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/573.ts
 http://bmk5050.com:80/live/05312706368/05312706368/575.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AL RASHEED TV HD
 http://bmk5050.com:80/live/05312706368/05312706368/576.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AL SHARQIYA NEWS HD
-http://bmk5050.com:80/live/05312706368/05312706368/577.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Al Sumaria HD TV
 http://bmk5050.com:80/live/05312706368/05312706368/578.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AL TALEAA TV
@@ -1615,8 +1334,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/665.ts
 http://bmk5050.com:80/live/05312706368/05312706368/666.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Al EKhbaria HD
 http://bmk5050.com:80/live/05312706368/05312706368/668.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",iEN Doros 01
-http://bmk5050.com:80/live/05312706368/05312706368/669.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",iEN Doros 02
 http://bmk5050.com:80/live/05312706368/05312706368/670.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",iEN Doros 03
@@ -1639,8 +1356,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/678.ts
 http://bmk5050.com:80/live/05312706368/05312706368/679.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",iEN Doros 12
 http://bmk5050.com:80/live/05312706368/05312706368/680.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",iEN Doros 13
-http://bmk5050.com:80/live/05312706368/05312706368/681.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",iEN Doros 14
 http://bmk5050.com:80/live/05312706368/05312706368/682.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",iEN Doros 15
@@ -1719,8 +1434,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/724.ts
 http://bmk5050.com:80/live/05312706368/05312706368/725.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TV5 Monde Style HD
 http://bmk5050.com:80/live/05312706368/05312706368/726.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TV5 Monde Maghreb Orient HD
-http://bmk5050.com:80/live/05312706368/05312706368/727.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Athaqafia HD
 http://bmk5050.com:80/live/05312706368/05312706368/728.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",M24 MAROC
@@ -1921,8 +1634,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/1963.ts
 http://bmk5050.com:80/live/05312706368/05312706368/1964.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",?? ?????
 http://bmk5050.com:80/live/05312706368/05312706368/1965.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???? ????
-http://bmk5050.com:80/live/05312706368/05312706368/1966.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",?????
 http://bmk5050.com:80/live/05312706368/05312706368/1967.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???? ????
@@ -1973,8 +1684,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/1993.ts
 http://bmk5050.com:80/live/05312706368/05312706368/1994.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???? ??????
 http://bmk5050.com:80/live/05312706368/05312706368/1995.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???? ??? ???????
-http://bmk5050.com:80/live/05312706368/05312706368/1996.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???? ???????
 http://bmk5050.com:80/live/05312706368/05312706368/2002.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",?????? 1
@@ -2057,8 +1766,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/2046.ts
 http://bmk5050.com:80/live/05312706368/05312706368/2047.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",7 ????
 http://bmk5050.com:80/live/05312706368/05312706368/2048.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???? ??? ???
-http://bmk5050.com:80/live/05312706368/05312706368/2049.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",????? ??????
 http://bmk5050.com:80/live/05312706368/05312706368/2050.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",????????
@@ -2075,8 +1782,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/2056.ts
 http://bmk5050.com:80/live/05312706368/05312706368/2057.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",?????? ???? ?????  2
 http://bmk5050.com:80/live/05312706368/05312706368/2058.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",?????? ???? ??? 1
-http://bmk5050.com:80/live/05312706368/05312706368/2059.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",?????? ???? ??? 2
 http://bmk5050.com:80/live/05312706368/05312706368/2060.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",????? ???? ???????? 1
@@ -2301,8 +2006,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/2184.ts
 http://bmk5050.com:80/live/05312706368/05312706368/2185.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???? ? ?? ???? 8
 http://bmk5050.com:80/live/05312706368/05312706368/2186.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???? ? ?? ???? 9
-http://bmk5050.com:80/live/05312706368/05312706368/2187.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???? ? ?? ???? 10
 http://bmk5050.com:80/live/05312706368/05312706368/2188.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???? ???????? 1
@@ -2443,8 +2146,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/2295.ts
 http://bmk5050.com:80/live/05312706368/05312706368/2296.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???????  ???? ????
 http://bmk5050.com:80/live/05312706368/05312706368/2297.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??????? 1
-http://bmk5050.com:80/live/05312706368/05312706368/2298.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??????? 4
 http://bmk5050.com:80/live/05312706368/05312706368/2299.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???????  5
@@ -2485,16 +2186,12 @@ http://bmk5050.com:80/live/05312706368/05312706368/2284.ts
 http://bmk5050.com:80/live/05312706368/05312706368/2286.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??????? ?????????? 2
 http://bmk5050.com:80/live/05312706368/05312706368/2288.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Alev Alev - ??????
-http://bmk5050.com:80/live/05312706368/05312706368/2445.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Ariza - ??? ???
 http://bmk5050.com:80/live/05312706368/05312706368/2457.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Baraj - ????
 http://bmk5050.com:80/live/05312706368/05312706368/2454.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Kardeslerim - ?????
 http://bmk5050.com:80/live/05312706368/05312706368/2452.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Kirmizi Oda - ?????? ???????
-http://bmk5050.com:80/live/05312706368/05312706368/2463.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Marasli - ??????
 http://bmk5050.com:80/live/05312706368/05312706368/2451.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Masumlar Apartmani - ??? ????????
@@ -2537,8 +2234,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/2317.ts
 http://bmk5050.com:80/live/05312706368/05312706368/2318.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??? ?  ???
 http://bmk5050.com:80/live/05312706368/05312706368/2319.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??? ?  ??? 2021
-http://bmk5050.com:80/live/05312706368/05312706368/2320.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??? ? ??? 2022
 http://bmk5050.com:80/live/05312706368/05312706368/2321.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???? ?????
@@ -2677,10 +2372,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/2389.ts
 http://bmk5050.com:80/live/05312706368/05312706368/2390.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???? ???? ???? ???????
 http://bmk5050.com:80/live/05312706368/05312706368/2391.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",????? ???
-http://bmk5050.com:80/live/05312706368/05312706368/2392.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??? ????
-http://bmk5050.com:80/live/05312706368/05312706368/2393.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??????
 http://bmk5050.com:80/live/05312706368/05312706368/2394.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",????????
@@ -2727,8 +2418,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/2414.ts
 http://bmk5050.com:80/live/05312706368/05312706368/2415.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??????
 http://bmk5050.com:80/live/05312706368/05312706368/2416.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??? ?????
-http://bmk5050.com:80/live/05312706368/05312706368/2417.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??? ????
 http://bmk5050.com:80/live/05312706368/05312706368/2419.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??? ???? ?? ????
@@ -2859,14 +2548,10 @@ http://bmk5050.com:80/live/05312706368/05312706368/2510.ts
 http://bmk5050.com:80/live/05312706368/05312706368/2511.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FI-UFC: UFC Fight Night 1
 http://bmk5050.com:80/live/05312706368/05312706368/2512.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FI-UFC: UFC Fight Night 2
-http://bmk5050.com:80/live/05312706368/05312706368/2513.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FI-UFC: UFC Fight Night 3
 http://bmk5050.com:80/live/05312706368/05312706368/2514.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FI-UFC: UFC On Espn 1
 http://bmk5050.com:80/live/05312706368/05312706368/2515.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FI-UFC: UFC On Espn 2
-http://bmk5050.com:80/live/05312706368/05312706368/2516.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FI-UFC: UFC On Fox 1
 http://bmk5050.com:80/live/05312706368/05312706368/2517.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FI-WWE: WWE Main Event 1
@@ -2917,8 +2602,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/2542.ts
 http://bmk5050.com:80/live/05312706368/05312706368/2543.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Mix Theater 4 (??????? ????? 4)
 http://bmk5050.com:80/live/05312706368/05312706368/2544.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Mix Theater 5 (??????? ????? 5)
-http://bmk5050.com:80/live/05312706368/05312706368/2545.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Mix Theater 6 (??????? ????? 6)
 http://bmk5050.com:80/live/05312706368/05312706368/2546.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Tiatro Masr 1 (?????? ???1)
@@ -2997,8 +2680,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/2584.ts
 http://bmk5050.com:80/live/05312706368/05312706368/2585.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???? ?????? 7
 http://bmk5050.com:80/live/05312706368/05312706368/2586.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???? ??????  1
-http://bmk5050.com:80/live/05312706368/05312706368/2587.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",????  ??  ??  ???
 http://bmk5050.com:80/live/05312706368/05312706368/2588.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??????
@@ -3011,8 +2692,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/2591.ts
 http://bmk5050.com:80/live/05312706368/05312706368/2592.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",?? ?????????
 http://bmk5050.com:80/live/05312706368/05312706368/2593.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??? ??? ?????
-http://bmk5050.com:80/live/05312706368/05312706368/2594.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",??? ???
 http://bmk5050.com:80/live/05312706368/05312706368/2595.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",???? ?????? 2
@@ -3043,10 +2722,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/2607.ts
 http://bmk5050.com:80/live/05312706368/05312706368/2608.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shahid Arabia 4
 http://bmk5050.com:80/live/05312706368/05312706368/2609.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shahid Sci-Fi 1HD
-http://bmk5050.com:80/live/05312706368/05312706368/2611.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shahid  Adventure 2HD
-http://bmk5050.com:80/live/05312706368/05312706368/2612.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shahid VIP Mosalsalat
 http://bmk5050.com:80/live/05312706368/05312706368/2613.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Shahid Family 1HD
@@ -3095,8 +2770,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/2634.ts
 http://bmk5050.com:80/live/05312706368/05312706368/2635.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",NETFLIX MOVIES 2
 http://bmk5050.com:80/live/05312706368/05312706368/2636.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",NETFLIX MOVIES 3
-http://bmk5050.com:80/live/05312706368/05312706368/2637.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",NETFLIX MOVIES 4
 http://bmk5050.com:80/live/05312706368/05312706368/2638.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",NETFLIX MOVIES 5
@@ -3217,8 +2890,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/2695.ts
 http://bmk5050.com:80/live/05312706368/05312706368/2696.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",NETFLIX 2021 HORROR 4
 http://bmk5050.com:80/live/05312706368/05312706368/2697.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",NETFLIX 2021 HORROR 5
-http://bmk5050.com:80/live/05312706368/05312706368/2698.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",NETFLIX 2021 HORROR 6
 http://bmk5050.com:80/live/05312706368/05312706368/2699.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",NETFLIX 2021 HORROR 7
@@ -3717,10 +3388,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/2944.ts
 http://bmk5050.com:80/live/05312706368/05312706368/2945.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL 7 UHD
 http://bmk5050.com:80/live/05312706368/05312706368/2946.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: DMAX HD
-http://bmk5050.com:80/live/05312706368/05312706368/2947.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TLC HD
-http://bmk5050.com:80/live/05312706368/05312706368/2948.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: A2 TV HD
 http://bmk5050.com:80/live/05312706368/05312706368/2949.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TEVE 2 HD
@@ -4005,8 +3672,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/3393.ts
 http://bmk5050.com:80/live/05312706368/05312706368/3394.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: CINEFLIX SCI-FI HD
 http://bmk5050.com:80/live/05312706368/05312706368/3395.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: CINEFLIX TURK HD
-http://bmk5050.com:80/live/05312706368/05312706368/3396.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: CINEFLIX WESTERN HD
 http://bmk5050.com:80/live/05312706368/05312706368/3397.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: CINEFLIX SENER SEN HD
@@ -4083,8 +3748,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/3470.ts
 http://bmk5050.com:80/live/05312706368/05312706368/3471.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: SINEVIZYON 14
 http://bmk5050.com:80/live/05312706368/05312706368/3472.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: SINEVIZYON 15
-http://bmk5050.com:80/live/05312706368/05312706368/3473.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: SINEVIZYON 16
 http://bmk5050.com:80/live/05312706368/05312706368/3474.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: SINEVIZYON 17
@@ -4127,10 +3790,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/3523.ts
 http://bmk5050.com:80/live/05312706368/05312706368/3524.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: HABITAT TV HD
 http://bmk5050.com:80/live/05312706368/05312706368/3526.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TLC HD
-http://bmk5050.com:80/live/05312706368/05312706368/3530.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: DMAX HD
-http://bmk5050.com:80/live/05312706368/05312706368/3531.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TRT BELGESEL*
 http://bmk5050.com:80/live/05312706368/05312706368/3532.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: ANIMAUX HD
@@ -4205,30 +3864,18 @@ http://bmk5050.com:80/live/05312706368/05312706368/3570.ts
 http://bmk5050.com:80/live/05312706368/05312706368/3571.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: HABERTURK HD
 http://bmk5050.com:80/live/05312706368/05312706368/3572.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: BLOOMBERG HT HD
-http://bmk5050.com:80/live/05312706368/05312706368/3574.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: BENGUTURK HD
 http://bmk5050.com:80/live/05312706368/05312706368/3575.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TGRT HABER HD
 http://bmk5050.com:80/live/05312706368/05312706368/3576.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: ULKE TV HD
 http://bmk5050.com:80/live/05312706368/05312706368/3577.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL 24 HD
-http://bmk5050.com:80/live/05312706368/05312706368/3578.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: HALK TV HD
 http://bmk5050.com:80/live/05312706368/05312706368/3584.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: FLASH TV HABER
-http://bmk5050.com:80/live/05312706368/05312706368/3587.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: NTV HABER HD
-http://bmk5050.com:80/live/05312706368/05312706368/3590.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: CNN TURK HD
-http://bmk5050.com:80/live/05312706368/05312706368/3591.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: HABERTURK HD
 http://bmk5050.com:80/live/05312706368/05312706368/3592.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: HABER GLOBAL HD
 http://bmk5050.com:80/live/05312706368/05312706368/3593.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: BLOOMBERGHT HD
-http://bmk5050.com:80/live/05312706368/05312706368/3594.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: BENGUTURK HD
 http://bmk5050.com:80/live/05312706368/05312706368/3595.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TGRT HABER HD
@@ -4239,8 +3886,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/3597.ts
 http://bmk5050.com:80/live/05312706368/05312706368/3598.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TELE 1 HD
 http://bmk5050.com:80/live/05312706368/05312706368/3600.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KRT TV HD
-http://bmk5050.com:80/live/05312706368/05312706368/3601.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: HALK TV HD
 http://bmk5050.com:80/live/05312706368/05312706368/3602.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: ULUSAL TV HD
@@ -4253,10 +3898,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/3606.ts
 http://bmk5050.com:80/live/05312706368/05312706368/3607.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: ANIMASYON TV 3
 http://bmk5050.com:80/live/05312706368/05312706368/3608.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: ANIMASYON TV 8
-http://bmk5050.com:80/live/05312706368/05312706368/3613.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: ANIMASYON TV 9
-http://bmk5050.com:80/live/05312706368/05312706368/3614.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: BARBIE TV
 http://bmk5050.com:80/live/05312706368/05312706368/3616.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KUZUCUK
@@ -4341,8 +3982,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/3658.ts
 http://bmk5050.com:80/live/05312706368/05312706368/3661.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: PEPE TV
 http://bmk5050.com:80/live/05312706368/05312706368/3662.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: MASAL TV
-http://bmk5050.com:80/live/05312706368/05312706368/3663.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KUKULI TV
 http://bmk5050.com:80/live/05312706368/05312706368/3664.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: NILOYA TV
@@ -4471,8 +4110,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/3756.ts
 http://bmk5050.com:80/live/05312706368/05312706368/3757.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: MILYON TV
 http://bmk5050.com:80/live/05312706368/05312706368/3758.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: YOL TV
-http://bmk5050.com:80/live/05312706368/05312706368/3763.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: CEM TV
 http://bmk5050.com:80/live/05312706368/05312706368/3764.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: ARTI TV
@@ -4481,76 +4118,38 @@ http://bmk5050.com:80/live/05312706368/05312706368/3765.ts
 http://bmk5050.com:80/live/05312706368/05312706368/3766.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: AKIT TV
 http://bmk5050.com:80/live/05312706368/05312706368/3774.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL B
-http://bmk5050.com:80/live/05312706368/05312706368/3775.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TV 100 HD
-http://bmk5050.com:80/live/05312706368/05312706368/3785.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: EKOTURK HD
 http://bmk5050.com:80/live/05312706368/05312706368/3787.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: ANADOLU DERNEK
 http://bmk5050.com:80/live/05312706368/05312706368/3792.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: CIFTCI TV
-http://bmk5050.com:80/live/05312706368/05312706368/3794.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: DEHA TV
 http://bmk5050.com:80/live/05312706368/05312706368/3817.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Güne Dogus TV
-http://bmk5050.com:80/live/05312706368/05312706368/3824.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal Istanbul
 http://bmk5050.com:80/live/05312706368/05312706368/3825.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: 38 KENT TV
 http://bmk5050.com:80/live/05312706368/05312706368/3826.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Alanya Posta TV
-http://bmk5050.com:80/live/05312706368/05312706368/3830.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: AS TV
 http://bmk5050.com:80/live/05312706368/05312706368/3833.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Berat TV
 http://bmk5050.com:80/live/05312706368/05312706368/3835.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Berat TV (720p)
-http://bmk5050.com:80/live/05312706368/05312706368/3836.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Briç ve Satranç TV
-http://bmk5050.com:80/live/05312706368/05312706368/3838.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Bursa AS TV
 http://bmk5050.com:80/live/05312706368/05312706368/3839.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Cay TV
 http://bmk5050.com:80/live/05312706368/05312706368/3841.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Cay TV
-http://bmk5050.com:80/live/05312706368/05312706368/3842.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Cekmeköy TV (1080p)
-http://bmk5050.com:80/live/05312706368/05312706368/3843.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Ciftci Tv
-http://bmk5050.com:80/live/05312706368/05312706368/3844.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Ciftci TV
-http://bmk5050.com:80/live/05312706368/05312706368/3845.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: CIFTCI TV
 http://bmk5050.com:80/live/05312706368/05312706368/3847.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: DEHA TV
 http://bmk5050.com:80/live/05312706368/05312706368/3848.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Deni?z Postasi TV (720p)
-http://bmk5050.com:80/live/05312706368/05312706368/3849.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: DENIZ POSTASI TV
 http://bmk5050.com:80/live/05312706368/05312706368/3850.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Dim TV
 http://bmk5050.com:80/live/05312706368/05312706368/3851.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: DIM TV
 http://bmk5050.com:80/live/05312706368/05312706368/3857.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Em TV (486p)
-http://bmk5050.com:80/live/05312706368/05312706368/3859.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: ES TV
 http://bmk5050.com:80/live/05312706368/05312706368/3865.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: ES TV
-http://bmk5050.com:80/live/05312706368/05312706368/3866.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: ETV Kayseri
-http://bmk5050.com:80/live/05312706368/05312706368/3867.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: GRT
-http://bmk5050.com:80/live/05312706368/05312706368/3868.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: GRT
-http://bmk5050.com:80/live/05312706368/05312706368/3869.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: GRT
-http://bmk5050.com:80/live/05312706368/05312706368/3870.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: GRT Gaziantep
 http://bmk5050.com:80/live/05312706368/05312706368/3871.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: GRT Gaziantep (720p)
-http://bmk5050.com:80/live/05312706368/05312706368/3872.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Gurbet 24 Erzincan
 http://bmk5050.com:80/live/05312706368/05312706368/3873.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Haber 61
@@ -4559,90 +4158,34 @@ http://bmk5050.com:80/live/05312706368/05312706368/3874.ts
 http://bmk5050.com:80/live/05312706368/05312706368/3875.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Haber61 TV (720p)
 http://bmk5050.com:80/live/05312706368/05312706368/3876.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Hunat TV (480p)
-http://bmk5050.com:80/live/05312706368/05312706368/3877.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL 15
 http://bmk5050.com:80/live/05312706368/05312706368/3882.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal 15
-http://bmk5050.com:80/live/05312706368/05312706368/3883.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal 15
-http://bmk5050.com:80/live/05312706368/05312706368/3884.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL 23
 http://bmk5050.com:80/live/05312706368/05312706368/3885.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal 23
-http://bmk5050.com:80/live/05312706368/05312706368/3886.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal 23 (720p)
-http://bmk5050.com:80/live/05312706368/05312706368/3887.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal 26
-http://bmk5050.com:80/live/05312706368/05312706368/3888.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL 26
 http://bmk5050.com:80/live/05312706368/05312706368/3889.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal 26
-http://bmk5050.com:80/live/05312706368/05312706368/3890.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal 26
-http://bmk5050.com:80/live/05312706368/05312706368/3891.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal 3
-http://bmk5050.com:80/live/05312706368/05312706368/3892.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL 3
 http://bmk5050.com:80/live/05312706368/05312706368/3893.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal 3
-http://bmk5050.com:80/live/05312706368/05312706368/3894.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal 3 (720p)
-http://bmk5050.com:80/live/05312706368/05312706368/3895.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal 3 (Afyonkarahisar)
-http://bmk5050.com:80/live/05312706368/05312706368/3896.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal 33
 http://bmk5050.com:80/live/05312706368/05312706368/3897.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL 58
-http://bmk5050.com:80/live/05312706368/05312706368/3900.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL 58 (720p)
 http://bmk5050.com:80/live/05312706368/05312706368/3901.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL 68
-http://bmk5050.com:80/live/05312706368/05312706368/3902.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL 68
 http://bmk5050.com:80/live/05312706368/05312706368/3903.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal 68
-http://bmk5050.com:80/live/05312706368/05312706368/3904.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal 68
-http://bmk5050.com:80/live/05312706368/05312706368/3905.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal 68 (720p)
-http://bmk5050.com:80/live/05312706368/05312706368/3906.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL AVRUPA
-http://bmk5050.com:80/live/05312706368/05312706368/3907.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL FIRAT
-http://bmk5050.com:80/live/05312706368/05312706368/3908.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal Firat
 http://bmk5050.com:80/live/05312706368/05312706368/3909.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL FIRAT
-http://bmk5050.com:80/live/05312706368/05312706368/3910.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal V (720p)
 http://bmk5050.com:80/live/05312706368/05312706368/3911.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL Z
 http://bmk5050.com:80/live/05312706368/05312706368/3912.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal Z
-http://bmk5050.com:80/live/05312706368/05312706368/3913.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal Z
-http://bmk5050.com:80/live/05312706368/05312706368/3914.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kanal Z (720p)
-http://bmk5050.com:80/live/05312706368/05312706368/3915.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KanalV
 http://bmk5050.com:80/live/05312706368/05312706368/3916.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kay TV
-http://bmk5050.com:80/live/05312706368/05312706368/3918.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KAY TV
 http://bmk5050.com:80/live/05312706368/05312706368/3919.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kay TV (720p)
-http://bmk5050.com:80/live/05312706368/05312706368/3920.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kent Türk (720p)
-http://bmk5050.com:80/live/05312706368/05312706368/3921.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Kent Türk TV
 http://bmk5050.com:80/live/05312706368/05312706368/3922.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: LIFE TV
 http://bmk5050.com:80/live/05312706368/05312706368/3923.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Life TV
-http://bmk5050.com:80/live/05312706368/05312706368/3924.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Life TV (720p)
-http://bmk5050.com:80/live/05312706368/05312706368/3925.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Line TV
 http://bmk5050.com:80/live/05312706368/05312706368/3926.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Marmaris Web TV
@@ -4659,8 +4202,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/3932.ts
 http://bmk5050.com:80/live/05312706368/05312706368/3938.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Natural TV (720p)
 http://bmk5050.com:80/live/05312706368/05312706368/3939.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: OLAY TÜRK TV
-http://bmk5050.com:80/live/05312706368/05312706368/3940.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Olay Türk TV (720p)
 http://bmk5050.com:80/live/05312706368/05312706368/3941.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: ON6 TV
@@ -4679,28 +4220,10 @@ http://bmk5050.com:80/live/05312706368/05312706368/3948.ts
 http://bmk5050.com:80/live/05312706368/05312706368/3949.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Ton TV
 http://bmk5050.com:80/live/05312706368/05312706368/3950.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Ton TV
-http://bmk5050.com:80/live/05312706368/05312706368/3951.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Ton TV (720p)
-http://bmk5050.com:80/live/05312706368/05312706368/3952.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TV 41
 http://bmk5050.com:80/live/05312706368/05312706368/3954.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TV 41 (720p)
-http://bmk5050.com:80/live/05312706368/05312706368/3955.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TV 41 (720p)
-http://bmk5050.com:80/live/05312706368/05312706368/3956.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TV 52
-http://bmk5050.com:80/live/05312706368/05312706368/3957.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TV 52
-http://bmk5050.com:80/live/05312706368/05312706368/3958.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TV 52
 http://bmk5050.com:80/live/05312706368/05312706368/3959.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TV 52 (720p)
-http://bmk5050.com:80/live/05312706368/05312706368/3960.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TV 52
-http://bmk5050.com:80/live/05312706368/05312706368/3961.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TV41
-http://bmk5050.com:80/live/05312706368/05312706368/3962.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TV41
 http://bmk5050.com:80/live/05312706368/05312706368/3963.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TV52
@@ -4709,16 +4232,12 @@ http://bmk5050.com:80/live/05312706368/05312706368/3964.ts
 http://bmk5050.com:80/live/05312706368/05312706368/3965.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: VIZYON 58 TV
 http://bmk5050.com:80/live/05312706368/05312706368/3966.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Vizyon 58 TV
-http://bmk5050.com:80/live/05312706368/05312706368/3967.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: VTV
 http://bmk5050.com:80/live/05312706368/05312706368/3968.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: Vuslat TV
 http://bmk5050.com:80/live/05312706368/05312706368/3969.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: VUSLAT TV
 http://bmk5050.com:80/live/05312706368/05312706368/3970.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: VIZYON 58
-http://bmk5050.com:80/live/05312706368/05312706368/3972.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TRT EBA LISE SD
 http://bmk5050.com:80/live/05312706368/05312706368/5413.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TRT EBA LISE HD
@@ -4731,108 +4250,6 @@ http://bmk5050.com:80/live/05312706368/05312706368/5416.ts
 http://bmk5050.com:80/live/05312706368/05312706368/5417.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TRT EBA ILKOKUL HD
 http://bmk5050.com:80/live/05312706368/05312706368/5418.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TRT 4K
-http://bmk5050.com:80/live/05312706368/05312706368/2866.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TRT 1 H265
-http://bmk5050.com:80/live/05312706368/05312706368/2867.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TRT 1 FHD
-http://bmk5050.com:80/live/05312706368/05312706368/2868.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TRT 2 FHD
-http://bmk5050.com:80/live/05312706368/05312706368/2869.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: ATV H265
-http://bmk5050.com:80/live/05312706368/05312706368/2870.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: SHOW TV H265
-http://bmk5050.com:80/live/05312706368/05312706368/2872.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: SHOW TV FHD
-http://bmk5050.com:80/live/05312706368/05312706368/2873.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TV8.5 FHD
-http://bmk5050.com:80/live/05312706368/05312706368/2875.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: STAR TV H265
-http://bmk5050.com:80/live/05312706368/05312706368/2876.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: STAR TV FHD
-http://bmk5050.com:80/live/05312706368/05312706368/2877.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL D H265
-http://bmk5050.com:80/live/05312706368/05312706368/2878.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL D FHD
-http://bmk5050.com:80/live/05312706368/05312706368/2879.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: FOX TV H265
-http://bmk5050.com:80/live/05312706368/05312706368/2880.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: FOX TV FHD
-http://bmk5050.com:80/live/05312706368/05312706368/2881.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL 7 FHD 265
-http://bmk5050.com:80/live/05312706368/05312706368/2882.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL 7 FHD
-http://bmk5050.com:80/live/05312706368/05312706368/2883.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: BEYAZ TV H265
-http://bmk5050.com:80/live/05312706368/05312706368/2884.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: BEYAZ TV FHD
-http://bmk5050.com:80/live/05312706368/05312706368/2885.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TEVE 2 FHD
-http://bmk5050.com:80/live/05312706368/05312706368/2886.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: 360 TV FHD
-http://bmk5050.com:80/live/05312706368/05312706368/2887.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: A2 FHD
-http://bmk5050.com:80/live/05312706368/05312706368/2888.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: EURO STAR
-http://bmk5050.com:80/live/05312706368/05312706368/2889.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: ATV AVRUPA
-http://bmk5050.com:80/live/05312706368/05312706368/2890.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: EURO D
-http://bmk5050.com:80/live/05312706368/05312706368/2891.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: SHOW TURK
-http://bmk5050.com:80/live/05312706368/05312706368/2892.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: SHOW MAX HD
-http://bmk5050.com:80/live/05312706368/05312706368/2893.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: A2 H265
-http://bmk5050.com:80/live/05312706368/05312706368/2895.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: ÜLKE TV HEVC
-http://bmk5050.com:80/live/05312706368/05312706368/2896.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TRT 2 HD
-http://bmk5050.com:80/live/05312706368/05312706368/2898.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: ATV HD
-http://bmk5050.com:80/live/05312706368/05312706368/2899.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: SHOV TV HD
-http://bmk5050.com:80/live/05312706368/05312706368/2900.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: STAR TV HD
-http://bmk5050.com:80/live/05312706368/05312706368/2901.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL D HD
-http://bmk5050.com:80/live/05312706368/05312706368/2902.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: FOX TV HD
-http://bmk5050.com:80/live/05312706368/05312706368/2903.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TV8.5 HD
-http://bmk5050.com:80/live/05312706368/05312706368/2905.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: BEYAZ TV HD
-http://bmk5050.com:80/live/05312706368/05312706368/2906.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: KANAL 7 HD
-http://bmk5050.com:80/live/05312706368/05312706368/2907.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: 360 TV HD
-http://bmk5050.com:80/live/05312706368/05312706368/2908.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: A2 HD
-http://bmk5050.com:80/live/05312706368/05312706368/2909.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: A HABER HD
-http://bmk5050.com:80/live/05312706368/05312706368/2910.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: HABERTURK HD
-http://bmk5050.com:80/live/05312706368/05312706368/2911.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TRT HABER HD
-http://bmk5050.com:80/live/05312706368/05312706368/2912.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: HABER GLOBAL HD
-http://bmk5050.com:80/live/05312706368/05312706368/2916.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TELE 1 HD
-http://bmk5050.com:80/live/05312706368/05312706368/2920.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TV 8 (4K)
-http://bmk5050.com:80/live/05312706368/05312706368/3089.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: A HABER (4K)
-http://bmk5050.com:80/live/05312706368/05312706368/3099.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: CNN TURK (4K)
-http://bmk5050.com:80/live/05312706368/05312706368/3100.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: HABERTURK (4K)
-http://bmk5050.com:80/live/05312706368/05312706368/3103.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: A SPOR (4K)
-http://bmk5050.com:80/live/05312706368/05312706368/3106.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TRT SPOR (4K)
-http://bmk5050.com:80/live/05312706368/05312706368/3107.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TR: TRT SPOR YILDIZ (4K)
-http://bmk5050.com:80/live/05312706368/05312706368/3108.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",KKTC: BRT 1 HD
 http://bmk5050.com:80/live/05312706368/05312706368/3973.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",KKTC: BRT 2 HD
