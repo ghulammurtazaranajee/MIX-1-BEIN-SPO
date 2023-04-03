@@ -133,8 +133,6 @@ http://iptv-tn.com:8080/ottking/ottking_mcoes.live/61111
 http://iptv-tn.com:8080/ottking/ottking_mcoes.live/61112
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Zee Anmol Cinema
 http://iptv-tn.com:8080/ottking/ottking_mcoes.live/61114
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Zee Keralam HD (720p)
-http://iptv-tn.com:8080/ottking/ottking_mcoes.live/61116
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Zee Cinema SD
 http://iptv-tn.com:8080/ottking/ottking_mcoes.live/61121
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",||IN| SONY PIX
@@ -147,940 +145,6 @@ http://iptv-tn.com:8080/ottking/ottking_mcoes.live/61128
 http://iptv-tn.com:8080/ottking/ottking_mcoes.live/61129
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Zee 24
 http://iptv-tn.com:8080/ottking/ottking_mcoes.live/61134
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Movies 2 Action Hevc
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31470
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Movies 3 Drama Hevc
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31471
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN BARAEAM Hevc
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31475
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN JEEM Hevc
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31476
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN BBC EARTH Hevc
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31477
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Movies 1 Premiere HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31486
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Movies 2 Action HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31487
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Movies 3 Drama HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31488
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Series HD1
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31491
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Series HD2
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31492
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Gourmet HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31502
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Baraem HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31512
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",beIN Nat Geo HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31511
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",FOX Movies Action Hevc
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31481
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Fox Action Movies HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31497
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Relax Sleep HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32065
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Relax Nature HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32067
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Relax 1 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32068
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Relax 2 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32069
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Relax Rain HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32071
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Relax Africain HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32074
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Relax Amazon HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32075
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | BBC Earth HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/43321
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  Nat Geo AR HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/6740
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  Nat Geo HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/43319
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  Discovery HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/43314
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Discovery SC HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/43315
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Discovery ID HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/43313
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  Discovery Family HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/43312
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  History 2 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/43317
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  Animal Planet HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/43311
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",The_Holy_Quran_Saad_Al_Ghamidi
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/1056
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",The_Holy_Quran_Maher_Al-Muaiqly
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/1057
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",The_Holy_Quran_AL-Ajami
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/1566
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",The_Holy_Quran_Yasser_Al-Dossari
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/1567
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Majd  TV ?????
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32439
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al resalla ???????
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32440
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Saudia Sunna HD ????? ???????
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32442
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Ayaat TV ??????
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32443
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Anis TV ?????
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32444
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Makkah TV ???
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32447
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Iqraa  ????
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32448
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Majd ???
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32451
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Hadith ?????? ??????
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32452
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Zad TV ?????
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32453
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Istiqama ?????????
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32455
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al majd 3
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32456
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | IQRAA ????
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32458
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Nas TV ?????
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32459
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Salaam TV ????
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32462
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Azhari ?????
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32464
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Time quran ??? ??????
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32467
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | QURAN TV ??????
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32468
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ALFATH SONA ?????
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32469
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Arabiya Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31938
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al hadath Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31939
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Jazeera Documentary  Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31941
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Aljazeera Mubasher Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31942
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | El sharq
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31943
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Araby Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31944
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Hadath
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31946
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Arabiya Hadath
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31949
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Arabiya
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31950
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Hadath
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31951
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AL JAZERA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31952
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AL JAZZERA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31953
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AL JAZZERA MUBASHER
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31954
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AL JAZEERA DOC
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31955
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | DW AR
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31956
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AL ALAM
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31957
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | TRT Arabi
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31958
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Araby
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31959
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | CNBC ARABIA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31960
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | BBC ARABIC
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31961
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | SKY NEWS
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31962
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | FRANCE 24
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31963
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | WATAN
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31964
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MEKAMELEEN
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31965
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AL Sharq
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31966
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Hiwar
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31967
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Hiwar TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31968
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | El Sharq El Awast
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31969
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | RT Arab
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31970
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | RT Arabic
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31971
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | EURONEWS
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31972
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Hurra TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31974
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | CGTN News
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31977
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | FR 24 Arabic
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31978
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | RT Documentry
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31980
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | TRT Arabia
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31982
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Weather Channel 1
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31983
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Al Ghad HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/57046
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Cartoon Network Arabia
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40485
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | SPACETOON
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40486
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | BARAEM
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40487
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Boomberg
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40488
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Disney Channel HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40489
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Disney Junior
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40491
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Kids Zone HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40492
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Disney XD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40493
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Disney Junior
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40494
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Nickelodeon HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40495
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Baby TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40496
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | TOYOR BABY
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40501
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Kids Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40498
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Kids HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40499
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Hekayat Alamya
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40500
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Sirag TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40505
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Haddiqat Mareh
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40504
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | JEEM
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40508
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Marah TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40509
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | KARAMEESH
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40510
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MICKEY CHANNEL
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40511
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Atfal Mawaheb
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40513
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | TAHA TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40515
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MAJID KIDS
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40517
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Iraq Kids HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40518
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Wanasa Baby TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40514
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Kidzinia
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40516
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Fozi Mozi
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40522
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Spongbob
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40523
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Masha & the Bear
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40529
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Shaun The sheep
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40530
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Teletubbies
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40525
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Mr Bean TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40526
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Pink Panther
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40524
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ADNAN W LENA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40527
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | SASUKI
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/40528
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC1 Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31911
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC2 Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31912
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC3 Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31913
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC4 Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31914
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC BOLLYWOOD Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31915
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC DRAMA Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31916
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC ACTION Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31917
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC MAX Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31918
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC IRAQ Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31919
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC+Variety Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31921
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC 1 USA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31922
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC Iraq USA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31923
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC1 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31924
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC2 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31925
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC3 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31926
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC4 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31927
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC5 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31928
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC DRAMA HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31929
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC BOLLYWOOD HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31930
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC ACTION HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31932
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC MAX HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31933
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC+DRAMA HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31934
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC MASER HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31935
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC MASER 2 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31936
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC+Variety HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31937
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  Skyflix Action
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54824
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  Skyflix Bruce Lee
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54825
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  Skyflix Aflam adil Imam
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54826
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  Skyflix Jackie chan
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54827
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  Skyflix Jet LI
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54828
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  Skyflix Arnold Schwarzenegger
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54829
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  Skyflix Sylvester Stallone
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54830
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  Skyflix  Shah Rukh Khan
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54831
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Reel px action
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54766
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Reel comedy
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54767
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Reel PX family
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54768
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Reel PX Cinema
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54769
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Reel PX Unlimited
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54770
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Dizi
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54771
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Planet earth
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54772
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Stereo
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54774
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Stereo 2
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54775
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Fight Network
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54776
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Horse
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54777
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Recipe
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54778
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | DocuBox
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54780
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Motorvision
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54782
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Fast And Fun
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54783
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Docymentary
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54784
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Film box
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54785
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  FilmBox ArtHouse
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54786
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Travel channel
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54787
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN YAHALA ARABI HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54849
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN YAHALA HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54850
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN YAHALA AFLAM HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54851
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN OSN MOVIES HOLLYWOOD HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54854
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN OSN MOVIES ACTION HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54855
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN OSN SERIES PRIME HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54857
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN OSN FAMILY HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54858
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN OSN COMEDY HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54859
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN OSN LIVNG HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54860
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN OSN MEZZE HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54862
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN ALFA CINEMA 1 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54868
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN ALFA CINEMA 2 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54869
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN ALFA SAFWA HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54870
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN ALFA SERIES HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54871
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN ALFA SERIES +2 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54872
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN MUSIC NOW HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54873
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN KIDS HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54874
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN NICKELODEON HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54875
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN NICK TOONS HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54876
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN NICK JR HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54877
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN KIDS ZONE HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54878
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN DISNEY CHANNEL HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54879
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN DISNEY JUNIOR HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54880
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN NAT GEO WILD HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54884
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN DISCOVERY ID HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54886
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN HISTORY HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54888
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OSN H2 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54889
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ART CINEMA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/55982
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ART AFLAM 1
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/55983
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ART AFLAM 2
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/55984
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ART HEKAYAT
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/55985
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ART HEKAYAT 2
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/55986
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Kids
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/55987
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Comedy FHD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/55989
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Cinema HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/55990
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Cinema FHD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/55991
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Cinema Hevc
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/55992
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Classic HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/55993
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Aflam
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/55995
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Drama HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/55996
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Drama FHD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/55997
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Drama Hevc
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/55998
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Music HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/55999
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Music Hevc
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56001
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Khalijia HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56002
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Khalijeah FHD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56003
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Khalijeah Hevc
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56004
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Clip
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56006
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Drama
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56007
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Khalijiah
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56008
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Cinema KSA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56009
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Cinema EGY
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56010
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rotana Classic
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56011
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | SPORT ASIA 1 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54788
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | SPORT PREMIUM 1 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54790
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | SPORT PREMIUM 2 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54791
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | STARZ PLAY SPORT HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54792
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Nile TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52722
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Nile News
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52723
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Nile Comedy
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52724
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Nile Comedy
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52725
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Nile Cinema
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52726
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Nile Cinema
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52727
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Nile Culture
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52728
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Nile Family
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52731
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Nile Life
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52732
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Nile Family
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52734
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Nile Culture
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52735
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Nile Sport
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52736
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Alhayat 2
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52739
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Alhayat Muslsalat
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52741
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Alhayat Muslsalat
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52742
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AlNahar Drama
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52744
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Nahar Drama HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52745
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al-Nahar Nour
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52746
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ON SPORT TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52750
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ONTIME SPORTS
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52751
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ONTIME SPORTS HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52752
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ONTIME SPORTS 2
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52753
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ONTIME SPORTS 2 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52754
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ONTIME SPORTS 3 SD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52755
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ONTIME SPORTS 3 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52756
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | CBC DRAMA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52764
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | CBC eXtra
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52768
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | CBC Sofra
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52769
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | CBC  Drama
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52770
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | DMC HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52772
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Panorama Drama
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52777
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Panorama Film
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52778
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Panorama Food
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52779
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Panorama cinema
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52780
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Panorama Drama
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52782
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | PANORAMA YOM
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52784
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Panorama Food
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52786
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MIX HOLLYWOOD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52787
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Mix Bel Araby
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52788
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Misr Al Zera3eya
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52801
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ON  E
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52804
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ON  E HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52805
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Extra News HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52814
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AD Nat Geo HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52818
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | CINEMA PRO
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52820
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MIX TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52828
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Thikrayat
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52829
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Egyptian TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52831
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Masriya TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52833
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Hadath Today
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52837
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Sada El Balad
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52839
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Sada ElBalad Drama
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52840
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Star Cinema 1
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52841
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | M CLASSIC
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52852
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AL KAHERA WAL NAS
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52854
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | TeN TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52856
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ELMEHWAR TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52867
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ZILZAL CLASSIC
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52877
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ON  E HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52881
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ALARABY TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52888
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Azhari TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52889
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Thikrayat HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52891
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Watan TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52892
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Hollywood Horror
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52894
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ARABICA TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52896
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ON  Drama
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52902
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | TEBA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52904
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ALDELTA TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52905
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ALKAHERA TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52906
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Oscar_TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52907
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ALOULA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52917
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | CINEMA PRO
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52921
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Maspero Zaman
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52931
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | STAR CINEMA 1
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52937
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AlHadath Alyoum
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52945
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AL AOULA LAAYOUNE
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/51108
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",Al AOULA INT
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/51109
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",2M MONDE
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/51110
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",ARRABIAA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/51112
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AL MAGHRIBIA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/51113
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",ASSADISSA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/51114
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",TAMAZIGHT
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/51115
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",MEDI 1 MG
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/51117
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",MEDI 1 AR
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/51118
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",TELE MAROC
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/51119
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",CHADA TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/51120
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",MBC5
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/51121
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Oula Inter
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32486
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Oula Laayoune
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32490
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Arryadia
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32496
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ARRABIA HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32498
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Maghribia
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32503
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Assadissa
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32504
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Aflam 7
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32507
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Tamazight
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32509
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Medi1
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32512
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | CHADA TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32518
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - MEDI1 TV ARABIC Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56065
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - Al AOULA INTER Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56066
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - Al MAGHRIBIA Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56068
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - ARRYADIA Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56069
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - ATHAQAFIA  Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56070
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - ASSADISSA Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56071
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - TAMAZIGHT Full-HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56072
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - MEDI 1  HD | TNT  |
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56073
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - AL AOULA INT HD | TNT  |
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56074
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - LAAYOUN TV HD | TNT  |
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56075
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - 2M HD | TNT  |
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56076
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - ARRABIA HD | TNT  |
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56078
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - ASSADISA HD | TNT  |
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56080
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - Programme National Algerie HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31371
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - Canal Algerie HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31372
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - A3 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31373
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - Algerie 4 TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31374
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - Algerie 5 TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31375
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - Algerie 6 TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31376
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - Algerie 7 TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31377
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - Algerie 8 TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31378
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - Ennaha TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31382
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - El Bilad TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31384
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - El-Fajer TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31385
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR -  EL Watania HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31386
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - Bahia TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31387
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - El Najema HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31389
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - El Djazair N1 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31391
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - Berbere TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31394
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - El Haddef TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31397
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | TUNISIA NAT 1 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32368
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | TUNISIA NAT 2 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32370
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | EL HIWAR ETTOUNSI HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32371
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | EL HIWAR ETTOUNSI HD+1
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32372
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ATTESSIA TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32374
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | HANNIBAL TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32375
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | CARTHAGE+TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32376
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AL JANOUBIA HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32377
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | TELVZA TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32378
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | TUNISNA TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32379
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | BAYA TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32383
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | SAHEL TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32384
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | TUNISIE iMMOBILIER TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32385
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - Libya Sport 2
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56107
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - Libya BUSINESS TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56112
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - Libya Al Ahrar TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56114
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - Libya Febrayer
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56120
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR - Libya AL MUSTAQBALHD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/56123
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | SAUDI-SONNA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53136
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | SBC TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53137
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ALIKHBARIYA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53138
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | EKTISADIYA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53139
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | SUNNAH
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53140
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | SAUDI FAMILY
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53143
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Saudi AlHaj
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53144
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | KSA-iEN Doros 01
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53148
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | KSA-iEN Doros 03
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53150
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | KSA-iEN Doros 04
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53151
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | KSA-iEN Doros 05
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53152
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | KSA-iEN Doros 06
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53153
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | KSA-iEN Doros 07
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53154
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | KSA-iEN Doros 09
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53156
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | KSA-iEN Doros 20
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53165
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | KSA Sports 2 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53170
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | KSA Sports 3 FHD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53172
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | KSA Sports 4 FHD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53173
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | SAUDI-2 hd
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53180
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | saudi_Television
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53181
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Eqtisadiyah TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53184
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | SAUDI-THAKAFIYA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53185
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  SSC Sport 1 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54799
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  SSC Sport 5 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54803
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  SSC Sport EXTRA 1 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54804
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR |  SSC Sport EXTRA 3 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54806
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Abu Dhabi HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53085
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ALAIN 4?
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53089
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Sharjah HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53100
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Dubai Racing
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53107
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AD Sport 1 HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53110
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AJMAN TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53116
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AL JADEED
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52960
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | LBN  LBC 2
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52962
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | LbC INT
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52964
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Tele Liban
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52969
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | LBN OTV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52977
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | LBN Seventeen TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52979
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MTV Lebanon FullHD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52991
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | OTV FullHD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52992
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Sham
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52998
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AL ALAM SYRIA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52999
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | SAMA TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53002
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | SYRIA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53005
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | SAMA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53007
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Syria News
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53008
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Manbij
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53015
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Sham fm
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53018
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | ONE TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53026
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AL ALAM NEWS
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53029
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | MBC IRAQ 4?
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31985
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Iraqia Entertainment
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31989
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Iraqia Turkuman ????????
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31991
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Iraqia Sport HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/31997
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Dijlah tarab ???? ???
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32006
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AL RASHEED TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/32012
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Sumaria
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53035
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Dijlah TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53036
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Iraqi Edu HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53041
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Iraq Medical
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53043
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Iraq Al Salam TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53044
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AFAQ TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53045
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AL Ahd Iraq
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53046
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Karbala Live 1
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53064
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Turkmenia TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53067
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Babylon TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53068
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Ghadeer
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53072
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Palestine Live
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54082
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Palestine Sports
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54083
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Palestine Today
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54084
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Quds Today
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54086
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Fajer Tv 4
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54090
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Fajer Tv 5
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54091
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Shabab Tv
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54098
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Rajeen Tv
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54100
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Marah Tv
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54102
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Raya FM TV
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54103
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Nablus Tv
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/54104
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Kuwait AL ARABI HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53120
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Kuwait Sports plus HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53123
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Qurain
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53125
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | EL ETHRAA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53129
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | AL DAFRA
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/53134
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Yarmook
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52950
-#EXTINF:-1 group-title="ARBIC" tvg-logo="https://i.ibb.co/NKWrWRK/download.jpg",AR | Al Mamlaka TV HD
-http://carmeltv.live:80/EXCHANGEGEO/ZUyARFQD9n85/52956
 #EXTINF:-1 group-title="ARAB",#EXTINF:-1 group-title="ARAB"tvg-logo=" AR-MBC-1
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/316
 #EXTINF:-1 group-title="ARAB",#EXTINF:-1 group-title="ARAB"tvg-logo=" AR-MBC-2
@@ -1117,8 +181,6 @@ http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/2196
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/650
 #EXTINF:-1 group-title="ARAB",#EXTINF:-1 group-title="ARAB"tvg-logo=" MBC2 4K
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/651
-#EXTINF:-1 group-title="ARAB",#EXTINF:-1 group-title="ARAB"tvg-logo=" MBC3 4K
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/652
 #EXTINF:-1 group-title="ARAB",#EXTINF:-1 group-title="ARAB"tvg-logo=" MBC4 4K
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/653
 #EXTINF:-1 group-title="ARAB",#EXTINF:-1 group-title="ARAB"tvg-logo=" MBC 5 4K
@@ -1199,8 +261,6 @@ http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/3952
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/364
 #EXTINF:-1 group-title="ARAB",#EXTINF:-1 group-title="ARAB"tvg-logo=" EGY-Al-Masryia
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/366
-#EXTINF:-1 group-title="ARAB",#EXTINF:-1 group-title="ARAB"tvg-logo=" EGY-B4U-Aflam
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/376
 #EXTINF:-1 group-title="ARAB",#EXTINF:-1 group-title="ARAB"tvg-logo=" EGY-DMC-HD
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/392
 #EXTINF:-1 group-title="ARAB",#EXTINF:-1 group-title="ARAB"tvg-logo=" EGY-DMC
@@ -1231,8 +291,6 @@ http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/902
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/903
 #EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",SPORT | LIBYA SPORT 1
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/906
-#EXTINF:-1 group-title="BEIN" tvg-logo="https://i.ibb.co/0GVLnQm/download.png",SPORTS | BEIN GLOBAL
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/913
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Sd: Sudan Al Barlemania
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/18847
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Sd: Sudan El Mahadra
@@ -1349,8 +407,6 @@ http://media.rtvutrecht.nl/live/rtvutrecht/rtvutrecht/index.m3u8
 https://ammo-espanol-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/YAn5BJZ.png",RΙΚ Sat (CYBC S) (288p) [Not 24/7]
 https://l3.cloudskep.com/cybcsat/abr/playlist.m3u8
-#EXTINF:-1 group-title="Other",Sahar (480p)
-http://cdnlive.irib.ir/live-channels/smil:sahar3/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640",Salto ADE (1080p)
 https://live.salto.nl/hls/at5_high.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/lJpOlLv.png",San Marino RTV (720p)
@@ -1537,8 +593,6 @@ http://trk555.tv:8888/live
 http://185.210.20.13:8080/0.m3u8
 #EXTINF:-1 group-title="Other",TV 2000 (360p) [Not 24/7]
 http://cld04wz.tv2000.it/tv2000_main.m3u8
-#EXTINF:-1 group-title="Other",TV Apollon (480p)
-https://live.apollon.tv/Apollon-WEB/video.m3u8?token=tnt3u76re30d2
 #EXTINF:-1 group-title="Other",TV Birigui (320p)
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
 #EXTINF:-1 group-title="Other",TV Brusque (720p)
@@ -1623,18 +677,12 @@ http://gargoyle.tomkow.pl/hls/tvt.m3u8
 http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/xLL7Sxm.png",TVWorkNet (480p)
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-referrer=https://ssh101.com/
-https://tna5.bozztv.com/Cusco/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/UCV_3.png/revision/latest?cb=20170820170650",UCV3 TV (480p)
 http://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/cgTD2TW.png",Unicanal (720p) [Not 24/7]
 http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://uatv.cl/wp-content/uploads/2016/01/marcauatv_2.png",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
 https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
-#EXTINF:-1 group-title="Other",Varzesh (1080p)
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh/playlist.m3u8
-#EXTINF:-1 group-title="Other",VARZESH (1080p)
-http://cdn1.live.irib.ir:1935/live-channels/smil:varzesh/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/IWpevBp.jpg",VBS TV (480p) [Not 24/7]
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Other",Ve Plus (480p) [Not 24/7]
@@ -1857,10 +905,6 @@ http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
 http://l.cztvcloud.com/channels/lantian/SXshangyu2/720p.m3u8
 #EXTINF:-1 group-title="Other",东南卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225657/index.m3u8
-#EXTINF:-1 group-title="Other",东至文化资讯 (576p) [Not 24/7]
-http://223.247.33.124:1935/live/wenhua/playlist.m3u8
-#EXTINF:-1 group-title="Other",东至新闻综合 (720p) [Not 24/7]
-http://223.247.33.124:1935/live/zonghe/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://piceltaott-elta.cdn.hinet.net/upload/channel/908.png",中天新聞 (1080p) [Not 24/7]
 http://seb.sason.top/sc/ztxw_fhd.m3u8
 #EXTINF:-1 group-title="Other",云南 Ⅰ 文山综合台 (1080p) [Not 24/7]
@@ -1905,8 +949,6 @@ http://stream2.jlntv.cn/jilin1/sd/live.m3u8
 http://stream2.jlntv.cn/sptv/sd/live.m3u8
 #EXTINF:-1 group-title="Other",奇妙電視 (720p)
 http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-title="Other",孟州电视台 (1080p) [Not 24/7]
-http://live.dxhmt.cn:9081/tv/10883-1.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="http://s.wasu.cn/data/images/201512/24/567b9d7479d83.png",安徽卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225691/index.m3u8
 #EXTINF:-1 group-title="Other",宜章新闻综合 (576p)
@@ -1923,14 +965,10 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?BVUUID=C236454D-5355-2F5F-FA96-1887C72E55CE&auth=654837809071524@615@2E9A5FD0B225B012E3178551CF3754A8
 #EXTINF:-1 group-title="Other",嵊州综合 (720p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="http://www.tvyan.com/uploads/dianshi/pingxiangtai.jpg",平乡电视台 (576p)
-http://hbpx.chinashadt.com:2036/live/px1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Other",广东 ‖ 清新综合台 (1080p)
 http://hls.wiseqx.com/live/qxzh.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://parco-zh.github.io/demo/guangdong.jpg",广东卫视 (1080p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225701/index.m3u8
-#EXTINF:-1 group-title="Other",建安电视台 (1080p) [Not 24/7]
-http://live.dxhmt.cn:9081/tv/11003-1.m3u8
 #EXTINF:-1 group-title="Other",张家界1 (240p) [Not 24/7]
 http://stream.zjjrtv.com/zjjtv1/hd/live.m3u8
 #EXTINF:-1 group-title="Other",武汉外语 (576p)
@@ -2009,16 +1047,6 @@ http://stream.bzcm.net/4/sd/live.m3u8
 http://31182.hlsplay.aodianyun.com/lms_31182/tv_channel_175.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/thumb/d/d6/MASTV.png/180px-MASTV.png",澳亚卫视 [Not 24/7]
 http://live.mastvnet.com/4rlff1m/live.m3u8
-#EXTINF:-1 group-title="Other",澳视澳门 (720p) [Not 24/7]
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 group-title="Other",澳视葡文 (720p) [Not 24/7]
-http://61.244.22.4/ch2/ch2.live/chunklist_w1632175875.m3u8
-#EXTINF:-1 group-title="Other",澳门1 (720p) [Not 24/7]
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 group-title="Other",澳门2 (720p) [Not 24/7]
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 group-title="Other",澳门体育 (720p)
-http://61.244.22.4/ch4/sport_ch4.live/playelist.m3u8
 #EXTINF:-1 group-title="Other",石景山电视台 (1080p) [Not 24/7]
 http://live.sjsrm.com/bjsjs/sd/live.m3u8
 #EXTINF:-1 group-title="Other",萬州影視文藝 (576p)
@@ -2029,8 +1057,6 @@ http://119.39.242.52:1935/live/zonghe/playlist.m3u8
 http://39.135.138.59:18890/PLTV/88888910/224/3221225655/index.m3u8
 #EXTINF:-1 group-title="Other",纯享4K (2160p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225786/index.m3u8
-#EXTINF:-1 group-title="Other",罗山电视台 (1080p) [Not 24/7]
-http://live.dxhmt.cn:9081/tv/11521-1.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://ss0.baidu.com/-Po3dSag_xI4khGko9WTAnF6hhy/baike/pic/item/4034970a304e251f46b43584a786c9177f3e530f.jpg",美国中文电视 (406p) [Not 24/7]
 https://jpts.sinovision.net/livestream.m3u8
 #EXTINF:-1 group-title="Other",美国狗狗宠物 (1080p)
@@ -2103,8 +1129,6 @@ http://s2.yesstreaming.net:7044/thayagam128K
 http://s7.viastreaming.net:7920/;stream.mp3
 #EXTINF:-1 ,A9 Radio
 http://195.154.217.103:8175/;stream.mp3
-#EXTINF:-1 ,American Tamil FM
-http://69.46.24.226:7188/stream
 #EXTINF:-1 ,GTBC FM
 http://38.96.148.18:6150/;stream.mp3
 #EXTINF:-1 ,ILC Tamil FM
@@ -2519,10 +1543,6 @@ https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",TV Noticias 7.3 (768p)
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/3lxkJxb.png",TV Paraná Turismo (720p) [Not 24/7]
-http://200.189.113.201/hls/tve.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png",TV Perú Internacional (460p) [Not 24/7]
-http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://tvpocos.com.br/wp-content/uploads/2017/04/logo_branca_125.png",TV Poços (192p) [Not 24/7]
 http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc.png",TV Santa Cruz (720p) [Not 24/7]
@@ -2715,8 +1735,6 @@ http://live.ugratv.cdnvideo.ru/ugratv/smil:ugrastream1.smil/playlist.m3u8
 http://mgugaklive.nowcdn.co.kr/gugakvideo/gugakvideo.stream/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/e1/SETN_logo.png",三立新聞 (1080p) [Geo-blocked]
 http://seb.sason.top/sc/sllive_fhd.m3u8
-#EXTINF:-1 group-title="Weather",中国气象 (576p) [Not 24/7]
-http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="http://new.ctv.com.tw/Cms_Data/Sites/CTV3/Themes/default/images/logo_news.png",中視新聞 (1080p) [Geo-blocked]
 http://seb.sason.top/sc/zsxw_fhd.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://www.ttv.com.tw/news/15/images/TTV-N_logo200-min.png",台視新聞 (1080p) [Not 24/7]
@@ -2731,8 +1749,6 @@ http://www.dalitv.com.tw:4568/live/dali/index.m3u8
 http://seb.sason.top/sc/dsxw_fhd.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://img-fnc.ebc.net.tw/EbcFnc/logoes/pc_logo.png",東森財經新聞 (1080p) [Not 24/7]
 http://seb.sason.top/sc/dscjxw_fhd.m3u8
-#EXTINF:-1 group-title="Kids",炫动卡通 (540p)
-http://183.207.255.188/live/program/live/xdkt/1300000/mnf.m3u8
 #EXTINF:-1 group-title="Shop" tvg-logo="https://i.imgur.com/xliVoIt.jpg?1",耀才財經台 (576p)
 http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://cdn.hd-plus.de/senderlogos/bright-cropped/24444-2.png",1-2-3 TV (480p)
@@ -2935,10 +1951,6 @@ http://39.134.115.163:8080/PLTV/88888910/224/3221225908/index.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Other",CCTV+ 2 (600p) [Not 24/7]
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/KlJnXF3.jpg",CDM International (480p) [Not 24/7]
-https://59825a54e4454.streamlock.net:8443/marcos536/marcos536/playlist.m3u8
-#EXTINF:-1 group-title="Other",CDM TV (480p) [Not 24/7]
-http://205.164.56.130:1935/marcos536/marcos536/playlist.m3u8
 #EXTINF:-1 group-title="Other",Cekmeköy TV
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/YldMnap.jpg",Chamber TV (1080p)
@@ -3557,8 +2569,6 @@ http://livestreaming.videolina.it/live/Videolina/playlist.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/New_Japan_Pro_Wrestling_Logo_2.svg/480px-New_Japan_Pro_Wrestling_Logo_2.svg.png",New Japan Pro Wrestling World
 https://aka-amd-njpwworld-hls-enlive.akamaized.net/hls/video/njpw_en/njpw_en_channel01_3/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/DaYMzz8.jpg",Atameken Business
-https://live-atameken.cdnvideo.ru/atameken/atameken_hq.sdp/playlist.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/HLiv5Hq.jpg",Новое телевидение
 http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
 #EXTINF:-1 group-title="WORLD IPTV",Хабар 24
@@ -3583,16 +2593,6 @@ http://futuretv.cdn.mangomolo.com/futuretv/smil:futuretv.smil/master.m3u8
 http://31.10.19.12:8066/live/999/0.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/387jXC7.jpg",KOK Fights
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
-#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/0eGv67Q.png",Canal Macau
-http://live4.tdm.com.mo/ch2/_definst_/ch2.live/playlist.m3u8
-#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9b/TDM_Ou_Mun.png",澳視澳門
-http://live4.tdm.com.mo/ch1/_definst_/ch1.live/playlist.m3u8
-#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/59lAsao.png",澳門-MACAU
-http://live4.tdm.com.mo/ch3/_definst_/ch3.live/playlist.m3u8
-#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/TDM_Entertainment.png/640px-TDM_Entertainment.png",澳門綜藝
-http://live4.tdm.com.mo/ch6/_definst_/hd_ch6.live/playlist.m3u8
-#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/9/9d/TDM_Informa%C3%A7%C3%A3o.jpg",澳門資訊
-http://live4.tdm.com.mo/ch5/_definst_/info_ch5.live/playlist.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/dLzgBUj.png",Astro Awani (Backup)
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/vakdxny.jpg",Canal 10 Cancún
@@ -3685,8 +2685,6 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/2mSwwpH.png",Cultura 24 TV
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/FI1Hd4E.png",IPE
-http://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/jzAqHsz.jpg",Monterrico TV
 https://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
 #EXTINF:-1 ,NDTV 24X7 (480p)
@@ -4048,8 +3046,6 @@ https://tv.ensonhaber.com/tv/tr/360tv/index.m3u8
 #EXTINF:-1 group-title="TURKEY" tvg-logo="https://i.imgur.com/Uu1Iwqc.png",TRT 2
 http://167.114.115.233:8080/trt2fhd/index.m3u8
 #EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
-http://cdn1.live.irib.ir:1935/channel-live/smil:varzesh.smil/playlist.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
 https://dai.google.com/linear/hls/event/gaDje967RoSDD5llid2OBA/master.m3u8
 #EXTINF:-1 ,#EXTVLCOPT:network-caching=1000
 https://imgedge.akamaized.net/amagi_hls_data_imgAAA2AA-edgesports/CDN/1920x1080_5640800/index.m3u8
@@ -4095,8 +3091,6 @@ http://livestream.biznetvideo.net/biznet_adventure/smil:adventure.smil/playlist.
 http://livestream.biznetvideo.net/biznet_kids/smil:kids.smil/chunklist_w417362857_b2256000_slen_tkYml6a2V5bGl2ZXN0YXJ0dGltZT0wJmJpemtleWxpdmVlbmR0aW1lPTAmYml6a2V5bGl2ZUN1c3RvbVBhcmFtZXRlcj1teVBhcmFtZXRlciZiaXprZXlsaXZlaGFzaD1xQXJpMU0yeHVfTUFsbkh3VlJ0T3MyNGxSOFlfSFNEaWpOMkNSTmdoaWZVbGxoWXFRU0Rsa2QwcUU4Q2tad3hD.m3u8
 #EXTINF:-1 group-title="Star" tvg-logo="http://103.55.144.46/img/starhd.jpg",star-worldhd
 https://drive.google.com/uc?export=download&id=1fJ46hqkJXL-lJbYegEfuG5XLOU8aEk1b
-#EXTINF:-1 group-title="MX Live" tvg-logo="https://qqcdnpictest.mxplay.com/pic/0204.MusicIndia.in/en/1x1/208x208/test_pic1552392696883.jpg",Music India
-http://103.199.160.85/Content/musicindia/Live/Channel(MusicIndia)/Stream(02)/index.m3u8
 #EXTINF:-1 group-title="MX Live" tvg-logo="https://qqcdnpictest.mxplay.com/pic/8060.HerePlay.in/en/1x1/208x208/test_pic1623315767373.webp",Planet Out
 https://dai.google.com/linear/hls/event/inuTgprjSrOMUGDtcMb7xg/master.m3u8
 #EXTINF:-1 group-title="Online Radio",& Sangam Devi
@@ -4119,8 +3113,6 @@ http://air.pc.cdn.bitgravity.com/air/live/pbaudio044/chunklist.m3u8
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio230/chunklist.m3u8
 #EXTINF:-1 group-title="Online Radio",AIR Vividh Bharathi
 http://air.pc.cdn.bitgravity.com/air/live/pbaudio001/chunklist.m3u8
-#EXTINF:-1 group-title="Online Radio",Ananthapuri FM
-http://59.90.28.91:88/broadwavehigh.mp3
 #EXTINF:-1 group-title="Online Radio",Bollyhitsradio
 http://hoth.alonhosting.com:1100/;
 #EXTINF:-1 group-title="Online Radio",Bollywood Radio & Beyond
@@ -4297,8 +3289,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-filmrisecrime/CDN/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufiremansam/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Classic" tvg-logo="https://i.imgur.com/hV46zMX.png",Folk TV East (480p) [Not 24/7]
 https://584b0aa350b92.streamlock.net/folk-tv/myStream.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/4lnSlOZ.png",Fonte TV (1080p) [Not 24/7]
-http://flash.softhost.com.br:1935/fonte/fontetv/live.m3u8
 #EXTINF:-1 group-title="Cooking" tvg-logo="https://i.imgur.com/BVrMQch.png",Food 52 (720p)
 https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1212A-redboxfood52A/CDN/master.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/pRKEMb1.jpg",Fox 23 Tulsa OK (KOKI-TV) (720p)
@@ -4491,8 +3481,6 @@ https://ms2.mx-cd.net/dtv-09/236-2051366/Ideaal_TV.smil/playlist.m3u8
 https://live1.presstv.ir/live/ifilm2.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/ff62vtM.jpg",IGN (1080p)
 https://ign-plex.amagi.tv/hls/amagi_hls_data_ignAAAAAA-ign-plexA/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Kids" tvg-logo="https://od.lk/s/MF8yMzA3OTUzNTVf/IGN_512x512.png",IGN TV (720p)
-https://ign-sportstribal.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/G7hGk8y.png",IIPC TV (480p) [Geo-blocked]
 https://uni10rtmp.tulix.tv/iipctv/iipctv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/FPfq4O5.png",Imam Hussein TV (720p)
@@ -4711,8 +3699,6 @@ https://samuelgoldwyn-classic-roku.amagi.tv/playlist.m3u8
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/6hIfTMC.jpg",Screen Dreams (720p)
 https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/eUqnYU1.png",Sheffield Live TV (360p) [Not 24/7]
-http://tv.sheffieldlive.org/hls/main.m3u8
 #EXTINF:-1 group-title="Shop" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606f94fdf46bcb6017662744",Shop LC (1080p)
 https://cdn-shop-lc-01.akamaized.net/Content/DASH_DASH/Live/channel(ott)/master.mpd
 #EXTINF:-1 group-title="General" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/ShoutFactoryTV_300x300.png?raw=true",Shout! Factory TV (1080p)
@@ -4757,8 +3743,6 @@ http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5642
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5643
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",GO l MOVIES 2
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5644
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TREND MEDIA
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5648
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TREND SPORT
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/5651
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SE: C More Hits HD
@@ -4827,14 +3811,10 @@ http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/19708
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/19709
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SE: TV12
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/19710
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SE: Viasat Fotboll HD
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/19713
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SE: Viasat Sport
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/19715
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MBC 2 4K (HEVC)
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10227
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MBC 3 4K (HEVC)
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10228
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MBC 5 4K (HEVC)
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/10230
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MBC BOLLYWOOD  4K (HEVC)
@@ -4893,8 +3873,6 @@ http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/18222
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/18831
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AD SPORT Premium 2
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/18832
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UEFA | SPORT TV +
-http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/19169
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UEFA | SPORT TV 1
 http://darkteam.vip:25461/testar12op2o1/85445hfhjowqRtgv788/19172
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UEFA | SPORT TV 2 HD
@@ -5029,8 +4007,6 @@ http://brics.bonus-tv.ru/cdn/brics/russian/tracks-v1a1/mono.m3u8
 http://origin5.mediacdn.ru/live/brics/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",TV BRICS HD (English)
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",TV ???? (??????-??????)
-http://141.101.205.134:8080/hls/tvaist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",TV ???????? (???????)
 https://s68149.cdn.ngenix.net/s68149-media-origin/lvs/tvgub/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",TVM Channel
@@ -5721,8 +4697,6 @@ http://live-1.otcnet.ru/habar24/index.m3u8
 https://stream.tck.tv/hd.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ??
 https://mhd122.iptv2022.com/ntrk/chavashen/324/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????????? ??
-http://178.170.233.3:8889/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ??
 http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? ??
