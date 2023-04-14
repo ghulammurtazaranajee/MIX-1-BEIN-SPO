@@ -1,6 +1,362 @@
 #EXTM3U
 
 
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/eurosport1.gif",Eurosport 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/66.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/eurosport2.gif",Eurosport 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/67.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklubhd.gif",Sport Klub HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/34330.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hd.gif",Sport Klub 1 HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/39321.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hd.gif",Sport Klub 2 HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/62.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3hd.gif",Sport Klub 3 HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/64.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hdhr.gif",Sport Klub 1 HR HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/39318.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hdhr.gif",Sport Klub 2 HR HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/33.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3hdhr.gif",Sport Klub 3 HR HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/34.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub1hdslo.gif",Sport Klub 1 SL HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/29776.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub2hdslo.gif",Sport Klub 2 SL HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/29777.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub3slohd.gif",Sport Klub 3 SL HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/29779.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub4.gif",Sport Klub 4
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/205.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub5.gif",Sport Klub 5
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/1202.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportklub6.gif",Sport Klub 6
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/1626.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk7.gif",Sport Klub 7
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69870.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk8.gif",Sport Klub 8
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69871.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk9.gif",Sport Klub 9
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69872.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/sk10.gif",Sport Klub 10
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69873.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif",Arena Premium 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/39440.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium2.gif",Arena Premium 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/39441.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium3.gif",Arena Premium 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/39439.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif",Arena Premium 1 BiH
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/67283.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium2.gif",Arena Premium 2 BiH
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/67284.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium3.gif",Arena Premium 3 BiH
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/67285.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenapremium1.gif",Arena Premium 1 SL
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/62594.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport1hdbih.gif",Arena Sport 1 HD BiH
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/128.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport1hd.gif",Arena Sport 1 HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/28.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2hd.gif",Arena Sport 2 HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/29.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3hd.gif",Arena Sport 3 HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/30.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport4hd.gif",Arena Sport 4 HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/31.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/aenasport1hrhd.gif",Arena Sport 1 HR HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/27.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2hdhr.gif",Arena Sport 2 HR HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/192.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3hdhr.gif",Arena Sport 3 HR HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/193.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd4.gif",Arena Sport 4 HR HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/194.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd5.gif",Arena Sport 5 HR HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/645.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthdhr6.gif",Arena Sport 6 HR HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/37928.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport7hrhd.gif",Arena Sport 7 HR HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/35185.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport8hrhd.gif",Arena Sport 8 HR HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/35186.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport9hrhd.gif",Arena Sport 9 HR HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/35187.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport10hrhd.gif",Arena Sport 10 HR HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/35188.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport1.gif",Arena Sport 1 SL
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/62590.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport2.gif",Arena Sport 2 SL
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/62591.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport3.gif",Arena Sport 3 SL
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/62592.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://repo.ottshow.net/pikoni/sport/arenasport4.gif",Arena Sport 4 SL
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/62593.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/Arena%20ESport.gif",Arena ESport
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/36410.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://repo.ottshow.net/pikoni/sport/arena1x2.gif",Arena Sport 1x2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/66260.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport1.gif",Arena Sport 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/25973.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport2.gif",Arena Sport 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/1043.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport3.gif",Arena Sport 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/1044.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasport4.gif",Arena Sport 4
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/1045.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthrhd5.gif",Arena Sport 5
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/66258.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenasporthdhr6.gif",Arena Sport 6
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/66259.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/Sport1slo.gif",Sport SLO 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/206.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/spotslo2.gif",Sport SLO 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/207.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/sportslo3.gif",Sport SLO 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/208.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport.gif",MAXSport 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/2496.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://repo.ottshow.net/pikoni/ikone/maxsport2.gif",Max Sport 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/61224.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/novasporthd.gif",Nova Sport HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/25463.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/citytv.gif",City TV
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/29606.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/sptv.gif",SPTV
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/12622.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/sostv.gif",SOS Kanal
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/204.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/zvezda-tv.gif",Zvezda Tv
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69875.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport/partizan-tv.gif",Tv Partizan
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69874.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/skgolf.gif",Sport Klub Golf
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/68481.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/skfight.gif",Sport Klub Fight
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/68480.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="http://repo.ottshow.net/pikoni/sport/arenafight.gif",Arena Fight
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/30491.ts
+#EXTINF:-1 group-title="Sport" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/fightnettwork.gif",Fight Network
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/61.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/eurosport1de.gif",Eurosport 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/3420.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/eurosport2de.gif",Eurosport 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/4096.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/dazn1.gif",DAZN 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/25971.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/dazn2.gif",DAZN 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/12615.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/skysportnews.gif",Sky Sport News
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/1184.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/sportde/topevent.gif",Sky Sport Top Event
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/147.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/sportde/skysporttennis.gif",Sky Sport Tenis
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/149.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/sportde/skysportmix.gif",Sky Sport Mix
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/25998.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/skysportf1.gif",Sky Sport F 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/33079.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/sportde/desport-golf.gif",Sky Sport Golf
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/23476.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/sportde/skysportpremierlige.gif",Sky Sport Premier League
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/23475.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/sportde/skysp%c5%a1ortmechtime.gif",Sky Sport- (MATCH TIME)
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/23474.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/skybundesliga1.gif",Sky Sport Bundesliga 1 HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/1164.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/sportde/skybundesliga2.gif",Sky Sport Bundesliga 2 HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/61587.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/skybundesliga1.gif",Sky Sport Bundesliga 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/38539.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/sportde/skybundesliga2.gif",Sky Sport Bundesliga 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/25996.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/skybundesliga3.gif",Sky Sport Bundesliga 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/1166.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/skybundesliga4.gif",Sky Sport Bundesliga 4
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/1167.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/skybundesliga5.gif",Sky Sport Bundesliga 5
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/1168.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/skybundesliga6.gif",Sky Sport Bundesliga 6
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/1169.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/skysportaustria1.gif",Sky Sport Austria 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/1119.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/skysportaustria2.gif",Sky Sport Austria 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/30224.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/skysportaustria3.gif",Sky  Sport Austria 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/30225.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/skysportaustria4.gif",Sky Sport Austria 4
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/30226.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/mt/sport-austria-5.gif",Sky Sport Austria 5
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/61307.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/mt/sport-austria-6.gif",Sky Sport Austria 6
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/61308.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/motorvisiontv.gif",Motorvision TV
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/2876.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/automotorsporttv.gif",Auto Motor TV
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/4281.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/teleclubzoomch.gif",Blue Zoom
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/32061.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sport/teleclubzoomsport1.gif",Blue Sport 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/32062.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/teleclubsport2.gif",Blue Sport 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/45123.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/sport1de.gif",Sport 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/4103.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/sportdigital.gif",Sportdigital
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/40970.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="http://repo.ottshow.net/pikoni/sportde/ofrsport.gif",ORF Sport+
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/2875.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/magentasport.gif",Magenta Sport
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/68313.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/magentasportinfo.gif",Magenta Sport Info
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/68314.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/magentasport1.gif",Magenta Sport 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/68315.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/magentasport2.gif",Magenta Sport 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/68316.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/magentasport3.gif",Magenta Sport 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/68317.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/magentasport4.gif",Magenta Sport 4
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/68318.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/magentasport5.gif",Magenta Sport 5
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/68319.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/magentasport6.gif",Magenta Sport 6
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/68320.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/magentasport7.gif",Magenta Sport 7
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/68322.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/zadnji%20update/magentasport8.gif",Magenta Sport 8
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/68323.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport%20de/rtl+1.gif",RTL+ 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69342.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport%20de/rtl+2.gif",RTL+ 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69343.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport%20de/rtl3gif.gif",RTL+ 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69344.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport%20de/rtl+4.gif",RTL+ 4
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69345.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport%20de/rtl+5.gif",RTL+ 5
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69346.ts
+#EXTINF:-1 group-title="Sport De" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport%20de/rtl+6.gif",RTL+ 6
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69347.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd1plus.gif",BeIN Sports HD 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/12644.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd2plus.gif",BeIN Sports HD 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/12645.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd3plus.gif",BeIN Sports HD 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/12646.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd4plus.gif",BeIN Sports HD 4
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/12647.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd5.gif",BeIN Sports HD 5
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/12648.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd6.gif",BeIN Sports HD 6
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/12649.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/beinsportshd7.gif",BeIN Sports HD 7
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/12650.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/Bein%20Sports%20Premium%201.gif",Bein Sports Premium 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/36407.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/Bein%20Sports%20Premium%202.gif",Bein Sports Premium 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/36408.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/Bein%20Sports%20Premium%203.gif",Bein Sports Premium 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/36409.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport1.gif",Supersport 1 HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/29739.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport2.gif",Supersport 2 HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/29740.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport3.gif",Supersport 3 HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/29741.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport4.gif",Supersport 4 HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/29742.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supersport5.gif",Supersport 5 HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/29743.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport1.gif",Digi Sport 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/39886.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport2.gif",Digi Sport 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/39887.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport3.gif",Digi Sport 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/39888.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/digisport4.gif",Digi Sport 4
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/39889.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/orangesport1.gif",Orange Sport 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69800.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/orangesport2.gif",Orange Sport 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69802.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/orangesport3.gif",Orange Sport 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69803.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/orangesport4.gif",Orange Sport 4
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69804.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/ligtv1tr.gif",LIG TV 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/39895.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/ligtv2tr.gif",LIG TV 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/39896.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/ligtv3tr.gif",LIG TV 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/39897.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/ligtv4tr.gif",LIG TV 4
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/39898.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/Poland/elevensport1.gif",Eleven Sports 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/67766.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/Poland/elevensport2.gif",Eleven Sports 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/67767.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/Poland/elevensport3.gif",Eleven Sports 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/67768.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/Poland/polsatsport.gif",Polsat Sport
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/67770.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/Poland/polsatsportpremium1.gif",Polsat Sport Premium 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/67771.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/Poland/polsatsportpremium2.gif",Polsat Sport Premium 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/67772.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/Poland/canal+sport2.gif",CANAL+ SPORT 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/67773.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/Poland/canal+sport3.gif",CANAL+ SPORT 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/67774.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/tv2sport.gif",TV2 Sport
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69797.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/tv2sportextra.gif",TV2 Sport X
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69798.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/ukon34/sportplus/tv3-spoert.gif",TV3 Sport
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/68705.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/svedska/cmorelive1.gif",C More Live 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/4444.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/svedska/cmorelive2.gif",C More Live 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/4445.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/svedska/cmorelive3.gif",C More Live 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/4446.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/svedska/cmorelive4.gif",C More Live 4
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/4447.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://web.izipizi1.info/pi/f.png",C More Fotboll
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/40569.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/espn1.gif",ESPN 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/25466.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/espn2.gif",ESPN 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/25465.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/espn3.gif",ESPN 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/25464.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/btsport1.gif",BT S 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/39632.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/btsport2.gif",BT S 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/39633.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/btsport3.gif",BT S 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/39634.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/sporttv1.gif",Sport TV 1
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69683.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/sporttv2.gif",Sport TV 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69684.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/sporttv3.gif",Sport TV 3
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69685.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/sporttv4.gif",Sport TV 4
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69686.ts
+#EXTINF:-1 group-title="Sport Plus",Sport TV 5
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69687.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/elevensports1pt.gif",Eleven Sports 1 PT
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69688.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/elevensports2.gif",Eleven Sports 2 PT
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69689.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/poljednji/sport+/elevensports3.gif",Eleven Sports 3 PT
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/69690.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/supertenis.gif",Super Tennis HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/2754.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="http://repo.ottshow.net/pikoni/sportplus/sportplusnba.gif",NBA TV HD
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/24722.ts
+#EXTINF:-1 group-title="Sport Plus" tvg-logo="https://repo.ottshow.net/pikoni/sportplus/itv-2.gif",ITV 2
+http://ottshow.net:80/live/ZagaOber2021/Oberkochen2021/67282.ts
 #EXTINF:-1 group-title="NASIONAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/TVRILogo2019.svg/1280px-TVRILogo2019.svg.png",TVRI
 http://118.97.50.107/Content/HLS/Live/Channel(TVRINASIONAL)/Stream(04)/index.m3u8
 #EXTINF:-1 group-title="LOKAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a9/Logo_BBS_TV_2018.png",BBS TV
@@ -75,8 +431,6 @@ https://ms2.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/playlist.m3u8
 #EXTINF:-1 group-title="Other",RTV Herceg-Bosne
 https://prd-hometv-live-open.spectar.tv/ERO_1_083/576p/chunklist.m3u8
-#EXTINF:-1 group-title="Other",RTV NOF 2 (720p) [Not 24/7]
-http://593aed234297b.streamlock.net:1935/rtvnof2/live/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://live-delta.ottnow.stoneroos.com/image/logo/tv.delta.nl/assets/graphics/thumbnails/channel/delta/slingelandtv.svg",RTV Slingeland (1080p)
 https://ms7.mx-cd.net/dtv-10/105-475831/RTV_Slingeland.smil/playlist.m3u8
 #EXTINF:-1 group-title="Other",rtvutrecht (1080p)
@@ -103,12 +457,6 @@ http://stream.sferatv.pl:1935/sferalive/smil:sferalive.smil/playlist.m3u8
 http://190.122.104.221/Player/sitv.m3u8
 #EXTINF:-1 group-title="Other",Skrypin.ua (1080p) [Not 24/7]
 https://open-cdn.lanet.tv/live/1008.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://media.info/i/lf/300/1514269404/6402.png",Sky Racing 1 (720p)
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://media.info/i/lf/300/1514269377/6411.png",Sky Racing 2 (180p)
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.mjh.nz/.images/tv.skyrtc.png",Sky Thoroughbred Central (720p)
-https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/stcsd.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://www.starnet.cz/tv/slagr2.png",Šlágr 2 (576p)
 http://92.62.234.233/slagr2.m3u
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/DOOVBu5.png",Smile TV (360p) [Geo-blocked]
@@ -163,8 +511,6 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 http://uk4.streamingpulse.com:1935/SuperJtv/SuperJtv/playlist.m3u8
 #EXTINF:-1 group-title="Other",Super TV (720p)
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
-#EXTINF:-1 group-title="Other",Super TV Media
-https://mirtv.club/live/mirtv/index.m3u8
 #EXTINF:-1 group-title="Other",SuperSix Lombardia (720p)
 https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlist.m3u8
 #EXTINF:-1 group-title="Other",SuperTV (1080p) [Not 24/7]
@@ -203,8 +549,6 @@ http://cm.hostlagarto.com:8081/Telecibao/Telecibao/playlist.m3u8
 http://wms.shared.streamshow.it/telefoggia/mp4:telefoggia/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="http://beyondprod.it/images/telefriuli_positivo.jpg",Telefriuli (720p) [Not 24/7]
 https://streamtechglobal.akamaized.net/hls/live/2024685/telefriuli/Group01/playlist.m3u8
-#EXTINF:-1 group-title="Other",TeleGenova (404p) [Not 24/7]
-https://5db313b643fd8.streamlock.net/Telegenova/Telegenova/playlist.m3u8
 #EXTINF:-1 group-title="Other",TeleGilena (360p) [Not 24/7]
 https://5940924978228.streamlock.net/Directo1/Directo1/master.m3u8
 #EXTINF:-1 group-title="Other",Teleimpacto (720p) [Not 24/7]
@@ -257,8 +601,6 @@ http://1.245.74.5:1935/live/tv/.m3u8
 https://cdn-shop-lc-01.akamaized.net/Content/HLS_HLS/Live/channel(TJCOTT)/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://images.pluto.tv/channels/60d356a534f63f000850cdd7/colorLogoPNG.png",Top Gear (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d356a534f63f000850cdd7/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
-#EXTINF:-1 group-title="Other",Trece Paraguay (720p) [Not 24/7]
-http://174.138.118.252/live/trece.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Trece.svg/320px-Trece.svg.png",Trece TV (576p)
 https://live-edge-bhs-1.cdn.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/playlist.m3u8
 #EXTINF:-1 group-title="Other",TRK 555 (720p)
@@ -269,8 +611,6 @@ http://185.210.20.13:8080/0.m3u8
 http://cld04wz.tv2000.it/tv2000_main.m3u8
 #EXTINF:-1 group-title="Other",TV Birigui (320p)
 https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
-#EXTINF:-1 group-title="Other",TV Brusque (720p)
-https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://image.winudf.com/v2/image1/dHYuY29zdGEzX2ljb25fMTU3MTA1MDcwOV8wODA/icon.png?w=170&fakeurl=1",TV Costa (720p) [Not 24/7]
 http://cdn.streamingmedia.cl:1935/live/canalcosta/playlist.m3u8
 #EXTINF:-1 group-title="Other",TV Destak (360p)
@@ -291,8 +631,6 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
 https://media1.tvnatura.cz/live_out/1/live.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/k4IK5OS.png",TV Nové Zámky (486p)
 http://s1.media-planet.sk/live/novezamky/lihattv.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://www.radiopop.cl/wp-content/uploads/2019/01/logo_pop_001.png",TV Pop (720p)
-https://v4.tustreaming.cl/poptv/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/l8tRJVW.jpg",TV Regionalna (Lubin) (576p) [Not 24/7]
 https://tvreg.klemit.net/regionalna/stream/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/TV_Sud_Est_%282017%29.png",TV SE (576p) [Not 24/7]
@@ -339,8 +677,6 @@ http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
 http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/6T7w975.png",TVPlus Suceava (576p)
 http://85.186.146.34:8080
-#EXTINF:-1 group-title="Other" tvg-logo="https://elfiltrador.com/wp-content/uploads/2019/03/53311917_1258469654318918_8926059123426983936_n.png",TVR (180p) [Not 24/7]
-https://unlimited1-us.dps.live/tvr/tvr.smil/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/PFqmmSp/TVSat-RO.png",TVSat (576p) [Not 24/7]
 http://89.38.8.130:39443
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/zhzVpgf.jpg",TVT Zgorzelec (576p) [Not 24/7]
@@ -351,8 +687,6 @@ http://136.243.3.70:1935/TvUniversitaria/TvUniversitaria/playlist.m3u8
 http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f6/UCV_3.png/revision/latest?cb=20170820170650",UCV3 TV (480p)
 http://unlimited6-cl.dps.live/ucvtv2/ucvtv2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/cgTD2TW.png",Unicanal (720p) [Not 24/7]
-http://45.55.127.106/live/unicanal.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://uatv.cl/wp-content/uploads/2016/01/marcauatv_2.png",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
 https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/IWpevBp.jpg",VBS TV (480p) [Not 24/7]
@@ -373,8 +707,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.
 https://secure3.todostreaming.es/live/visionseis-livestream.m3u8
 #EXTINF:-1 group-title="Other",Visual Radio (576p) [Not 24/7]
 http://wms.shared.streamshow.it:1935/visualradio/visualradio/live.m3u8
-#EXTINF:-1 group-title="Other",Vocea Basarabiei TV (406p) [Not 24/7]
-http://hls.voceabasarabiei.md/hls/vocea_basarabiei.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/Rb2ff23/VPTV-RO.png",VP TV (576p) [Not 24/7]
 http://89.38.8.130:39437
 #EXTINF:-1 group-title="Other",VTV (1080p)
@@ -389,8 +721,6 @@ https://stream.polar.cz/vctv/vctvlive-1/playlist.m3u8
 https://ms01.w24.at/W24/smil:liveevent.smil/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/LogoforFreeviewWebsite.png",Wairarapa TV (1080p) [Not 24/7]
 https://stream.wairarapatv.co.nz/Broadband_High/playlist.m3u8
-#EXTINF:-1 group-title="Other",WATAN-E-MAA
-https://5caf24a595d94.streamlock.net:1937/8132/8132/playlist.m3u8
 #EXTINF:-1 group-title="Other",Watar TV (720p) [Not 24/7]
 http://htvint.mada.ps:8889/orient/index.m3u8
 #EXTINF:-1 group-title="Other",Wattan TV (720p) [Not 24/7]
@@ -627,8 +957,6 @@ http://hnyz.chinashadt.com:2036/live/stream:tv1.stream/playlist.m3u8
 http://live.ahsz.tv/video/s10001-szzh/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="http://www.66zhibo.net/d/file/2018/0711/f91966206d646e5cc94ca9e597b855ec.jpg",宿州科教 (1080p) [Not 24/7]
 http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
-#EXTINF:-1 group-title="Other",山西 Ⅰ 朔州新闻台 (10p) [Not 24/7]
-http://stream.sxsztv.com/live4/sd/live.m3u8
 #EXTINF:-1 group-title="Other",山西卫视 (576p)
 http://39.134.115.163:8080/PLTV/88888910/224/3221225730/index.m3u8
 #EXTINF:-1 group-title="Other",岳阳公共 (576p)
@@ -799,8 +1127,6 @@ http://37.187.79.93:9350/stream
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8?HD
 #EXTINF:-1 ,92 News
 http://92news.vdn.dstreamone.net/92newshd/92hd/playlist.m3u8
-#EXTINF:-1 ,Subrang TV (USA)
-http://cdn61.liveonlineservices.com/hls/subrang.m3u8?fluxustv.m3u8
 #EXTINF:-1 ,DD Sports
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 ,MUX SPORTS
@@ -815,8 +1141,6 @@ https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m
 http://cdn.samtv.ca/ptv24/index.m3u8
 #EXTINF:-1 ,France 24 Arabic (576p)
 https://static.france24.com/live/F24_AR_LO_HLS/live_web.m3u8
-#EXTINF:-1 ,Musawah TV
-http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
 #EXTINF:-1 ,Wattan TV (720p)
 http://htvmada.mada.ps:8888/wattan/index.m3u8?v=86757236
 #EXTINF:-1 ,Wattan TV
@@ -1085,8 +1409,6 @@ https://dai.google.com/linear/hls/event/YF2jfXh_QROPxoHEwp1Abw/master.m3u8
 https://dai.google.com/linear/hls/event/0DG8p66IRES7ZzEe1WJS-w/master.m3u8
 #EXTINF:-1 group-title="News",Suhail TV (576p)
 http://82.212.74.98:8000/live/hls/7726.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://graph.facebook.com/sumac2021/picture?width=320&height=320",Sumac TV (Lima) (480p) [Not 24/7]
-https://vps1.lnx.pe/sumactv-web/envivo/index.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/FaQQdzz.png",Taevas TV7 (720p)
 https://vod.tv7.fi/tv7-ee/smil:tv7-ee.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/pIYSEUN.jpg",Taivas TV7 (720p)
@@ -1131,8 +1453,6 @@ https://dai.google.com/linear/hls/event/OYH9J7rZSK2fabKXWAYcfA/master.m3u8
 http://daruttarbiyah.srfms.com:1935/daruttarbiyah/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/eXBQfaP.png",The Love Destination (720p)
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=43
-#EXTINF:-1 group-title="Religious" tvg-logo="https://channels.roku.com/images/be4667a16b1e483b8c7746156192b5ba-hd.jpg",The Now Network (480p) [Not 24/7]
-https://link.frontlayer.com/services/hls2/fl619843/index.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://a.thumbs.redditmedia.com/IoXfiVbzWSKlacdkf05KQbNa_4xeavHDe0QWbbgCMe8.jpg",The Ohio Channel (WOSU-DT3) (720p)
 https://5ebe6889de541.streamlock.net/live/stream_10/playlist.m3u8
 #EXTINF:-1 group-title="Comedy" tvg-logo="https://images.pluto.tv/channels/5f515ebac01c0f00080e8439/colorLogoPNG.png",The Pet Collective (720p)
@@ -1179,8 +1499,6 @@ https://brics.bonus-tv.ru/cdn/brics/chinese/playlist.m3u8
 https://brics.bonus-tv.ru/cdn/brics/portuguese/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/vLpm8tN.png",TV BRICS Russian (1080p)
 https://brics.bonus-tv.ru/cdn/brics/russian/playlist.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/mbw27tW.png",TV Cidade Canal 9 (720p) [Not 24/7]
-https://59f1cbe63db89.streamlock.net:1443/tvcidade/tvcidade/playlist.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/jaaGxnd.png",TV Cidade de Petrópolis (1080p) [Not 24/7]
 https://video01.kshost.com.br:4443/inside2133/inside2133/playlist.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/dUH5Mfw.jpg",TV Creta (540p) [Not 24/7]
@@ -1197,8 +1515,6 @@ https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 https://cdn-fundacao-2110.ciclano.io:1443/fundacao-2110/fundacao-2110/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://yt3.ggpht.com/-TT4fesr5OEU/AAAAAAAAAAI/AAAAAAAAAAA/bcrXYkOAjdA/s900-c-k-no-mo-rj-c0xffffff/photo.jpg",TV Noticias 7.3 (768p)
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://tvpocos.com.br/wp-content/uploads/2017/04/logo_branca_125.png",TV Poços (192p) [Not 24/7]
-http://rtmp.cdn.upx.net.br/00084/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://www.tvsantacruzcr.net/img/logotvsc.png",TV Santa Cruz (720p) [Not 24/7]
 https://rtmp.info/tvsantacruz/envivo/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://poster.starhubgo.com/Linear_channels2/808_1920x1080_HTV.png",TVBS新聞 [Geo-blocked]
@@ -1423,8 +1739,6 @@ http://africatv.live.net.sa:1935/live/africatv/playlist.m3u8
 http://africatv.live.net.sa:1935/live/africatv2/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="http://www.africagroup.tv/img/logo-h-tv3.png",Africa TV3 (720p) [Not 24/7]
 http://africatv.live.net.sa:1935/live/africatv3/playlist.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/gRvEH4v.png",AlbUK TV (1080p) [Not 24/7]
-http://albuk.dyndns.tv:1935/albuk/albuk.stream/playlist.m3u8
 #EXTINF:-1 group-title="Other",Alert (576p) [Not 24/7]
 https://itv.streams.ovh/ALEERT/ALEERT/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/eTmHk4e.png",Alex Berlin (1080p) [Not 24/7]
@@ -1599,8 +1913,6 @@ https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL1.smil/playlist.m3u8
 https://cd-live-stream.news.cctvplus.com/live/smil:CHANNEL2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Other",Cekmeköy TV
 https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv_1080p/playlist.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/YldMnap.jpg",Chamber TV (1080p)
-https://media02.webtvlive.eu/chd-edge/smil:chamber_tv_hd.smil/playlist.m3u8
 #EXTINF:-1 group-title="Other",Channel 44 (480p)
 https://d1k6kax80wecy5.cloudfront.net/WFqZJc/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://yt3.ggpht.com/a/AGF-l79S5nkYhOxf6MqoTzBLUEnrDQRl6hGgy01i0g=s900-c-k-c0xffffffff-no-rj-mo",Cinevision Canal 19 (720p)
@@ -1621,16 +1933,12 @@ http://wowza5.video-streams.nl:1935/denhaag/denhaag/playlist.m3u8
 https://video.streams.ovh:1936/DiavataTV/DiavataTV/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/9dQuwCc.jpg",Die Neue Zeit (576p)
 https://www.onairport.live/die-neue-zeit-tv-live/livestream/playlist.m3u8
-#EXTINF:-1 group-title="Other",Digital Vision (720p) [Not 24/7]
-https://ss3.domint.net:3120/dv6_str/digitalvision/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://images.pluto.tv/channels/60d3574e97f10800078455de/colorLogoPNG.png",Doctor Who (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60d3574e97f10800078455de/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Other",Đồng Nai 1 (360p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV1.smil/playlist.m3u8
 #EXTINF:-1 group-title="Other",Đồng Nai 2 (576p) [Not 24/7]
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://www.dukhnivaran.ca/wp-content/uploads/2019/01/dukhnivaran_logo1-1.png",Dukh Nivaran (720p) [Not 24/7]
-http://cdn12.henico.net:8080/live/dncal/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://global.ebs.co.kr/global/img/sub/Channels_ebs1.png",EBS 1 (400p)
 http://ebsonair.ebs.co.kr/ebs1familypc/familypc1m/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/7K7zmoE.png",EBS 2 (400p)
@@ -2073,8 +2381,6 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/Stream(01)/index.m
 http://118.97.50.107/Content/HLS/Live/Channel(TVRIYOGYAKARTA)/index.m3u8
 #EXTINF:-1 group-title="WORLD ENTERTAINMENT" tvg-logo="https://i.imgur.com/E4l3jm1.png",ERT World
 http://ert-live-bcbs15228.siliconweb.com/media/ert_world/ert_worldmedium.m3u8
-#EXTINF:-1 group-title="WORLD ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_Pro_TV_Interna%C8%9Bional_%282017%29.svg/1200px-Logo_Pro_TV_Interna%C8%9Bional_%282017%29.svg.png",Pro TV International
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7055/index.m3u8
 #EXTINF:-1 group-title="WORLD ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/ro/thumb/d/d9/TVRiLogo.svg/1920px-TVRiLogo.svg.png",TVRi
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7000/index.m3u8
 #EXTINF:-1 group-title="WORLD ENTERTAINMENT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f7/TVP_Polonia_new_logo.png",TVP Polonia
@@ -2083,14 +2389,10 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7282/index.m3u8
 http://iptv.prosto.tv:7000/ch128/video.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/9Xn7ZEZ.jpg",Alcarria TV (576p)
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/snIU1UA.jpg",AMX Noticias (720p) [Not 24/7]
-https://5e50264bd6766.streamlock.net/mexiquense2/videomexiquense2/playlist.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://s3-us-west-1.amazonaws.com/canal10/photos/96800/original.jpg",Canal 10 Cancún (720p) [Not 24/7]
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/A1xzjOI.png",DW Español (1080p)
 https://dwamdstream104.akamaized.net/hls/live/2015530/dwstream104/index.m3u8
-#EXTINF:-1 group-title="Auto" tvg-logo="https://i.imgur.com/cd0hP5e.png",El Garage TV (480p) [Not 24/7]
-http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://en.wikipedia.org/wiki/File:HispanTv_logo.svg",HispanTV (480p)
 https://live1.presstv.ir/live/hispan.m3u8
 #EXTINF:-1  tvg-logo="https://i.imgur.com/N4meE8I.png",Jalisco TV (1080p)
@@ -2231,8 +2533,6 @@ https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/master.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/vakdxny.jpg",Canal 10 Cancún
 http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8?GrupoTopIptv
-#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/39qL2Ht.png",Noroc TV
-http://live.noroc.tv/hls/noroctv_chisinau.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/Hquii9k.jpg",Publika TV
 https://livebeta.publika.md/LIVE/P/1000.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/Hquii9k.jpg",Publika TV
@@ -2294,8 +2594,6 @@ https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/5m3d7cP.jpg",RTV Maastricht
 http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/xC9hOVK.png",RTV Noordoost Friesland
-http://cdn15.streampartner.nl:1935/rtvnof2/live/playlist.m3u8
-#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/xC9hOVK.png",RTV Noordoost Friesland
 https://593aed234297b.streamlock.net/rtvnof/rtvnof/playlist.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/bpqkkX7.jpg",TV Valkenburg
 https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
@@ -2303,8 +2601,6 @@ https://livestream.tvvalkenburg.tv/hls/tv-valkenburg/tv-valkenburg.m3u8
 https://ms7.mx-cd.net/tv/109-573495/MLA.smil/playlist.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://www.freeviewnz.tv/nonumbracoimages/ChannelsOpg/freeview-channel-logos-38.png",Māori Television
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master.m3u8
-#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/SzaGz3D.jpg",92 News UK
-https://securecontributions.sechls01.visionip.tv/live/securecontributions-securecontributions-92_news-hsslive-25f-16x9-SD/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/RtHeRwp.png",Zindagi TV
 https://5ad386ff92705.streamlock.net/live_transcoder/ngrp:zindagitv.stream_all/chunklist.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/7hP4nps.png",BHtv
@@ -2319,30 +2615,16 @@ http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
 http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8?iptvgratis?chile.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/2mSwwpH.png",Cultura 24 TV
 https://vs8.live.opencaster.com/cultura24/smil:cultura24/playlist.m3u8
-#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/jzAqHsz.jpg",Monterrico TV
-https://vs8.live.opencaster.com/20100152275/jcpstream/playlist.m3u8
-#EXTINF:-1 ,NDTV 24X7 (480p)
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/master.m3u8
-#EXTINF:-1 ,Ndtv India
-https://ndtvindiaelemarchana.akamaized.net/hls/live/2003679/ndtvindia/masterp_480p@3.m3u8
-#EXTINF:-1 ,NDTV 24x7
-https://ndtv24x7elemarchana.akamaized.net/hls/live/2003678/ndtv24x7/masterp_480p@3.m3u8
 #EXTINF:-1 ,ABP Asmita (720p)
 https://abp-i.akamaihd.net/hls/live/765532/abpasmita/master.m3u8
 #EXTINF:-1 ,ABP Majha (720p)
 https://abp-i.akamaihd.net/hls/live/765531/abpmajha/master.m3u8
 #EXTINF:-1 ,Ekusey TV
 http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
-#EXTINF:-1 ,GurSikh Sabha TV
-http://cdn12.henico.net:8080/live/gsctv/index.m3u8
-#EXTINF:-1 ,FASTWAY NEWS (720p)
-http://163.47.214.155:1935/fwnews/live/playlist.m3u8
 #EXTINF:-1 ,DD Sports (576p)
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/index.m3u8
 #EXTINF:-1 ,ABP Ananda (720p)
 https://abp-i.akamaihd.net/hls/live/765530/abpananda/master.m3u8
-#EXTINF:-1 ,Boogle Bollywood (400p)
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1 ,Jeevan TV (576p)
 http://103.199.161.254/Content/jeevan/Live/Channel(Jeevan)/index.m3u8
 #EXTINF:-1 ,NDTV India
@@ -2487,8 +2769,6 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7061/index.m3u8
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2531/index.m3u8
 #EXTINF:-1 group-title="PORTUGUESE SPORTS" tvg-logo="https://i.imgur.com/MomX4fY.png",Eleven Sports 2
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2532/index.m3u8
-#EXTINF:-1 group-title="PORTUGUESE SPORTS" tvg-logo="https://i.imgur.com/xs4DM6q.png",Eleven Sports 3
-http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2533/index.m3u8
 #EXTINF:-1 group-title="PORTUGUESE SPORTS" tvg-logo="https://i.imgur.com/uwcqzPm.png",Eleven Sports 5
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/2535/index.m3u8
 #EXTINF:-1 group-title="PORTUGUESE SPORTS" tvg-logo="https://i.imgur.com/YweD3ZH.png",Eleven Sports 6
@@ -2573,8 +2853,6 @@ http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7319/index.m3u8
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7320/index.m3u8
 #EXTINF:-1 group-title="AUSTRALIA" tvg-logo="https://i.imgur.com/kc6o5Fb.png",9Rush
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/7321/index.m3u8
-#EXTINF:-1 group-title="BRASIL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_Brasil_logo_2019.svg/1920px-TV_Brasil_logo_2019.svg.png",TV Brasil
-http://rtmp.cdn.upx.net.br/723b/myStream.sdp/playlist.m3u8
 #EXTINF:-1 group-title="CANADA" tvg-logo="https://i.imgur.com/w2IwLlA.png",CBC
 http://isstnjz4.megogo.xyz/iptv/SNZC9Z4RPEYGA3/6497/index.m3u8
 #EXTINF:-1 group-title="CANADA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/17/CTV_logo_2018.svg/1920px-CTV_logo_2018.svg.png",CTV
@@ -2833,8 +3111,6 @@ http://video.ct-n.com/live/ctnstream/playlist_DVR.m3u8
 http://rtmp.ottdemo.rrsat.com/ctntv/ctntvmulti.smil/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/dabl-us.png",Dabl (1080p)
 http://dai.google.com/linear/hls/event/oIKcyC8QThaW4F2KeB-Tdw/master.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/DarkMatterTV_218x218.png?raw=true",Dark Matter TV Brazil (720p)
-https://darkmatter-por-samsungbrazil.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Legislative" tvg-logo="https://i.imgur.com/ZHST0G2.png",DC Council Channel (1080p)
 https://video.oct.dc.gov/out/u/15_12.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="http://deentv.uk/wp-content/uploads/2021/08/cropped-DEEN-TV-LOGO-FINAL-80x80-1.png",Deen TV (576p) [Not 24/7]
@@ -3059,8 +3335,6 @@ https://live.streamingfast.net/osmflivech47.m3u8
 https://live.streamingfast.net/osmflivech49.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://app.streamingfast.net/uploads/channel/50_file.jpg",GOOD TV CH50 國際講員 中文發音 (720p) [Not 24/7]
 https://live.streamingfast.net/osmflivech50.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://ipgo.xyz/tv/gmovies/imagens/logo_gospelf_site.png",Gospel Movie TV (360p)
-https://stmv1.srvif.com/gospelf/gospelf/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/tprQSxT.png",GQ (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg",Gracia TV (1080p) [Not 24/7]
@@ -3073,8 +3347,6 @@ http://web.onair-radio.eu:1935/groovytv/groovytv/playlist.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuhallmark/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="http://vignette3.wikia.nocookie.net/logosfake/images/9/90/Happy_Kids_logo_2004.png/revision/latest?cb=20140525234116",HappyKids Junior (720p)
 https://happykidsjunior-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/uMPu5HU.png",Hi-YAH! (1080p)
-https://linear-59.frequency.stream/dist/plex/59/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/wKi97Pg.png",Hidabroot (576p)
 https://stream5.shidur.net/htvlive2/smil:live2.smil/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/pW6pPFF.jpg",Himlen TV7 (720p)
@@ -3275,8 +3547,6 @@ https://ms7.mx-cd.net/tv/71-475821/Regio8TV.smil/playlist.m3u8
 https://ms7.mx-cd.net/MC-Monitoring/260-2403096/90TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music",Reload (1080p)
 http://web.onair-radio.eu:1935/video/video/playlist.m3u8
-#EXTINF:-1 group-title="Classic" tvg-logo="https://i.imgur.com/cyfu3qP.png",Retrô Cartoon (288p) [Not 24/7]
-https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus (720p)
 https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus 2 (720p)
@@ -3319,8 +3589,6 @@ https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
 https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Classic" tvg-logo="https://i.imgur.com/oCjZS0v.jpg",Samuel Goldwyn Classics (1080p)
 https://samuelgoldwyn-classic-roku.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="General" tvg-logo="https://www.satv.tv/wp-content/uploads/2016/07/logo1.png",SATV (720p) [Not 24/7]
-https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/satvoff5666.stream/playlist.m3u8
 #EXTINF:-1 group-title="Relax" tvg-logo="https://i.imgur.com/6hIfTMC.jpg",Screen Dreams (720p)
 https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
 #EXTINF:-1 group-title="Shop" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/606f94fdf46bcb6017662744",Shop LC (1080p)
@@ -3485,8 +3753,6 @@ http://origin5.mediacdn.ru/live/tvm/index.m3u8
 http://193.33.240.8:8080/natgeo_hd/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Travel & Adventure HD
 http://45.142.213.81:8001/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ??
-http://clients.apsny.camera:8080/tv_abaza_tv/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? ?? (???????)
 http://live2-aisttv.cdnvideo.ru/aisttv2/aisttv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???????? ???? HD
@@ -3539,8 +3805,6 @@ https://vgtrkregion.cdnvideo.ru/vgtrk/vladivostok/regionHD/playlist_sdhigh.m3u8
 http://109.126.27.2:6484/v24/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? 24 HD
 https://vgtrkregion.cdnvideo.ru/vgtrk/vladivostok/regionHD/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ?? (????????)
-http://public-gw.iptv.shadrinsk.net:8088/gorod.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??????? ??
 http://edge-tv-ll.facecast.io/evacoder_hls_hi/UUMLQVAYVlZyH14GRENQVV0G/2/1.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???????? 33 (????????)
@@ -3651,22 +3915,8 @@ http://193.33.240.8:8080/planeta_hd/index.m3u8
 http://193.33.240.8:8080/multimania/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? (?????? ????????)
 http://live-nntv2.cdnvideo.ru/nntv2/cfd99gu0ai_nntv_tv/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? (?????-?????????)
-http://ntv-hls-orig.cdnvideo.ru/ntv-spb/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? HD
-http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? HD
-http://ntv-hls-orig.cdnvideo.ru/ntv-msk_hd/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ???
 http://92.46.127.146:8080/ntv/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ?????
-http://ntv-hls-orig.cdnvideo.ru/th_pravo/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ??????
-http://ntv-hls-orig.cdnvideo.ru/th_serial/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ?????
-http://ntv-hls-orig.cdnvideo.ru/th_style/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ???
-http://ntv-hls-orig.cdnvideo.ru/th_hit/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ??????? HD
 http://tv.streams.baikal-telecom.net/NTS/video.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? ????
@@ -4085,8 +4335,6 @@ https://5d23269b3ec0c.streamlock.net/WEB_Smilik/Smilik.stream/playlist.m3u8
 http://sochi.camera:8080/cam_128/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????
 http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? FM ??
-http://live.stranafm.cdnvideo.ru/stranafm/stranafm.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? 24
 http://video1.in-news.ru/c24/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??-?? (????????????)
@@ -4109,8 +4357,6 @@ https://user91229.clients-cdnnow.ru/hls/user91229_1_720/index.m3u8
 http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? (?????????????)
 https://iptv-hls.idc.md/hls/2/live2.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ??
-http://tochkatv-live.cdnvideo.ru/tochkatv/tainatv.stream_aac/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????
 http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????????? 24
@@ -4133,8 +4379,6 @@ http://92.46.127.146:8080/toiduman/index.m3u8
 https://live-tolknews.cdnvideo.ru/tolknews/stream/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ??
 http://tosnotv.ru/hlsshare/video.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ??
-http://tochkatv-live.cdnvideo.ru/tochkatv2/MPEGTS.TOCHKA.stream/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ?? (??????)
 http://trotek.keenetic.pro/play.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? 24
@@ -4151,10 +4395,6 @@ http://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
 http://live-1.otcnet.ru/habar24/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ?????????? HD
 https://stream.tck.tv/hd.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ??
-https://mhd122.iptv2022.com/ntrk/chavashen/324/1/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ??
-http://hls-shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? ??
 http://tele2dvrnat01-02.cdnvideo.ru/stream/TatTVR_efir_2c28d5412dd75bf975fb951c740a30/hls/1024x576@1272/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? ??
@@ -4201,3 +4441,815 @@ https://live.35media.ru/transmit-video/1080/s.m3u8
 http://hithd.camsh.orsk.ru/hls/hithd.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???? 25 (???????????)
 http://flussonic0.podryad.net:8080/gorodtv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",VOD-Series
+http://iptv.icsnleb.com:25461/12/12/49
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",VOD-Documentary
+http://iptv.icsnleb.com:25461/12/12/40
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",VOD-Leb
+http://iptv.icsnleb.com:25461/12/12/37
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",VOD-Music
+http://iptv.icsnleb.com:25461/12/12/36
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",VOD-Cinema
+http://iptv.icsnleb.com:25461/12/12/59
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",RLL
+http://iptv.icsnleb.com:25461/12/12/92
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",VDL
+http://iptv.icsnleb.com:25461/12/12/93
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",VOD-Movies
+http://iptv.icsnleb.com:25461/12/12/55
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Al Hayba S04 E06
+http://iptv.icsnleb.com:25461/series/12/12/104.mp4
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Al Hayba S04 E07
+http://iptv.icsnleb.com:25461/series/12/12/105.mp4
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Al Hayba S04 E08
+http://iptv.icsnleb.com:25461/series/12/12/106.mp4
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Al Hayba S04 E16
+http://iptv.icsnleb.com:25461/series/12/12/114.mp4
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Al Hayba S04 E26
+http://iptv.icsnleb.com:25461/series/12/12/138.mp4
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Al Hayba S04 E28
+http://iptv.icsnleb.com:25461/series/12/12/140.mp4
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Al Hayba S04 E29
+http://iptv.icsnleb.com:25461/series/12/12/141.mp4
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Al Hayba S04 E30
+http://iptv.icsnleb.com:25461/series/12/12/142.mp4
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Al Hayba S05 E01
+http://iptv.icsnleb.com:25461/series/12/12/737.mp4
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Al Hayba S05 E06
+http://iptv.icsnleb.com:25461/series/12/12/743.mp4
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Al Hayba S05 E07
+http://iptv.icsnleb.com:25461/series/12/12/744.mp4
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Al Hayba S05 E08
+http://iptv.icsnleb.com:25461/series/12/12/745.mp4
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Al Hayba S05 E09
+http://iptv.icsnleb.com:25461/series/12/12/746.mp4
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",COMEDY CENTRAL HD+
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/16704
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",CINEMAX HD
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/16702
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Discovery Science HD+
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/16708
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Discovery World HD+
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/16712
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO FAMILY HD
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/31462
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TNT HD+
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/16760
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Discovery Turbo HD+
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/16711
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TNT Sies HD+
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/16761
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",AXN HD+
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/16695
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Globo SP HD+
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/16730
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO 1 HD
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/31465
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TELECINE ACTION HD
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/31583
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ESPN 3
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/16725
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ESPN 2 HD+
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/16716
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ESPN 4K
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/31034
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ESPN 4 HD
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/31148
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",MEGAPIX FULLHD
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/31278
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO SIGNATURE HD
+http://xcui.vitvabc.xyz:8880/287994016405/287994016405/31473
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TELECINE PREMIUM HD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/122639
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TELECINE PREMIUM SD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/122642
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TELECINE ACTION FHD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/122643
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TELECINE ACTION HD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/122645
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TELECINE CULT FHD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/122649
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TELECINE CULT HD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/122651
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TELECINE FUN HD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/122657
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TELECINE FUN SD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/122659
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TELECINE PIPOCA FHD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/122661
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TELECINE PIPOCA HD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/122663
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TELECINE PIPOCA SD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/122665
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TELECINE TOUCH FHD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/122667
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TELECINE TOUCH HD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/122669
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TELECINE TOUCH SD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/122671
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PREMIERE CLUBES 4K
+http://assista.pro:80/555496499281/57526725/122673
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PREMIERE 1 FHD
+http://assista.pro:80/555496499281/57526725/122675
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PREMIERE 1 HD
+http://assista.pro:80/555496499281/57526725/122677
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PREMIERE 1 SD
+http://assista.pro:80/555496499281/57526725/122679
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PREMIERE 2 FHD
+http://assista.pro:80/555496499281/57526725/122681
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PREMIERE 2 HD
+http://assista.pro:80/555496499281/57526725/122683
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PREMIERE 3 HD
+http://assista.pro:80/555496499281/57526725/122689
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PREMIERE 4 HD
+http://assista.pro:80/555496499281/57526725/122695
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PREMIERE 4 SD
+http://assista.pro:80/555496499281/57526725/122697
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PREMIERE 5 HD
+http://assista.pro:80/555496499281/57526725/122701
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PREMIERE 5 SD
+http://assista.pro:80/555496499281/57526725/122703
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PREMIERE 6 HD
+http://assista.pro:80/555496499281/57526725/122707
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PREMIERE 6 SD
+http://assista.pro:80/555496499281/57526725/122709
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PREMIERE 7 FHD
+http://assista.pro:80/555496499281/57526725/122711
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PREMIERE 8 SD
+http://assista.pro:80/555496499281/57526725/122716
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PREMIERE MOSAICO
+http://assista.pro:80/555496499281/57526725/122717
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PREMIERE 8 HD
+http://assista.pro:80/555496499281/57526725/122718
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",A&E FHD
+http://assista.pro:80/555496499281/57526725/123289
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",A&E HD
+http://assista.pro:80/555496499281/57526725/123290
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",A&E SD
+http://assista.pro:80/555496499281/57526725/123291
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",AMC FHD
+http://assista.pro:80/555496499281/57526725/123292
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",AMC SD
+http://assista.pro:80/555496499281/57526725/123294
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",AXN FHD
+http://assista.pro:80/555496499281/57526725/123295
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",AXN HD
+http://assista.pro:80/555496499281/57526725/123296
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",AXN SD
+http://assista.pro:80/555496499281/57526725/123297
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",CINEMAX HD
+http://assista.pro:80/555496499281/57526725/123299
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",CINEMAX SD
+http://assista.pro:80/555496499281/57526725/123300
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",FILM & ART FHD
+http://assista.pro:80/555496499281/57526725/123301
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",FX SD
+http://assista.pro:80/555496499281/57526725/123305
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",LIFETIME HD
+http://assista.pro:80/555496499281/57526725/123307
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",LIFETIME SD
+http://assista.pro:80/555496499281/57526725/123308
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",MEGAPIX FHD
+http://assista.pro:80/555496499281/57526725/123309
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",MEGAPIX HD
+http://assista.pro:80/555496499281/57526725/123310
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",MEGAPIX SD
+http://assista.pro:80/555496499281/57526725/123311
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PARAMOUNT CHANNEL FHD
+http://assista.pro:80/555496499281/57526725/123312
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PARAMOUNT CHANNEL HD
+http://assista.pro:80/555496499281/57526725/123313
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PARAMOUNT CHANNEL SD
+http://assista.pro:80/555496499281/57526725/123314
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SONY FHD
+http://assista.pro:80/555496499281/57526725/123315
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SONY HD
+http://assista.pro:80/555496499281/57526725/123316
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SONY SD
+http://assista.pro:80/555496499281/57526725/123317
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SPACE FHD
+http://assista.pro:80/555496499281/57526725/123318
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SPACE HD
+http://assista.pro:80/555496499281/57526725/123319
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SPACE SD
+http://assista.pro:80/555496499281/57526725/123320
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",STAR CHANNEL FHD
+http://assista.pro:80/555496499281/57526725/123321
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",STAR CHANNEL HD
+http://assista.pro:80/555496499281/57526725/123322
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",STAR CHANNEL SD
+http://assista.pro:80/555496499281/57526725/123323
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",STUDIO UNIVERSAL FHD
+http://assista.pro:80/555496499281/57526725/123327
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",STUDIO UNIVERSAL HD
+http://assista.pro:80/555496499281/57526725/123328
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",STUDIO UNIVERSAL SD
+http://assista.pro:80/555496499281/57526725/123329
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SYFY FHD
+http://assista.pro:80/555496499281/57526725/123330
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SYFY HD
+http://assista.pro:80/555496499281/57526725/123331
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SYFY SD
+http://assista.pro:80/555496499281/57526725/123332
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TBS FHD
+http://assista.pro:80/555496499281/57526725/123333
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TBS HD
+http://assista.pro:80/555496499281/57526725/123334
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TCM HD
+http://assista.pro:80/555496499281/57526725/123335
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TCM SD
+http://assista.pro:80/555496499281/57526725/123336
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TMC FHD
+http://assista.pro:80/555496499281/57526725/123337
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TNT FHD
+http://assista.pro:80/555496499281/57526725/123338
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TNT HD
+http://assista.pro:80/555496499281/57526725/123339
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TNT SD
+http://assista.pro:80/555496499281/57526725/123340
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TNT SERIES FHD
+http://assista.pro:80/555496499281/57526725/123341
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TNT SERIES HD
+http://assista.pro:80/555496499281/57526725/123342
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TNT SERIES SD
+http://assista.pro:80/555496499281/57526725/123343
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TV BRASIL FHD
+http://assista.pro:80/555496499281/57526725/123344
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TV BRASIL HD
+http://assista.pro:80/555496499281/57526725/123345
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",UNIVERSAL CHANNEL FHD
+http://assista.pro:80/555496499281/57526725/123346
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",UNIVERSAL CHANNEL HD
+http://assista.pro:80/555496499281/57526725/123347
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",UNIVERSAL CHANNEL SD
+http://assista.pro:80/555496499281/57526725/123348
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",AL - Difusora AM 960
+http://assista.pro:80/555496499281/57526725/123980
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",AL - Gazeta AM 1260
+http://assista.pro:80/555496499281/57526725/123981
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",BA - CBN FM 100.7
+http://assista.pro:80/555496499281/57526725/123983
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",BA - Feliz FM 92.3
+http://assista.pro:80/555496499281/57526725/123984
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",BA - GFM 90.1
+http://assista.pro:80/555496499281/57526725/123985
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DF - Hunter 80s
+http://assista.pro:80/555496499281/57526725/123986
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DF - HUNTER FM 102.7
+http://assista.pro:80/555496499281/57526725/123987
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DF - Hunter Fresh
+http://assista.pro:80/555496499281/57526725/123988
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DF - Hunter Gospel
+http://assista.pro:80/555496499281/57526725/123989
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DF - Hunter LO-FI
+http://assista.pro:80/555496499281/57526725/123990
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DF - Hunter Pisadinha
+http://assista.pro:80/555496499281/57526725/123991
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DF - Hunter POP2KS
+http://assista.pro:80/555496499281/57526725/123992
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DF - Hunter Rock
+http://assista.pro:80/555496499281/57526725/123993
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DF - Hunter Sertanejo
+http://assista.pro:80/555496499281/57526725/123994
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DF - Hunter Tropical
+http://assista.pro:80/555496499281/57526725/123995
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DF - Joven Pan FM 106.3
+http://assista.pro:80/555496499281/57526725/123996
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DF - Kiss FM 102.3
+http://assista.pro:80/555496499281/57526725/123997
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DF - Transamerica FM 100.1
+http://assista.pro:80/555496499281/57526725/123998
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",MG - 98.0 FM
+http://assista.pro:80/555496499281/57526725/123999
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",MG - Cultura FM 95.1
+http://assista.pro:80/555496499281/57526725/124000
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",MG - Itatiaia FM 95.7
+http://assista.pro:80/555496499281/57526725/124001
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",RJ - BeatPlay FM
+http://assista.pro:80/555496499281/57526725/124002
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",RJ - JB FM 99.9
+http://assista.pro:80/555496499281/57526725/124003
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",RJ - Tupi FM 96.5
+http://assista.pro:80/555496499281/57526725/124004
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",RS - 104 FM
+http://assista.pro:80/555496499281/57526725/124005
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",RS - 92. FM
+http://assista.pro:80/555496499281/57526725/124006
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",RS - Alegria FM 92.9
+http://assista.pro:80/555496499281/57526725/124007
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",RS - Atlântida FM 94.3
+http://assista.pro:80/555496499281/57526725/124008
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",RS - Gaúcha FM 93.7
+http://assista.pro:80/555496499281/57526725/124009
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",RS - Guaíba FM 101.3
+http://assista.pro:80/555496499281/57526725/124010
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",RS - Itapema FM 102.3
+http://assista.pro:80/555496499281/57526725/124011
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",RS - JovenPan FM 97.5
+http://assista.pro:80/555496499281/57526725/124012
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SP - Antena 1 FM 94.7
+http://assista.pro:80/555496499281/57526725/124013
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SP - Coca Cola FM
+http://assista.pro:80/555496499281/57526725/124014
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SP - Mix FM 106.3
+http://assista.pro:80/555496499281/57526725/124015
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SP - Radio Globo FM 92.5
+http://assista.pro:80/555496499281/57526725/124016
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SP - Top FM 100.5
+http://assista.pro:80/555496499281/57526725/124017
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO FHD  DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124108
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO HD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124110
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO SD1 DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124112
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO SD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124113
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO 2 FHD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124114
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO 2 HD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124116
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO 2 SD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124117
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO FAMILY FHD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124120
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO FAMILY HD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124122
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO FAMILY SD1 DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124124
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO FAMILY SD
+http://assista.pro:80/555496499281/57526725/124125
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO MUNDI FHD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124126
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO MUNDI HD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124128
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO MUNDI SD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124130
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO PLUS FHD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124132
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO PLUS HD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124134
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO PLUS SD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124136
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO POP FHD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124138
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO POP HD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124140
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO POP SD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124142
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO SIGNATURE FHD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124144
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO SIGNATURE HD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124146
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO SIGNATURE SD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124148
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO XTREME FHD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124150
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO XTREME HD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124152
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO XTREME SD DUAL AUDIO
+http://assista.pro:80/555496499281/57526725/124154
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Animal Planet 4K
+http://assista.pro:80/555496499281/57526725/124741
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",AXN 4K
+http://assista.pro:80/555496499281/57526725/124742
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Cartoon Network 4K
+http://assista.pro:80/555496499281/57526725/124744
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",CNN Brasil 4K
+http://assista.pro:80/555496499281/57526725/124745
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Combate 4K
+http://assista.pro:80/555496499281/57526725/124746
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Comedy Central 4K
+http://assista.pro:80/555496499281/57526725/124747
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Discovery Channel 4K
+http://assista.pro:80/555496499281/57526725/124748
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Discovery H&H 4K
+http://assista.pro:80/555496499281/57526725/124749
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Discovery Turbo 4K
+http://assista.pro:80/555496499281/57526725/124750
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ESPN 4 4K
+http://assista.pro:80/555496499281/57526725/124751
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ESPN 4K
+http://assista.pro:80/555496499281/57526725/124752
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Gazeta 4K
+http://assista.pro:80/555496499281/57526725/124753
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Globo 4K
+http://assista.pro:80/555496499281/57526725/124754
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",GNT 4K
+http://assista.pro:80/555496499281/57526725/124756
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO 4K
+http://assista.pro:80/555496499281/57526725/124757
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Megapix 4K
+http://assista.pro:80/555496499281/57526725/124758
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Multishow 4K
+http://assista.pro:80/555496499281/57526725/124759
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",National Geographics 4K
+http://assista.pro:80/555496499281/57526725/124760
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Premiere Clubes 4K
+http://assista.pro:80/555496499281/57526725/124761
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Record 4K
+http://assista.pro:80/555496499281/57526725/124762
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Rede TV! 4K
+http://assista.pro:80/555496499281/57526725/124763
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SBT 4K
+http://assista.pro:80/555496499281/57526725/124764
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SporTV 4K
+http://assista.pro:80/555496499281/57526725/124765
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Star Channel 4K
+http://assista.pro:80/555496499281/57526725/124766
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TeleCine Action 4K
+http://assista.pro:80/555496499281/57526725/124767
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Telecine Pipoca 4K
+http://assista.pro:80/555496499281/57526725/124768
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Telecine Premium 4K
+http://assista.pro:80/555496499281/57526725/124769
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TNT Series 4K
+http://assista.pro:80/555496499281/57526725/124771
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Universal Channel 4K
+http://assista.pro:80/555496499281/57526725/124772
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Viva 4K
+http://assista.pro:80/555496499281/57526725/124773
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ANIMAL PLANET FHD
+http://assista.pro:80/555496499281/57526725/124856
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ANIMAL PLANET HD
+http://assista.pro:80/555496499281/57526725/124858
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ANIMAL PLANET SD
+http://assista.pro:80/555496499281/57526725/124860
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY CHANNEL FHD
+http://assista.pro:80/555496499281/57526725/124862
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY CHANNEL HD
+http://assista.pro:80/555496499281/57526725/124864
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY CHANNEL SD
+http://assista.pro:80/555496499281/57526725/124866
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY HOME & HEALTH FHD
+http://assista.pro:80/555496499281/57526725/124868
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY HOME & HEALTH HD
+http://assista.pro:80/555496499281/57526725/124870
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY HOME & HEALTH SD
+http://assista.pro:80/555496499281/57526725/124872
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY SCIENCE FHD
+http://assista.pro:80/555496499281/57526725/124874
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY SCIENCE HD
+http://assista.pro:80/555496499281/57526725/124876
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY SCIENCE SD
+http://assista.pro:80/555496499281/57526725/124878
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY THEATER FHD
+http://assista.pro:80/555496499281/57526725/124880
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY THEATER HD
+http://assista.pro:80/555496499281/57526725/124882
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY THEATER SD
+http://assista.pro:80/555496499281/57526725/124884
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY TLC FHD
+http://assista.pro:80/555496499281/57526725/124885
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY TLC HD
+http://assista.pro:80/555496499281/57526725/124886
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY TLC SD
+http://assista.pro:80/555496499281/57526725/124887
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY TURBO FHD
+http://assista.pro:80/555496499281/57526725/124889
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY TURBO HD
+http://assista.pro:80/555496499281/57526725/124891
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY TURBO SD
+http://assista.pro:80/555496499281/57526725/124893
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY WORLD FHD
+http://assista.pro:80/555496499281/57526725/124895
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY WORLD HD
+http://assista.pro:80/555496499281/57526725/124897
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY WORLD SD
+http://assista.pro:80/555496499281/57526725/124899
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",H2 FHD
+http://assista.pro:80/555496499281/57526725/124901
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",H2 HD
+http://assista.pro:80/555496499281/57526725/124903
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",H2 SD
+http://assista.pro:80/555496499281/57526725/124905
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HGTV  FHD
+http://assista.pro:80/555496499281/57526725/124906
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HGTV HD
+http://assista.pro:80/555496499281/57526725/124907
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HGTV SD
+http://assista.pro:80/555496499281/57526725/124908
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HISTORY CHANNEL FHD
+http://assista.pro:80/555496499281/57526725/124910
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HISTORY CHANNEL HD
+http://assista.pro:80/555496499281/57526725/124912
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HISTORY CHANNEL SD
+http://assista.pro:80/555496499281/57526725/124914
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ID - INVESTIGAÇÃO DISCOVERY FHD
+http://assista.pro:80/555496499281/57526725/124916
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ID - INVESTIGAÇÃO DISCOVERY HD
+http://assista.pro:80/555496499281/57526725/124918
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ID - INVESTIGAÇÃO DISCOVERY SD
+http://assista.pro:80/555496499281/57526725/124920
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",NATIONAL GEOGRAPHIC FHD
+http://assista.pro:80/555496499281/57526725/124922
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",NATIONAL GEOGRAPHIC HD
+http://assista.pro:80/555496499281/57526725/124924
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",NATIONAL GEOGRAPHIC SD
+http://assista.pro:80/555496499281/57526725/124926
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",BABY TV FHD
+http://assista.pro:80/555496499281/57526725/125103
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",BABY TV HD
+http://assista.pro:80/555496499281/57526725/125105
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",BABY TV SD
+http://assista.pro:80/555496499281/57526725/125106
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",CARTOON NETWORK FHD
+http://assista.pro:80/555496499281/57526725/125111
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",CARTOON NETWORK HD
+http://assista.pro:80/555496499281/57526725/125113
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",CARTOON NETWORK SD
+http://assista.pro:80/555496499281/57526725/125115
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Cartoonito SD
+http://assista.pro:80/555496499281/57526725/125118
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY KIDS HD
+http://assista.pro:80/555496499281/57526725/125122
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISCOVERY KIDS SD
+http://assista.pro:80/555496499281/57526725/125124
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISNEY CHANNEL FHD
+http://assista.pro:80/555496499281/57526725/125126
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISNEY CHANNEL HD
+http://assista.pro:80/555496499281/57526725/125128
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",DISNEY CHANNEL SD
+http://assista.pro:80/555496499281/57526725/125130
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",GLOOB FHD
+http://assista.pro:80/555496499281/57526725/125144
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",GLOOB HD
+http://assista.pro:80/555496499281/57526725/125146
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",GLOOB SD
+http://assista.pro:80/555496499281/57526725/125148
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",GLOOBINHO FHD
+http://assista.pro:80/555496499281/57526725/125150
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",GLOOBINHO HD
+http://assista.pro:80/555496499281/57526725/125152
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",GLOOBINHO SD
+http://assista.pro:80/555496499281/57526725/125154
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",NICK JR FHD
+http://assista.pro:80/555496499281/57526725/125162
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",NICK JR HD
+http://assista.pro:80/555496499281/57526725/125164
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",NICKELODEON FHD
+http://assista.pro:80/555496499281/57526725/125168
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",NICKELODEON HD
+http://assista.pro:80/555496499281/57526725/125170
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",NICKELODEON SD
+http://assista.pro:80/555496499281/57526725/125172
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TOONCAST FHD
+http://assista.pro:80/555496499281/57526725/125174
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TOONCAST HD
+http://assista.pro:80/555496499281/57526725/125176
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TOONCAST SD
+http://assista.pro:80/555496499281/57526725/125178
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TV RÁ TIM BUM! FHD
+http://assista.pro:80/555496499281/57526725/125180
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TV RÁ TIM BUM! HD
+http://assista.pro:80/555496499281/57526725/125182
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TV RÁ TIM BUM! SD
+http://assista.pro:80/555496499281/57526725/125184
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ZOOMO FHD
+http://assista.pro:80/555496499281/57526725/125185
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ZOOMOO HD
+http://assista.pro:80/555496499281/57526725/125188
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ZOOMOO SD
+http://assista.pro:80/555496499281/57526725/125190
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",CBN SÃO PAULO
+http://assista.pro:80/555496499281/57526725/125198
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",CNN BRASIL FHD
+http://assista.pro:80/555496499281/57526725/125200
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",CNN BRASIL HD
+http://assista.pro:80/555496499281/57526725/125202
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",CNN BRASIL SD
+http://assista.pro:80/555496499281/57526725/125204
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",GLOBO NEWS HD
+http://assista.pro:80/555496499281/57526725/125219
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",GLOBO NEWS SD
+http://assista.pro:80/555496499281/57526725/125221
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",JOVEM PAN NEWS HD2
+http://assista.pro:80/555496499281/57526725/125225
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",JOVEM PAN NEWS SD2
+http://assista.pro:80/555496499281/57526725/125226
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",RECORD NEWS FHD
+http://assista.pro:80/555496499281/57526725/125228
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",RECORD NEWS HD
+http://assista.pro:80/555496499281/57526725/125230
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",RECORD NEWS SD
+http://assista.pro:80/555496499281/57526725/125232
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Cine Sucessos
+http://assista.pro:80/555496499281/57526725/125255
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Filmes Ação
+http://assista.pro:80/555496499281/57526725/125256
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Cine Comédia
+http://assista.pro:80/555496499281/57526725/125257
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Cine Drama
+http://assista.pro:80/555496499281/57526725/125258
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Cine Romance
+http://assista.pro:80/555496499281/57526725/125259
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Filmes Suspense
+http://assista.pro:80/555496499281/57526725/125260
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Cine Terror
+http://assista.pro:80/555496499281/57526725/125261
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Filmes Nacionais
+http://assista.pro:80/555496499281/57526725/125262
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Cine Clássicos
+http://assista.pro:80/555496499281/57526725/125263
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Cine Família
+http://assista.pro:80/555496499281/57526725/125264
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Paramount+ Apresenta
+http://assista.pro:80/555496499281/57526725/125265
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Séries
+http://assista.pro:80/555496499281/57526725/125266
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Jeannie é um Gênio
+http://assista.pro:80/555496499281/57526725/125267
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Retrô
+http://assista.pro:80/555496499281/57526725/125268
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Jovem Pan Pluto TV
+http://assista.pro:80/555496499281/57526725/125270
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Nosey Escândalos
+http://assista.pro:80/555496499281/57526725/125271
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",BET Pluto TV
+http://assista.pro:80/555496499281/57526725/125272
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",BET Being Mary Jane
+http://assista.pro:80/555496499281/57526725/125273
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",MTV Pluto TV
+http://assista.pro:80/555496499281/57526725/125274
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",MTV Com o Ex
+http://assista.pro:80/555496499281/57526725/125275
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",MTV Are you the One?
+http://assista.pro:80/555496499281/57526725/125276
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Younger
+http://assista.pro:80/555496499281/57526725/125278
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Nick Teen
+http://assista.pro:80/555496499281/57526725/125279
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Kenan & Kel
+http://assista.pro:80/555496499281/57526725/125280
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",MasterChef
+http://assista.pro:80/555496499281/57526725/125281
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Mistérios
+http://assista.pro:80/555496499281/57526725/125284
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pronto-socorro: Histórias De Emergência
+http://assista.pro:80/555496499281/57526725/125285
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Minha Obsessão Favorita
+http://assista.pro:80/555496499281/57526725/125286
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Vida Real
+http://assista.pro:80/555496499281/57526725/125287
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Natureza
+http://assista.pro:80/555496499281/57526725/125288
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",O Encantador de Cães
+http://assista.pro:80/555496499281/57526725/125290
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Investigação
+http://assista.pro:80/555496499281/57526725/125291
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Anime
+http://assista.pro:80/555496499281/57526725/125292
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Anime Ação
+http://assista.pro:80/555496499281/57526725/125293
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Naruto
+http://assista.pro:80/555496499281/57526725/125294
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Tokusato
+http://assista.pro:80/555496499281/57526725/125295
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",FUEL TV
+http://assista.pro:80/555496499281/57526725/125296
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",FailArmy
+http://assista.pro:80/555496499281/57526725/125297
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",The Pet Collective
+http://assista.pro:80/555496499281/57526725/125298
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Comédia
+http://assista.pro:80/555496499281/57526725/125299
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Comedy Central Pluto TV
+http://assista.pro:80/555496499281/57526725/125300
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Comedy Central South Park
+http://assista.pro:80/555496499281/57526725/125301
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Porta dos Fundos
+http://assista.pro:80/555496499281/57526725/125302
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Tastemade
+http://assista.pro:80/555496499281/57526725/125304
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Fashionstream
+http://assista.pro:80/555496499281/57526725/125305
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Junior
+http://assista.pro:80/555496499281/57526725/125307
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Nick Jr. Club
+http://assista.pro:80/555496499281/57526725/125308
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",As  Pistas de Blue
+http://assista.pro:80/555496499281/57526725/125309
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",O Reino Infantil
+http://assista.pro:80/555496499281/57526725/125310
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Turma da Mônica
+http://assista.pro:80/555496499281/57526725/125311
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Pluto TV Kids
+http://assista.pro:80/555496499281/57526725/125312
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Nick Clássico
+http://assista.pro:80/555496499281/57526725/125313
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",A vida moderna de Rocko
+http://assista.pro:80/555496499281/57526725/125314
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Rugrats
+http://assista.pro:80/555496499281/57526725/125315
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",As Aventuras de Jackie Chan
+http://assista.pro:80/555496499281/57526725/125316
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",MTV Biggest Pop
+http://assista.pro:80/555496499281/57526725/125319
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",COMBATE FHD
+http://assista.pro:80/555496499281/57526725/125328
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",COMBATE HD
+http://assista.pro:80/555496499281/57526725/125330
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",COMBATE SD
+http://assista.pro:80/555496499281/57526725/125332
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",FISH TV FHD
+http://assista.pro:80/555496499281/57526725/125334
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",FISH TV HD
+http://assista.pro:80/555496499281/57526725/125336
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",FISH TV SD
+http://assista.pro:80/555496499281/57526725/125338
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",FOX SPORTS 2 FHD
+http://assista.pro:80/555496499281/57526725/125341
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",FOX SPORTS 2 HD
+http://assista.pro:80/555496499281/57526725/125343
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",FOX SPORTS 2 SD
+http://assista.pro:80/555496499281/57526725/125344
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",FOX SPORTS 2 SD
+http://assista.pro:80/555496499281/57526725/125345
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",OFF FHD
+http://assista.pro:80/555496499281/57526725/125346
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",OFF HD
+http://assista.pro:80/555496499281/57526725/125348
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",OFF SD
+http://assista.pro:80/555496499281/57526725/125350
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SPORTV 1 FHD
+http://assista.pro:80/555496499281/57526725/125384
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SPORTV 1 HD
+http://assista.pro:80/555496499281/57526725/125386
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SPORTV 1 SD
+http://assista.pro:80/555496499281/57526725/125388
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SPORTV 2 FHD
+http://assista.pro:80/555496499281/57526725/125390
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SPORTV 2 HD
+http://assista.pro:80/555496499281/57526725/125392
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SPORTV 2 SD
+http://assista.pro:80/555496499281/57526725/125394
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SPORTV 3 FHD
+http://assista.pro:80/555496499281/57526725/125396
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SPORTV 3 HD
+http://assista.pro:80/555496499281/57526725/125398
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SPORTV 3 SD
+http://assista.pro:80/555496499281/57526725/125400
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SPORTV 4 FHD
+http://assista.pro:80/555496499281/57526725/125401
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SPORTV 4 HD
+http://assista.pro:80/555496499281/57526725/125402
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SPORTV 4 SD
+http://assista.pro:80/555496499281/57526725/125403
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PARAMOUNT+ 1
+http://assista.pro:80/555496499281/57526725/125406
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",PARAMOUNT+ 4
+http://assista.pro:80/555496499281/57526725/125416
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",RECORDTV HD
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16748
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ANIMAL PLANET HD
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16693
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",COMEDY CENTRAL HD+
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16704
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",CINEMAX HD
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16702
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Discovery Science HD+
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16708
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SporTV 1 HD+
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16753
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Discovery World HD+
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16712
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ID Investigao Discovery HD+
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16736
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO FAMILY HD
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/31462
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TNT HD+
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16760
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Discovery Turbo HD+
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16711
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TNT Sies HD+
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16761
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",AXN HD+
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16695
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",SBT SP HD+
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16749
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Globo SP HD+
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16730
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Combate HD+
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16703
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO 2 HD
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/31460
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO 1 HD
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/31465
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",Telecine Fun HD+
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16756
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TELECINE ACTION HD
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/31583
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ESPN 3
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16725
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ESPN 2 HD+
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/16716
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ESPN 4K
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/31034
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",ESPN 4 HD
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/31148
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",MEGAPIX FULLHD
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/31278
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",HBO SIGNATURE HD
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/31473
+#EXTINF:-1 group-title="IPTV WORLD" tvg-logo="https://i.ibb.co/Lry2skk/png-transparent-m3u-keyword-tool-iptv-iptv-text-computer-logo-removebg-preview.png",TELECINE TOUCH FHD
+http://xcui.vitvabc.xyz:8880/287994016158/287994016158/31593
