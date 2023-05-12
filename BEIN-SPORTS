@@ -69,12 +69,6 @@ http://rtcg2.videostreaming.rs:1935/rtcg/rtcg.2.stream/playlist.m3u8
 https://topfi.ios.internapcdn.net/topfi/live_1/Test/chunklist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com INTV Simaye Azadi
 https://sima-i.akamaihd.net/hls/live/624111/sima/index.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com B1
-http://stream.adunity.com/b1/b1.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com B1
-https://stream.adunity.com/b1/b1.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com B1
-http://stream.adunity.com/b1/b1_640-.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Bucovina TV
 http://46.4.14.12:9999/btvsvlive/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Bucovina TV
@@ -371,8 +365,6 @@ https://outsidetv-grvty-localnow.amagi.tv/localnow.m3u8
 http://n1.klowdtv.net/live2/gsn_720p/chunks.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Galicia TV
 http://europa-crtvg.flumotion.com/crtvg/europa_high/chunks.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Galxy TV
-https://content.uplynk.com/channel/f467430e4a8e49a59ff3183cf51092b2.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Channel_8098 S01 E01
 http://62.210.209.138:41000/series/v52/v43/6893.mp4
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Channel_8099 S01 E02
@@ -1731,8 +1723,6 @@ http://62.210.209.138:41000/movie/v52/v43/6872.mp4
 https://dai.google.com/linear/hls/event/trvuY4TqQCmrAKFTlr6tPQ/master.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com North Carolina: Greenville - New Bern
 https://dai.google.com/linear/hls/event/B6RsXGIZSVqeVZGZIEZESg/master.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com North Carolina: Raleigh - Durham
-https://dai.google.com/linear/hls/event/86JIujPNRWiVvtfzksp8QQ/master.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Nosey
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redbox-nosey/CDN/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Channel_10126 S01 E01
@@ -2239,8 +2229,6 @@ http://62.210.209.138:41000/movie/v52/v43/7222.mp4
 http://62.210.209.138:41000/movie/v52/v43/15.mp4
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com SchauTV (720p)
 https://schautv.mdn.ors.at/out/u/schautv-nodrm.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Screendreams
-https://content.uplynk.com/channel/3e4b9cada2b74cf18977298804134a36.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Secret.Society.of.Second.Born.Royals.2020
 http://62.210.209.138:41000/movie/v52/v43/6164.mp4
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Secrets.of.the.Saqqara.Tomb.2020
@@ -2719,8 +2707,6 @@ http://dai2.xumo.com/xumocdn/p=roku/amagi_hls_data_xumo1234A-tmz/CDN/640x360_440
 https://dai2.xumo.com/amagi_hls_data_xumo1234A-tmz/CDN/master.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TRK 555
 http://trk555.tv:8888/live
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TRT Belgesel
-http://tv-trtbelgesel.live.trt.com.tr/master_720.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TRT Diyanet
 https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TRT World
@@ -3293,8 +3279,6 @@ https://live-edge-bhs-1.cdn.enetres.net/184784E1D210401F8041E3E1266822CC021/play
 http://d18rwjdhpr8dcw.cloudfront.net/live/rtvutrecht/ustad/index.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Ultra HD cinema
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/bw6000000/variant.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Umbria TV
-https://umbriatv.stream.rubidia.it:8083/live/umbriatv/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Unbeaten
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Unhinged.2020
@@ -3939,16 +3923,6 @@ https://1.bp.blogspot.com/-mYN8Q9Wu4Ms/VtCOUv_HdSI/AAAAAAAAIVI/xZoGse5_95g/s1600
 https://4.bp.blogspot.com/-Tjg8iyh-qLs/V8ihQ6Y-wtI/AAAAAAAAGtk/85HqPYSJJQg5a609R8gQczSrH80pq-SdACLcB/s1600/Los-Ilusionistas-21.jpg”
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Channel_13887 kLzKyaA.jpg”
 https://i.imgur.com/kLzKyaA.jpg”
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Channel_13889 -7goHLt_GUT4/AAAAAAAAAAI/AAAAAAAAAAA/WYzGwTryx-o/c-k-no/photo.jpg”
-https://yt3.ggpht.com/-7goHLt_GUT4/AAAAAAAAAAI/AAAAAAAAAAA/WYzGwTryx-o/c-k-no/photo.jpg”
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Channel_13890 -9aM1tcTrdZE/AAAAAAAAAAI/AAAAAAAAAAA/WFqCRbAPIXI/s900-c-k-no-mo-rj-c0xffffff/p
-https://yt3.ggpht.com/-9aM1tcTrdZE/AAAAAAAAAAI/AAAAAAAAAAA/WFqCRbAPIXI/s900-c-k-no-mo-rj-c0xffffff/photo.jpg”
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Channel_13891 -VmyM6ux4ivw/AAAAAAAAAAI/AAAAAAAAAAA/PyvyJBePBbk/s900-c-k-no-mo-rj-c0xffffff/p
-https://yt3.ggpht.com/-VmyM6ux4ivw/AAAAAAAAAAI/AAAAAAAAAAA/PyvyJBePBbk/s900-c-k-no-mo-rj-c0xffffff/photo.jpg”
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Channel_13892 -nvJRaOXtPRg/AAAAAAAAAAI/AAAAAAAAAAA/j2gX647cqF0/s900-c-k-no-mo-rj-c0xffffff/p
-https://yt3.ggpht.com/-nvJRaOXtPRg/AAAAAAAAAAI/AAAAAAAAAAA/j2gX647cqF0/s900-c-k-no-mo-rj-c0xffffff/photo.jpg”
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Channel_13893 -o66JhzIYX98/AAAAAAAAAAI/AAAAAAAAAAA/wsQRRzTAa3w/s900-c-k-no-mo-rj-c0xffffff/p
-https://yt3.ggpht.com/-o66JhzIYX98/AAAAAAAAAAI/AAAAAAAAAAA/wsQRRzTAa3w/s900-c-k-no-mo-rj-c0xffffff/photo.jpg”
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Channel_13920 S01 E13
 http://62.210.209.138:41000/series/v52/v43/7994.mp4
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Channel_13936 S01 E30
@@ -6079,8 +6053,6 @@ http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
 https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Dove Channel
 https://dai.google.com/linear/hls/event/dfbBGQhPQQqypdEAjpUGlA/master.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Dove Channel
-https://cinedigm.vo.llnwd.net/conssui/amagi_hls_data_xumo1234A-dovenow/CDN/master.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Electric Now
 https://dai.google.com/linear/hls/event/KsvJAc81Qoewj6opYso6Fw/master.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Taivas TV7
