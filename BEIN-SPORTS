@@ -1,24 +1,19 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Ariana News
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/chunklist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Ariana TV
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Ariana TV US
-http://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/chunklist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Ariana News
 https://d10rltuy0iweup.cloudfront.net/ATNNEWS/myStream/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Ariana TV
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w2121902183.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Ariana TV
-https://d2g7v53450s2i2.cloudfront.net/ATNUS/streamdelay/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Ariana TV National
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Israel Pars TV
 https://live.pars-israel.com/iptv/stream.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Kayhan TV
-http://playout395.livestreamingcdn.com:1935/live/Stream1/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Mohabat TV
 http://media.mohabat.tv:1935/live_transcoder/ngrp:mohabat.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Pamir TV
@@ -29,12 +24,6 @@ http://g5nl6xx5lpq6-hls-live.5centscdn.com/live1234/2621b29e501b445fabf227b08612
 http://dminnvll.cdn.mangomolo.com/dubaione/smil:dubaione.stream.smil/media.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Ganje Hozoor
 http://topfi.ios.internapcdn.net/topfi/live_1/Test/Test.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com MusawaChannel
-http://htvpalsat.mada.ps:8888/musawa/index.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Palestine Mubasher
-http://htvpalsat.mada.ps:8888/PBCLive/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Wattan TV
-http://htvmada.mada.ps:8888/wattan/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Alcarria TV
 http://217.182.77.27/live/alcarriatv-livestream.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Canal 10 Cancún
@@ -93,8 +82,6 @@ https://cdnamd-hls-globecast.akamaized.net/live/ramdisk/vision4/hls_video/index.
 http://stream.gmanews.tv/ioslive/livestream/chunklist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Extrema TV
 http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Telesur
-http://k3.usastreams.com:1935/telesur/telesur/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com CGTN
 http://live.cgtn.com/1000/prog_index.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com CGTN
@@ -107,8 +94,6 @@ http://live.mudu.tv/watch/4zbn2f.m3u8
 http://l.cztvcloud.com/channels/lantian/SXshangyu1/720p.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ??3???
 http://l.cztvcloud.com/channels/lantian/SXshangyu3/720p.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ????
-http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ??????
 http://l.cztvcloud.com/channels/lantian/SXyuyao1/720p.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ??????
@@ -157,20 +142,14 @@ http://dmiffthvll.cdn.mangomolo.com/dubaizaman/smil:dubaizaman.smil/chunklist_b1
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist_b725000.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Noor Dubai
 http://dmiffthvll.cdn.mangomolo.com/noordubaitv/smil:noordubaitv.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Vietnam: ANTV HD
-http://antvlive.ab5c6921.cdnviet.com/antv/chunklist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Cà Mau TV
 http://tv.ctvcamau.vn/live/tv/tv.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com HBTV
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com KienGiangTV
-http://tv.kgtv.vn/live/kgtv/kgtv.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com KienGiangTV1
 http://tv.kgtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com QRT
 http://113.161.6.157:8081/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Tien Giang
-http://thtg.vn:8001/thtg.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com NHK World Japan (1080p)
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com NJPW World
@@ -347,8 +326,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokufunnyordie/CDN/master.m3u8
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxfuse/CDN/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com G TV
 http://91.220.221.60/gtv_hls/gtv_03.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com GDM TELEVISION
-https://ss2.domint.net:3200/gdm_str/gdmtv/chunklist_w1317041912.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com GDNS Ludhiana
 http://akalmultimedia.net:1935/gdnslive/gdns-live/chunklist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com GE | Palitra News
@@ -537,8 +514,6 @@ https://linear-135.frequency.stream/dist/localnow/135/hls/master/playlist.m3u8
 https://s.vdo.ai/vhs/1.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com HBTV [Not 24/7]
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com HELLENIC TV
-https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com HNC Free
 https://hncfree-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com HSE24
@@ -645,8 +620,6 @@ http://62.210.209.138:41000/movie/v52/v43/6865.mp4
 https://linear-120.frequency.stream/dist/localnow/120/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Himlen TV7 (SE)
 http://vod.tv7.fi:1935/tv7-se/tv7-se.stream_720p/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Hitradio Ö3 (Webradio)
-https://studiocam-oe3.mdn.ors.at/out/u/studiocam_oe3/q6a/manifest_1.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Hits 360 HD
 http://cm.hostlagarto.com:8081/hits360tv/hits360HD.myStream/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Honest.Thief.2020
@@ -711,8 +684,6 @@ https://insighttv-samsung-us.amagi.tv/playlist.m3u8
 https://insight-localnow.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Insight TV
 https://insighttv-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Insight TV (English)
-https://insighttv-eng-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Insight TV (India)
 https://insighttv-samsungindia.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Intermedia TV
@@ -775,8 +746,6 @@ https://5f22d76e220e1.streamlock.net/iuniortv/iuniortv/playlist.m3u8
 https://uni8rtmp.tulix.tv/shalomtv-pc/smil:shalomtv.smil/master.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com JBS
 http://uni8rtmp.tulix.tv:1935/shalomtv-pc/smil:shalomtv.smil/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Jawhara FM [720p]
-http://streaming.toutech.net:1935/live/mp4:jawharafm.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Channel_8652
 http://62.210.209.138:41000/movie/v52/v43/6706.mp4
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Jingle.Jangle.a.Christmas.Journey.2020
@@ -813,8 +782,6 @@ https://2-fss-2.streamhoster.com/pl_138/amlst:201950-1309230/playlist.m3u8
 http://edge2.uk.kab.tv/live/tv66-heb-medium/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Kabillion
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxkabillion/CDN/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Kanal 10 Asia
-http://cdn-kanal10.crossnet.net:1935/kanal10/kanal10asia/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Kecskemeti TV
 http://rtmp1.40e.hu:8000/live/ktv.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Kefaret S01 E01
@@ -1541,8 +1508,6 @@ http://62.210.209.138:41000/series/v52/v43/1841.mp4
 http://62.210.209.138:41000/series/v52/v43/1842.mp4
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Mo8amrat-Sndbad S01 E50
 http://62.210.209.138:41000/series/v52/v43/1843.mp4
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Moldova: Publika TV HD
-https://livebeta.publika.md/LIVE/P/2000.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Monaco Info TV
 http://webtvmonacoinfo.mc/live/prod_720/index.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Monster.Hunter.2020
@@ -1605,8 +1570,6 @@ http://htvpalsat.mada.ps:8888/musawa/tracks-v1a1/mono.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b1628000.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Music: V2BEAT
 https://abr.de1se01.v2beat.live/live/live6/chunks.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Music Channels:Retro Music
-http://stream.mediawork.cz/retrotv/retrotvHQ1/chunklist_w1397767252.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Music TOP
 https://live-edge01.telecentro.net.ar/live/smil:musictop.smil/chunklist_w1369951744_b2028000_sleng.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Music Top
@@ -1645,8 +1608,6 @@ https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680-b/ndtvprofit/master
 https://ndtvprofitelemarchana.akamaized.net/hls/live/2003680/ndtvprofit/masterp_480p@3.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com NEA TV
 https://live.neatv.gr:8888/hls/neatv.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com NETV Toronto HD
-https://live.streams.ovh/NetvToronto/NetvToronto/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com NHK WORLD TV
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_4M.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com NHK World Japan
@@ -1805,10 +1766,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-merseburg_high/p
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-salzwedel_high/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com OK Stendal
 http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-stendal_high/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com OK Wernigerode
-http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/mp4:ok-wernigerode_high/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com OK Wernigerode
-http://58bd5b7a98e04.streamlock.net/medienasa-live/_definst_/ok-wernigerode_high/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com OML on Revry
 https://linear-73.frequency.stream/dist/localnow/73/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ORBIT TV
@@ -1885,8 +1842,6 @@ http://vcp1.myplaytv.com/promar/promar/chunklist_w1487678880.m3u8
 https://pac12-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Pac-12 Insider
 https://pac12-roku-us.amagi.tv/playlistR432p.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Palestine Mubasher
-http://htvpalsat.mada.ps:8888/PBCLive/index.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Pallo.Pallo.1995
 http://62.210.209.138:41000/movie/v52/v43/12.mp4
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Channel_10416 House S01 E01
@@ -2333,10 +2288,6 @@ http://62.210.209.138:41000/series/v52/v43/7540.mp4
 http://62.210.209.138:41000/series/v52/v43/7593.mp4
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Channel_11598 S01 E12
 http://62.210.209.138:41000/series/v52/v43/7640.mp4
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Solidaria TV (España)
-http://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Solidaria TV
-https://canadaremar2.todostreaming.es/live/solidariatv-webhd.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Channel_11603 S01 E02
 http://62.210.209.138:41000/series/v52/v43/7191.mp4
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Channel_11604 S01 E04
@@ -2411,8 +2362,6 @@ https://5db313b643fd8.streamlock.net/SUPERSIXLombardia/SUPERSIXLombardia/playlis
 https://lbs-us1.suprememastertv.com/720p.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com SurvivorNetTV
 https://linear-165.frequency.stream/dist/localnow/165/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Swamiji TV
-https://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Swamiji TV
 http://stream.swamiji.tv/YogaIPTV/smil:YogaStream.smil/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com T3lem-English S01 E01
@@ -2687,16 +2636,6 @@ http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist-480p.m3u8
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TELE SISTEMA CANAL 9
 http://k4.usastreams.com/ARBtv/ARBtv/chunklist_w209792194.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TELENORD 10
-http://newyorkstream.ddns.net:5854/telenord10/telenord10/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TELESUR HD
-https://59ef525c24caa.streamlock.net/telesur/telesur/chunklist_w1535730648.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TEN HD
-http://stream.grupoabchn.com:1935/TENHD/smil:TENLive.smil/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TEN HD ECADOR
-http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b18480j00.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TILE EPILOGES
-https://5d00db0e0fcd5.streamlock.net/7170/7170/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TMZ
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1234A-tmz/CDN/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TMZ
@@ -2717,16 +2656,8 @@ http://stream.taksimbilisim.com:1935/tv41/bant1/playlist.m3u8
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TV BRICS (ENG)
 http://brics.bonus-tv.ru/cdn/brics/english/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TV Birigui
-https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/tvdigitalbirigui/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TV Birigui
-https://59f2354c05961.streamlock.net:1443/tvdigitalbirigui/_definst_/tvdigitalbirigui/chunklist_w763334596.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TV Brusque (SC)
 https://5ad482a77183d.streamlock.net/rodrigotvbrusque.com.br/_definst_/5d880199c902eb4a1e8df00d/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TV Destak
-https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TV Destak (480p)
-https://59f2354c05961.streamlock.net:1443/pascoal/pascoal/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TV Evangelizar
 https://5f593df7851db.streamlock.net/evangelizar/tv/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TV MAX (720p)
@@ -2735,12 +2666,8 @@ https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
 https://srv1.zcast.com.br/tvmon/tvmon/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TV Mozambique
 http://196.28.226.121:1935/live/smil:Channel1.smil/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TV Muslim
-http://vip2.liveanywhere.asia:1935/tvmuslim/tvmuslim/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TVPeru Noticias (Perú)
 http://cdnh4.iblups.com/hls/RMuwrdk7M9.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TV POP HD
-https://v4.tustreaming.cl/poptv/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TV Pai Eterno
 https://59f1cbe63db89.streamlock.net:1443/teste01/_definst_/teste01/chunklist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TV Pai Eterno (480p)
@@ -2759,20 +2686,12 @@ http://ftp.tiscali.it/francescovernata/TVUNO/monoscopioTvUNOint-1.wmv
 http://cdn-lt-hls-vod.tv2fyn.dk/fhls/p/1966291/sp/196629100/serveFlavor/entryId/0_yct7rqn3/v/2/flavorId/0_h2wfmuqm/name/a.mp4/index.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TV2 Lorry
 http://cdn-lt-hls-vod.tv2lorry.dk/fhls/p/2045321/sp/204532100/serveFlavor/entryId/0_0u9letdh/v/1/flavorId/0_p5f7q6yf/name/a.mp4/index.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TV5 LIMARES HD
-https://unlimited1-us.dps.live/tv5/tv5.smil/tv5/livestream1/chunks.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TV78
 https://streamtv.cdn.dvmr.fr/TV78/ngrp:tv78.stream_all/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TVDK
 http://80.94.54.11:1935/live/dolnykubin1/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TVG Evento 5
-http://amodino-crtvg.flumotion.com/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TVM Channel
 http://cdn-01.bonus-tv.ru:8080/tvm_edge/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TVM3
-https://tvm3.vedge.infomaniak.com/livecast/tvm3/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TVN Brasil
-http://painelvj.com.br:1935/tvnbrasil/tvnbrasil.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TVRS
 http://wms.shared.streamshow.it/tvrs/mp4:tvrs/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TYT
@@ -2901,8 +2820,6 @@ http://62.210.209.138:41000/series/v52/v43/6553.mp4
 http://62.210.209.138:41000/series/v52/v43/6554.mp4
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Tehran S01 E08
 http://62.210.209.138:41000/series/v52/v43/6555.mp4
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Teins TV (1080p)
-https://live1.markenfunk.com/t1/live/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Tele Quebec
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TelePavia
@@ -2917,16 +2834,10 @@ https://streamtechglobal.akamaized.net/hls/live/2024685/telefriuli/Group01/playl
 http://s5.mexside.net:1935/telemax/telemax/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Telenod
 https://5db313b643fd8.streamlock.net/Telenord/Telenord/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Telenord 10
-http://newyorkstream.ddns.net:5854/telenord10/telenord10/chunklist_w467287800.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Telenord Canal 10
-http://newyorkstream.ddns.net:1935/telenord10/telenord10/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Telenord Canal 8
 http://newyorkstream.ddns.net:1935/telenord8/telenord8/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Telesud Trapani
 http://5cbd3bc28341f.streamlock.net:1935/telesud/_definst_/live/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Telesur Costarica
-http://k3.usastreams.com/telesur/telesur/chunklist_w1432177556.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Teletubbies
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuteletubbies/CDN/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Tenet.2020
@@ -3007,8 +2918,6 @@ https://damkf751d85s1.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25
 https://legochannel-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com The Pet Collective
 https://dai2.xumo.com/xumocdn/p=redbox&deviceid=&is_lat=&subp=RedboxdesktopWebLinux/amagi_hls_data_xumo1212A-redboxpetcollective/CDN/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com The Retro Channel HD
-https://5fd5567570c0e.streamlock.net/theretrochannel/stream/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com The Tennis Channel
 https://tennischannel-intl-samsung-uk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com The Wall Street Journal Live (720p)
@@ -3269,8 +3178,6 @@ http://217.174.225.146/legacyhls/ch005_720/index.m3u8
 http://217.174.225.146/legacyhls/ch007_720/index.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Tw2m.Rohe.2020
 http://62.210.209.138:41000/movie/v52/v43/6534.mp4
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com U1 TV
-http://live1.markenfunk.com/t1/live/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ULTRA HD CINEMA
 http://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com UNO PLAY
@@ -3379,8 +3286,6 @@ http://ms2.mx-cd.net/tv/81-334271/VechtdalTV.smil/chunklist_b1894400_slNLD.m3u8
 https://rtmp.smartstream.video/velichamtv/velichamtv/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Venn TV
 https://venntv-vizio.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Ventdelnord TV
-http://ventdelnord.tv:8080/hls/directe.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Victor Valley TV-3: Movies
 https://2-fss-1.streamhoster.com/pl_122/201794-1414514-1/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Video Tour Channel HD
@@ -3647,8 +3552,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
 http://pluto-live.plutotv.net/egress/chandler/pluto01/live/VIACBS01/master.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Young Hollywood
 https://younghollywood-rakuten-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Young Hollywood
-https://younghollywood-tcl.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Yousef-Elsdeek S01 E01
 http://62.210.209.138:41000/series/v52/v43/1332.mp4
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Yousef-Elsdeek S01 E02
@@ -4016,8 +3919,6 @@ https://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ??????
 http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ??????
-https://tvchannelstream1.tvzvezda.ru/cdn/tvzvezda/playlist_hdlow.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ??????
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ZVEZDA/variant.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ?????? +2
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_ZVEZDA_2/variant.m3u8
@@ -4029,10 +3930,6 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_ZVEZDA_7/variant.m3u8
 https://hls-igi.cdnvideo.ru/igi/igi_sq/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ????????
 https://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ?????? ??
-http://cdn10.live-tv.od.ua:8081/izod/izod-abr/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ?????? ??
-http://cdn10.live-tv.od.ua:8081/izod/izod/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ????????
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_KARUSEL/variant.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ???????? +2
@@ -4073,14 +3970,10 @@ https://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/playlist.m3u8
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ???????
 https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ??? ?????????
-http://s1.only4.tv/0107/video.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ?????? ??7 (RU)
 http://vod.tv7.fi:1935/tv7-ru/tv7-ru.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ?????
 https://hls-video01.cdnvideo.ru/video01/smil:video01.smil/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ????? ???
-https://persik.by/stream/8682/252987/10231.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ???
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_OTR/variant.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ?????? ????????? (?????? ???)
@@ -4169,8 +4062,6 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_STS_7/variant.m3u8
 http://rt-sib-kem-htlive.cdn.ngenix.net/hls/CH_R01_OTT_SIB_KEM_GTRK/variant.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ??? ?????
 https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ??????? 24
-http://saratov24.tv:80/online/playlist.php
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ??????? ??
 http://90.188.37.86/live/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ????
@@ -4227,10 +4118,6 @@ http://hlsstr01.svc.iptv.rt.ru/hls/CH_TNT4_7/variant.m3u8
 http://streaming.astrakhan.ru/telplushd/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ??? ??????
 https://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ??? ?????.
-https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ????? 24
-https://sc.id-tv.kz/Khabar_24_34_35.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ??
 http://hlsstr01.svc.iptv.rt.ru/hls/CH_PERETZ/variant.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com ?? +7
@@ -5783,10 +5670,6 @@ http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Arirang HD
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com BBS Buddhist Broadcasting
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/chunklist_w1216149699.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com BBS Buddhist Broadcasting
-http://bbstv.clouducs.com:1935/bbstv-live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com GCN
 http://liveko24-manminglobal3.ktcdn.co.kr/liveko24/gcnko_high/chunklist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com KBS LiveCam DokDo
@@ -5795,8 +5678,6 @@ http://kbs-dokdo.gscdn.com/dokdo_300/_definst_/dokdo_300.stream/playlist.m3u8
 http://183.110.27.87/mtnlive/_definst_/720/chunklist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com NBS Korea Agricultural Broadcasting
 https://media.joycorp.co.kr:4443/live/live_720p/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TVWorkNet
-http://live.worktv.or.kr:1935/live/wowtvlive1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com KOK Fights
 https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com KOK Fights
@@ -5817,10 +5698,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 https://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com R9 TV
 https://ms01.w24.at/R9/smil:liveeventR9.smil/playlist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Teins TV
-http://live1.markenfunk.com/t1/live/chunklist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Teins TV
-https://live1.markenfunk.com/t1/live/chunklist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com W24 TV
 https://ms01.w24.at/W24/smil:liveevent.smil/chunklist_w89103916_b2176000_slger.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Kalsan TV
@@ -5837,12 +5714,6 @@ https://ur.imamhusseintv.com/live/ih4.m3u8
 https://d1x82nydcxndze.cloudfront.net/live/index.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Kurdistan TV
 https://5a3ed7a72ed4b.streamlock.net/live/SMIL:myStream.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Altyn Asyr TV
-https://alpha.tv.online.tm/legacyhls/ch001_720/index.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Asgabat TV
-https://alpha.tv.online.tm/legacyhls/ch006_720/index.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Miras
-https://alpha.tv.online.tm/legacyhls/ch003_720/index.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Türkmenistan TV
 https://alpha.tv.online.tm/legacyhls/ch007_720/index.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Türkmen Owazy
@@ -5871,8 +5742,6 @@ https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist_1080p/index.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Thai PBS 3
 https://thaipbs-live.cdn.byteark.com/live/playlist_720p/index.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com White Channel
-http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TVNET
 http://player.tvnet.lv/stream/amlst:61659/chunklist_w1822312625_b528000_pd892000.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com TVNET
@@ -5903,10 +5772,6 @@ http://live.azstartv.com/azstar/smil:azstar.smil/playlist.m3u8
 https://uni01rtmp.tulix.tv/firstlight/firstlight.smil/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Maori Television
 https://bcsecurelivehls-i.akamaihd.net//hls/live/720612/1614493167001_1/master.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com BeritaSatu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com BeritaSatu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_320x240.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com BeritaSatu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Radio 51 TV
@@ -6013,10 +5878,6 @@ https://dai.google.com/linear/hls/event/e1QjWFRNSR2YFYGsPbkfgg/master.m3u8
 https://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCU-92/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com COMET
 https://dai.google.com/linear/hls/event/83L2OqtGSZ6lbWt8ODomWg/master.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com CT-N Court Feed
-http://video.ct-n.com/live/ctnSupreme/chunklist_DVR.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com CafeTV24 Veneto (Opt-1)
-https://srvx1.selftv.video/cafe/live/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Canal 13 La Rioja
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Canal 4 Jujuy
@@ -6047,8 +5908,6 @@ https://dai.google.com/linear/hls/event/9cq79TtPR6WbyaQGeDlHjA/master.m3u8
 http://video.oct.dc.gov/out/u/DCN.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com District of Columbia Network
 https://video.oct.dc.gov/out/u/DCN.m3u8
-#EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Divine Vision
-http://divineplayout-us2.tulix.tv/live/Stream1/.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Docurama
 https://dai.google.com/linear/hls/event/Hx_PEMEsSzOCcZgy0Tq2YQ/master.m3u8
 #EXTINF:-1 group-title="ALI" tvg-logo="https://i.ibb.co/0jVv6sZ/ali.jpg",list.alliptvlinks.com Dove Channel
