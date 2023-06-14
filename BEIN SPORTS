@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: AL-QURAN AL-KAREEM
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231309
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY QTV
@@ -15,14 +16,10 @@ http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231318
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231319
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GNN NEWS
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231320
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: BOL NEWS
-http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231321
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: 24 NEWS
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231322
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: NEWS ONE
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231323
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: NEO NEWS
-http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231324
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: LAHORE NEWS
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231326
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ABB TAKK NEWS
@@ -35,8 +32,6 @@ http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231329
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231330
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO TEZZ
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231331
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: K21 NEWS
-http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231332
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY DIGITAL
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231336
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: HUM TV HD
@@ -69,8 +64,6 @@ http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231357
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231362
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: HUM MASALA
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231364
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ANIMAL PLANET
-http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231366
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY MUSIK
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231368
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: GEO SUPER
@@ -79,10 +72,6 @@ http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231373
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231376
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ASIA TV HD
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231378
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: HUM MASALA UK
-http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231379
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK : Kay2 TV
-http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231383
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK : Lollywood
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231384
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: TAG TV
@@ -99,8 +88,6 @@ http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231389
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231390
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ARY Zindagi
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231391
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: ZINDAGI TV
-http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231395
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Hadi TV
 http://iptvch.com:2082/7wOd6fH332c1/8Skfy98Fd74f/231396
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: King TV HD
@@ -121,10 +108,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49557
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/16964
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: & Xplor
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/196116
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: 3 Tamil TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/60420
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: 10 TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/296485
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: 5AAB TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286195
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: 9X Jalwa
@@ -139,8 +122,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/45471
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/12977
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Aamar Cinema
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/297564
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Aastha Kannada
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/269761
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Aastha TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/145647
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: ABP Ananda
@@ -157,8 +138,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/196120
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/296266
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Anjan TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286918
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Asianet Movies
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157463
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Asianet News
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/163276
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Asianet News Tamil
@@ -169,8 +148,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193206
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286792
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Ayush TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82500
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: B4U Bhojpuri
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/197946
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: B4U Kadak
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49556
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: B4U Movies
@@ -189,14 +166,10 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193007
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49548
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Bindass
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/145655
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Boogle Bollywood
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193087
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Brit Asia TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/71067
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Captain TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/294952
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Cartoon Network
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82584
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Channel i
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/296496
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Channel WIN
@@ -217,8 +190,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/247530
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/19741
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Colors Gujarati
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/145645
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Colors Kannada
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/192203
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Colors Marathi
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82642
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Colors Rishtey
@@ -227,14 +198,8 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49547
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/270135
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Dabangg
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/165800
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Dangal TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82589
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: DD Bharati
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193040
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: DD Girnar
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/145648
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: DD Malayalam
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/45499
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: DD National
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/192197
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: DD News
@@ -257,8 +222,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/283905
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/165784
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Dillagi
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/196128
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Discovery Channel
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/295292
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Discovery Kids
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82683
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Discovery Science
@@ -269,18 +232,12 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/73792
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/192985
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Divyavani TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/166373
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: E 24
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193086
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Eet TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/51818
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Enterr 10
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193025
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Epic TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/192950
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: ET Now
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82513
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Fakt Marathi
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193017
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Fast Way News
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/267402
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Flowers TV
@@ -319,8 +276,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/45428
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/51823
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Imayam TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/166375
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: India News Punjab
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/295396
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: India plus
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/290683
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: India Today
@@ -329,34 +284,22 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/16970
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49577
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Ion TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/198746
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Isai Aruvi
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193205
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Jaihind TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/192073
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Jan TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193176
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Janam TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/197720
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Janta TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/60348
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Jaya Max
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/51824
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Jaya TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/145637
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Jeevan TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/166377
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Jhanjar Music
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82522
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: JonmoBhumi TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/285932
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: K News India
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/275947
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Kairali News
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/294953
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Kairali TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/51849
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Kalaignar Murasu TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286966
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Kalaignar Seithigal
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/283911
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Kalinga TV
@@ -369,18 +312,8 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193109
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82530
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: KCL TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286959
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Kerala Vision
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/267445
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Khabrain Abhi Tak
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286974
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: KTV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/36442
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Living India News
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/159107
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Lok Sabha TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82532
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Madha TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193042
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Maha Movie
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82608
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Malabar News
@@ -391,8 +324,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/192076
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/192200
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Manoranjan TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/295501
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Mantavya 24x7 News
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/159109
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Mastiii
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/76958
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Mathrubhumi News
@@ -429,8 +360,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193015
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/16601
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: News Live
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193089
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Nickelodeon
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286732
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: NRB TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/281555
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Odisha TV
@@ -439,8 +368,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193136
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/264726
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Pitaara
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/145652
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Polimer News
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/163279
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Pratidin Time
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/198224
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Prime 9 News
@@ -449,8 +376,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/270138
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49519
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: PTC Chakde
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193155
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: PTC DHOL
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/264722
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: PTC News
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/295294
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: PTC Punjabi
@@ -473,12 +398,8 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/60418
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193137
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Raj TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193125
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Real News Kerala
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/283939
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Relax TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/287018
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Reporter
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/51854
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Republic Bharat
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49582
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Republic TV
@@ -515,8 +436,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/51882
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82554
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Satsang TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/45463
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Shraddha Mh One
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193116
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Shubhsandesh TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82557
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Sikh Channel
@@ -531,24 +450,16 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/51842
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/281867
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Sony Aath
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/17005
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Sony BBC Earth
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/192995
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Sony Marathi
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193097
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Sony Max
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1359
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Sony Max 2
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/4862
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Sony Pal
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193645
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Sony Pix
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49539
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Sony SAB
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1073
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Sony Sports Ten 1
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/16622
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Sony Sports Ten 2
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/16621
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Sony Sports Ten 3
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/56191
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Sony Wah
@@ -559,8 +470,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1355
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/284583
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Star Gold
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1070
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Star Gold 2
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/43919
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Star Gold Select
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/297547
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Star Jalsha
@@ -571,8 +480,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82624
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/11511
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Star Movies India
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/297546
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Star Movies Select
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/267542
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Star Plus
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/16091
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Star Sports 1
@@ -583,12 +490,8 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/3631
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/62584
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Star Sports Select 1
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82628
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Star Sports Select 2
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/16619
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Star Vijay
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/19744
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Steelbird Music
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49650
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Subhavaartha TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/166397
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Sun Life
@@ -613,24 +516,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193093
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193024
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Tamil Vision
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/60423
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Tamilan TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/267549
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Thanthi TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/45437
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Times Now
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/76961
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Travelxp
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82636
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: TV 5 Kannada
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193065
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: TV 9 Gujarati
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193152
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: TV 9 Kannada
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193060
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: TV 9 Telugu
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/163256
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: TV 16 Toronto
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/147414
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Utsav Bharat
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/16614
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Utsav Gold
@@ -671,8 +556,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/21658
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1351
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Zee Business
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/16984
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Zee Café
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49561
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Zee Cinema Asia
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1350
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Zee Classic
@@ -701,8 +584,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/21561
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1348
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Zee World
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/172264
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Zee Yuva
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/45502
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Zing
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1347
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Zoom
@@ -741,20 +622,12 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49494
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1396
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: AVT Khyber
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/287724
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Awaz TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/197634
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Bol Entertainment
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49517
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Bol News
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1395
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Can Bangla TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286198
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Canada One
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/147405
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Capital TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/16625
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Channel Five
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49501
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: City 41
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/192079
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Dawn News
@@ -807,8 +680,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/226395
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/168909
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Khyber News
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49533
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: King TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/267425
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: KTN
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/166013
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: KTN News
@@ -817,16 +688,12 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157332
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/18916
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Lahore Rang
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/267564
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Madani Channel Urdu
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/121144
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Minhaj
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/196573
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Mission Asia
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/284256
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: My TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/196243
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Neo TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1383
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: News One
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/16994
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Noor TV
@@ -861,8 +728,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49522
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/196563
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Raham TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/196564
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Rohi TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/197122
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Roze News
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/21686
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Samaa TV
@@ -877,8 +742,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/197116
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49515
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Toronto 360 TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49513
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: TV One Global
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/5108
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: UK 44
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/196565
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Urdu 1
@@ -887,16 +750,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1376
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1375
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",PK: Zindagi TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1374
-#EXTINF:-1 group-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Aastha TV
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/221875.ts
-#EXTINF:-1 group-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Angel TV India
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/221886.ts
-#EXTINF:-1 group-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Brit Asia TV
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/221915.ts
-#EXTINF:-1 group-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: IBC 24 TV
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/221993.ts
-#EXTINF:-1 group-title="IN" tvg-logo="https://i.ibb.co/nR6WrvW/Flag-of-India.png",IN: Ion TV
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/222002.ts
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AR: ABN
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/63105
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AR: Al Basira
@@ -987,8 +840,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/85157
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/11369
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AR: Sahel TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/11896
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AR: Sarhan TV Classic
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/283242
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AR: Sat 7 Arabic
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/276135
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AR: Sat 7 Kids
@@ -997,8 +848,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/285984
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/283223
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AR: Shoof Max 3
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/283224
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AR: Sky Flix Aflam 1
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/283264
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AR: Sky Flix Aflam 2
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/283265
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AR: Sky Flix Anime 1
@@ -1175,8 +1024,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/2224
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/2634
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: Light Channel
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/284789
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: Love Nature
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/67018
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: Magic TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/66500
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: MDI TV
@@ -1223,18 +1070,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/147300
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/2222
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: Pro Arena
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/5748
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: Pro Cinema
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/6150
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: Pro TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/4229
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: Pro TV International
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/194672
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: Profit TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/73444
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: Rapsodia TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/73438
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: Realitatea Plus
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/4230
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: Romania TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/2631
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: Speranta TV
@@ -1273,14 +1108,10 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/2221
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/2220
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: TVR 3
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/9833
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: TVR Craiova
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/284748
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: TVR International
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/9831
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: TVR Moldova
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/151470
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: TVR Targu Mures
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/284735
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: U TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/2219
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RO: Viasat Explore
@@ -1373,8 +1204,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/279628
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/75540
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Bob leponge
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286452
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Boing
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/213
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Boomerang
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1931
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Box Office 8
@@ -1449,8 +1278,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/210
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286453
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: CDirect
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/165045
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Central TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286502
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Chasse & Peche
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/196
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Cherie 25
@@ -1497,8 +1324,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1198
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1927
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Disney Junior
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1197
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Disney XD
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/208
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Disney+
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/207
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Donald Duck
@@ -1573,8 +1398,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/4376
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/202
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Juste pour Rire
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286446
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Kids Series+
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286472
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: KTO
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/14085
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: L Equipe
@@ -1609,8 +1432,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/224
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286517
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Mangas
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/214
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Matele
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/75552
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: MCM
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/4355
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: MCM Pop
@@ -1711,16 +1532,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/279752
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1940
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: RMC SPORT 7
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/20883
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: RMC SPORT 8
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/20884
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: RMC SPORT 9
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/20885
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: RMC SPORT 10
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/192025
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: RMC SPORT 13
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/20890
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: RMC SPORT 14
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/20889
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: RMC Story
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/162
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Romance
@@ -1737,18 +1548,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/298483
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/199
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Seasons
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/195
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Serie Club
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1903
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Sofy TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286518
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Sport
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/187484
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Stingray Classica
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/281897
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Stingray CMusic
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/281784
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: SYFY
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/867
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: TCM Cinema
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1902
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Teletoon +1
@@ -1775,12 +1574,8 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/200
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/4311
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: TRACE Ayiti
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/290664
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: TRACE Caribbean
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/11843
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: TRACE Gospel
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/11999
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: TRACE Kitoko
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/3685
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: TRACE Latina
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/32392
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: TRACE Mziki
@@ -1817,8 +1612,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/23464
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286524
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Ushuaïa TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/190
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: ViamaTele
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286529
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: ViaOccitanie
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/194295
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FR: Vosges TV
@@ -1839,8 +1632,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/95719
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/145961
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",BE: Bel RTL
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/145959
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",BE: Boomerang
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/281683
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",BE: bx1 Redif
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/16696
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",BE: Canal Atlas
@@ -1893,16 +1684,12 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286017
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/244966
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",BE: RTL Luxembourg
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/174667
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",BE: RTL Luxembourg Zwee
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/266861
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",BE: RTL TVI
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/251
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",BE: Tipik
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/249
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",BE: TVO
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1946
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",BE: Voo Sport World 1
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/245
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",BE: Voo Sport World 2
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1964
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",BE: VTM
@@ -1961,8 +1748,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/70853
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/23838
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",CH: MySports 5
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/90859
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",CH: MySports 6
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/148193
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",CH: MySports 8
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/148198
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",CH: MySports 9
@@ -2069,8 +1854,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/696
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/697
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: BBC One East Yorkshire
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/296926
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: BBC One London
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/296922
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: BBC One Northern Ireland
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/296927
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: BBC One Scotland
@@ -2185,8 +1968,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1604
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/4638
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: Duck TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/144753
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: E!
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1542
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: E4
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1110
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: Eden
@@ -2243,8 +2024,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/151864
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1600
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: History
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/282756
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: History 2
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1601
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: HobbyMaker
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/296396
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: Horror Channel
@@ -2405,8 +2184,6 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/163132
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/165921
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: Sky Store 2
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/165922
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: Sky Store 3
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/165929
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: Sky Store 4
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/165926
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: Sky Witness
@@ -2417,30 +2194,14 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/266984
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/192776
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: SYFY
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1068
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: Talking Pictures TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/4710
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: TBN
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157286
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: TCM Movies
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/4711
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: Thane
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/11469
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: The Box
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/4740
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: The Craft Store
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157284
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: Tiny Pop
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/264542
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: TJC
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/269049
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: TLC
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1067
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: Together TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157281
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: TRACE Vault
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/296603
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: Travel Channel
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/295133
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: Travelxp
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157273
 #EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",UK: TV Warehouse
@@ -2459,60 +2220,20 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1065
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/126547
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/7c52ed5b8820b7dfd90b5a784bac64b3.png",RO: AMC
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/36305
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/86c25218df97a8b1086034b4cb263826.png",RO: Animal Planet
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/145051
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/e31c0de9b4160431be9aebdfa271b4cb.png",RO: Antena 1
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31056
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/278c010893ed8947584acbc7c1cf9609.png",RO: Antena 3
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31057
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/5333bbd4fd624e6a66d117840be9527c.png",RO: Antena Stars
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31061
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/2dc4dc9dedc983a9676e40c7756d227d.png",RO: AXN
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/112214
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/2dc4dc9dedc983a9676e40c7756d227d.png",RO: AXN Black
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31063
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/3cfb709aecc6851ba072e053fc261684.png",RO: AXN Spin
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/112215
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/2dc4dc9dedc983a9676e40c7756d227d.png",RO: AXN White
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31065
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/4f0a255239d91da1547c989df7510798.png",RO: Bollywood TV
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31071
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/8384404719f745b303e5c2d0b292f6fa.png",RO: Cartoon Network
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/36304
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/d2fe3b85c3a4b56be17d9c92728d88e0.png",RO: CineMaraton
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/158248
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/156313ed0e9462c9a84fe4cf60ba4f7d.png",RO: Cinemax +
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31079
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/a6dd86c9eb476c0bc4122e6873cf9ea9.png",RO: Cinemax 2
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31080
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/d85df652c2f313b2e66b5489e59774b0.png",RO: Comedy Central
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/145058
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/61ba08e3d64812756330e6660e09d9b3.png",RO: Crime Investigation
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/145057
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/5be734f0f4b497b4cea16d0c69118baa.png",RO: Digi 24
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31096
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/30dfc24d47b725abce92ccf8bb8227de.png",RO: Digi Animal World
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31089
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/d9f89bd2f313b1c1a3c24af7259adccc.png",RO: Digi Life
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31090
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/0b6486f93ddfde3a55624cd1ce8b0b69.png",RO: Digi World
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31095
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/e42be2028f3a5db71c140fef7d466508.png",RO: Discovery Channel
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31097
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/56ea68604747cd9d2f29655fc8465f45.png",RO: Disney Jr
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31102
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/f240a4a08ef4d49a9b643168779d8491.png",RO: Disney Romania
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31101
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/676e6982e096f4e8a258334e5764251d.png",RO: Diva
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31103
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/0b4b41a4738cb128a455cf4e7d4ecc2c.png",RO: DTX
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/126534
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/4af52202f77beb11ba59ce2056aa7878.png",RO: Duck TV
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/126551
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/f9cb2e74ff81b427bdd2272e2700f267.png",RO: E! Entertainment
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31105
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/4dcdd085d921bf0b4a7e9365b63fa9b3.png",RO: Favorit
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31110
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/c704848d4a3d3928cc23076075737c30.png",RO: Fight Box
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31054
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/2a4fae01739a8eea5414a2d39b8edc54.png",RO: Film Cafe
@@ -2523,72 +2244,32 @@ http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31112
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/126549
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/74b6db26b5870662c21e687debf2e336.png",RO: FilmBox Premium
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/36298
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/a1baa421808f4a92716d7f7f21684b32.png",RO: Fishing and Hunting
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/112224
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/b2b1bee06024bc068a68d6a331cfb6de.png",RO: Food Network
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31115
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/52c094f37c95d28fcfaf3e8b6e63ce6a.png",RO: Happy Channel
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31117
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/509e5f41146e278f9eab1ddaceb34515.png",RO: HBO
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31120
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/675664b597f318f30d66c8d8834ea421.png",RO: HBO 2
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31118
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/d046646144a8fbb77e38cf4bf52baec8.png",RO: HBO 3
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31119
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/65b50b04a6af50bb2f174db30a8c6dad.png",RO: History Channel
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31121
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/6ea3a5e429f2b54ecea6048928fefec5.png",RO: Hit Music
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31123
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/e00a346a1e80c3d33bbb82d4fd74b31e.png",RO: Discovery Investigation
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31383
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/a7b0cf52be37ca9cb8ce16f61a6c9ca6.png",RO: Jim Jam
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/126545
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/1e6fffa02f332fba4f4571ea33a90c84.png",RO: Kanal D
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31130
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/2178d193056632ec906ceba682621ba1.png",RO: Kiss TV
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31132
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/380c18e239f03cf9c0a846c7defd029b.png",RO: Minimax
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31137
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/9e7c1e00a5fd7ad903f0ac7f6d2372fa.png",RO: Mooz RO!
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/156895
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/139c73db005444c56e3f84cffe3f650d.png",RO: MTV Dance
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31145
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/b49882eae96bb41a7fa1feb6aa7acc18.png",RO: MTV Live
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/112236
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/398afe5297c292266c0cecfc0e33d639.png",RO: Music Channel
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31147
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/f91c676cbee8fc9aa708334fcf26d981.png",RO: National Geographic
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31151
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/03fffb1d10688007866188a8aca33d44.png",RO: Nat Geo Wild
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31149
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/129d352db4fdb3980d95faeefff68e8d.png",RO: National 24 Plus
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/145068
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/c23f0bf4f8d9fe94a6b0ec9ae5482433.png",RO: National TV
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31152
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/baf9de9c28fc83e02a855636615b4dab.png",RO: Nick JR
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/16515
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/f5dc2922e247892e44d4fc43f54b2e0f.png",RO: Paramount Channel
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31160
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/03ad331169e4cf129cb091d26d623f5e.png",RO: Prima TV
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31162
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/4b522256675001cbe494887e74c4bbc4.png",RO: Pro 2
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31163
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/25233e7de25b1855d281f0cac474234a.png",RO: Pro Cinema
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31164
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/4a6146c0f341266a48497b8849ee235d.png",RO: Pro Gold
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31165
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/8eecc35dfc24ed12a27530371ec24dca.png",RO: Pro TV
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31166
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/2d69e2eed4588351b02a963f3eecb4ef.png",RO: Pro TV Internațional
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/144766
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/0d4d75b55494cfca369b064b9182ab6f.png",RO: Publika TV
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31171
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/8dd770410af7af97f98b50a2844b8dec.png",RO: Realitatea TV Plus
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31174
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/435842d73570a24e1406ff5f6f878b11.png",RO: Romania TV
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31175
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/29eb844dda9077b2edd33d48c62db4bf.png",RO: Taraf TV
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31182
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/c599760036bcf57fde883151b7150c2b.png",RO: TLC
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31190
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/c3882f702a4b97bffb5c84f895c9b562.png",RO: Travel Mix
@@ -2597,70 +2278,10 @@ http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/20843
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31196
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/d577e21b929ab8cd6d19a69bedd1e12c.png",RO: TV Paprika
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/36295
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/78e50067364a48925cd9eea09c9324a0.png",RO: TVR 1
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/112230
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/dcb5f2dc29e49c4565face06dbafafbf.png",RO: TVR 2
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31203
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/b9a3e871431bf75a6ef5691c9b095c52.png",RO: TVR 3
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31204
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/b0b76754bb1773865a5ac03b73e93486.png",RO: Viasat Explore
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31158
 #EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/a768ca078d75ab56821eea8e245a8330.png",RO: Viasat History
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31215
-#EXTINF:-1 group-title="Romania" tvg-logo="http://myserveriptv.com:2082/images/c6ad9f9db10cde0cb26213f0c3348f57.png",RO: Zu TV
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/31218
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| Digi Sport 1
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68511
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| DIGI SPORT 2
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68512
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| Digi Sport 4
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68514
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| TVR 2
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68522
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| Nat Geo Wild
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68526
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| Digi Film
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68530
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| Antena 1
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68533
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| HBO 3
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68534
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| ProTV
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68539
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| Prima Tv
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68540
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| Disney Channel
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68541
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| Kanal D
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68544
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| Cinemax2
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68547
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| TVR 3
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68553
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| Film Cafe
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68556
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| DIVA TV
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68557
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| MEZZO
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68561
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| KISS TV
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68564
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| AXN Romania
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68570
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| AXN White
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68571
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| Etno Tv
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68573
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| VH 1
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68575
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| 1 Music Channel
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68579
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| AXN Black
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68588
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| Comedy Central
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68589
-#EXTINF:-1 group-title="RO" tvg-logo="https://i.ibb.co/GV7mNyr/Ro.png",||RO|| TVR HD
-http://obsfullhd.tv:25461/K2otree.worldtv@/rf8vn5dXqHDf/68594
 #EXTINF:-1 group-title="Netherlands" tvg-logo="http://myserveriptv.com:2082/images/d49dd61efea1d74dbd319b1903a17032.png",NL: 100% NL
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/66829
 #EXTINF:-1 group-title="Netherlands" tvg-logo="http://myserveriptv.com:2082/images/4f5de9b6308c17d39c6384c1e7d3e2f1.png",NL: 24 Kitchen
@@ -2759,8 +2380,6 @@ http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/207460
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/207462
 #EXTINF:-1 group-title="Netherlands" tvg-logo="http://myserveriptv.com:2082/images/5d55083bb0e2f99e053fa5c150a610ce.png",NL: Omroep Fryslan
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/207463
-#EXTINF:-1 group-title="Netherlands" tvg-logo="http://myserveriptv.com:2082/images/22e91a0bc9a87337f12d65fbca59dab7.png",NL: ONS
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/207464
 #EXTINF:-1 group-title="Netherlands" tvg-logo="http://myserveriptv.com:2082/images/f8f6b901182d46593c8b35715c8035c2.png",NL: Out TV HD
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/76380
 #EXTINF:-1 group-title="Netherlands" tvg-logo="http://myserveriptv.com:2082/images/a9ae97079ede245b4eaf9d43983ef6be.png",NL: RTL 4 HD
@@ -2769,8 +2388,6 @@ http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/75261
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/75262
 #EXTINF:-1 group-title="Netherlands" tvg-logo="http://myserveriptv.com:2082/images/4ac61a60ddd6e456e01e99f4f30cc822.png",NL: RTL 7 HD
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/152191
-#EXTINF:-1 group-title="Netherlands" tvg-logo="http://myserveriptv.com:2082/images/55f3450d84f2db1be29dcced1853f183.png",NL: RTL 8 HD
-http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/75264
 #EXTINF:-1 group-title="Netherlands" tvg-logo="http://myserveriptv.com:2082/images/26707f6c7e90fed86c5f7e115d6b6093.png",NL: RTL Crime HD
 http://iptvch.com:2082/worldiptv/9lE7Vdu3DMNB/75265
 #EXTINF:-1 group-title="Netherlands" tvg-logo="http://myserveriptv.com:2082/images/8d4b36956ef8f530ec7205cee0e1cc0a.png",NL: RTL Lounge HD
@@ -2833,8 +2450,6 @@ http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/17657
 http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/18116
 #EXTINF:-1 group-title="4K Movies English" tvg-logo="http://iptvch.com:2082/images/68ef0f174963fe248d689cd52d10170b.png",Movies 4K Romance
 http://myserveriptv.com:2082/7wOd6fH332c1/8Skfy98Fd74f/20979
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",|BEIN FR|  BEIN SPORTS 2 FR FHD
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27088
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",|BEIN FR|  BEIN SPORTS 3 HD
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27084
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",|BEIN FR|  BEIN SPORTS MAX 5
@@ -2861,8 +2476,6 @@ http://player.smartvpluseu.com:8080/3143122720748133/2598854265/28247
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/28237
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",|FR| BEIN SPORTS 3 SD
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/28246
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",|FR| BEIN SPORTS 3 FHD
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/28236
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",|FR| BEIN SPORTS MAX5
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/28244
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",|FR| BEIN SPORTS MAX6
@@ -2891,8 +2504,6 @@ http://player.smartvpluseu.com:8080/3143122720748133/2598854265/36422
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/3060
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS 2 HD FR
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/137032
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS 1 HD ENG
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/36424
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS PREMIUM 2 FHD
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/24424
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS PREMIUM 3 FHD
@@ -2901,336 +2512,18 @@ http://player.smartvpluseu.com:8080/3143122720748133/2598854265/24423
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/239656
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS 2 FHD
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/24421
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS 3 FHD
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/24420
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS 5 FHD
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/24418
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS 2 FHD FR
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/173445
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS 3 FHD FR
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/173446
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS 1 FHD ENG
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/137082
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS 2 FHD ENG
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/173442
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS PREMIUM 2 h265
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/12412
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS 5 h265
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/23565
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS PREMIUM 2 SD
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/36423
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS 3 SD
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/36425
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS 6 SD
 http://player.smartvpluseu.com:8080/3143122720748133/2598854265/3068
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS 1 SD ENG
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/162384
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RTP 1
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253189.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RTP 1 ??
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253190.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SIC
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253195.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",CMTV
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253201.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",BOLA TV
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253212.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SPORT TV +
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253214.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TVCINE EDTION
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253219.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TVCINE EDITION HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253220.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TVCINE EMOTION HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253222.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TVCINE ACTION
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253223.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",NOS STUDIOS
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253225.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",HOLLYWOOD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253227.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FOX MOVIES
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253229.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MEO Videoclube
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253233.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AMC BREAK
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253237.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AMC CRIME
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253239.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AXN WHITE
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253242.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AXN WHITE HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253243.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AXN MOVIES HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253245.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",DIZI CHANNEL
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253246.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SYFY
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253247.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FOX CRIME HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253252.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FOX COMEDY
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253253.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FOX LIFE
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253255.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SPORT TV 1
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253257.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SPORT TV 1 ??1280
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253258.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SPORT TV 1 HD 1 BIT
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253261.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SPORT TV 2 ??1280
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253263.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SPORT TV 3
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253266.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SPORT TV 5
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253272.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SPORT TV NBA
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253276.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SPORTING TV
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253282.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",ELEVEN SPORTS 1 ??1280
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253285.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",ELEVEN SPORTS 2
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253288.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",BABY TV
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253300.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253301.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",NICKELODEON-
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253302.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",CANAL PANDA-
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253303.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Sic Kids
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253305.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",PANDA BIGGS
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253308.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",BOOMERANG
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253309.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",DISNEY JUNIOR-
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253310.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",DISNEY CHANNEL-
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253312.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",CARTOON  NETWORK
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253314.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TVI FICCAO HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253317.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TVI REALITY MOSAICO
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253324.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TV GLOBO
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253325.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RECORD NEWS
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253327.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TV RECORD HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253329.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SIC RADICAL
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253334.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",PORTO CANAL
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253346.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253348.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AR TV
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253349.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",CNBC EUROPE
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253351.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",CGTN
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253352.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RTP Africa
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253358.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Cacavision 0
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253372.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",GINX
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253377.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RTP ARENA HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253379.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Horse TV
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253383.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MOTORVISION TV
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253387.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253393.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TRACE URBAN
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253396.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253403.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MTV 00s
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253406.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MTV PORTUGAL HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253408.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MTV LIVE HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253409.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MTV ClASSIC
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253412.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MCM Pop
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253414.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",ZAP VIVA
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253418.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TV Galicia HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253421.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TVC News
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253422.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] RTP 1 HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253428.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] SIC HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253430.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] SIC NOTICIAS HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253436.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] A BOLA HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253437.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] SPORT TV + HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253439.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] SPORT TV 2 HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253443.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] SPORT TV 3 HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253446.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] Sport Tv 5 HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253448.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] BTV HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253450.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] ELEVEN SPORTS 1 FHD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253453.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] ELEVEN SPORTS 5 FHD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253462.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] TVCINE TOP HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253464.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] TVCINE EDITION HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253465.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] TVCINE EMOTON HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253467.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] AXN HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253469.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] FOX FHD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253472.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] AXN MOVIES HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253474.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] FOX MOVIES HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253475.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] FOX LIFE HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253478.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] NOS STUDIOS HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253479.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] CNN PORTUGAL HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253485.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] CANAL 11 HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253487.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] TV RECORDE HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253488.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] SPORT TV NBA HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253493.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] SIK KIDS HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253494.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc]  E! ENTERTAINMENT HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253496.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] ODISSEIA HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253501.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] SIC MULHER HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253502.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] SPORTING TV HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253504.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc]  National geographic HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253505.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc]  National Geographic wild HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253506.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] RTP 3 HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253510.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] TVI REALITY HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253512.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",[hevc] PANDA HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253514.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RTP 1  LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253515.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SIC LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253517.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",CMTV LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253519.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",CNN PORTUGAL LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253520.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SIC NOTICIAS LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253522.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",RTP 3 LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253523.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SPORT TV 2 LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253526.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",BENFICA TV LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253528.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TV Cine Edition LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253530.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TV Cine Emotion LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253531.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TVCINE ACTION LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253532.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",HOLLYWOOD LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253534.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",CINEMUNDO LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253535.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AXN LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253536.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FOX LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253537.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",ELEVEN SPORTS 2 LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253541.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",AXN MOVIES LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253543.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FOX MOVIES LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253544.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FOX CRIME LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253545.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SPORT TV + LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253546.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",National geographic LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253547.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Geographic wild  LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253548.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",ODISSEIA LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253549.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",EUROSPORT 2 LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253551.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",ELEVEN SPORTS 3 LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253552.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Nick Junior LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253553.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",DISNEY JUNIOR LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253554.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",DISNEY CHANNEL LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253556.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",PANDA BIGGS LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253558.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FOX COMEDY LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253560.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SPORT TV 5 LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253562.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",HISTORIA LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253563.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TVI FICCAO LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253565.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SPORTING TV LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253566.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TVI REALITY LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253567.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",ID Investigation Discovery LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253571.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FOOD NETWORK  LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253572.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",CANAL 11 LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253573.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",FOX LIFE LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253574.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",24 KITCHEN LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253576.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",TLC LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253577.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",MTV PORTUGAL LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253578.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",SPORT TV 6 LOW
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253581.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",Nick + HD
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253583.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",DISNEY +
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253584.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253587.ts
-#EXTINF:-1 group-title="MX" tvg-logo="https://i.ibb.co/Pgn31W0/MX.png",DISNEY STAR WARS
-http://c21black12c.xyz:8080/Mde03/BmcUy8euk2x7/253588.ts
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/zDiIhdN.png",7S Music (576p) [Not 24/7]
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/F17QtN2.png",9XM (480p)
@@ -3381,8 +2674,6 @@ https://cdn-cekmekoybeltv.yayin.com.tr/cekmekoybeltv/cekmekoybeltv/playlist.m3u8
 http://stream.taksimbilisim.com:1935/ciftcitv/smil:ciftcitv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",DHA (720p) [Not 24/7]
 https://603c568fccdf5.streamlock.net/live/dhaweb1_C5efC/playlist.m3u8
-#EXTINF:-1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",Diyanet TV (720p)
-https://eustr73.mediatriple.net/videoonlylive/mtikoimxnztxlive/broadcast_5e3bf95a47e07.smil/playlist.m3u8
 #EXTINF:-1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",Haber61 TV (720p) [Not 24/7]
 https://cdn-haber61tv.yayin.com.tr/haber61tv/smil:haber61tv.smil/index.m3u8
 #EXTINF:-1 group-title="Turk" tvg-logo="https://i.ibb.co/YkWLkXj/turk.jpg",Icel TV (720p) [Not 24/7]
@@ -3461,8 +2752,6 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/RFH_high/playlist.m3u8
 https://rialto-rialto-samsungaustralia.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/3o9cG76.png",Rooster Teeth TV (1080p)
 https://d2klx6wjx7p5vm.cloudfront.net/Rooster-teeth/ngrp:Rooster-teeth_all/playlist.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://www.smidlib.cz/obrazky/clanky/liberecky-eter/co-se-deje-v-eteru-libereckeho-kraje/logo-tv-rtm+.jpg",RTM plus (720p)
-http://www.rtmplus.cz/live/1-playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/9houwTS.png",RTTR Trento (720p)
 https://5f204aff97bee.streamlock.net/RTTRlive/livestream/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/g639yyT.jpg",RTV BPK (720p)
@@ -3561,8 +2850,6 @@ https://limited35.todostreaming.es/live/mitjans-livestream.m3u8
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/toNeonC.png",The Blaze (720p)
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5e46fba0c43b0d00096e5ac1/master.m3u8?advertisingId=&appName=web&appVersion=2.9.4-5a4e0d260864cab32bb296709789424ab48df204&architecture=&buildVersion=&clientTime=&deviceDNT=0&deviceId=954c037d-1a11-44d3-b488-9d06f8a3e068&deviceLat=33.9560&deviceLon=-118.3887&deviceMake=Chrome&deviceModel=Chrome&deviceType=web&deviceVersion=81.0.4044.26&includeExtendedEvents=false&serverSideAds=true&sid=e6f1682e-cc62-437a-bd0d-082bea9a4059&userId=
-#EXTINF:-1 group-title="Other" tvg-logo="https://od.lk/s/MF8yMzI1NDE5MjJf/Heartland_720x720.png",The Heartland Network (720p)
-https://bcovlive-a.akamaihd.net/1ad942d15d9643bea6d199b729e79e48/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://www.samsung.com/us/smg/content/dam/s7/home/televisions-and-home-theater/tvs/tv-plus/us-channel-lineup/TheNewDetectives_190x190.png?raw=true",The New Detectives (720p)
 http://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5aea40b35126c2157123aa64/master.m3u8?advertisingId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&appVersion=unknown&deviceDNT=0&deviceId=91a6ae51-6f9d-4fbb-adb0-bdfffa44693e&deviceLat=0&deviceLon=0&deviceMake=samsung&deviceModel=samsung&deviceType=samsung-tvplus&deviceUA=samsung/SM-T720/10&deviceVersion=unknown&embedPartner=samsung-tvplus&profileFloor=&profileLimit=&samsung_app_domain=https://play.google.com/store/apps/details?id=com.samsung.android.tvplus&samsung_app_name=Mobile+TV+Plus&us_privacy=1YNY
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/AzZhwWR.jpg",Time Line (720p)
@@ -3627,8 +2914,6 @@ http://89.38.8.130:39443
 https://unlimited1-us.dps.live/uatv/uatv.smil/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/IWpevBp.jpg",VBS TV (480p) [Not 24/7]
 http://uni6rtmp.tulix.tv:1935/vbstv/vbsabr.smil/playlist.m3u8
-#EXTINF:-1 group-title="Other",Ve Plus (480p) [Not 24/7]
-http://190.122.96.187:8888/http/006
 #EXTINF:-1 group-title="Other",Vera TV (1080p) [Not 24/7]
 http://wms.shared.streamshow.it/veratv/mp4:veratv/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/Y0EyEeU.png",Veseljak TV (1080p)
@@ -3797,8 +3082,6 @@ http://hnyz.chinashadt.com:2036/live/stream:tv1.stream/playlist.m3u8
 http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8?BVUUID=C236454D-5355-2F5F-FA96-1887C72E55CE&auth=654837809071524@615@2E9A5FD0B225B012E3178551CF3754A8
 #EXTINF:-1 group-title="Other",嵊州综合 (720p) [Not 24/7]
 http://l.cztvcloud.com/channels/lantian/SXshengzhou1/720p.m3u8
-#EXTINF:-1 group-title="Other",广东 ‖ 清新综合台 (1080p)
-http://hls.wiseqx.com/live/qxzh.m3u8
 #EXTINF:-1 group-title="Other",永新电视一套 (576p)
 http://jxyx.chinashadt.com:2036/live/1002.stream/playlist.m3u8
 #EXTINF:-1 group-title="Other",永新电视三套 (576p)
@@ -4277,8 +3560,6 @@ http://118.97.50.107/Content/HLS/Live/Channel(TVRISUMUTMEDAN)/index.m3u8
 http://118.97.50.107/Content/HLS/Live/Channel(TVRI3)/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2020/11/usa-today-logo-768x768.png",USA Today (1080p)
 https://dai.google.com/linear/hls/event/gJJhuFTCRo-HAHYsffb3Xg/master.m3u8
-#EXTINF:-1 group-title="Music" tvg-logo="https://graph.facebook.com/vtwobeat/picture?width=320&height=320",V2BEAT (720p) [Not 24/7]
-https://abr.de1se01.v2beat.live/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/KMUYfnz.jpg",Vanity Fair (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxvanityfair/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://od.lk/s/MF8yMzE5OTIyMjBf/Redbox_512x512.png",Vevo 80s (720p)
@@ -4319,8 +3600,6 @@ https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuxumowesterns/CDN/playlist.m3u
 https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://i.imgur.com/RwxgFfb.jpg",Yo Gabba Gabba! (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-rokuyogabagaba/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Local",Губерния 33 (Владимир) (360p)
-https://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://iptvx.one/icn/ldpr-tv.png",ЛДПР ТВ (1080p)
 http://46.46.143.222:1935/live/mp4:ldpr.stream/playlist.m3u8
 #EXTINF:-1 group-title="Local",Между.Net (Междуреченск) (720p) [Not 24/7]
@@ -4333,8 +3612,6 @@ http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3
 https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://www.nebesatv7.com/wp-content/themes/tv7-theme/assets/img/logo_nebesa_short.png",Небеса ТВ7 (720p)
 https://vod.tv7.fi/tv7-ru/tv7-ru.smil/playlist.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://i.imgur.com/oXoGORi.jpg",Радио Хит (Орск) (720p)
-http://lova.me/hls/hithd.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://avatars.mds.yandex.net/get-tv-channel-logos/38123/2a0000015edc52c7dc8869cca66117c5a828/z",Ратник (1080p)
 https://online-video.rbc.ru/online/rbctv.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://sitv.ru/img/stv-news/111111/S1_logo.jpg",С1 (Сургут) (1080p) [Not 24/7]
@@ -4465,8 +3742,6 @@ http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
 http://190.52.32.13:1935/canal4/smil:manifest.smil/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://image.multimedios.cr/sites/default/files/styles/social_share/public/multimedios1.jpg",Canal 8 (720p)
 http://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/UnWMRrT.png",Canal 9 Bío Bío Televisión (1080p) [Not 24/7]
-https://unlimited1-us.dps.live/c9/c9.smil/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="http://directostv.teleame.com/wp-content/uploads/2017/10/13rioja.png",Canal 13 La Rioja (480p)
 http://arcast.net:1935/mp/mp/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/YDp8MlN.png",Canal 44 Chihuahua (720p) [Not 24/7]
@@ -4563,8 +3838,6 @@ http://91.220.221.60/gtv_hls/gtv_03.m3u8
 https://live1.panet.co.il/edge_abr/halaTV/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/ixAkq26.png",Hard Knocks (1080p) [Not 24/7]
 https://d3uyzhwvmemdyf.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/HardKnocks-PLEX/121.m3u8
-#EXTINF:-1 group-title="Other",Hellenic TV (720p)
-https://l5.cloudskep.com/hellenictv/htv/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/xXr4Cnq.png",HNC Free (1080p)
 https://hncfree-vizio.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/FNFFhEq.png",Horse and Country (720p)
@@ -4633,8 +3906,6 @@ https://uni01rtmp.tulix.tv/playout2multi9/lavozdemaria.stream/playlist.m3u8
 https://bcsecurelivehls-i.akamaihd.net/hls/live/720612/1614493167001_1/master.m3u8
 #EXTINF:-1 group-title="Other",Mas TV (1080p)
 https://video1.getstreamhosting.com:1936/8212/8212/playlist.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://maximachile.cl/wp-content/uploads/2019/10/LOGO-MAXIMA-MIO-ESTATICO-e1572548123359.png",MAXIMA (720p) [Not 24/7]
-https://server1.oklanet.cl:1936/maximavideo1/maximavideo1/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://www.directv.com/images/logos/channels/dark/large/672.png",MBC (1080p)
 http://123.254.72.24:1935/tvlive/livestream2/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/SEeqryT.png",MDF.1 (1080p)
@@ -4935,8 +4206,6 @@ https://d3isaxd2t6q8zm.cloudfront.net/live/omroepzeeland/tv/index.m3u8
 https://ms2.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/vryzDJk.jpg",RTV Dordrecht
 https://ms7.mx-cd.net/dtv-02/107-475823/RTV_Dordrecht.smil/playlist.m3u8
-#EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/DsD7Tsu.png",RTV Drenthe
-https://cdn.rtvdrenthe.nl/live/rtvdrenthe/tv/index.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/5m3d7cP.jpg",RTV Maastricht
 http://stream.rtvmaastricht.nl:8081/rtvm_live/tv/playlist.m3u8
 #EXTINF:-1 group-title="WORLD IPTV" tvg-logo="https://i.imgur.com/bpqkkX7.jpg",TV Valkenburg
@@ -5079,8 +4348,6 @@ https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v2a1/index.m3u8
 https://streaming.astrakhan.ru/astrakhanrusporthd/tracks-v3a1/index.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",StrongmanChampionLeague
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
-#EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",UFC_sports
-https://live-k2302-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
 #EXTINF:-1 group-title="ShareExt@Relax" tvg-logo="https://i.postimg.cc/8C3TkKc3/TVKUSHAREEXT.png",Nature
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Star" tvg-logo="http://103.55.144.46/img/starhd.jpg",star-worldhd
@@ -5351,8 +4618,6 @@ https://live.streamingfast.net/osmflivech49.m3u8
 https://live.streamingfast.net/osmflivech50.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://i.imgur.com/tprQSxT.png",GQ (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgq/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Religious" tvg-logo="https://is1-ssl.mzstatic.com/image/thumb/Purple71/v4/dc/4f/bb/dc4fbb86-fb91-7803-17ad-9e26c5bc61f0/pr_source.png/246x0w.jpg",Gracia TV (1080p) [Not 24/7]
-http://v3.tustreaming.cl/graciatv/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/H2hD4vT.png",Gravitas Movies (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxgravitas/CDN/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/JMn9sxk.png",Hallmark Movies & More (720p)
@@ -5387,8 +4652,6 @@ https://live.imamhossaintv.com/live/ih3.m3u8
 https://ur.imamhusseintv.com/live/ih4.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://i.imgur.com/D15qpCm.png",IMPD TV (720p)
 https://58a4464faef53.streamlock.net/impd/ngrp:impd_all/playlist.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/MBsQp1e.png",InfoWars (720p)
-http://wpc.9ec1.edgecastcdn.net/249EC1/infowarshd-edgecast/hd720.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="http://www.iontv.co.uk/wp-content/uploads/thegem-logos/logo_5052020503c1c4324dda9918122bbb46_2x.png",iON TV (576p)
 https://cdn.appv.jagobd.com:444/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/iontvuk.stream/playlist.m3u8
 #EXTINF:-1 group-title="Classic" tvg-logo="http://images.pluto.tv/channels/5f7794a788d29000079d2f07/colorLogoPNG.png",Pluto TV The Love Boat (720p) [Not 24/7]
@@ -5509,8 +4772,6 @@ https://59f1cbe63db89.streamlock.net:1443/retroplustv/retroplustv/playlist.m3u8
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal2/retroplussenal2/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/i0rZsgG.png",Retro Plus 3 (720p)
 https://59f1cbe63db89.streamlock.net:1443/retroplussenal3/retroplussenal3/playlist.m3u8
-#EXTINF:-1 group-title="Classic" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/united-states/retro-tv-us.png",Retro TV (720p)
-https://bcovlive-a.akamaihd.net/5e531be3ed6c41229b2af2d9bffba88d/us-east-1/6183977686001/playlist.m3u8
 #EXTINF:-1 group-title="Lifestyle" tvg-logo="https://f9q4g5j6.ssl.hwcdn.net/5fc81016d98cab623846a4f3",Revry (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-revryxumo/CDN/master.m3u8
 #EXTINF:-1 group-title="Local" tvg-logo="https://www.rtvconnect.nl/templates/localgrid/omroep/rtvconnect/images/rtvconnect.png",RTV Connect TV (480p)
@@ -5519,8 +4780,6 @@ https://ms7.mx-cd.net/tv/163-669433/RTV_Arnhem.smil/playlist.m3u8
 https://ms2.mx-cd.net/dtv-10/268-2641474/RTV_Purmerend_TV.smil/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.vimeocdn.com/portrait/31947989_640x640",Salto Brasa Music (1080p)
 https://salto-streams.nl/hls/sotv1_high.m3u8
-#EXTINF:-1 group-title="Local" tvg-logo="https://live-delta.ottnow.stoneroos.com/image/logo/tv.delta.nl/assets/graphics/thumbnails/channel/delta/RTV Apeldoorn TV.svg",Samen1 TV (720p)
-https://server-67.stream-server.nl:1936/Samen1TV/Samen1TV/playlist.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/oCjZS0v.jpg",Samuel Goldwyn Channel (1080p)
 https://samuelgoldwyn-films-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Classic" tvg-logo="https://i.imgur.com/oCjZS0v.jpg",Samuel Goldwyn Classics (1080p)
@@ -5589,8 +4848,6 @@ http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
 http://tvshops.bonus-tv.ru:80/cdn/shop24/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Maidan TV HD
 http://live-maidantv.cdnvideo.ru/maidantv/maidantv_720/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Music Box Russian
-http://193.33.240.8:8080/music-box-ru/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",SD REX
 http://193.33.240.8:8080/rus-extrim/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",Shopping Live
@@ -5659,12 +4916,6 @@ https://vgtrkregion.cdnvideo.ru/vgtrk/vladivostok/regionHD/playlist_sdhigh.m3u8
 http://109.126.27.2:6484/v24/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? 24 HD
 https://vgtrkregion.cdnvideo.ru/vgtrk/vladivostok/regionHD/playlist_hdhigh.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???????? 33 (????????)
-http://live-trc33.cdnvideo.ru/trc33/trc33.sdp/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???????? ??
-http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdlow.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???????? ?? HD
-http://dagestan.mediacdn.ru/cdn/dagestan/playlist_hdhigh.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??????? ?????
 http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??????? ?????
@@ -5735,8 +4986,6 @@ http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
 http://193.33.240.8:8080/mama/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? 15
 http://185.46.48.18:8080/media15/index.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ?????????
-http://live-mirbelogorya.cdnvideo.ru/mirbelogorya/mirbelogorya1.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??? ??????? HD
 http://193.33.240.8:8080/planeta_hd/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????????????
@@ -5783,8 +5032,6 @@ http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Prima/hls/1920x1080@4504/playl
 http://origin5.mediacdn.ru/live/prodvizhenie_new/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??????????? (?????????)
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/NAT_Kolpashevo/hls/1024x576@1272/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????????-????? ?????? ??
-https://live-prometeyrd.cdnvideo.ru/prometeyrd/prometeyrd.sdp/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???????????
 http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",???
@@ -6129,8 +5376,6 @@ http://infochh.trkeurasia.ru/hlsinfoch/infochhd.m3u8
 http://bsttv.bonus-tv.ru:80/cdn/tamyr/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????????? 24
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/TatTVR_tat24_1f55f482a2df2bede07c661806c4eb/hls/1024x576@1272/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????????? 24 HD
-http://stream.efir24.tv:1935/live/efir24tv/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????????? 24 HD
 http://tele2dvrnat01-02.cdnvideo.ru:80/stream/TatTVR_tat24_1f55f482a2df2bede07c661806c4eb/hls/1920x1080@4504/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",??????? ??
