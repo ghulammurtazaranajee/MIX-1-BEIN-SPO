@@ -1,6 +1,7 @@
 #EXTM3U
 
 
+
 #EXTINF:-1 group-title="⚽️bein SPORT |  AFC" tvg-logo="http://rockets.ws/logo/AFC.png",4K | BE SPORTS ᴬᶠᶜ
 http://mybox.plus:80/hisham/123456/121668
 #EXTINF:-1 group-title="⚽️bein 4k بي ان سبورت" tvg-logo="http://rockets.ws/belogoplus/4k/4kpre2.png",4K | BE SPORTS 2 PREMIUM (HEVC)
@@ -17,18 +18,12 @@ http://mybox.plus:80/hisham/123456/44281
 http://mybox.plus:80/hisham/123456/44282
 #EXTINF:-1 group-title="⚽️bein 4k بي ان سبورت" tvg-logo="http://rockets.ws/belogoplus/4k/4k6.png",4K | BE SPORTS 6 (HEVC)
 http://mybox.plus:80/hisham/123456/44284
-#EXTINF:-1 group-title="⚽️bein 4k بي ان سبورت" tvg-logo="http://rockets.ws/belogoplus/4k/4k7.png",4K | BE SPORTS 7 (HEVC)
-http://mybox.plus:80/hisham/123456/44285
 #EXTINF:-1 group-title="⚽️bein 4k بي ان سبورت" tvg-logo="http://rockets.ws/belogoplus/4k/4kpre1.png",4K+ | BE SPORTS 1 PREMIUM (HEVC)
 http://mybox.plus:80/hisham/123456/44287
 #EXTINF:-1 group-title="⚽️bein 4k بي ان سبورت" tvg-logo="http://rockets.ws/belogoplus/4k/4kpre2.png",4K+ | BE SPORTS 2 PREMIUM (HEVC)
 http://mybox.plus:80/hisham/123456/154319
-#EXTINF:-1 group-title="⚽️bein 4k بي ان سبورت" tvg-logo="http://rockets.ws/belogoplus/4k/4kpre3.png",4K+ | BE SPORTS 3 PREMIUM (HEVC)
-http://mybox.plus:80/hisham/123456/44289
 #EXTINF:-1 group-title="⚽️bein 4k بي ان سبورت" tvg-logo="http://rockets.ws/belogoplus/4k/4k1.png",4K+ | BE SPORTS 1 (HEVC)
 http://mybox.plus:80/hisham/123456/44290
-#EXTINF:-1 group-title="⚽️bein 4k بي ان سبورت" tvg-logo="http://rockets.ws/belogoplus/4k/4k2.png",4K+ | BE SPORTS 2 (HEVC)
-http://mybox.plus:80/hisham/123456/44291
 #EXTINF:-1 group-title="⚽️bein 4k بي ان سبورت" tvg-logo="http://rockets.ws/belogoplus/4k/4k3.png",4K+ | BE SPORTS 3 (HEVC)
 http://mybox.plus:80/hisham/123456/44292
 #EXTINF:-1 group-title="⚽️bein 4k بي ان سبورت" tvg-logo="http://rockets.ws/belogoplus/4k/4k5.png",4K+ | BE SPORTS 5 (HEVC)
@@ -39,14 +34,10 @@ http://mybox.plus:80/hisham/123456/44295
 http://mybox.plus:80/hisham/123456/126864
 #EXTINF:-1 group-title="SPORT Globe بي ان سبورت" tvg-logo="http://rockets.ws//logo/globe-ben.png",HD | BE SPORTS 3 FR
 http://mybox.plus:80/hisham/123456/126865
-#EXTINF:-1 group-title="⚽️ bein + FHDبي ان سبوت" tvg-logo="http://rockets.ws/belogoplus/fhd/fhdpre2.png",FHD | BE SPORTS 2 PREMIUM
-http://mybox.plus:80/hisham/123456/44241
 #EXTINF:-1 group-title="⚽️ bein + FHDبي ان سبوت" tvg-logo="http://rockets.ws/belogoplus/fhd/fhdpre3.png",FHD | BE SPORTS 3 PREMIUM
 http://mybox.plus:80/hisham/123456/44242
 #EXTINF:-1 group-title="⚽️ bein + FHDبي ان سبوت" tvg-logo="http://rockets.ws/belogoplus/fhd/fhd1.png",FHD | BE SPORTS 1
 http://mybox.plus:80/hisham/123456/44243
-#EXTINF:-1 group-title="⚽️ bein + FHDبي ان سبوت" tvg-logo="http://rockets.ws/belogoplus/fhd/fhd2.png",FHD | BE SPORTS 2
-http://mybox.plus:80/hisham/123456/44244
 #EXTINF:-1 group-title="⚽️ bein + FHDبي ان سبوت" tvg-logo="http://rockets.ws/belogoplus/fhd/fhd3.png",FHD | BE SPORTS 3
 http://mybox.plus:80/hisham/123456/44245
 #EXTINF:-1 group-title="⚽️ bein + FHDبي ان سبوت" tvg-logo="http://rockets.ws/belogoplus/fhd/fhd4.png",FHD | BE SPORTS 4
@@ -73,16 +64,8 @@ http://mybox.plus:80/hisham/123456/44193
 http://mybox.plus:80/hisham/123456/44195
 #EXTINF:-1 group-title="⚽️beinSPORTHD☆بي ان" tvg-logo="http://rockets.ws/belogoplus/hd/hd6.png",HD | BE SPORTS 6
 http://mybox.plus:80/hisham/123456/44196
-#EXTINF:-1 group-title="⚽️beinSPORTHD☆بي ان" tvg-logo="http://rockets.ws/belogoplus/hd/hd7.png",HD | BE SPORTS 7
-http://mybox.plus:80/hisham/123456/44197
-#EXTINF:-1 group-title="⚽️beinSPORTHD☆بي ان" tvg-logo="http://rockets.ws/belogoplus/hd/hdpre2.png",HD+ | BE SPORTS 2 PREMIUM
-http://mybox.plus:80/hisham/123456/44200
 #EXTINF:-1 group-title="⚽️beinSPORTHD☆بي ان" tvg-logo="http://rockets.ws/belogoplus/hd/hdpre3.png",HD+ | BE SPORTS 3 PREMIUM
 http://mybox.plus:80/hisham/123456/44201
-#EXTINF:-1 group-title="⚽️beinSPORTHD☆بي ان" tvg-logo="http://rockets.ws/belogoplus/hd/hd1.png",HD+ | BE SPORTS 1
-http://mybox.plus:80/hisham/123456/44202
-#EXTINF:-1 group-title="⚽️beinSPORTHD☆بي ان" tvg-logo="http://rockets.ws/belogoplus/hd/hd2.png",HD+ | BE SPORTS 2
-http://mybox.plus:80/hisham/123456/44203
 #EXTINF:-1 group-title="⚽️beinSPORTHD☆بي ان" tvg-logo="http://rockets.ws/belogoplus/hd/hd6.png",HD+ | BE SPORTS 6
 http://mybox.plus:80/hisham/123456/44207
 #EXTINF:-1 group-title="⚽️beinSPORTSD☆ سبورت" tvg-logo="http://rockets.ws/belogoplus/sd/sdper1.png",SD | BE SPORTS 1 PREMIUM
@@ -101,22 +84,12 @@ http://mybox.plus:80/hisham/123456/44132
 http://mybox.plus:80/hisham/123456/44133
 #EXTINF:-1 group-title="⚽️beinSPORTSD☆ سبورت" tvg-logo="http://rockets.ws/belogoplus/sd/sd5.png",SD | BE SPORTS 5
 http://mybox.plus:80/hisham/123456/44134
-#EXTINF:-1 group-title="⚽️beinSPORTSD☆ سبورت" tvg-logo="http://rockets.ws/belogoplus/sd/sd6.png",SD | BE SPORTS 6
-http://mybox.plus:80/hisham/123456/44135
 #EXTINF:-1 group-title="⚽️beinSPORTSD☆ سبورت" tvg-logo="http://rockets.ws/belogoplus/sd/sd7.png",SD | BE SPORTS 7
 http://mybox.plus:80/hisham/123456/44136
-#EXTINF:-1 group-title="⚽️beinSPORTSD☆ سبورت" tvg-logo="http://rockets.ws/belogoplus/sd/sdper2.png",SD+ | BE SPORTS 2 PREMIUM
-http://mybox.plus:80/hisham/123456/44161
-#EXTINF:-1 group-title="⚽️beinSPORTSD☆ سبورت" tvg-logo="http://rockets.ws/belogoplus/sd/sdper3.png",SD+ | BE SPORTS 3 PREMIUM
-http://mybox.plus:80/hisham/123456/44162
 #EXTINF:-1 group-title="⚽️beinSPORTSD☆ سبورت" tvg-logo="http://rockets.ws/belogoplus/sd/sd4.png",SD+ | BE SPORTS 4
 http://mybox.plus:80/hisham/123456/44166
 #EXTINF:-1 group-title="⚽️beinSPORTSD☆ سبورت" tvg-logo="http://rockets.ws/belogoplus/sd/sd5.png",SD+ | BE SPORTS 5
 http://mybox.plus:80/hisham/123456/44167
-#EXTINF:-1 group-title="⚽️beinSPORTSD☆ سبورت" tvg-logo="http://rockets.ws/belogoplus/sd/sd6.png",SD+ | BE SPORTS 6
-http://mybox.plus:80/hisham/123456/44168
-#EXTINF:-1 group-title="⚽️beinSPORTSD☆ سبورت" tvg-logo="http://rockets.ws/belogoplus/sd/sd7.png",SD+ | BE SPORTS 7
-http://mybox.plus:80/hisham/123456/44169
 #EXTINF:-1 group-title="⚽️SSC الدوري السعودي" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png",SSC 4K 1 (F)
 http://mybox.plus:80/hisham/123456/181237
 #EXTINF:-1 group-title="⚽️SSC الدوري السعودي" tvg-logo="https://pic.tvtrips.xyz/PICONS-SHOTT/SPORT-INT/SSCHD.png",SSC 4K 5 (F)
@@ -125,26 +98,10 @@ http://mybox.plus:80/hisham/123456/181241
 http://mybox.plus:80/hisham/123456/181250
 #EXTINF:-1 group-title="ENTERTAINMENT ☆الترفيه" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/MOVIES1_PREMIERE_DIGITAL_Mono.png",HD | BE MOVIES 1
 http://mybox.plus:80/hisham/123456/44406
-#EXTINF:-1 group-title="ENTERTAINMENT ☆الترفيه" tvg-logo="http://www.bbb.lol/uploads/tv_image/bein-movies-2.png",HD | BE MOVIES 2
-http://mybox.plus:80/hisham/123456/44407
-#EXTINF:-1 group-title="ENTERTAINMENT ☆الترفيه" tvg-logo="https://assets.bein.com/mena/sites/4/2015/06/SERIES2_DIGITAL_Mono.png",HD | BE SERIES 2
-http://mybox.plus:80/hisham/123456/44411
 #EXTINF:-1 group-title="ENTERTAINMENT ☆الترفيه" tvg-logo="http://www.bbb.lol/uploads/tv_image/bein-drama-hd-1.png",HD | BE DRAMA 1
 http://mybox.plus:80/hisham/123456/44412
-#EXTINF:-1 group-title="ENTERTAINMENT ☆الترفيه" tvg-logo="http://www.bbb.lol/uploads/tv_image/fox-life-hd.png",HD | BE FOX LIFE
-http://mybox.plus:80/hisham/123456/44413
-#EXTINF:-1 group-title="ENTERTAINMENT ☆الترفيه" tvg-logo="http://www.bbb.lol/uploads/tv_image/bein-fatafeat.png",HD | BE FATAFEAT
-http://mybox.plus:80/hisham/123456/44419
-#EXTINF:-1 group-title="COOKING☆طعام" tvg-logo="https://www.bein.com/ar/wp-content/uploads/sites/4/2020/06/food-network-logo-2018-1.png",HD | BE FOOD NETWORK
-http://mybox.plus:80/hisham/123456/44429
-#EXTINF:-1 group-title="ENTERTAINMENT ☆الترفيه" tvg-logo="http://www.bbb.lol/uploads/tv_image/bein-nat-geo-wild.png",HD | BE NAT GEO WILD
-http://mybox.plus:80/hisham/123456/44427
 #EXTINF:-1 group-title="JORDAN | الأردن" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-1311874.png",JO | YARMOUK
 http://mybox.plus:80/hisham/123456/174489
-#EXTINF:-1 group-title="JORDAN | الأردن" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-117.png",JO | JORDAN
-http://mybox.plus:80/hisham/123456/174491
-#EXTINF:-1 group-title="JORDAN | الأردن" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-218.png",JO | AMMAN HD
-http://mybox.plus:80/hisham/123456/174492
 #EXTINF:-1 group-title="JORDAN | الأردن" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-1583527.png",JO | ALMAMLAKA HD
 http://mybox.plus:80/hisham/123456/174493
 #EXTINF:-1 group-title="JORDAN | الأردن" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-803307.png",JO | ROYA SD
@@ -155,24 +112,16 @@ http://mybox.plus:80/hisham/123456/174496
 http://mybox.plus:80/hisham/123456/174497
 #EXTINF:-1 group-title="JORDAN | الأردن" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-1311790.png",JO | AL HAQIQA
 http://mybox.plus:80/hisham/123456/174498
-#EXTINF:-1 group-title="JORDAN | الأردن" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-1311841.png",JO | JORDAN NOW
-http://mybox.plus:80/hisham/123456/174500
 #EXTINF:-1 group-title="JORDAN | الأردن" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-712289.png",JO | JORDAN SAMA
 http://mybox.plus:80/hisham/123456/174501
 #EXTINF:-1 group-title="JORDAN | الأردن" tvg-logo="https://is4-ssl.mzstatic.com/image/thumb/Purple111/v4/28/03/be/2803be7b-25b7-a964-a941-27c9a60a4e84/source/512x512bb.jpg",JO | JORDAN AMEN
 http://mybox.plus:80/hisham/123456/174502
 #EXTINF:-1 group-title="M B C ام بي سي" tvg-logo="https://mbc-masr-2.topnows.com/cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc1.png",4K | MBC 1
 http://mybox.plus:80/hisham/123456/43986
-#EXTINF:-1 group-title="M B C ام بي سي" tvg-logo="https://mbc-masr-2.topnows.com/cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc-variety.png",4K | MBC VARITEY
-http://mybox.plus:80/hisham/123456/43999
 #EXTINF:-1 group-title="M B C ام بي سي" tvg-logo="https://mbc-masr-2.topnows.com/cloud.shahid.ps/shahid-ps/img/ch/mbc/mbc1.png",HD | MBC 1
 http://mybox.plus:80/hisham/123456/44004
 #EXTINF:-1 group-title="M B C ام بي سي" tvg-logo="https://mbc-masr-2.topnows.com/cloud.shahid.ps/shahid-ps/img/ch/mbc/zee-aflam.png",HD I MBC ZEE AFLAM
 http://mybox.plus:80/hisham/123456/56326
-#EXTINF:-1 group-title="OSN اوإس إن" tvg-logo="https://content.osn.com/logo/channel/cropped/OYH.png",OSN Yahala Oula FHD
-http://mybox.plus:80/hisham/123456/121544
-#EXTINF:-1 group-title="OSN اوإس إن" tvg-logo="https://content.osn.com/logo/channel/cropped/OYC.png",OSN Yahala Cinema FHD
-http://mybox.plus:80/hisham/123456/121545
 #EXTINF:-1 group-title="OSN اوإس إن" tvg-logo="https://content.osn.com/logo/channel/cropped/YAW.png",OSN Alfa Alyoum FHD
 http://mybox.plus:80/hisham/123456/121548
 #EXTINF:-1 group-title="OSN اوإس إن" tvg-logo="https://content.osn.com/logo/channel/cropped/CM2.png",OSN Alfa Cinema 2 FHD
@@ -191,18 +140,12 @@ http://mybox.plus:80/hisham/123456/121558
 http://mybox.plus:80/hisham/123456/121560
 #EXTINF:-1 group-title="OSN اوإس إن" tvg-logo="https://content.osn.com/logo/channel/cropped/DIS.png",OSN Crime Investigation
 http://mybox.plus:80/hisham/123456/121565
-#EXTINF:-1 group-title="OSN اوإس إن" tvg-logo="https://content.osn.com/logo/channel/cropped/OBG.png",OSN Series FHD
-http://mybox.plus:80/hisham/123456/121568
 #EXTINF:-1 group-title="OSN اوإس إن" tvg-logo="https://content.osn.com/logo/channel/cropped/OCO.png",OSN Comedy
 http://mybox.plus:80/hisham/123456/121570
-#EXTINF:-1 group-title="OSN اوإس إن" tvg-logo="https://www.osn.com/osn/media/OSNMedia/hub-v3/osn-plus-8.png",OSN | MOVIES +2h MOVIES
-http://mybox.plus:80/hisham/123456/43694
 #EXTINF:-1 group-title="DISCOVERY☆الطبيعه" tvg-logo="http://rockets.ws/logo/discov.png",Discovery+ 2
 http://mybox.plus:80/hisham/123456/144846
 #EXTINF:-1 group-title="DISCOVERY☆الطبيعه" tvg-logo="http://rockets.ws/logo/discov.png",Discovery+ 4
 http://mybox.plus:80/hisham/123456/144848
-#EXTINF:-1 group-title="DISCOVERY☆الطبيعه" tvg-logo="http://rockets.ws/logo/discov.png",Discovery+ 14
-http://mybox.plus:80/hisham/123456/144858
 #EXTINF:-1 group-title="NETFLIX VIP☆نت فلكس" tvg-logo="http://rockets.ws/logo/netflixar.png",NETFLIX |  ENGLISH 3
 http://mybox.plus:80/hisham/123456/85009
 #EXTINF:-1 group-title="NETFLIX VIP☆نت فلكس" tvg-logo="http://rockets.ws/logo/netflixar.png",NETFLIX |  ENGLISH 4
@@ -217,12 +160,8 @@ http://mybox.plus:80/hisham/123456/85035
 http://mybox.plus:80/hisham/123456/85060
 #EXTINF:-1 group-title="NETFLIX VIP☆نت فلكس" tvg-logo="http://rockets.ws/logo/netflixar.png",NETFLIX |  Horror 2
 http://mybox.plus:80/hisham/123456/85061
-#EXTINF:-1 group-title="NETFLIX VIP☆نت فلكس" tvg-logo="http://rockets.ws/logo/netflixar.png",NETFLIX |  Horror 5 •
-http://mybox.plus:80/hisham/123456/85064
 #EXTINF:-1 group-title="NETFLIX VIP☆نت فلكس" tvg-logo="http://rockets.ws/logo/netflixar.png",NETFLIX INDIAN 1
 http://mybox.plus:80/hisham/123456/85019
-#EXTINF:-1 group-title="⚽️ARABIC SPORT☆سبورت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/On_Time_Sports_Logo.png/1200px-On_Time_Sports_Logo.png",HD | ONTIME SPORTS SD
-http://mybox.plus:80/hisham/123456/44574
 #EXTINF:-1 group-title="⚽️ARABIC SPORT☆سبورت" tvg-logo="https://j.top4top.io/p_2015y2s0l1.png",HD | ONTIME SPORTS2 SD
 http://mybox.plus:80/hisham/123456/44571
 #EXTINF:-1 group-title="⚽️ARABIC SPORT☆سبورت" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/On_Time_Sports_Logo.png/1200px-On_Time_Sports_Logo.png",HD | ONTIME SPORTS HD
@@ -235,24 +174,16 @@ http://mybox.plus:80/hisham/123456/44606
 http://mybox.plus:80/hisham/123456/44583
 #EXTINF:-1 group-title="⚽️ARABIC SPORT☆سبورت" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8e/AlahlyTVlogo.png",HD | Al Ahly
 http://mybox.plus:80/hisham/123456/44576
-#EXTINF:-1 group-title="⚽️ARABIC SPORT☆سبورت" tvg-logo="https://sat.tv/wp-content/uploads/2016/05/SNR-TArryadia.png",HD | ARRIADIYYA MAROC
-http://mybox.plus:80/hisham/123456/44603
 #EXTINF:-1 group-title="⚽️ARABIC SPORT☆سبورت" tvg-logo="https://www.iqraa.news/wp-content/uploads/2021/01/%D8%AA%D8%B1%D8%AF%D8%AF-%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D8%A8%D8%AD%D8%B1%D9%8A%D9%86-%D8%A7%D9%84%D8%B1%D9%8A%D8%A7%D8%B6%D9%8A%D8%A9-1280x720.jpg",HD | Bahrain Sport 2 HD
 http://mybox.plus:80/hisham/123456/44582
 #EXTINF:-1 group-title="⚽️ARABIC SPORT☆سبورت" tvg-logo="https://sat.tv/wp-content/uploads/2021/02/oman-sport.png.webp",HD | OMAN TV SPORTS 4k
 http://mybox.plus:80/hisham/123456/44598
 #EXTINF:-1 group-title="⚽️ARABIC SPORT☆سبورت" tvg-logo="https://3.bp.blogspot.com/-Zg5T7V-zoI8/WMpFM7OkATI/AAAAAAAAAUE/IguRJXJ3pVsnMHDO-H26nalKI4bbM1Q0QCLcB/s1600/2.png",HD | Sharjah Sport HD
 http://mybox.plus:80/hisham/123456/44588
-#EXTINF:-1 group-title="⚽️ARABIC SPORT☆سبورت" tvg-logo="https://www.rassdalwatan.com/wp-content/uploads/9c284c8931297437dd644086f04702fe.png",HD | Zamalik SD
-http://mybox.plus:80/hisham/123456/44580
-#EXTINF:-1 group-title="⚽️ARABIC SPORT☆سبورت" tvg-logo="https://sat.tv/wp-content/uploads/2017/04/ElHeddafTV.png",HD | EL HEDDAF TV
-http://mybox.plus:80/hisham/123456/44616
 #EXTINF:-1 group-title="⚽️ARABIC SPORT☆سبورت" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/8/8e/AlahlyTVlogo.png",4K | AL AHLY
 http://mybox.plus:80/hisham/123456/44579
 #EXTINF:-1 group-title="⚽️ARABIC SPORT☆سبورت" tvg-logo="https://www.admedia.ae/images/Brands/202022311593025IL.png",4K | AD SPORTS 1 (HEVC)
 http://mybox.plus:80/hisham/123456/44631
-#EXTINF:-1 group-title="⚽️ARABIC SPORT☆سبورت" tvg-logo="https://sat.tv/wp-content/uploads/2016/05/SNR-TArryadia.png",4K | ARRIADIYYA (HEVC)
-http://mybox.plus:80/hisham/123456/44638
 #EXTINF:-1 group-title="⚽️ARABIC SPORT☆سبورت" tvg-logo="https://sat.tv/wp-content/uploads/2017/06/KSA_SPORTS-small.png",4K | KSA SPORTS 1 (HEVC)
 http://mybox.plus:80/hisham/123456/44622
 #EXTINF:-1 group-title="⚽️ARABIC SPORT☆سبورت" tvg-logo="https://sat.tv/wp-content/uploads/2017/06/KSA_SPORTS-small.png",4K | KSA SPORTS 2 (HEVC)
@@ -277,8 +208,6 @@ http://mybox.plus:80/hisham/123456/43837
 http://mybox.plus:80/hisham/123456/43841
 #EXTINF:-1 group-title="CHRISTIAN | المسيحية" tvg-logo="https://image.mysatgo.com/resize-width/400//content/4/G2/12127/Thumbnail.png?v=636918056100366552",MY | CTV
 http://mybox.plus:80/hisham/123456/43901
-#EXTINF:-1 group-title="TIMESHIFT☆تام شفت" tvg-logo="https://media-exp1.licdn.com/dms/image/C4D0BAQHh7Ps_D4_wEw/company-logo_200_200/0/1519918096315?e=2159024400&v=beta&t=iHnG0qsb8mpiRSrX6PKI_R6IW3ezSwdXqSuUXQikVPg",AR I MTV AU +7
-http://mybox.plus:80/hisham/123456/59246
 #EXTINF:-1 group-title="TIMESHIFT☆تام شفت" tvg-logo="https://image.mysatgo.com/resize-width/400//content/1/kW/40/Thumbnail.png?v=637196184316946265",AR | ART AFLAM 2 +7
 http://mybox.plus:80/hisham/123456/47123
 #EXTINF:-1 group-title="TIMESHIFT☆تام شفت" tvg-logo="https://sat.tv/wp-content/uploads/2016/06/AbuDhabiTV.png.webp",AR | ABU Dhabi TV +7
@@ -303,12 +232,6 @@ http://mybox.plus:80/hisham/123456/48928
 http://mybox.plus:80/hisham/123456/48929
 #EXTINF:-1 group-title="FILMAX☆فلم ماكس" tvg-logo="https://pbs.twimg.com/profile_images/605256492141285376/xH7N-4Cg_400x400.jpg",FILMAX SERIES
 http://mybox.plus:80/hisham/123456/48930
-#EXTINF:-1 group-title="PLUS + بلس" tvg-logo="https://c.top4top.io/p_2037epgke1.png",OXN YA HALA TARAB
-http://mybox.plus:80/hisham/123456/48914
-#EXTINF:-1 group-title="PLUS + بلس" tvg-logo="https://c.top4top.io/p_2037epgke1.png",OXN YA HALA MOVIES 1
-http://mybox.plus:80/hisham/123456/48915
-#EXTINF:-1 group-title="CHILDRENS EDUCATION" tvg-logo="https://images.financialexpress.com/2019/02/budget-EDUCATION_2-big.jpg?w=1200&h=800&imflag=true",تعليم الصلاة
-http://mybox.plus:80/hisham/123456/48889
 #EXTINF:-1 group-title="CHILDRENS EDUCATION" tvg-logo="https://images.financialexpress.com/2019/02/budget-EDUCATION_2-big.jpg?w=1200&h=800&imflag=true",تفسير القرأن سعود و سارة
 http://mybox.plus:80/hisham/123456/48890
 #EXTINF:-1 group-title="CHILDRENS EDUCATION" tvg-logo="https://images.financialexpress.com/2019/02/budget-EDUCATION_2-big.jpg?w=1200&h=800&imflag=true",تعليم القييم فواز ونورة
@@ -321,22 +244,10 @@ http://mybox.plus:80/hisham/123456/48893
 http://mybox.plus:80/hisham/123456/48894
 #EXTINF:-1 group-title="CHILDRENS EDUCATION" tvg-logo="https://images.financialexpress.com/2019/02/budget-EDUCATION_2-big.jpg?w=1200&h=800&imflag=true",قصة سيدنا يوسف
 http://mybox.plus:80/hisham/123456/48895
-#EXTINF:-1 group-title="CHILDRENS EDUCATION" tvg-logo="https://images.financialexpress.com/2019/02/budget-EDUCATION_2-big.jpg?w=1200&h=800&imflag=true",قصص التابعين في القرأن
-http://mybox.plus:80/hisham/123456/48896
 #EXTINF:-1 group-title="CHILDRENS EDUCATION" tvg-logo="https://images.financialexpress.com/2019/02/budget-EDUCATION_2-big.jpg?w=1200&h=800&imflag=true",قصص الحيوانات في القرأن
 http://mybox.plus:80/hisham/123456/48897
 #EXTINF:-1 group-title="CHILDRENS EDUCATION" tvg-logo="https://images.financialexpress.com/2019/02/budget-EDUCATION_2-big.jpg?w=1200&h=800&imflag=true",قصص الأنسان في القرأن
 http://mybox.plus:80/hisham/123456/48898
-#EXTINF:-1 group-title="CHILDRENS EDUCATION" tvg-logo="https://images.financialexpress.com/2019/02/budget-EDUCATION_2-big.jpg?w=1200&h=800&imflag=true",عجائب في القرأن
-http://mybox.plus:80/hisham/123456/48899
-#EXTINF:-1 group-title="CHILDRENS EDUCATION" tvg-logo="https://images.financialexpress.com/2019/02/budget-EDUCATION_2-big.jpg?w=1200&h=800&imflag=true",قصص الأنبياء
-http://mybox.plus:80/hisham/123456/48900
-#EXTINF:-1 group-title="PLUS + بلس" tvg-logo="https://besthqwallpapers.com/Uploads/7-12-2019/114615/thumb2-max-4k-wallpapers-with-names-horizontal-text-max-name.jpg",MAX ACTION
-http://mybox.plus:80/hisham/123456/48881
-#EXTINF:-1 group-title="PLUS + بلس" tvg-logo="https://besthqwallpapers.com/Uploads/7-12-2019/114615/thumb2-max-4k-wallpapers-with-names-horizontal-text-max-name.jpg",MAX AFLAM 4
-http://mybox.plus:80/hisham/123456/48887
-#EXTINF:-1 group-title="PLUS + بلس" tvg-logo="https://www.softzone.es/app/uploads-softzone.es/2020/06/Programaci%C3%B3n-GO.jpg",GO CLASSIC
-http://mybox.plus:80/hisham/123456/48829
 #EXTINF:-1 group-title="MAJESTIC☆ماجيستك",MAJESTIC ACTION
 http://mybox.plus:80/hisham/123456/48820
 #EXTINF:-1 group-title="MAJESTIC☆ماجيستك",MAJESTIC CINEMA
@@ -401,34 +312,12 @@ http://mybox.plus:80/hisham/123456/44036
 http://mybox.plus:80/hisham/123456/44037
 #EXTINF:-1 group-title="ROTANA روتانا" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/clips.png",HD | ROTANA CLIP
 http://mybox.plus:80/hisham/123456/44038
-#EXTINF:-1 group-title="ROTANA روتانا" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Rotana_Music_New_Logo.png",HD | ROTANA MUSIC
-http://mybox.plus:80/hisham/123456/44039
-#EXTINF:-1 group-title="ROTANA روتانا" tvg-logo="https://rotana.net/triAssets/uploads/2020/11/classic.png",HD | ROTANA CLASSIC
-http://mybox.plus:80/hisham/123456/44040
-#EXTINF:-1 group-title="ROTANA روتانا" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/drama.png",HD | ROTANA DRAMA
-http://mybox.plus:80/hisham/123456/44041
-#EXTINF:-1 group-title="ROTANA روتانا" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/cinema.png",HD | ROTANA CINEMA KSA
-http://mybox.plus:80/hisham/123456/44045
-#EXTINF:-1 group-title="ROTANA روتانا" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/cinema.png",4K | ROTANA CINEMA HEVC
-http://mybox.plus:80/hisham/123456/44047
-#EXTINF:-1 group-title="ROTANA روتانا" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/comedy.png",4K | ROTANA COMEDY HEVC
-http://mybox.plus:80/hisham/123456/44048
-#EXTINF:-1 group-title="ROTANA روتانا" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/86/Rotana_Music_New_Logo.png",4K | ROTANA MUSIC HEVC
-http://mybox.plus:80/hisham/123456/44049
-#EXTINF:-1 group-title="ROTANA روتانا" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/khalijiat.png",4K | ROTANA KHALIJEYA HEVC
-http://mybox.plus:80/hisham/123456/44050
-#EXTINF:-1 group-title="ROTANA روتانا" tvg-logo="https://rotana.net/triAssets/themes/TriTheme/images/channels/drama.png",4K | ROTANA DRAMA HEVC
-http://mybox.plus:80/hisham/123456/44051
 #EXTINF:-1 group-title="ROTANA روتانا" tvg-logo="https://rotana.net/triAssets/uploads/2020/11/classic.png",4K | ROTANA CLASSIC HEVC
 http://mybox.plus:80/hisham/123456/44052
-#EXTINF:-1 group-title="KUWAIT | الكويت",KUW | KTV Arabe
-http://mybox.plus:80/hisham/123456/200111
 #EXTINF:-1 group-title="KUWAIT | الكويت",KUW | AL MAJILIS HD
 http://mybox.plus:80/hisham/123456/200112
 #EXTINF:-1 group-title="KUWAIT | الكويت",KUW | KUWAIT ETHRAA
 http://mybox.plus:80/hisham/123456/200113
-#EXTINF:-1 group-title="KUWAIT | الكويت",KUW | Al Shahed TV
-http://mybox.plus:80/hisham/123456/200116
 #EXTINF:-1 group-title="KUWAIT | الكويت",KUW | ATV ALadalah
 http://mybox.plus:80/hisham/123456/200117
 #EXTINF:-1 group-title="KUWAIT | الكويت",KUW | FUNOON
@@ -437,12 +326,8 @@ http://mybox.plus:80/hisham/123456/200118
 http://mybox.plus:80/hisham/123456/200119
 #EXTINF:-1 group-title="KUWAIT | الكويت",KUW | Khallik Bilbait
 http://mybox.plus:80/hisham/123456/200123
-#EXTINF:-1 group-title="GULF | الخليجية" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-872437.png",UAE| ABU DHABY ⁴ᵏ
-http://mybox.plus:80/hisham/123456/188057
 #EXTINF:-1 group-title="GULF | الخليجية" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/e/e8/Ajman_tv.jpg",UAE| Ajman TV ᴴᴰ
 http://mybox.plus:80/hisham/123456/48793
-#EXTINF:-1 group-title="GULF | الخليجية" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-1061575.png",UAE| AL DAFRA HD
-http://mybox.plus:80/hisham/123456/48783
 #EXTINF:-1 group-title="GULF | الخليجية" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-1064526.png",UAE| Al Emarat ᴴᴰ
 http://mybox.plus:80/hisham/123456/48797
 #EXTINF:-1 group-title="GULF | الخليجية" tvg-logo="https://www.alaan.tv/wp-content/themes/alaan-child-tv/assets/img/logo.png?x63246",UAE| Alaan TV
@@ -453,22 +338,10 @@ http://mybox.plus:80/hisham/123456/48801
 http://mybox.plus:80/hisham/123456/48788
 #EXTINF:-1 group-title="GULF | الخليجية" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-90.png",UAE| DUBAI TV ᴴᴰ
 http://mybox.plus:80/hisham/123456/48802
-#EXTINF:-1 group-title="GULF | الخليجية" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-159.png",UAE| Dubai Zaman
-http://mybox.plus:80/hisham/123456/48799
-#EXTINF:-1 group-title="GULF | الخليجية" tvg-logo="https://www.dreamboxgate.com/imgcache/2019/500105_dreambox-sat.com.png",UAE| Fujairah TV HD
-http://mybox.plus:80/hisham/123456/48789
 #EXTINF:-1 group-title="GULF | الخليجية" tvg-logo="https://1.bp.blogspot.com/-IhR1372U7Qg/XZYBpgBJ6sI/AAAAAAAACs8/Ebm_HzaV4Wg2nAsHTGNMHOvnDxkeI405gCLcBGAsYHQ/s137-c/%25D9%2586%25D9%2588%25D8%25B1%2B%25D8%25AF%25D8%25A8%25D9%258A.jpg",UAE| Noor Dubai
 http://mybox.plus:80/hisham/123456/48803
-#EXTINF:-1 group-title="GULF | الخليجية" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-1061013.png",UAE| Sama Dubai FHD
-http://mybox.plus:80/hisham/123456/48800
-#EXTINF:-1 group-title="GULF | الخليجية" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-1061013.png",UAE| SAMA DUBAI TV HD
-http://mybox.plus:80/hisham/123456/48790
 #EXTINF:-1 group-title="GULF | الخليجية" tvg-logo="https://sba.net.ae/uploads/19/Jan/24/32ef5753d51bf08a78a06935576556347a6e65746a66464c44675a6e4445.png",UAE| Sharjah TV ᴴᴰ
 http://mybox.plus:80/hisham/123456/48795
-#EXTINF:-1 group-title="KUWAIT | الكويت" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657229_1920.png",KW | Ethraa SD
-http://mybox.plus:80/hisham/123456/167513
-#EXTINF:-1 group-title="KUWAIT | الكويت" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657229_1920.png",KW | Qurain SD
-http://mybox.plus:80/hisham/123456/167514
 #EXTINF:-1 group-title="GULF | الخليجية" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2654062_1920-780x470.png",BH | BAHRAIN HD
 http://mybox.plus:80/hisham/123456/48747
 #EXTINF:-1 group-title="GULF | الخليجية" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2654062_1920-780x470.png",BH | BAHRAIN SPORT 1 HD
@@ -481,10 +354,6 @@ http://mybox.plus:80/hisham/123456/48741
 http://mybox.plus:80/hisham/123456/48738
 #EXTINF:-1 group-title="GULF | الخليجية" tvg-logo="https://alamphoto.com/wp-content/uploads/2018/01/flag-of-oman-9-623x467.png",OM | OMAN TV General
 http://mybox.plus:80/hisham/123456/48739
-#EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://egyptfans.club/wp-content/uploads/2023/02/%D9%82%D9%86%D8%A7%D8%A9-%D8%A7%D9%84%D9%88%D8%AB%D8%A7%D8%A6%D9%82%D9%8A%D8%A9-%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A%D8%A9-620x330.jpg",EGY |  ALWATHAEQYA
-http://mybox.plus:80/hisham/123456/181265
-#EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-108.png",EGY | AL HAYAT HD
-http://mybox.plus:80/hisham/123456/181266
 #EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-110.png",EGY | CBC SOFRA
 http://mybox.plus:80/hisham/123456/181269
 #EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-111.png",EGY | DMC
@@ -495,16 +364,8 @@ http://mybox.plus:80/hisham/123456/181271
 http://mybox.plus:80/hisham/123456/181272
 #EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-1408875.png",EGY | MEHWER
 http://mybox.plus:80/hisham/123456/181277
-#EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-113.png",EGY | ON E SD
-http://mybox.plus:80/hisham/123456/181278
-#EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-113.png",EGY | ON E
-http://mybox.plus:80/hisham/123456/181279
-#EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-791823.png",EGY | AL KAHERA WAL NAS
-http://mybox.plus:80/hisham/123456/181283
 #EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-237140.png",EGY | AL KAHERA WAL NAS +2
 http://mybox.plus:80/hisham/123456/181284
-#EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-1061984.png",EGY | AL HADATH AL YOUM
-http://mybox.plus:80/hisham/123456/181285
 #EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-237141.png",EGY | AL MASRYIA HD
 http://mybox.plus:80/hisham/123456/181294
 #EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-237142.png",EGY | AL OULA SD
@@ -515,16 +376,6 @@ http://mybox.plus:80/hisham/123456/181297
 http://mybox.plus:80/hisham/123456/181305
 #EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-254.png",EGY | CBC Drama
 http://mybox.plus:80/hisham/123456/181308
-#EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-255093.png",EGY | PANORAMA DRAMA
-http://mybox.plus:80/hisham/123456/181309
-#EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-260.png",EGY | NILE FAMILY
-http://mybox.plus:80/hisham/123456/181324
-#EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://alqemanews.com/uploads/17/09/11/1505153622410110.jpg",EGY | AL SEHA WALJAMAL
-http://mybox.plus:80/hisham/123456/181338
-#EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://i.imgur.com/ub7V7H0.jpeg",EGY | AL FATH SONNAH
-http://mybox.plus:80/hisham/123456/181339
-#EXTINF:-1 group-title="EGYPT | مصر" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-1311851.png",EGY | MISR EL BALD
-http://mybox.plus:80/hisham/123456/181342
 #EXTINF:-1 group-title="SYRIA | سوريا" tvg-logo="https://image.mysatgo.com/resize-width/400//content/N/Bc/30/Thumbnail.png?v=636771897316872410",SYRIA DRAMA
 http://mybox.plus:80/hisham/123456/175632
 #EXTINF:-1 group-title="SYRIA | سوريا" tvg-logo="https://media0004.elcinema.com/tvguide/1350_1.png",SAMA TV
@@ -541,20 +392,10 @@ http://mybox.plus:80/hisham/123456/175610
 http://mybox.plus:80/hisham/123456/175611
 #EXTINF:-1 group-title="LEBANON | لبنان" tvg-logo="https://image.mysatgo.com/resize-width/400//content/c/O-/17/Thumbnail.png?v=636557950675491841",ARABICA 4K
 http://mybox.plus:80/hisham/123456/175612
-#EXTINF:-1 group-title="LEBANON | لبنان" tvg-logo="https://media0004.elcinema.com/tvguide/1296_1.png",MTV 4K
-http://mybox.plus:80/hisham/123456/175613
 #EXTINF:-1 group-title="LEBANON | لبنان" tvg-logo="https://image.mysatgo.com/resize-width/400//content/p/b-/37/Thumbnail.png?v=636965600761805360",OTV 4K
 http://mybox.plus:80/hisham/123456/175614
-#EXTINF:-1 group-title="LEBANON | لبنان" tvg-logo="https://www.teleliban.com.lb/images/telelogo.png",TELELIBAN 4K
-http://mybox.plus:80/hisham/123456/175615
-#EXTINF:-1 group-title="LEBANON | لبنان" tvg-logo="https://www.almanar.com.lb/framework/assets/images/logo-tech.png",AL MANAR
-http://mybox.plus:80/hisham/123456/175616
 #EXTINF:-1 group-title="LEBANON | لبنان" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-156.png",MAYDEEN
 http://mybox.plus:80/hisham/123456/175617
-#EXTINF:-1 group-title="LEBANON | لبنان" tvg-logo="https://image.mysatgo.com/resize-width/400//content/m/hF/52/Thumbnail.png?v=637196184920072394",AGHANI
-http://mybox.plus:80/hisham/123456/175618
-#EXTINF:-1 group-title="LEBANON | لبنان" tvg-logo="https://image.mysatgo.com/resize-width/400//content/c/O-/17/Thumbnail.png?v=636557950675491841",ARABICA
-http://mybox.plus:80/hisham/123456/175619
 #EXTINF:-1 group-title="LEBANON | لبنان" tvg-logo="https://image.mysatgo.com/resize-width/400//content/j/il/25/Thumbnail.png?v=636560506006078716",FUTURE
 http://mybox.plus:80/hisham/123456/175620
 #EXTINF:-1 group-title="LEBANON | لبنان" tvg-logo="https://media0004.elcinema.com/tvguide/1341_1.png",LBC
@@ -569,38 +410,20 @@ http://mybox.plus:80/hisham/123456/175625
 http://mybox.plus:80/hisham/123456/175626
 #EXTINF:-1 group-title="LEBANON | لبنان" tvg-logo="https://www.mtv.com.lb/Content/images/onetv-logo.png",ONE
 http://mybox.plus:80/hisham/123456/175627
-#EXTINF:-1 group-title="IRAQ | العراق" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657194_1920-768x512.png?ezimgfmt=ngcb1/notWebP",IRQ: Al Iraqia TV News 4K
-http://mybox.plus:80/hisham/123456/195705
-#EXTINF:-1 group-title="IRAQ | العراق" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657194_1920-768x512.png?ezimgfmt=ngcb1/notWebP",IRQ: Dijlah Zaman TV 4K
-http://mybox.plus:80/hisham/123456/195717
-#EXTINF:-1 group-title="IRAQ | العراق" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657194_1920-768x512.png?ezimgfmt=ngcb1/notWebP",IRQ: Al Hurra
-http://mybox.plus:80/hisham/123456/195723
 #EXTINF:-1 group-title="IRAQ | العراق" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657194_1920-768x512.png?ezimgfmt=ngcb1/notWebP",IRQ: Nohadra TV
 http://mybox.plus:80/hisham/123456/195735
-#EXTINF:-1 group-title="IRAQ | العراق" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657194_1920-768x512.png?ezimgfmt=ngcb1/notWebP",IRQ: Salahdin TV
-http://mybox.plus:80/hisham/123456/195737
-#EXTINF:-1 group-title="IRAQ | العراق" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657194_1920-768x512.png?ezimgfmt=ngcb1/notWebP",IRQ: Al Aqila TV
-http://mybox.plus:80/hisham/123456/195747
 #EXTINF:-1 group-title="IRAQ | العراق" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657194_1920-768x512.png?ezimgfmt=ngcb1/notWebP",IRQ: Al Awhad
 http://mybox.plus:80/hisham/123456/195748
 #EXTINF:-1 group-title="IRAQ | العراق" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657194_1920-768x512.png?ezimgfmt=ngcb1/notWebP",IRQ: Al Baeenah
 http://mybox.plus:80/hisham/123456/195750
 #EXTINF:-1 group-title="IRAQ | العراق" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657194_1920-768x512.png?ezimgfmt=ngcb1/notWebP",IRQ: Al Hiwar 4K
 http://mybox.plus:80/hisham/123456/195758
-#EXTINF:-1 group-title="IRAQ | العراق" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657194_1920-768x512.png?ezimgfmt=ngcb1/notWebP",IRQ: Al Mawsleya
-http://mybox.plus:80/hisham/123456/195761
-#EXTINF:-1 group-title="IRAQ | العراق" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657194_1920-768x512.png?ezimgfmt=ngcb1/notWebP",IRQ: Al Mehwer
-http://mybox.plus:80/hisham/123456/195762
 #EXTINF:-1 group-title="IRAQ | العراق" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657194_1920-768x512.png?ezimgfmt=ngcb1/notWebP",IRQ: Al Iraqia Sport 4K
 http://mybox.plus:80/hisham/123456/195772
 #EXTINF:-1 group-title="PALESTINE | فلسطين" tvg-logo="https://shababfm.ps/wp-content/uploads/2023/01/cropped-Panorama-for-television-press-and-media-Shabab-FM-1.png",PAL | SHABAB FM
 http://mybox.plus:80/hisham/123456/174382
 #EXTINF:-1 group-title="PALESTINE | فلسطين" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-1061515.png",PAL | PALESTINE LIVE SD
 http://mybox.plus:80/hisham/123456/174383
-#EXTINF:-1 group-title="PALESTINE | فلسطين" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-255095.png",PAL | PALESTINE NEWS SD
-http://mybox.plus:80/hisham/123456/174385
-#EXTINF:-1 group-title="PALESTINE | فلسطين" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images1/ecl-255095.png",PAL | PALESTINE NEWS HD
-http://mybox.plus:80/hisham/123456/174386
 #EXTINF:-1 group-title="PALESTINE | فلسطين" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-259043.png",PAL | PALESTINE TODAY
 http://mybox.plus:80/hisham/123456/174387
 #EXTINF:-1 group-title="PALESTINE | فلسطين" tvg-logo="https://sat.tv/wp-content/themes/twentytwenty-child/data_lineups/nilesat/images2/ecl-1061515.png",PAL | Palestine TV SD
@@ -615,8 +438,6 @@ http://mybox.plus:80/hisham/123456/174409
 http://mybox.plus:80/hisham/123456/174410
 #EXTINF:-1 group-title="PALESTINE | فلسطين" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657331_1920.png",PAL | Rajeen TV
 http://mybox.plus:80/hisham/123456/47377
-#EXTINF:-1 group-title="YEMEN | اليمن" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657198_1920-780x470.png",ADEN TV
-http://mybox.plus:80/hisham/123456/47618
 #EXTINF:-1 group-title="YEMEN | اليمن" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657198_1920-780x470.png",AL MAHRIAH HD
 http://mybox.plus:80/hisham/123456/47622
 #EXTINF:-1 group-title="YEMEN | اليمن" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657198_1920-780x470.png",AL SAHAT
@@ -659,10 +480,6 @@ http://mybox.plus:80/hisham/123456/178586
 http://mybox.plus:80/hisham/123456/178587
 #EXTINF:-1 group-title="TUNISIA | تونس" tvg-logo="http://bueno.foot-tu.com:80/logo/chn/21735.jpg",AR: TU Attessia -6 heures
 http://mybox.plus:80/hisham/123456/178590
-#EXTINF:-1 group-title="TUNISIA | تونس" tvg-logo="http://bueno.foot-tu.com:80/logo/chn/18355.jpg",AR: TU Telvza TV.
-http://mybox.plus:80/hisham/123456/178599
-#EXTINF:-1 group-title="TUNISIA | تونس" tvg-logo="http://bueno.foot-tu.com:80/logo/chn/1701.jpg",AR: TU Carthage+
-http://mybox.plus:80/hisham/123456/178600
 #EXTINF:-1 group-title="TUNISIA | تونس" tvg-logo="http://bueno.foot-tu.com:80/logo/chn/18358.jpg",AR: TU Zaitouna TV.
 http://mybox.plus:80/hisham/123456/178604
 #EXTINF:-1 group-title="TUNISIA | تونس" tvg-logo="http://bueno.foot-tu.com:80/logo/chn/18360.png",AR: TU Sahel TV
@@ -687,28 +504,10 @@ http://mybox.plus:80/hisham/123456/178689
 http://mybox.plus:80/hisham/123456/178690
 #EXTINF:-1 group-title="TUNISIA | تونس" tvg-logo="http://bueno.foot-tu.com:80/logo/chn/21912.jpg",TU Khottab Ala AlBab S01
 http://mybox.plus:80/hisham/123456/178692
-#EXTINF:-1 group-title="MOROCCO | المغرب" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657255_1920.png",MAR | 2M Maroc
-http://mybox.plus:80/hisham/123456/47378
-#EXTINF:-1 group-title="MOROCCO | المغرب" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657255_1920.png",MAR | Al Aoula inter
-http://mybox.plus:80/hisham/123456/47382
-#EXTINF:-1 group-title="MOROCCO | المغرب" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657255_1920.png",MAR | Al Aoula Inter HD
-http://mybox.plus:80/hisham/123456/47381
-#EXTINF:-1 group-title="MOROCCO | المغرب" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657255_1920.png",MAR | AL Oula
-http://mybox.plus:80/hisham/123456/47380
 #EXTINF:-1 group-title="MOROCCO | المغرب" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657255_1920.png",MAR | AL Oula HD
 http://mybox.plus:80/hisham/123456/47379
-#EXTINF:-1 group-title="MOROCCO | المغرب" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657255_1920.png",MAR | Almaghribia
-http://mybox.plus:80/hisham/123456/47383
-#EXTINF:-1 group-title="MOROCCO | المغرب" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657255_1920.png",MAR | Arriadia
-http://mybox.plus:80/hisham/123456/47384
 #EXTINF:-1 group-title="MOROCCO | المغرب" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657255_1920.png",MAR | Arryadia
 http://mybox.plus:80/hisham/123456/47385
-#EXTINF:-1 group-title="MOROCCO | المغرب" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657255_1920.png",MAR | Assadissa
-http://mybox.plus:80/hisham/123456/47386
-#EXTINF:-1 group-title="MOROCCO | المغرب" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657255_1920.png",MAR | CHADA TV
-http://mybox.plus:80/hisham/123456/47388
-#EXTINF:-1 group-title="MOROCCO | المغرب" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/international-2657255_1920.png",MAR | Laayoune TV
-http://mybox.plus:80/hisham/123456/47389
 #EXTINF:-1 group-title="AL GERIA | الجزائر" tvg-logo="https://darlogo.xyz/Channels-Logo/Algeria/ALGERIE.5.png",DZ: Algeria TV Coran
 http://mybox.plus:80/hisham/123456/189505
 #EXTINF:-1 group-title="AL GERIA | الجزائر" tvg-logo="http://vod-logo.net/photos/aa1784e26457cf136c42f2b2f96417a1.png",DZ: Algerie Canal TV 2
@@ -721,8 +520,6 @@ http://mybox.plus:80/hisham/123456/189515
 http://mybox.plus:80/hisham/123456/189518
 #EXTINF:-1 group-title="AL GERIA | الجزائر" tvg-logo="https://www.altkia.com/wp-content/uploads/2022/02/elwatania-tv.jpg",DZ: EL Watania TV Algeria
 http://mybox.plus:80/hisham/123456/189530
-#EXTINF:-1 group-title="AL GERIA | الجزائر" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTz0ev7r4OX6UT16OAYciQ22OLX7etMR8Ys8gwFEjyGuA&s",DZ: JEEL TV 4K
-http://mybox.plus:80/hisham/123456/189532
 #EXTINF:-1 group-title="AL GERIA | الجزائر" tvg-logo="https://scontent.ftun4-2.fna.fbcdn.net/v/t39.30808-6/312340749_187302697204663_2647770857529650157_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=39gz57zx69AAX9uNhF7&_nc_ht=scontent.ftun4-2.fna&oh=00_AfCkqEhm750CmC7KthPiwupiPb-t2Hbl2aDf9xMys0j54A&oe=63A5B1B1",DZ: Nejma TV
 http://mybox.plus:80/hisham/123456/189533
 #EXTINF:-1 group-title="AL GERIA | الجزائر" tvg-logo="https://www.lyngsat.com/logo/tv/aa/al-24-news-dz.png",DZ: AL24news
@@ -753,8 +550,6 @@ http://mybox.plus:80/hisham/123456/91392
 http://mybox.plus:80/hisham/123456/89784
 #EXTINF:-1 group-title="MUSIC أغاني" tvg-logo="https://angartwork.akamaized.net/webp/?id=2244194&size=296",Music: هيثم يوسف
 http://mybox.plus:80/hisham/123456/58116
-#EXTINF:-1 group-title="MUSIC أغاني" tvg-logo="https://live-tv-channels.org/pt-data/uploads/logo/lb-aghani-aghani-tv-6764.jpg",Music:AGHANI
-http://mybox.plus:80/hisham/123456/59204
 #EXTINF:-1 group-title="NEWS | الاخبار",Al Ghad HD
 http://mybox.plus:80/hisham/123456/171828
 #EXTINF:-1 group-title="NEWS | الاخبار" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/0/01/CNBC_Arabiya.svg/1200px-CNBC_Arabiya.svg.png",CNBC Arabiya
@@ -769,8 +564,6 @@ http://mybox.plus:80/hisham/123456/48221
 http://mybox.plus:80/hisham/123456/48242
 #EXTINF:-1 group-title="NEWS | الاخبار" tvg-logo="http://rockets.ws/belogoplus/chanels/arabicchanels.png",AL ARABY TV SD
 http://mybox.plus:80/hisham/123456/48223
-#EXTINF:-1 group-title="NEWS | الاخبار" tvg-logo="http://rockets.ws/belogoplus/chanels/arabicchanels.png",Al Hiwar TV
-http://mybox.plus:80/hisham/123456/48225
 #EXTINF:-1 group-title="NEWS | الاخبار" tvg-logo="http://rockets.ws/belogoplus/chanels/arabicchanels.png",AL HURRA IRAQ
 http://mybox.plus:80/hisham/123456/48244
 #EXTINF:-1 group-title="NEWS | الاخبار" tvg-logo="http://rockets.ws/belogoplus/chanels/arabicchanels.png",ALHURRA HD
@@ -779,16 +572,12 @@ http://mybox.plus:80/hisham/123456/48224
 http://mybox.plus:80/hisham/123456/48227
 #EXTINF:-1 group-title="NEWS | الاخبار" tvg-logo="http://rockets.ws/belogoplus/chanels/arabicchanels.png",FRANCE 24 HD EN
 http://mybox.plus:80/hisham/123456/48231
-#EXTINF:-1 group-title="NEWS | الاخبار",ALJAZEERA DOCUMENTARY HEVC
-http://mybox.plus:80/hisham/123456/165989
 #EXTINF:-1 group-title="NEWS | الاخبار" tvg-logo="http://rockets.ws/belogoplus/chanels/arabicchanels.png",JAZEERA DOCUMENTARY
 http://mybox.plus:80/hisham/123456/48233
 #EXTINF:-1 group-title="NEWS | الاخبار" tvg-logo="http://rockets.ws/belogoplus/chanels/arabicchanels.png",JAZEERA ENGLISH
 http://mybox.plus:80/hisham/123456/48234
 #EXTINF:-1 group-title="NEWS | الاخبار" tvg-logo="http://rockets.ws/belogoplus/chanels/arabicchanels.png",JAZEERA MUBASHER
 http://mybox.plus:80/hisham/123456/48236
-#EXTINF:-1 group-title="NEWS | الاخبار" tvg-logo="http://rockets.ws/belogoplus/chanels/arabicchanels.png",JAZEERA MUBASHER 2
-http://mybox.plus:80/hisham/123456/48235
 #EXTINF:-1 group-title="NEWS | الاخبار" tvg-logo="http://rockets.ws/belogoplus/chanels/arabicchanels.png",TRT ARABI HD
 http://mybox.plus:80/hisham/123456/48240
 #EXTINF:-1 group-title="NEWS | الاخبار" tvg-logo="https://cdn.sat.tv/wp-content/uploads/2020/05/DW-1.png",DW ARABIA
@@ -819,22 +608,6 @@ http://mybox.plus:80/hisham/123456/65670
 http://mybox.plus:80/hisham/123456/65667
 #EXTINF:-1 group-title="CHRISTIAN | المسيحية" tvg-logo="https://sawtelrab.org/wp-content/uploads/PicsArt_05-02-11.35.55.png",CH:صلاة المسبحة
 http://mybox.plus:80/hisham/123456/65666
-#EXTINF:-1 group-title="CHRISTIAN | المسيحية" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhQilHpc0lrFpdi-fII61qstnF54bN1QNewgTZxrw=s900-c-k-c0x00ffffff-no-rj",Charity Tv*
-http://mybox.plus:80/hisham/123456/45109
-#EXTINF:-1 group-title="CHRISTIAN | المسيحية" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnhogcj3NVMK8Rz4NTejozifMTJdtXoQfI-K-VjVnQ=s900-c-k-c0x00ffffff-no-rj",CyC TV
-http://mybox.plus:80/hisham/123456/45125
-#EXTINF:-1 group-title="CHRISTIAN | المسيحية",Kooji TV
-http://mybox.plus:80/hisham/123456/45130
-#EXTINF:-1 group-title="CHRISTIAN | المسيحية" tvg-logo="data:image/jpeg;base64,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",Nour Alsharq
-http://mybox.plus:80/hisham/123456/45114
-#EXTINF:-1 group-title="CHRISTIAN | المسيحية" tvg-logo="data:image/jpeg;base64,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",Nour Koddass
-http://mybox.plus:80/hisham/123456/45113
-#EXTINF:-1 group-title="CHRISTIAN | المسيحية" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b4/Sat-7_Logo.jpg",SAT 7
-http://mybox.plus:80/hisham/123456/45128
-#EXTINF:-1 group-title="CHRISTIAN | المسيحية" tvg-logo="https://yt3.ggpht.com/ytc/AAUvwnja5MRg3NU8vVMaJ9VaLbBv4R5L0LsjqgieA2a_=s900-c-k-c0x00ffffff-no-rj",ME Sat
-http://mybox.plus:80/hisham/123456/45135
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.protv.cc/picons/logos/france/CHERIE25.png",CHERIE 25 SD
-http://mybox.plus:80/hisham/123456/185923
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/6ter_fr.png",6ter HD
 http://mybox.plus:80/hisham/123456/185866
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/m6_fr.png",M6 International HD
@@ -847,16 +620,10 @@ http://mybox.plus:80/hisham/123456/185870
 http://mybox.plus:80/hisham/123456/185871
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/canalplus_fr_cinema_hd.png",Canal+ Cinema HD
 http://mybox.plus:80/hisham/123456/185877
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/canalplus_fr_family.png",Canal+family HD
-http://mybox.plus:80/hisham/123456/185878
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.protv.cc/picons-dino/logos/ocscityhd.png",OCS CITY
 http://mybox.plus:80/hisham/123456/185880
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/ocs_geants.png",OCS Geants HD
-http://mybox.plus:80/hisham/123456/185882
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/ocs_city.png",OCS City HD
 http://mybox.plus:80/hisham/123456/185883
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/Alphabetic/canalplus_fr_cine_plus_emotion_hd.png",Cine+Emotion HD
-http://mybox.plus:80/hisham/123456/185886
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/canalplus_fr_cine_plus_premier.png",Cine+Premier HD
 http://mybox.plus:80/hisham/123456/185887
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/Alphabetic/canalplus_fr_cine_plus_club.png",Cine+Club HD
@@ -877,20 +644,8 @@ http://mybox.plus:80/hisham/123456/185929
 http://mybox.plus:80/hisham/123456/185936
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.protv.cc/picons/logos/france/NATIONIALGEOGRAPHICCHANNELHD.png",NAT-GEO SD
 http://mybox.plus:80/hisham/123456/185943
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.protv.cc/picons/logos/france/PLANeTE+_ci.png",PLANETE CI SD
-http://mybox.plus:80/hisham/123456/185944
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/LCP.png",LCP HD
 http://mybox.plus:80/hisham/123456/185953
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/2/24/Logos_FRANCE24_RVB_2013.svg/1200px-Logos_FRANCE24_RVB_2013.svg.png",France 24 HD
-http://mybox.plus:80/hisham/123456/185954
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/france_info_tv.png",France Info HD
-http://mybox.plus:80/hisham/123456/185955
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/tv5_monde_amerique_latine.png",TV5 MONDE HD
-http://mybox.plus:80/hisham/123456/185957
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/Alphabetic/la_chaine_meteo_fr.png",FR: La chaine meteo HD
-http://mybox.plus:80/hisham/123456/185958
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/euronews_fr.png",euronews HD
-http://mybox.plus:80/hisham/123456/185960
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/arab/be_in_mena_sports_01_hd.png",BeIN SPORTS 01 HD
 http://mybox.plus:80/hisham/123456/185963
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/arab/be_in_mena_sports_02_hd.png",BeIN SPORTS 02 HD
@@ -905,12 +660,6 @@ http://mybox.plus:80/hisham/123456/185976
 http://mybox.plus:80/hisham/123456/185977
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/3/3b/Logo_RMC_Sport_1_2018.svg/1280px-Logo_RMC_Sport_1_2018.svg.png",RMC SPORTS 1 FHD
 http://mybox.plus:80/hisham/123456/185978
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.protv.cc/picons-dino/logos/CANAL+-SPORT-4-AF.png",AF - CANAL+ SPORT 4
-http://mybox.plus:80/hisham/123456/185987
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.protv.cc/picons-dino/logos/canalplussporthd.png",AF - CANAL+ SPORT 5
-http://mybox.plus:80/hisham/123456/185988
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/canalplus_fr_infosport_plus.png",FR: INFOSPORT PLUS
-http://mybox.plus:80/hisham/123456/185990
 #EXTINF:-1 group-title="FRANCE | فرنسا",FR: EUROSPORT 360 5
 http://mybox.plus:80/hisham/123456/186017
 #EXTINF:-1 group-title="FRANCE | فرنسا",Action SD
@@ -919,8 +668,6 @@ http://mybox.plus:80/hisham/123456/186021
 http://mybox.plus:80/hisham/123456/186025
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/m6_music_fr.png",M6 Music HD
 http://mybox.plus:80/hisham/123456/186026
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/Alphabetic/ab_moteurs_fr.png",Auto Moto HD
-http://mybox.plus:80/hisham/123456/186027
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/fr.png",BET France HD
 http://mybox.plus:80/hisham/123456/186028
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/Alphabetic/canalplus_fr_comedie_plus.png",Comedie+ HD
@@ -939,10 +686,6 @@ http://mybox.plus:80/hisham/123456/186040
 http://mybox.plus:80/hisham/123456/186042
 #EXTINF:-1 group-title="FRANCE | فرنسا",FASHION HD
 http://mybox.plus:80/hisham/123456/186044
-#EXTINF:-1 group-title="FRANCE | فرنسا",RMC STORY SD
-http://mybox.plus:80/hisham/123456/186048
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/tv_breizh_fr.png",FR: TV Breizh FHD
-http://mybox.plus:80/hisham/123456/186061
 #EXTINF:-1 group-title="FRANCE | فرنسا",FR: NOVELAS TV FHD
 http://mybox.plus:80/hisham/123456/186062
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/canalplus_fr_hd.png",FR: Canal + FHD
@@ -951,8 +694,6 @@ http://mybox.plus:80/hisham/123456/186063
 http://mybox.plus:80/hisham/123456/186074
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/Alphabetic/discovery_science_global_hd.png",FR: Discovery Science FHD
 http://mybox.plus:80/hisham/123456/186080
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/planete_plus_hd.png",FR: Planete FHD
-http://mybox.plus:80/hisham/123456/186085
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/planete_plus_crime_investigation.png",FR: Planete CI FHD
 http://mybox.plus:80/hisham/123456/186086
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/france/canalplus_fr_seasons.png",FR: Seasons FHD
@@ -981,62 +722,16 @@ http://mybox.plus:80/hisham/123456/186130
 http://mybox.plus:80/hisham/123456/186133
 #EXTINF:-1 group-title="FRANCE | فرنسا",FR: Barbie movies
 http://mybox.plus:80/hisham/123456/186134
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/Alphabetic/toonami-fr.png",FR: Toonami
-http://mybox.plus:80/hisham/123456/186135
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/logo/Alphabetic/canal_j_fr.png",FR: Canal J
-http://mybox.plus:80/hisham/123456/186136
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/skylogo/action.png",Netflix Action
 http://mybox.plus:80/hisham/123456/186139
 #EXTINF:-1 group-title="FRANCE | فرنسا",Netflix comedy
 http://mybox.plus:80/hisham/123456/186140
-#EXTINF:-1 group-title="FRANCE | فرنسا",Netflix Drama
-http://mybox.plus:80/hisham/123456/186142
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/skylogo/netflixbox.png",Netflix Boxoffice 1
 http://mybox.plus:80/hisham/123456/186143
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/skylogo/netflixbox.png",Netflix Boxoffice 2
-http://mybox.plus:80/hisham/123456/186144
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/skylogo/netflixbox.png",Netflix Boxoffice 3
-http://mybox.plus:80/hisham/123456/186145
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/skylogo/netflixbox.png",Netflix Boxoffice 4
-http://mybox.plus:80/hisham/123456/186146
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.123sat.net/skylogo/netflixbox.png",Netflix Boxoffice 6
-http://mybox.plus:80/hisham/123456/186148
-#EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.protv.cc/picons/logos/france/C8.jpg",C8 H265
-http://mybox.plus:80/hisham/123456/186162
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.protv.cc/picons-dino/logos/action.png",Action H265
 http://mybox.plus:80/hisham/123456/186188
 #EXTINF:-1 group-title="FRANCE | فرنسا" tvg-logo="http://logo.protv.cc/picons-dino/logos/animauxhd.png",Animaux H265
 http://mybox.plus:80/hisham/123456/186201
-#EXTINF:-1 group-title="SWEDEN | السويد",SE: C More Live 2 HD
-http://mybox.plus:80/hisham/123456/164183
-#EXTINF:-1 group-title="SWEDEN | السويد",SE: C More Live 4 HD
-http://mybox.plus:80/hisham/123456/164185
-#EXTINF:-1 group-title="SWEDEN | السويد",SE: Disney Channel
-http://mybox.plus:80/hisham/123456/164188
-#EXTINF:-1 group-title="SWEDEN | السويد",SE: Eurosport 1 HD
-http://mybox.plus:80/hisham/123456/164190
-#EXTINF:-1 group-title="SWEDEN | السويد",SE: Kanal 11 HD
-http://mybox.plus:80/hisham/123456/164192
-#EXTINF:-1 group-title="SWEDEN | السويد",SE: Kanal 5
-http://mybox.plus:80/hisham/123456/164193
-#EXTINF:-1 group-title="SWEDEN | السويد",SE: SVT 2 HD
-http://mybox.plus:80/hisham/123456/164197
-#EXTINF:-1 group-title="SWEDEN | السويد",SE: TV4 Fakta
-http://mybox.plus:80/hisham/123456/164202
-#EXTINF:-1 group-title="SWEDEN | السويد",SE: TV6
-http://mybox.plus:80/hisham/123456/164206
-#EXTINF:-1 group-title="SWEDEN | السويد",SE: Disney Junior
-http://mybox.plus:80/hisham/123456/164230
-#EXTINF:-1 group-title="SWEDEN | السويد",SE: Eurosport 1 FHD
-http://mybox.plus:80/hisham/123456/164232
-#EXTINF:-1 group-title="SWEDEN | السويد",SE: Sjuan
-http://mybox.plus:80/hisham/123456/164246
-#EXTINF:-1 group-title="SWEDEN | السويد",SE: Travel Channel
-http://mybox.plus:80/hisham/123456/164250
-#EXTINF:-1 group-title="SWEDEN | السويد",SE: TV12
-http://mybox.plus:80/hisham/123456/164251
-#EXTINF:-1 group-title="SWEDEN | السويد",SE: TV12 FHD
-http://mybox.plus:80/hisham/123456/164252
 #EXTINF:-1 group-title="INDIA  NEWS هندي اخبار" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-843-j5m9oyzc-v1/imageContent-843-j5m9oyzc-m1.png",IN-NEWS | TS CNN NEWS 18
 http://mybox.plus:80/hisham/123456/182534
 #EXTINF:-1 group-title="INDIA  NEWS هندي اخبار" tvg-logo="https://yt3.ggpht.com/yf11CBlHMr2hTqx-gUoAR_v9W0iRSK7O8PD5Wi5qKIcU7cKKF11Dhwr2KuKZ_SWRnxDVKIct=s900-c-k-c0x00ffffff-no-rj",IN-NEWS | EURO NEWS
@@ -1059,10 +754,6 @@ http://mybox.plus:80/hisham/123456/182642
 http://mybox.plus:80/hisham/123456/182652
 #EXTINF:-1 group-title="INDIA  NEWS هندي اخبار" tvg-logo="https://taazatv.com/wp-content/uploads/2020/05/cropped-Taaza-TV-Site-Identity-1.jpg",IN-NEWS | TAAZA TV NEWS
 http://mybox.plus:80/hisham/123456/182661
-#EXTINF:-1 group-title="ITALY | ايطاليا" tvg-logo="http://rockets.ws/logo/italay.png",IT |  TOP CRIME
-http://mybox.plus:80/hisham/123456/50491
-#EXTINF:-1 group-title="ITALY | ايطاليا" tvg-logo="http://rockets.ws/logo/italay.png",IT |  SUPER TENNIS HD
-http://mybox.plus:80/hisham/123456/50534
 #EXTINF:-1 group-title="IN | PUNJ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Prime_Asia_Television.png",IN-PUNJ | PRIME ASIA HD
 http://mybox.plus:80/hisham/123456/182702
 #EXTINF:-1 group-title="IN | PUNJ" tvg-logo="https://i.ytimg.com/vi/rCsjcjKCf2Y/hqdefault.jpg",UK-PUNJ | SIKH CHANNEL SD*
@@ -1073,92 +764,6 @@ http://mybox.plus:80/hisham/123456/182714
 http://mybox.plus:80/hisham/123456/182719
 #EXTINF:-1 group-title="IN | PUNJ" tvg-logo="http://118.185.56.39/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-1011-j5ng33kg-v1/imageContent-1011-j5ng33kg-m1.png",UK-PUNJ | NEWS 18 PUNJAB
 http://mybox.plus:80/hisham/123456/182730
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",DIGI ANIMAL WORLD
-http://mybox.plus:80/hisham/123456/137431
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",Digi Life
-http://mybox.plus:80/hisham/123456/137432
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",Discovery RO
-http://mybox.plus:80/hisham/123456/137434
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",Duna Tv
-http://mybox.plus:80/hisham/123456/137437
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",Kanal D
-http://mybox.plus:80/hisham/123456/137450
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",Antena Stars
-http://mybox.plus:80/hisham/123456/137451
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",TVR 3
-http://mybox.plus:80/hisham/123456/137456
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",TV1000
-http://mybox.plus:80/hisham/123456/137477
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",AMC
-http://mybox.plus:80/hisham/123456/137482
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",Bollywood TV
-http://mybox.plus:80/hisham/123456/137486
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",Bollywood Clasic
-http://mybox.plus:80/hisham/123456/137487
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",Eurosport 2
-http://mybox.plus:80/hisham/123456/137494
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",PRO-X
-http://mybox.plus:80/hisham/123456/137495
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",Look Sport 1
-http://mybox.plus:80/hisham/123456/137496
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",Look Plus
-http://mybox.plus:80/hisham/123456/137497
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",Hit Music
-http://mybox.plus:80/hisham/123456/137518
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",Kiss Tv
-http://mybox.plus:80/hisham/123456/137519
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",TV5 Monde
-http://mybox.plus:80/hisham/123456/137520
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",MTV Rocks
-http://mybox.plus:80/hisham/123456/137521
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",MTV HITS
-http://mybox.plus:80/hisham/123456/137523
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",Mooz RO
-http://mybox.plus:80/hisham/123456/137524
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",VH 1
-http://mybox.plus:80/hisham/123456/137525
-#EXTINF:-1 group-title="ROMANIA | رومانيا" tvg-logo="https://s3.eu-west-2.amazonaws.com/qmasters/flags/png/romania/flag-3d-round-250.png",Disney Channel
-http://mybox.plus:80/hisham/123456/137530
-#EXTINF:-1 group-title="TURKEY | تركيا" tvg-logo="https://i.ibb.co/jz0YqyW/trt1.png",TR: TRT 1 HD
-http://mybox.plus:80/hisham/123456/176891
-#EXTINF:-1 group-title="TURKEY | تركيا" tvg-logo="http://m.reddxc.com/tr/atvavrupa.png",TR: ATV EU
-http://mybox.plus:80/hisham/123456/176896
-#EXTINF:-1 group-title="TURKEY | تركيا" tvg-logo="https://cdn.freelogovectors.net/wp-content/uploads/2018/04/show_tv_logo_freelogovectors.net_.png",TR: SHOW TV 4K
-http://mybox.plus:80/hisham/123456/176897
-#EXTINF:-1 group-title="TURKEY | تركيا" tvg-logo="http://m.reddxc.com/tr/kanal7.png",TR: KANAL 7 UHD
-http://mybox.plus:80/hisham/123456/176914
-#EXTINF:-1 group-title="TURKEY | تركيا" tvg-logo="http://168.119.119.249/tv/ulusal/tv8int.png",TR: TV 8 INT
-http://mybox.plus:80/hisham/123456/176917
-#EXTINF:-1 group-title="TURKEY | تركيا" tvg-logo="http://m.reddxc.com/tr/tv8.png",TR: TV 8 UHD
-http://mybox.plus:80/hisham/123456/176918
-#EXTINF:-1 group-title="TURKEY | تركيا" tvg-logo="http://m.reddxc.com/tr/teve2.png",TR: TEVE 2 HD
-http://mybox.plus:80/hisham/123456/176923
-#EXTINF:-1 group-title="TURKEY | تركيا" tvg-logo="http://m.reddxc.com/tr/tv360.png",TR: SKY 360
-http://mybox.plus:80/hisham/123456/176924
-#EXTINF:-1 group-title="TURKEY | تركيا" tvg-logo="https://i.ibb.co/QFRQ5Cf/haber-global-tr.png",TR: HABER GLOBAL
-http://mybox.plus:80/hisham/123456/176943
-#EXTINF:-1 group-title="TURKEY | تركيا" tvg-logo="https://i.ibb.co/4W6zjHS/bbc-earth-uk.png",TR: BBC EARTH HD
-http://mybox.plus:80/hisham/123456/176967
-#EXTINF:-1 group-title="TURKEY | تركيا",TR: Moviesmart Cocuk
-http://mybox.plus:80/hisham/123456/176986
-#EXTINF:-1 group-title="TURKEY | تركيا",TR: Sinema tv Aksiyon 2
-http://mybox.plus:80/hisham/123456/177010
-#EXTINF:-1 group-title="TURKEY | تركيا",TR: SiNEMA TV YERLi HD
-http://mybox.plus:80/hisham/123456/177033
-#EXTINF:-1 group-title="TURKEY | تركيا",TR: DREAM TV
-http://mybox.plus:80/hisham/123456/177094
-#EXTINF:-1 group-title="TURKEY | تركيا" tvg-logo="https://assets.bein.com/mena/sites/3/2015/06/beIN_SPORTS5_DIGITAL_Mono.png",TR: beIN SPORTS 5 UHD
-http://mybox.plus:80/hisham/123456/177112
-#EXTINF:-1 group-title="TURKEY | تركيا",TR: BEIN SPORTS 4 FHD
-http://mybox.plus:80/hisham/123456/177118
-#EXTINF:-1 group-title="TURKEY | تركيا" tvg-logo="https://i.ibb.co/H7p9kqz/tivibu-tr-spor-2.png",TR: Tivibu SPOR 2 HD
-http://mybox.plus:80/hisham/123456/177162
-#EXTINF:-1 group-title="TURKEY | تركيا" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F885%2Ftivibu-spor-4-1.png",TR: Tivibu SPOR 4 HD
-http://mybox.plus:80/hisham/123456/177164
-#EXTINF:-1 group-title="TURKEY | تركيا",TR: TAY TV HD
-http://mybox.plus:80/hisham/123456/177180
-#EXTINF:-1 group-title="TURKEY | تركيا" tvg-logo="https://i.ibb.co/8cv6bs6/turkiye-jokey-kulubu.png",TR: T.A.Y TV
-http://mybox.plus:80/hisham/123456/177181
 #EXTINF:-1 group-title="IN | KANNADA" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12249-j9qr87hc-v5/imageContent-12249-j9qr87hc-m5.png",IN-KN | D2H COLORS FHD
 http://mybox.plus:80/hisham/123456/183190
 #EXTINF:-1 group-title="IN | KANNADA" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33827-jo5kcr1c-v4/imageContent-33827-jo5kcr1c-m5.png",IN-KN | TS ZEE TV
@@ -1167,32 +772,14 @@ http://mybox.plus:80/hisham/123456/183197
 http://mybox.plus:80/hisham/123456/183212
 #EXTINF:-1 group-title="IN | KANNADA" tvg-logo="http://tank.tskytech.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11963-j9lui4rc-v3/imageContent-11963-j9lui4rc-m4.png",IN-KN | TS SUVARNA NEWS
 http://mybox.plus:80/hisham/123456/183217
-#EXTINF:-1 group-title="AMOS | اموس",|HE| YES SPORT 5 PLUS HD
-http://mybox.plus:80/hisham/123456/199636
-#EXTINF:-1 group-title="AMOS | اموس",|beIN| beIN Drama FHD
-http://mybox.plus:80/hisham/123456/199656
 #EXTINF:-1 group-title="AMOS | اموس",|HE| -TURKISH DRAMA 2
 http://mybox.plus:80/hisham/123456/199675
 #EXTINF:-1 group-title="AMOS | اموس",|HE| YES ONE HD
 http://mybox.plus:80/hisham/123456/199682
 #EXTINF:-1 group-title="AMOS | اموس",|HE| ZOOM
 http://mybox.plus:80/hisham/123456/199688
-#EXTINF:-1 group-title="AMOS | اموس",| HE | FOOD
-http://mybox.plus:80/hisham/123456/199721
-#EXTINF:-1 group-title="AMOS | اموس",| HE | yes Movies Comedy
-http://mybox.plus:80/hisham/123456/199730
-#EXTINF:-1 group-title="AMOS | اموس",| HE | YES-SPORT-5-STAR FHD
-http://mybox.plus:80/hisham/123456/199749
-#EXTINF:-1 group-title="AMOS | اموس",| HE | YES-SPORT-5-PLUS FHD
-http://mybox.plus:80/hisham/123456/199750
-#EXTINF:-1 group-title="AMOS | اموس",| HE | YES-SPORT-5 FHD
-http://mybox.plus:80/hisham/123456/199752
 #EXTINF:-1 group-title="INDIAN |  هندية" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/uNpt24ESuyTU6vNFrA9NkrUkImH.jpg",Sultan 2016
 http://mybox.plus:80/movie/hisham/123456/174857.mp4
-#EXTINF:-1 group-title="IRAN  | ايران" tvg-logo="http://iptv.nonland.net:8080/images/pTJEpeJ.png",IR: IRIB TV 4
-http://mybox.plus:80/hisham/123456/190566
-#EXTINF:-1 group-title="IRAN  | ايران" tvg-logo="http://iptv.nonland.net:8080/images/qQBqGGf.png",IR: IRIB TV5
-http://mybox.plus:80/hisham/123456/190567
 #EXTINF:-1 group-title="IRAN  | ايران" tvg-logo="http://iptv.nonland.net:8080/images/khabar.png",IR: IRINN
 http://mybox.plus:80/hisham/123456/190568
 #EXTINF:-1 group-title="IRAN  | ايران" tvg-logo="http://iptv.nonland.net:8080/images/bbcpersian_HD.png",IR: BBC Persian HD
@@ -1203,98 +790,38 @@ http://mybox.plus:80/hisham/123456/190575
 http://mybox.plus:80/hisham/123456/190576
 #EXTINF:-1 group-title="IRAN  | ايران" tvg-logo="http://iptv.nonland.net:8080/images/apple-touch-icon.png",IR: Navahang Tv
 http://mybox.plus:80/hisham/123456/190584
-#EXTINF:-1 group-title="IRAN  | ايران",IR: GEM FOOD
-http://mybox.plus:80/hisham/123456/190594
-#EXTINF:-1 group-title="IRAN  | ايران" tvg-logo="http://iptv.nonland.net:8080/images/2ada1397221c261a66a54225b4e1039b.png",IR: Ava Family HD
-http://mybox.plus:80/hisham/123456/190606
-#EXTINF:-1 group-title="IRAN  | ايران",IR: Persiana Iranian
-http://mybox.plus:80/hisham/123456/190612
-#EXTINF:-1 group-title="IRAN  | ايران",IR: Vox 1
-http://mybox.plus:80/hisham/123456/190632
 #EXTINF:-1 group-title="IRAN  | ايران",IR: ICnet
 http://mybox.plus:80/hisham/123456/190636
 #EXTINF:-1 group-title="IRAN  | ايران",IR: Tm Tv
 http://mybox.plus:80/hisham/123456/190638
 #EXTINF:-1 group-title="IRAN  | ايران" tvg-logo="http://iptv.nonland.net:8080/images/57ee9cddb32ed6911db11485424986c6.png",IR: Kurdistan TV
 http://mybox.plus:80/hisham/123456/190645
-#EXTINF:-1 group-title="IRAN  | ايران" tvg-logo="http://iptv.nonland.net:8080/images/9d3d44acd6f90e0cd95792c37bfb7afa.png",IR: IRIB Mostanad
-http://mybox.plus:80/hisham/123456/190649
-#EXTINF:-1 group-title="IRAN  | ايران",IR: IRIB Namayesh
-http://mybox.plus:80/hisham/123456/190650
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Showtime HD
-http://mybox.plus:80/hisham/123456/185238
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Showtime Family Zone HD
-http://mybox.plus:80/hisham/123456/185241
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Starz Comedy HD
-http://mybox.plus:80/hisham/123456/185249
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Starz Edge HD
-http://mybox.plus:80/hisham/123456/185250
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Starz Encore Black HD
 http://mybox.plus:80/hisham/123456/185252
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Starz Encore Classic HD
-http://mybox.plus:80/hisham/123456/185253
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Starz Encore Espanol HD
-http://mybox.plus:80/hisham/123456/185254
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Starz Encore Family HD
-http://mybox.plus:80/hisham/123456/185255
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Starz Encore HD
-http://mybox.plus:80/hisham/123456/185256
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| STARZ IN BLACK HD
 http://mybox.plus:80/hisham/123456/185260
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| BET HER HD
 http://mybox.plus:80/hisham/123456/185263
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| BET SOUL HD
-http://mybox.plus:80/hisham/123456/185265
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Epix 2 HD
-http://mybox.plus:80/hisham/123456/185272
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| EPIX DRIVE
 http://mybox.plus:80/hisham/123456/185273
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| ACC NETWORK HD
-http://mybox.plus:80/hisham/123456/185276
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Action Max FHD
-http://mybox.plus:80/hisham/123456/185277
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Bravo HD
-http://mybox.plus:80/hisham/123456/185289
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Bravo West HD
 http://mybox.plus:80/hisham/123456/185290
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Destination America
-http://mybox.plus:80/hisham/123456/185306
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Discovery Velocity HD
 http://mybox.plus:80/hisham/123456/185311
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Disney Channel HD
-http://mybox.plus:80/hisham/123456/185312
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Fox HD
 http://mybox.plus:80/hisham/123456/185321
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| FUSE HD
 http://mybox.plus:80/hisham/123456/185326
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Lifetime HD
 http://mybox.plus:80/hisham/123456/185349
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| MoviePlex HD
-http://mybox.plus:80/hisham/123456/185354
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| NBC Sports California HD
-http://mybox.plus:80/hisham/123456/185370
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Nick Music
-http://mybox.plus:80/hisham/123456/185379
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Nickelodeon HD
-http://mybox.plus:80/hisham/123456/185380
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",||USA|| Nicktoons HD
 http://mybox.plus:80/hisham/123456/185381
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Albany
 http://mybox.plus:80/hisham/123456/185428
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Austin KVUE
 http://mybox.plus:80/hisham/123456/185431
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC BALTIMORE MD WMAR
-http://mybox.plus:80/hisham/123456/185432
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Bangor
-http://mybox.plus:80/hisham/123456/185433
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Birmingham
 http://mybox.plus:80/hisham/123456/185435
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Boston
-http://mybox.plus:80/hisham/123456/185437
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC BOSTON MA WCVB
-http://mybox.plus:80/hisham/123456/185438
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Buffalo
-http://mybox.plus:80/hisham/123456/185440
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Denver
 http://mybox.plus:80/hisham/123456/185448
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC El Paso
@@ -1309,40 +836,16 @@ http://mybox.plus:80/hisham/123456/185456
 http://mybox.plus:80/hisham/123456/185457
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Jacksonville
 http://mybox.plus:80/hisham/123456/185461
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Kansas City KMBC
-http://mybox.plus:80/hisham/123456/185462
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Lancaster
 http://mybox.plus:80/hisham/123456/185463
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Lansing
 http://mybox.plus:80/hisham/123456/185464
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Las Vegas KTNV
 http://mybox.plus:80/hisham/123456/185465
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Little Rock KATV
-http://mybox.plus:80/hisham/123456/185466
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Louisville WHAS
-http://mybox.plus:80/hisham/123456/185470
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Mobile
-http://mybox.plus:80/hisham/123456/185473
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Nashville WKRN
-http://mybox.plus:80/hisham/123456/185475
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC New York
-http://mybox.plus:80/hisham/123456/185477
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Phoenix
-http://mybox.plus:80/hisham/123456/185483
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC PITTSBURGH PA WTAE
-http://mybox.plus:80/hisham/123456/185484
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC Portland ME
-http://mybox.plus:80/hisham/123456/185485
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC SALT LAKE CITY UT KTVX
-http://mybox.plus:80/hisham/123456/185490
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC SAN ANTONIO TX KSAT
 http://mybox.plus:80/hisham/123456/185491
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",ABC SPARK HD
 http://mybox.plus:80/hisham/123456/185496
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",CBS Albany 6
-http://mybox.plus:80/hisham/123456/185509
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",CBS Atlanta | 19 WGCL
-http://mybox.plus:80/hisham/123456/185510
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",CBS Boston | 20 WBZ
 http://mybox.plus:80/hisham/123456/185516
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",CBS Indianapolis
@@ -1353,34 +856,20 @@ http://mybox.plus:80/hisham/123456/185544
 http://mybox.plus:80/hisham/123456/185547
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",CBS MINNEAPOLIS MN WCCO
 http://mybox.plus:80/hisham/123456/185550
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",CBS Montgomery
-http://mybox.plus:80/hisham/123456/185551
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",CBS NASHVILLE TN WTVF
 http://mybox.plus:80/hisham/123456/185552
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",CBS New York | 2 WCBS
 http://mybox.plus:80/hisham/123456/185554
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",CBS ORLANDO FL WKMG
-http://mybox.plus:80/hisham/123456/185555
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",CBS Palm Springs CA
-http://mybox.plus:80/hisham/123456/185556
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",CBS Portland KOIN
 http://mybox.plus:80/hisham/123456/185561
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",CBS Salt Lake City | 34 KUTV
 http://mybox.plus:80/hisham/123456/185566
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",FOX Chicago
-http://mybox.plus:80/hisham/123456/185593
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",FOX Cleveland | 8 WJW
-http://mybox.plus:80/hisham/123456/185595
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",FOX COLUMBUS OH WTTE
-http://mybox.plus:80/hisham/123456/185596
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",FOX Denver 31 KDVR
 http://mybox.plus:80/hisham/123456/185598
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",FOX Des Moines KDSM
 http://mybox.plus:80/hisham/123456/185599
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",Fox Green Bay
 http://mybox.plus:80/hisham/123456/185604
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",FOX GREENSBORO NC WGHP
-http://mybox.plus:80/hisham/123456/185605
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",FOX Houston | 26 KRIV
 http://mybox.plus:80/hisham/123456/185609
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",FOX JACKSONVILLE FL WFOX
@@ -1393,12 +882,6 @@ http://mybox.plus:80/hisham/123456/185619
 http://mybox.plus:80/hisham/123456/185623
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",FOX Montgomery
 http://mybox.plus:80/hisham/123456/185624
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",FOX New Orleans | 29 WVUE
-http://mybox.plus:80/hisham/123456/185626
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",FOX ORLANDO FL WOFL
-http://mybox.plus:80/hisham/123456/185629
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",FOX PITTSBURGH PA WPGH
-http://mybox.plus:80/hisham/123456/185634
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",FOX SAN ANTONIO TX KABB
 http://mybox.plus:80/hisham/123456/185641
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",FOX SAN FRANCISCO CA KTVU
@@ -1409,8 +892,6 @@ http://mybox.plus:80/hisham/123456/185647
 http://mybox.plus:80/hisham/123456/185659
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC Baton Rouge WVLA 33
 http://mybox.plus:80/hisham/123456/185662
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC BOSTON MA WBTS
-http://mybox.plus:80/hisham/123456/185664
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC Brooklyn 4
 http://mybox.plus:80/hisham/123456/185665
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC Chicago
@@ -1419,34 +900,22 @@ http://mybox.plus:80/hisham/123456/185669
 http://mybox.plus:80/hisham/123456/185670
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC Columbus | 4 WCMH
 http://mybox.plus:80/hisham/123456/185673
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC Dallas
-http://mybox.plus:80/hisham/123456/185674
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC Denver
-http://mybox.plus:80/hisham/123456/185675
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC El Paso KTSM
 http://mybox.plus:80/hisham/123456/185678
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC Fargo KVLY
 http://mybox.plus:80/hisham/123456/185679
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC Huntsville AL WAFF
 http://mybox.plus:80/hisham/123456/185688
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC KANSAS CITY MO KSHB
-http://mybox.plus:80/hisham/123456/185691
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC Lancaster 8
-http://mybox.plus:80/hisham/123456/185692
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC Lansing WILX
 http://mybox.plus:80/hisham/123456/185693
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC Las Vegas KSNV
 http://mybox.plus:80/hisham/123456/185694
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC PHILADELPHIA PA WCAU
 http://mybox.plus:80/hisham/123456/185711
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC PORTLAND OR KGW
-http://mybox.plus:80/hisham/123456/185715
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC Raleigh WRAL
 http://mybox.plus:80/hisham/123456/185716
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC Seattle KING
 http://mybox.plus:80/hisham/123456/185723
-#EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC Shreveport KTAL
-http://mybox.plus:80/hisham/123456/185724
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NBC WASHINGTON DC WRC
 http://mybox.plus:80/hisham/123456/185732
 #EXTINF:-1 group-title="USA | امريكا" tvg-logo="https://cdn.sotor.com/thumbs/fit630x300/52045/1596976263/%D8%B9%D9%84%D9%85_%D8%A3%D9%85%D8%B1%D9%8A%D9%83%D8%A7:_%D8%A3%D9%84%D9%88%D8%A7%D9%86%D9%87_%D9%88%D9%85%D8%B9%D8%A7%D9%86%D9%8A%D9%87%D8%A7%D8%8C_%D9%88%D8%B3%D8%A8%D8%A8_%D8%A7%D8%AE%D8%AA%D9%8A%D8%A7%D8%B1_%D9%87%D8%B0%D8%A7_%D8%A7%D9%84%D8%B4%D9%83%D9%84_%D9%84%D9%87.jpeg",NEW ||USA||   BALLY SPORTS SOUTH
@@ -1455,24 +924,14 @@ http://mybox.plus:80/hisham/123456/185765
 http://mybox.plus:80/hisham/123456/185780
 #EXTINF:-1 group-title="طلبات المشتركين" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/ppd84D2i9W8jXmsyInGyihiSyqz.jpg",12 Angry Men
 http://mybox.plus:80/movie/hisham/123456/174732.mp4
-#EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UK FHD  Sky Sports Main Event FHD
-http://mybox.plus:80/hisham/123456/150710
-#EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UK FHD  Sky Sports Football FHD
-http://mybox.plus:80/hisham/123456/150712
 #EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UK FHD  Sky Sports Action FHD
 http://mybox.plus:80/hisham/123456/150716
 #EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKSD Sony Max
 http://mybox.plus:80/hisham/123456/150821
-#EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKSD Sky Cinema Premiere
-http://mybox.plus:80/hisham/123456/150835
-#EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKSD Sky Arts
-http://mybox.plus:80/hisham/123456/150843
 #EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKSD Nick Jr. Too
 http://mybox.plus:80/hisham/123456/150871
 #EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKSD MUTV
 http://mybox.plus:80/hisham/123456/150876
-#EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKSD MTV
-http://mybox.plus:80/hisham/123456/150877
 #EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKSD FreeSports
 http://mybox.plus:80/hisham/123456/150913
 #EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKSD Chart Show Hits/Trace Vault
@@ -1481,20 +940,10 @@ http://mybox.plus:80/hisham/123456/150946
 http://mybox.plus:80/hisham/123456/150962
 #EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKHD Sky Cinema Premiere HD
 http://mybox.plus:80/hisham/123456/150999
-#EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKHD Sky Cinema Hits HD
-http://mybox.plus:80/hisham/123456/151000
 #EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKHD Sky Cinema Greats HD
 http://mybox.plus:80/hisham/123456/151001
 #EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKHD Sky Cinema Comedy HD
 http://mybox.plus:80/hisham/123456/151005
-#EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKHD Racing UK HD
-http://mybox.plus:80/hisham/123456/151009
-#EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKHD Quest HD
-http://mybox.plus:80/hisham/123456/151010
-#EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKHD Crime Inv HD
-http://mybox.plus:80/hisham/123456/151040
-#EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKHD BBC2 HD
-http://mybox.plus:80/hisham/123456/151049
 #EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UK FHD  Sony TV
 http://mybox.plus:80/hisham/123456/151062
 #EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UK FHD  Sky Witness
@@ -1505,56 +954,10 @@ http://mybox.plus:80/hisham/123456/151080
 http://mybox.plus:80/hisham/123456/151111
 #EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UK FHD  Bloomberg
 http://mybox.plus:80/hisham/123456/151120
-#EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UK FHD  BBC1
-http://mybox.plus:80/hisham/123456/151122
 #EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UK FHD  BBC News
 http://mybox.plus:80/hisham/123456/151124
 #EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKSD BBC Two
 http://mybox.plus:80/hisham/123456/151152
-#EXTINF:-1 group-title="UK | انجلترا" tvg-logo="http://rockets.ws/livelogo/england-logo-png-transparent.png",UK | UKHD BBC Two Wales
-http://mybox.plus:80/hisham/123456/151154
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: AMC HD
-http://mybox.plus:80/hisham/123456/106259
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: Cinemundo
-http://mybox.plus:80/hisham/123456/106281
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: Discovery Channel
-http://mybox.plus:80/hisham/123456/106282
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: Eleven 1 HD
-http://mybox.plus:80/hisham/123456/106286
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: Eleven 2 HD
-http://mybox.plus:80/hisham/123456/106287
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: Eleven 3
-http://mybox.plus:80/hisham/123456/106288
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: Eleven 6
-http://mybox.plus:80/hisham/123456/106289
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: Eleven Sports 4
-http://mybox.plus:80/hisham/123456/106290
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: Eleven Sports 5
-http://mybox.plus:80/hisham/123456/106291
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: Fuel TV
-http://mybox.plus:80/hisham/123456/106300
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: Globo
-http://mybox.plus:80/hisham/123456/106301
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: TVI
-http://mybox.plus:80/hisham/123456/106303
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: RTP1
-http://mybox.plus:80/hisham/123456/106304
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: RTP2
-http://mybox.plus:80/hisham/123456/106305
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: RTP 1 HD
-http://mybox.plus:80/hisham/123456/106326
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: RTP 2 HD
-http://mybox.plus:80/hisham/123456/106327
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: Sport TV 5 HD
-http://mybox.plus:80/hisham/123456/106342
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: Sport TV 6 HD
-http://mybox.plus:80/hisham/123456/106343
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: TVCine EDITION HD
-http://mybox.plus:80/hisham/123456/106346
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: TVCine EMOTION HD
-http://mybox.plus:80/hisham/123456/106347
-#EXTINF:-1 group-title="PORTUGAL | البرتغال" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Flag_of_Portugal.svg/255px-Flag_of_Portugal.svg.png",PT: TVCine TOP HD
-http://mybox.plus:80/hisham/123456/106348
 #EXTINF:-1 group-title="IN | GUJRATI" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/bd/Vande_Gujarat.jpeg/revision/latest/scale-to-width-down/260?cb=20200820235732",IN-GUJ | Vande Gujarat 8
 http://mybox.plus:80/hisham/123456/183180
 #EXTINF:-1 group-title="NETFLIX☆نت فلكس" tvg-logo="https://pbs.twimg.com/media/Clb7WnqXIAANObX.jpg",NETFLIX | ACTION 3
@@ -1593,44 +996,12 @@ http://mybox.plus:80/hisham/123456/66250
 http://mybox.plus:80/hisham/123456/66249
 #EXTINF:-1 group-title="PLUS  VIP بلس" tvg-logo="https://l.top4top.io/p_202837z411.jpg",PLUS | WWE HEVC
 http://mybox.plus:80/hisham/123456/66252
-#EXTINF:-1 group-title="CANADA | كندا" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/CBC_logo.svg/2560px-CBC_logo.svg.png",CA | CBC Regina
-http://mybox.plus:80/hisham/123456/168502
 #EXTINF:-1 group-title="CANADA | كندا" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/240px-Global_Television_Network_Logo.svg.png",CA | GLOBAL Vancouver
 http://mybox.plus:80/hisham/123456/168549
-#EXTINF:-1 group-title="CANADA | كندا" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d8/HLN_TV_logo.png",CA | HLN
-http://mybox.plus:80/hisham/123456/168555
-#EXTINF:-1 group-title="CANADA | كندا" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/2/2b/Silverscreenclassics.svg/150px-Silverscreenclassics.svg.png",CA | SILVER Screen Classics
-http://mybox.plus:80/hisham/123456/168581
-#EXTINF:-1 group-title="CANADA | كندا" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/13/Slice_2017.png",CA | SLICE
-http://mybox.plus:80/hisham/123456/168582
 #EXTINF:-1 group-title="CANADA | كندا" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/b/b6/Smithsonian_Channel_current_logo.png/300px-Smithsonian_Channel_current_logo.png",CA | SMITHSONIAN Channel HD
 http://mybox.plus:80/hisham/123456/168583
 #EXTINF:-1 group-title="CANADA | كندا" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Paramount_Network_%28Blue%29_Logo.png/200px-Paramount_Network_%28Blue%29_Logo.png",CA | SPIKE TV / PARAMOUNT CANADA
 http://mybox.plus:80/hisham/123456/168584
-#EXTINF:-1 group-title="CANADA | كندا" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/WWE_Logo.svg/150px-WWE_Logo.svg.png",CA | WWE
-http://mybox.plus:80/hisham/123456/168601
-#EXTINF:-1 group-title="CANADA | كندا" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Adult_Swim_2003_logo.svg/230px-Adult_Swim_2003_logo.svg.png",CA | Adult Swim
-http://mybox.plus:80/hisham/123456/168623
-#EXTINF:-1 group-title="CANADA | كندا" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Much_-_2013_logo.svg/220px-Much_-_2013_logo.svg.png",CA | Much Music
-http://mybox.plus:80/hisham/123456/168626
-#EXTINF:-1 group-title="CANADA | كندا" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/HGTV_2010.svg/200px-HGTV_2010.svg.png",CA | HGTV
-http://mybox.plus:80/hisham/123456/168629
-#EXTINF:-1 group-title="CANADA | كندا",CA-FR | ICI RDI
-http://mybox.plus:80/hisham/123456/168644
-#EXTINF:-1 group-title="CANADA | كندا" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Global_Television_Network_Logo.svg/240px-Global_Television_Network_Logo.svg.png",CA | GLOBAL Calgary
-http://mybox.plus:80/hisham/123456/168704
-#EXTINF:-1 group-title="POLAND | بولندا" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/flag-2292681_1920-780x470.png",PL: History HD
-http://mybox.plus:80/hisham/123456/87568
-#EXTINF:-1 group-title="POLAND | بولندا" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/flag-2292681_1920-780x470.png",PL: MTV Polska HD
-http://mybox.plus:80/hisham/123456/87573
-#EXTINF:-1 group-title="POLAND | بولندا" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/flag-2292681_1920-780x470.png",PL: TV6
-http://mybox.plus:80/hisham/123456/87608
-#EXTINF:-1 group-title="POLAND | بولندا" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/flag-2292681_1920-780x470.png",PL: TVN STYLE HD
-http://mybox.plus:80/hisham/123456/87613
-#EXTINF:-1 group-title="POLAND | بولندا" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/flag-2292681_1920-780x470.png",PL: TVN TURBO HD
-http://mybox.plus:80/hisham/123456/87614
-#EXTINF:-1 group-title="POLAND | بولندا" tvg-logo="https://e3arabi.com/wp-content/uploads/2019/12/flag-2292681_1920-780x470.png",PL: TVP Sport HD
-http://mybox.plus:80/hisham/123456/87616
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16494.jpg",DE: Das Erste HD
 http://mybox.plus:80/hisham/123456/184891
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16496.jpg",DE: RTL HD
@@ -1661,8 +1032,6 @@ http://mybox.plus:80/hisham/123456/184906
 http://mybox.plus:80/hisham/123456/184907
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16628.png",DE: E!
 http://mybox.plus:80/hisham/123456/184910
-#EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16655.jpg",DE: HR HD*
-http://mybox.plus:80/hisham/123456/184911
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/cat/434.png",***** DE Kino *****
 http://mybox.plus:80/hisham/123456/184912
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16699.png",DE: Comedy Central HD
@@ -1673,8 +1042,6 @@ http://mybox.plus:80/hisham/123456/184918
 http://mybox.plus:80/hisham/123456/184919
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16511.jpg",DE: Sky Cinema Family HD
 http://mybox.plus:80/hisham/123456/184920
-#EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16508.jpg",DE: Sky Cinema HD
-http://mybox.plus:80/hisham/123456/184921
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16516.jpg",DE: Sky Krimi
 http://mybox.plus:80/hisham/123456/184925
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16520.jpg",DE: Sky Select 1
@@ -1691,12 +1058,8 @@ http://mybox.plus:80/hisham/123456/184932
 http://mybox.plus:80/hisham/123456/184933
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16527.jpg",DE: Sky Select 8
 http://mybox.plus:80/hisham/123456/184934
-#EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16570.jpg",DE: 13th Street HD
-http://mybox.plus:80/hisham/123456/184937
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16581.jpg",DE: Romance TV HD
 http://mybox.plus:80/hisham/123456/184940
-#EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16580.jpg",DE: Heimat Kanal
-http://mybox.plus:80/hisham/123456/184941
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16573.jpg",DE: SyFy HD
 http://mybox.plus:80/hisham/123456/184943
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16622.png",DE: Tele 5 HD
@@ -1717,14 +1080,6 @@ http://mybox.plus:80/hisham/123456/184954
 http://mybox.plus:80/hisham/123456/184955
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16591.jpg",DE: Disney Cinemagic HD
 http://mybox.plus:80/hisham/123456/184956
-#EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16709.png",DE: Nick HD
-http://mybox.plus:80/hisham/123456/184959
-#EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/cat/437.png",***** DE Dokumentar *****
-http://mybox.plus:80/hisham/123456/184962
-#EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16531.jpg",DE: History HD
-http://mybox.plus:80/hisham/123456/184966
-#EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16700.png",DE: Crime+ Investigation
-http://mybox.plus:80/hisham/123456/184970
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16654.jpg",DE: Halle*
 http://mybox.plus:80/hisham/123456/184986
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16630.png",DE: PHOENIX
@@ -1733,8 +1088,6 @@ http://mybox.plus:80/hisham/123456/185015
 http://mybox.plus:80/hisham/123456/185016
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/cat/438.png",***** DE News *****
 http://mybox.plus:80/hisham/123456/185037
-#EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16693.jpg",DE: TV Aktuell HD*
-http://mybox.plus:80/hisham/123456/185042
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16611.png",DE: ZDF Info HD
 http://mybox.plus:80/hisham/123456/185043
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16612.png",DE: ZDF Neo HD
@@ -1753,8 +1106,6 @@ http://mybox.plus:80/hisham/123456/185059
 http://mybox.plus:80/hisham/123456/185060
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16567.jpg",DE: Eurosport 2 XTRA
 http://mybox.plus:80/hisham/123456/185063
-#EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16564.jpg",DE: Motorvision TV HD
-http://mybox.plus:80/hisham/123456/185064
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16568.png",DE: ORF SPORT+
 http://mybox.plus:80/hisham/123456/185065
 #EXTINF:-1 group-title="GERMANY | المانيا" tvg-logo="http://ez.foot-tu.com:80/logo/chn/16636.png",DE: Sky Bundesliga 1 HD
@@ -1769,18 +1120,10 @@ http://mybox.plus:80/hisham/123456/109470
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/16958
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: & TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/16964
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: & Xplor
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/196116
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: 5AAB TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286195
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: 9X Jalwa
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/45465
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: 9X Jhakaas
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/165802
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: 9X Tashan
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/45455
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: 9XM
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/45471
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Aastha TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/145647
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: ABP Ananda
@@ -1789,94 +1132,38 @@ http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/159103
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/165767
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Amrita TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82497
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: ANIMAL PLANET (TATA PLAY)
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/296266
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Anjan TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/286918
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Asianet News
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/163276
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Asianet Plus
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193206
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Ayush TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82500
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: B4U Movies
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1369
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: B4U Music
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1368
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Bansal News
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/165400
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: BBC Toronto
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49640
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Channel Y
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49586
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Chardikla Time TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49637
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Chutti TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/157495
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Colors
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1366
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Colors Bangla
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/247530
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Colors Cineplex
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/19741
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Colors Rishtey
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49547
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: DD National
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/192197
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: DD News
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/21668
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: DD Podhigai
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193047
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Desi Channel
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49601
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Dighvijay News 24x7
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/283905
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Dillagi
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/196128
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Discovery World
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/73792
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Disney Channel
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/192985
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Eet TV
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/51818
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Enterr 10
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193025
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Fast Way News
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/267402
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Flowers TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/193148
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Food Food
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/1362
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Gaunda Punjab TV
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/296604
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Gemini Movies
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/297557
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Global Punjab
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49647
 #EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Harvest USA
 http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/198220
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: History
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/82604
-#EXTINF:-1 group-title="PK" tvg-logo="https://i.ibb.co/L9RHvTP/1280px-Flag-of-Pakistan-svg.png",IN: Hulchul TV Canada
-http://www.premiumiptvmk.com:8080/myhdosama/cjydA4ncmMqx55pf/49630
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",|BEIN FR|  BEIN SPORTS 3 HD
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/27084
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",|FR| BEIN SPORTS 2 SD
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/28247
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",|FR| BEIN SPORTS 2 FHD
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/28237
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",|FR| BEIN SPORTS MAX5
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/28244
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",|FR| BEIN SPORTS MAX6
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/28243
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",|FR| BEIN SPORTS MAX9
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/28240
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",FR| L.EQUIPE 21 SD
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/35556
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",FR| L.EQUIPE 21 HD
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/35557
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co/FVJV9xb/sports.jpg",beIN SPORTS PREMIUM 2 FHD
-http://player.smartvpluseu.com:8080/3143122720748133/2598854265/24424
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/zDiIhdN.png",7S Music (576p) [Not 24/7]
 http://103.199.161.254/Content/7smusic/Live/Channel(7smusic)/index.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://i.imgur.com/F17QtN2.png",9XM (480p)
@@ -1891,8 +1178,6 @@ http://103.199.161.254/Content/asianetnews/Live/Channel(Asianetnews)/index.m3u8
 https://95eryw39dwn4-hls-live.wmncdn.net/Ayushu/271ddf829afeece44d8732757fba1a66.sdp/index.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://i.imgur.com/CKLn0ft.png",B4U Kadak (576p) [Not 24/7]
 http://103.199.160.85/Content/moviehouse/Live/Channel(MovieHouse)/index.m3u8
-#EXTINF:-1 group-title="Business" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV Asia (576p)
-http://210.210.155.37/dr9445/h/h03/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/nLRqcj1.png",Captain TV (576p) [Not 24/7]
 http://103.199.160.85/Content/captain/Live/Channel(Captain)/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/MohlE5B.png",DD National (576p)
@@ -1907,8 +1192,6 @@ http://failarmy-international-in.samsung.wurl.tv/playlist.m3u8
 http://163.47.214.155:1935/fwnews/live/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://i.imgur.com/vpoiA6i.png",Flowers TV (576p)
 http://103.199.161.254/Content/flowers/Live/Channel(Flowers)/index.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/WDLqcWW.png",Global Punjab (720p) [Not 24/7]
-https://media.streambrothers.com:1936/8522/8522/playlist.m3u8
 #EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/LvkdhRw.png",Hulchul TV (720p) [Not 24/7]
 http://cdn12.henico.net:8080/live/jbani/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/koFYddE.png",India Today (720p) [Not 24/7]
@@ -1981,10 +1264,6 @@ http://c0.cdn.trinity-tv.net/stream/nh9u54a7sfnc2hwzxr2zwykwkqm43bgyyzsm68ybbbnj
 http://c0.cdn.trinity-tv.net/stream/zfmjgma9zn46fa797ez9fgkw7msh9mj4tppspg23gey6mmx5fqiy7ky3jqx4uhgsfsrd8r76si8ykb2anw9442g4qkq5fzpdvwdqf5te24ixu9zrx3aesm9fzt59q5y2s8qwgbqhvf6d3z5bjy3qb2t4.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/kSCozXg.png",Times Now Navbharat [Geo-blocked]
 https://pubads.g.doubleclick.net/ssai/event/nRWQsGoJSzmcErJFgAy67g/master.m3u8
-#EXTINF:-1 group-title="Undefined",Toonz Kids (Indonesian dub) (360p)
-http://210.210.155.37/x6bnqe/s/s81/02.m3u8
-#EXTINF:-1 group-title="Undefined",Toonz Kids (Indonesian dub) (576p)
-http://210.210.155.37/x6bnqe/s/s81/01.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/8rKNuS6.png",TV BRICS English (1080p)
 https://brics.bonus-tv.ru/cdn/brics/english/playlist.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/eS2fVDh.png",Twenty Four News (576p) [Not 24/7]
@@ -2121,8 +1400,6 @@ https://dai.google.com/linear/hls/event/_PDxBUttQYqkxPnmh3VOZA/master.m3u8
 https://dai.google.com/linear/hls/event/NeKNJHuzSeCiN_7Fcuo83Q/master.m3u8
 #EXTINF:-1 group-title="Other",STIRR TV Mix (720p)
 https://dai.google.com/linear/hls/event/ZP8ZMv95Q0Gm9EiyYOGHAA/master.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://serenotv.com/wp-content/uploads/2020/10/Canal-stv-en-vivo.jpg",STV El Camal Familiar (720p) [Not 24/7]
-http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 group-title="Other",Super TV (720p)
 http://wms.shared.streamshow.it/supertv/mp4:supertv/playlist.m3u8
 #EXTINF:-1 group-title="Other",SuperSix Lombardia (720p)
@@ -2177,10 +1454,6 @@ http://185.210.20.13:8080/0.m3u8
 http://cld04wz.tv2000.it/tv2000_main.m3u8
 #EXTINF:-1 group-title="Other",TV Dielli
 http://stream.tvdielli.com:8081/dielli/index.m3u8
-#EXTINF:-1 group-title="Other",TV Max
-https://59f1cbe63db89.streamlock.net:1443/tvmax/_definst_/tvmax/playlist.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/2Pg0baJ.png",TV MAX (720p) [Not 24/7]
-https://59f1cbe63db89.streamlock.net:1443/tvmax/tvmax/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/l8tRJVW.jpg",TV Regionalna (Lubin) (576p) [Not 24/7]
 https://tvreg.klemit.net/regionalna/stream/index.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9c/TV_Sud_Est_%282017%29.png",TV SE (576p) [Not 24/7]
@@ -2203,20 +1476,6 @@ http://cdn3.bcdn.rs:1935/cg2/smil:cg2.smil/playlist.m3u8
 http://rtmp.ott.mx1.com/tvge1/tvge1multi.smil/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://raw.githubusercontent.com/jnk22/kodinerds-iptv/master/logos/tv/tvo_ch.png",TVO (CH) (720p)
 https://cdnapisec.kaltura.com/p/1719221/sp/171922100/playManifest/entryId/1_t5h46v64/format/applehttp/protocol/https/a.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/zPSpvss.jpg",TVP 3 Białystok (404p)
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpbialystok
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/H3jtBQm.jpg",TVP 3 Gorzów Wielkopolski (404p)
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpgorzow
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/burRKHa.jpg",TVP 3 Katowice (404p)
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkatowice
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/YcQxM94.jpg",TVP 3 Kielce (404p)
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkielce
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/MbAKxD1.jpg",TVP 3 Kraków (404p)
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpkrakow
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/r5wxdkB.jpg",TVP 3 Łódź (404p)
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplodz
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/h7oq2yg.jpg",TVP 3 Lublin (404p)
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvplublin
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.ibb.co/PFqmmSp/TVSat-RO.png",TVSat (576p) [Not 24/7]
 http://89.38.8.130:39443
 #EXTINF:-1 group-title="Other" tvg-logo="https://uatv.cl/wp-content/uploads/2016/01/marcauatv_2.png",Universidad Autónoma Temuco (UATV) (1080p) [Not 24/7]
@@ -2337,8 +1596,6 @@ http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 http://89.28.25.122/hls/tnt_md.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://www.3angels.ru/assets/img/themes/logo-menu.png",Три Ангела (720p)
 https://hls.tv.3angels.ru/stream/HQ.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/Abg1fct.png",Хузур ТВ (720p) [Not 24/7]
-https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
 #EXTINF:-1 group-title="Other",Ювелирочка ТВ (576p)
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 group-title="Other",万州影视 (576p) [Not 24/7]
@@ -2431,14 +1688,10 @@ http://sdqz.chinashadt.com:2036/live/stream:2.stream/playlist.m3u8
 http://sdqz.chinashadt.com:2036/live/stream:1.stream/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://upload.wikimedia.org/wikipedia/zh/e/ed/HK_open_tv_logo.jpg",香港开电视 / HKSTV-HKS (720p)
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 ,Tamil HD Radio
-http://live.cmr24.net:8081/CMR/TamilHD-LQ/icecast.audio
 #EXTINF:-1 ,Thyagam 48k Vanoli
 http://s3.yesstreaming.net:7019/thayagam48K
 #EXTINF:-1 ,ATBC FM
 http://s7.viastreaming.net:7920/;stream.mp3
-#EXTINF:-1 ,A9 Radio
-http://195.154.217.103:8175/;stream.mp3
 #EXTINF:-1 ,GTBC FM
 http://38.96.148.18:6150/;stream.mp3
 #EXTINF:-1 ,ILC Tamil FM
@@ -2447,8 +1700,6 @@ http://s2.voscast.com:9370/;stream.mp3
 http://103.199.161.254/Content/ddsports/Live/Channel(DDSPORTS)/Stream(02)/index.m3u8
 #EXTINF:-1 ,MUX SPORTS
 https://stadiumlivein-i.akamaihd.net/hls/live/522512/mux_4/master.m3u8
-#EXTINF:-1 ,EDAGE SPORTS
-https://edgesport-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:-1 ,ABC NEWS
 https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8
 #EXTINF:-1 ,CNA HD
@@ -2729,12 +1980,8 @@ https://content.uplynk.com/channel/f9aafa1f132e40af9b9e7238bc18d128.m3u8
 http://painelvj.com.br/tvaguaboa2/tvaguaboa2.sdp/playlist.m3u8
 #EXTINF:-1 group-title="General" tvg-logo="https://i.imgur.com/0ZmcpEE.png",Télé-Québec (720p)
 https://bcovlive-a.akamaihd.net/575d86160eb143458d51f7ab187a4e68/us-east-1/6101674910001/playlist.m3u8
-#EXTINF:-1 group-title="Outdoor" tvg-logo="https://i.imgur.com/hBaG4Ce.png",Terra Viva (720p) [Not 24/7]
-http://evpp.mm.uol.com.br:1935/band_live/terraviva/playlist.m3u8
 #EXTINF:-1 group-title="Classic" tvg-logo="https://od.lk/s/MF8yMjg0MDgzNDBf/TheArchive_300x300.png",The Archive (720p)
 https://dai2.xumo.com/amagi_hls_data_xumo1212A-redboxthearchive/CDN/playlist.m3u8
-#EXTINF:-1 group-title="Series" tvg-logo="https://i.imgur.com/1pxXEtP.png",The Asylum (1080p)
-http://asylum-stirr.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Classic" tvg-logo="https://i.imgur.com/dEmt8Fv.png",The Carol Burnett Show (1080p)
 https://carolburnett-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Music" tvg-logo="https://media-uspx.mybtv.net/logos/TCN.png",The Country Network (1080p)
@@ -2935,8 +2182,6 @@ https://59d7d6f47d7fc.streamlock.net/auroraarte/auroraarte/playlist.m3u8
 http://n1.klowdtv.net/live1/awe_720p/chunks.m3u8
 #EXTINF:-1 group-title="Other",AXS TV NOW
 https://dikcfc9915kp8.cloudfront.net/hls/1080p/playlist.m3u8
-#EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/xyG4O6F.jpg",Balaton TV (432p)
-https://stream.iptvservice.eu/hls/balatontv.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://images.pluto.tv/channels/60dafb9a0df1ba000758d37b/colorLogoPNG.png",BBC Drama (720p)
 https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/60dafb9a0df1ba000758d37b/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&serverSideAds=false&studio_id=viacom&tags=ROKU_CONTENT_TAGS
 #EXTINF:-1 group-title="Other" tvg-logo="https://otv-us-web.s3-us-west-2.amazonaws.com/logos/guide/2/Open/92x36_352/Source/24907/bbcredbutton_colordark.png",BBC Red Button 1 (720p) [Geo-blocked]
@@ -3019,8 +2264,6 @@ http://canal2000.berkano-systems.net/streaming/streams/canal2000.m3u8
 https://canalalphaju.vedge.infomaniak.com/livecast/ik:canalalphaju/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/mJXBuAZ.png",Canal i (1080p) [Not 24/7]
 https://vcp.myplaytv.com/canali/canali/playlist.m3u8
-#EXTINF:-1 group-title="Other",Canal Visión Dorada (720p) [Not 24/7]
-https://movil.ejeserver.com/live/visiondorada.m3u8
 #EXTINF:-1 group-title="Other",CANALE 7 (480p)
 http://wms.shared.streamshow.it/canale7/mp4:canale7/playlist.m3u8
 #EXTINF:-1 group-title="Other" tvg-logo="https://i.imgur.com/D7HC79b.png",Canela TV (720p)
@@ -3491,8 +2734,6 @@ https://livefr.cgtn.com/1000f/prog_index.m3u8
 https://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="LATINO NEWS" tvg-logo="https://i.imgur.com/8cdAvQF.png",ADN40
 http://pubads.g.doubleclick.net/ssai/event/XZLLJIhJRNqz33DGp6NdkA/master.m3u8
-#EXTINF:-1 group-title="POLISH NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/TVP_Info_logo.svg/1920px-TVP_Info_logo.svg.png",TVP Info
-http://hbbtvlive.v3.tvp.pl/hbbtvlive/livestream.php?app_id=tvpinfo
 #EXTINF:-1 group-title="RUSSIAN NEWS" tvg-logo="https://i.imgur.com/n5vWRjT.png",Известия ТВ
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="ROMANIAN NEWS" tvg-logo="https://i.imgur.com/XnBu0LI.png",Profit News
@@ -4183,14 +3424,6 @@ http://tele2dvrnat01-02.cdnvideo.ru/stream/NAT_Tambov/hls/1280x720@2500/playlist
 http://193.33.240.8:8080/nashe/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",????? ??
 http://www.omsk-kprf.ru/hls/stream.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ???????????
-http://hz1.teleport.cc/HLS/SD.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ??????????? HD
-http://hz1.teleport.cc/HLS/HD.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ??????????
-http://live-yugmedia.cdnvideo.ru/yugmedia/streamtr_480/playlist.m3u8
-#EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ?????????? HD
-http://live-yugmedia.cdnvideo.ru/yugmedia/streamtr_1080/playlist.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ????????
 http://1tvtula.ru/tula/1tv_low/index.m3u8
 #EXTINF:-1 group-title="Russia" tvg-logo="https://i.ibb.co/gFZVQwb/russia.jpg",?????? ???????? HD
